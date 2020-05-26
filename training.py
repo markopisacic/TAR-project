@@ -7,7 +7,7 @@ from flair.datasets import ColumnCorpus
 from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, FlairEmbeddings, TransformerWordEmbeddings
 
 if __name__ == '__main__':
-    columns = {0: 'text', 1: 'propaganda'}
+    columns = {0: 'text', 1: 'propaganda', 2: 'doc_id', 3: 'sentence_id'}
 
     # this is the folder in which train, test and dev files reside
     data_folder = './data'
@@ -17,7 +17,8 @@ if __name__ == '__main__':
                                   train_file='train.txt',
                                   test_file='test.txt',
                                   dev_file='validate.txt')
-    corpus.filter_empty_sentences()
+    
+    #corpus.filter_empty_sentences()
     print(corpus)
 
     tag_type = 'propaganda'
@@ -44,6 +45,8 @@ if __name__ == '__main__':
                                             embeddings=embeddings,
                                             tag_dictionary=tag_dictionary,
                                             tag_type=tag_type,
+                                            train_initial_hidden_state = True,
+                                            loss_weights = {'0': 1, '1': 100},
                                             use_crf=True)
 
     # 6. initialize trainer
@@ -54,7 +57,7 @@ if __name__ == '__main__':
     # 7. start training
     trainer.train('resources/taggers/propaganda',
                   learning_rate=0.1,
-                  mini_batch_size=20,
+                  mini_batch_size=10,
                   max_epochs=20,
                   checkpoint=True)
 
@@ -64,10 +67,3 @@ if __name__ == '__main__':
     plotter = Plotter()
     plotter.plot_weights('resources/taggers/propaganda/weights.txt')
     plotter.plot_training_curves('resources/taggers/propaganda/loss.tsv')
-
-    # to be plotted after training
-
-    # from flair.visual.training_curves import Plotter
-    # plotter = Plotter()
-    # plotter.plot_training_curves('loss.tsv')
-    # plotter.plot_weights('weights.txt')
