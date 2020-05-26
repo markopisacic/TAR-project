@@ -1,958 +1,971 @@
-Witness: 0
-Muslim 0
-Democrat 0
-IT 0
-Aide 0
-Awan 0
-Wiretapped 0
-Her, 0
-Then 0
-Bank 0
-Account 0
-She 0
-Controlled 0
-Was 0
-Drained 0
+Witness: 0 228 0
+Muslim 0 228 0
+Democrat 0 228 0
+IT 0 228 0
+Aide 0 228 0
+Awan 0 228 0
+Wiretapped 0 228 0
+Her, 0 228 0
+Then 0 228 0
+Bank 0 228 0
+Account 0 228 0
+She 0 228 0
+Controlled 0 228 0
+Was 0 228 0
+Drained 0 228 0
 
-Longtime 0
-Geller 0
-Report 0
-readers 0
-have 0
-been 0
-hearing 0
-about 0
-this 0
-cybersecurity 0
-breach 0
-by 0
-Muslim 0
-IT 0
-staffers 0
-for 0
-well 0
-over 0
-a 0
-year. 0
+Longtime 0 228 1
+Geller 0 228 1
+Report 0 228 1
+readers 0 228 1
+have 0 228 1
+been 0 228 1
+hearing 0 228 1
+about 0 228 1
+this 0 228 1
+cybersecurity 0 228 1
+breach 0 228 1
+by 0 228 1
+Muslim 0 228 1
+IT 0 228 1
+staffers 0 228 1
+for 0 228 1
+well 0 228 1
+over 0 228 1
+a 0 228 1
+year. 0 228 1
 
-The 0
-Democrat 0
-leadership 0
-collusion 0
-with 0
-Muslim 1
-spies 1
-is 0
-the 1
-biggest 1
-story 1
-of 1
-treason 1
-and 1
-espionage 1
-in 1
-the 1
-recent 1
-memory, 1
-and 0
-yet 0
-for 0
-month 0
-after 0
-month 0
-the 0
-media 0
-has 0
-refused 0
-to 0
-cover 0
-it. 0
+The 0 228 2
+Democrat 0 228 2
+leadership 0 228 2
+collusion 0 228 2
+with 0 228 2
+Muslim 1 228 2
+spies 1 228 2
+is 0 228 2
+the 1 228 2
+biggest 1 228 2
+story 1 228 2
+of 1 228 2
+treason 1 228 2
+and 1 228 2
+espionage 1 228 2
+in 1 228 2
+the 1 228 2
+recent 1 228 2
+memory, 1 228 2
+and 0 228 2
+yet 0 228 2
+for 0 228 2
+month 0 228 2
+after 0 228 2
+month 0 228 2
+the 0 228 2
+media 0 228 2
+has 0 228 2
+refused 0 228 2
+to 0 228 2
+cover 0 228 2
+it. 0 228 2
 
-Instead, 0
-they’re 0
-so 0
-hellbent 1
-on 1
-destroying 1
-President 1
-Trump 1
-that 0
-they 0
-have 0
-directed 0
-all 0
-their 0
-energy 0
-to 0
-retailing 1
-Soviet 1
-fictions 1
-and 1
-titillating 1
-porn 1
-stories. 1
+Instead, 0 228 3
+they’re 0 228 3
+so 0 228 3
+hellbent 1 228 3
+on 1 228 3
+destroying 1 228 3
+President 1 228 3
+Trump 1 228 3
+that 0 228 3
+they 0 228 3
+have 0 228 3
+directed 0 228 3
+all 0 228 3
+their 0 228 3
+energy 0 228 3
+to 0 228 3
+retailing 1 228 3
+Soviet 1 228 3
+fictions 1 228 3
+and 1 228 3
+titillating 1 228 3
+porn 1 228 3
+stories. 1 228 3
 
-House 0
-investigators 0
-found 0
-the 0
-House 0
-server 0
-was 0
-being 0
-used 0
-for 0
-nefarious 1
-purposes: 1
-the 0
-alleged 1
-Muslim 1
-spies 1
-were 0
-removing 0
-information 0
-and 0
-sending 0
-it 0
-for 0
-foreign 0
-actors. 0
+House 0 228 4
+investigators 0 228 4
+found 0 228 4
+the 0 228 4
+House 0 228 4
+server 0 228 4
+was 0 228 4
+being 0 228 4
+used 0 228 4
+for 0 228 4
+nefarious 1 228 4
+purposes: 1 228 4
+the 0 228 4
+alleged 1 228 4
+Muslim 1 228 4
+spies 1 228 4
+were 0 228 4
+removing 0 228 4
+information 0 228 4
+and 0 228 4
+sending 0 228 4
+it 0 228 4
+for 0 228 4
+foreign 0 228 4
+actors. 0 228 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 228 5
+our 0 228 5
+poll 0 228 5
+- 0 228 5
+story 0 228 5
+continues 0 228 5
+below 0 228 5
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 228 6
+do 0 228 6
+you 0 228 6
+consider 0 228 6
+to 0 228 6
+be 0 228 6
+the 0 228 6
+most 0 228 6
+corrupt 0 228 6
+Democrat 0 228 6
+Politician? 0 228 6
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 228 7
+do 0 228 7
+you 0 228 7
+consider 0 228 7
+to 0 228 7
+be 0 228 7
+the 0 228 7
+most 0 228 7
+corrupt 0 228 7
+Democrat 0 228 7
+Politician? 0 228 7
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 228 8
+do 0 228 8
+you 0 228 8
+consider 0 228 8
+to 0 228 8
+be 0 228 8
+the 0 228 8
+most 0 228 8
+corrupt 0 228 8
+Democrat 0 228 8
+Politician? 0 228 8
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 228 9
+Dianne 0 228 9
+Feinstein 0 228 9
+Maxine 0 228 9
+Waters 0 228 9
+Adam 0 228 9
+Schiff 0 228 9
+Chuck 0 228 9
+Schumer 0 228 9
+Kamala 0 228 9
+Harris 0 228 9
+Kirsten 0 228 9
+Gillibrand 0 228 9
+Keith 0 228 9
+Ellison 0 228 9
+Cory 0 228 9
+Booker 0 228 9
 
-Email 0
-* 0
+Email 0 228 10
+* 0 228 10
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 228 11
+This 0 228 11
+field 0 228 11
+is 0 228 11
+for 0 228 11
+validation 0 228 11
+purposes 0 228 11
+and 0 228 11
+should 0 228 11
+be 0 228 11
+left 0 228 11
+unchanged. 0 228 11
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 228 12
+this 0 228 12
+poll 0 228 12
+grants 0 228 12
+you 0 228 12
+access 0 228 12
+to 0 228 12
+Freedom 0 228 12
+Outpost 0 228 12
+updates 0 228 12
+free 0 228 12
+of 0 228 12
+charge. 0 228 12
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 228 13
+may 0 228 13
+opt 0 228 13
+out 0 228 13
+at 0 228 13
+anytime. 0 228 13
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 228 14
+also 0 228 14
+agree 0 228 14
+to 0 228 14
+this 0 228 14
+site's 0 228 14
+Privacy 0 228 14
+Policy 0 228 14
+and 0 228 14
+Terms 0 228 14
+of 0 228 14
+Use. 0 228 14
 
-The 0
-aides 0
-named 0
-are 0
-Imran 0
-Awan, 0
-his 0
-wife 0
-Hina 0
-Alvi, 0
-his 0
-brothers 0
-Abid 0
-and 0
-Jamal, 0
-and 0
-his 0
-friend 0
-Rao 0
-Abbas, 0
-Pakistani-born 1
-aides. 1
+The 0 228 15
+aides 0 228 15
+named 0 228 15
+are 0 228 15
+Imran 0 228 15
+Awan, 0 228 15
+his 0 228 15
+wife 0 228 15
+Hina 0 228 15
+Alvi, 0 228 15
+his 0 228 15
+brothers 0 228 15
+Abid 0 228 15
+and 0 228 15
+Jamal, 0 228 15
+and 0 228 15
+his 0 228 15
+friend 0 228 15
+Rao 0 228 15
+Abbas, 0 228 15
+Pakistani-born 1 228 15
+aides. 1 228 15
 
-And 0
-the 0
-father 0
-of 0
-Muslim 1
-spy 1
-ring 1
-Imran 0
-Awan 0
-transferred 0
-a 0
-USB 0
-drive 0
-to 0
-a 0
-Pakistani 0
-senator 0
-and 0
-former 0
-head 0
-of 0
-a 0
-Pakistani 0
-intelligence 0
-agency. 0
+And 0 228 16
+the 0 228 16
+father 0 228 16
+of 0 228 16
+Muslim 1 228 16
+spy 1 228 16
+ring 1 228 16
+Imran 0 228 16
+Awan 0 228 16
+transferred 0 228 16
+a 0 228 16
+USB 0 228 16
+drive 0 228 16
+to 0 228 16
+a 0 228 16
+Pakistani 0 228 16
+senator 0 228 16
+and 0 228 16
+former 0 228 16
+head 0 228 16
+of 0 228 16
+a 0 228 16
+Pakistani 0 228 16
+intelligence 0 228 16
+agency. 0 228 16
 
-Capitol 0
-Police 0
-are 0
-looking 0
-into 0
-the 0
-massive 0
-amounts 0
-of 0
-data 0
-the 0
-Awans 0
-reportedly 0
-downloaded 0
-off 0
-the 0
-congressional 0
-system, 0
-thousands 0
-of 0
-illegal 0
-logins 0
-made 0
-on 0
-the 0
-official 0
-system, 0
-possible 0
-theft 0
-of 0
-tens 0
-of 0
-thousands 0
-of 0
-dollars 0
-in 0
-congressional 0
-equipment 0
-and 0
-fraud 0
-and 0
-sent 0
-to 0
-foreign 0
-governments 0
-and 0
-groups. 0
+Capitol 0 228 17
+Police 0 228 17
+are 0 228 17
+looking 0 228 17
+into 0 228 17
+the 0 228 17
+massive 0 228 17
+amounts 0 228 17
+of 0 228 17
+data 0 228 17
+the 0 228 17
+Awans 0 228 17
+reportedly 0 228 17
+downloaded 0 228 17
+off 0 228 17
+the 0 228 17
+congressional 0 228 17
+system, 0 228 17
+thousands 0 228 17
+of 0 228 17
+illegal 0 228 17
+logins 0 228 17
+made 0 228 17
+on 0 228 17
+the 0 228 17
+official 0 228 17
+system, 0 228 17
+possible 0 228 17
+theft 0 228 17
+of 0 228 17
+tens 0 228 17
+of 0 228 17
+thousands 0 228 17
+of 0 228 17
+dollars 0 228 17
+in 0 228 17
+congressional 0 228 17
+equipment 0 228 17
+and 0 228 17
+fraud 0 228 17
+and 0 228 17
+sent 0 228 17
+to 0 228 17
+foreign 0 228 17
+governments 0 228 17
+and 0 228 17
+groups. 0 228 17
 
-No 0
-wonder 0
-the 0
-Democrats 0
-tried 1
-to 1
-squirrel 1
-these 0
-jihad 1
-spies 1
-out 0
-of 0
-the 0
-country. 0
+No 0 228 18
+wonder 0 228 18
+the 0 228 18
+Democrats 0 228 18
+tried 1 228 18
+to 1 228 18
+squirrel 1 228 18
+these 0 228 18
+jihad 1 228 18
+spies 1 228 18
+out 0 228 18
+of 0 228 18
+the 0 228 18
+country. 0 228 18
 
-Congress 1
-must 1
-investigate 1
-and 1
-act. 1
+Congress 1 228 19
+must 1 228 19
+investigate 1 228 19
+and 1 228 19
+act. 1 228 19
 
-“Witness 0
-Said 0
-Awan 0
-Wiretapped 0
-Her, 0
-Then 0
-Bank 0
-Account 0
-She 0
-Controlled 0
-Was 0
-Drained,” 0
-by 0
-Luke 0
-Rosiak, 0
-Daily 0
-Caller 0
-News 0
-Foundation, 0
-May 0
-21, 0
-2018 0
-(thanks 0
-to 0
-Todd): 0
+“Witness 0 228 20
+Said 0 228 20
+Awan 0 228 20
+Wiretapped 0 228 20
+Her, 0 228 20
+Then 0 228 20
+Bank 0 228 20
+Account 0 228 20
+She 0 228 20
+Controlled 0 228 20
+Was 0 228 20
+Drained,” 0 228 20
+by 0 228 20
+Luke 0 228 20
+Rosiak, 0 228 20
+Daily 0 228 20
+Caller 0 228 20
+News 0 228 20
+Foundation, 0 228 20
+May 0 228 20
+21, 0 228 20
+2018 0 228 20
+(thanks 0 228 20
+to 0 228 20
+Todd): 0 228 20
 
-After 0
-former 0
-Democratic 0
-IT 0
-aide 0
-Imran 0
-Awan 0
-allegedly 0
-threatened 0
-his 0
-stepmother 0
-not 0
-to 0
-talk 0
-to 0
-police, 0
-her 0
-email 0
-account 0
-was 0
-accessed 0
-in 0
-suspicious 0
-ways 0
-and 0
-a 0
-lawyer 0
-for 0
-one 0
-of 0
-Awan’s 0
-brothers 0
-found 0
-out 0
-she 0
-emailed 0
-the 0
-FBI 0
-on 0
-specific 0
-dates 0
-and 0
-lashed 1
-out 1
-at 1
-her: 1
-“You’re 1
-a 1
-liar, 1
-aren’t 1
-you?” 1
-Days 0
-after 0
-that, 0
-a 0
-bank 0
-account 0
-the 0
-stepmother 0
-controlled 0
-was 0
-almost 0
-completely 0
-drained 0
-through 0
-a 0
-payment 0
-to 0
-Imran’s 0
-brother, 0
-Abid 0
-Awan, 0
-bank 0
-records 0
-show 0
-— 0
-but 0
-she 0
-said 0
-she 0
-is 0
-too 0
-afraid 0
-to 0
-press 0
-criminal 0
-charges 0
-because 0
-she 0
-claims 0
-he 0
-has 0
-threatened 0
-her. 0
+After 0 228 21
+former 0 228 21
+Democratic 0 228 21
+IT 0 228 21
+aide 0 228 21
+Imran 0 228 21
+Awan 0 228 21
+allegedly 0 228 21
+threatened 0 228 21
+his 0 228 21
+stepmother 0 228 21
+not 0 228 21
+to 0 228 21
+talk 0 228 21
+to 0 228 21
+police, 0 228 21
+her 0 228 21
+email 0 228 21
+account 0 228 21
+was 0 228 21
+accessed 0 228 21
+in 0 228 21
+suspicious 0 228 21
+ways 0 228 21
+and 0 228 21
+a 0 228 21
+lawyer 0 228 21
+for 0 228 21
+one 0 228 21
+of 0 228 21
+Awan’s 0 228 21
+brothers 0 228 21
+found 0 228 21
+out 0 228 21
+she 0 228 21
+emailed 0 228 21
+the 0 228 21
+FBI 0 228 21
+on 0 228 21
+specific 0 228 21
+dates 0 228 21
+and 0 228 21
+lashed 1 228 21
+out 1 228 21
+at 1 228 21
+her: 1 228 21
+“You’re 1 228 21
+a 1 228 21
+liar, 1 228 21
+aren’t 1 228 21
+you?” 1 228 21
+Days 0 228 21
+after 0 228 21
+that, 0 228 21
+a 0 228 21
+bank 0 228 21
+account 0 228 21
+the 0 228 21
+stepmother 0 228 21
+controlled 0 228 21
+was 0 228 21
+almost 0 228 21
+completely 0 228 21
+drained 0 228 21
+through 0 228 21
+a 0 228 21
+payment 0 228 21
+to 0 228 21
+Imran’s 0 228 21
+brother, 0 228 21
+Abid 0 228 21
+Awan, 0 228 21
+bank 0 228 21
+records 0 228 21
+show 0 228 21
+— 0 228 21
+but 0 228 21
+she 0 228 21
+said 0 228 21
+she 0 228 21
+is 0 228 21
+too 0 228 21
+afraid 0 228 21
+to 0 228 21
+press 0 228 21
+criminal 0 228 21
+charges 0 228 21
+because 0 228 21
+she 0 228 21
+claims 0 228 21
+he 0 228 21
+has 0 228 21
+threatened 0 228 21
+her. 0 228 21
 
-The 0
-stepmother, 0
-Samina 0
-Gilani, 0
-also 0
-previously 0
-said 0
-Imran 0
-stole 0
-two 0
-laptops 0
-from 0
-her. 0
+The 0 228 22
+stepmother, 0 228 22
+Samina 0 228 22
+Gilani, 0 228 22
+also 0 228 22
+previously 0 228 22
+said 0 228 22
+Imran 0 228 22
+stole 0 228 22
+two 0 228 22
+laptops 0 228 22
+from 0 228 22
+her. 0 228 22
 
-Imran, 0
-Abid 0
-and 0
-Jamal 0
-Awan 0
-— 0
-along 0
-with 0
-Imran’s 0
-wife, 0
-Hina 0
-Alvi, 0
-and 0
-a 0
-friend 0
-— 0
-worked 0
-as 0
-IT 0
-administrators 0
-for 0
-1 0
-out 0
-of 0
-every 0
-5 0
-House 0
-Democrats 0
-and 0
-could 0
-read 0
-all 0
-their 0
-emails 0
-and 0
-files 0
-until 0
-police 0
-banned 0
-them 0
-from 0
-the 0
-network 0
-in 0
-February 0
-2017for 0
-“numerous 0
-violations 0
-of 0
-House 0
-security 0
-policies.” 0
-Months 0
-later, 0
-none 0
-of 0
-the 0
-family 0
-is 0
-in 0
-jail, 0
-and 0
-the 0
-stepmother 0
-and 0
-other 0
-witnesses 0
-have 0
-said 0
-Imran 0
-and 0
-Abid 0
-have 0
-used 0
-their 0
-freedom 0
-to 0
-try 0
-to 0
-steer 0
-the 0
-outcome 0
-of 0
-the 0
-case 0
-since, 0
-including 0
-by 0
-threatening 0
-them 0
-not 0
-to 0
-cooperate 0
-with 0
-authorities, 0
-TheDCNF 0
-previously 0
-reported. 0
+Imran, 0 228 23
+Abid 0 228 23
+and 0 228 23
+Jamal 0 228 23
+Awan 0 228 23
+— 0 228 23
+along 0 228 23
+with 0 228 23
+Imran’s 0 228 23
+wife, 0 228 23
+Hina 0 228 23
+Alvi, 0 228 23
+and 0 228 23
+a 0 228 23
+friend 0 228 23
+— 0 228 23
+worked 0 228 23
+as 0 228 23
+IT 0 228 23
+administrators 0 228 23
+for 0 228 23
+1 0 228 23
+out 0 228 23
+of 0 228 23
+every 0 228 23
+5 0 228 23
+House 0 228 23
+Democrats 0 228 23
+and 0 228 23
+could 0 228 23
+read 0 228 23
+all 0 228 23
+their 0 228 23
+emails 0 228 23
+and 0 228 23
+files 0 228 23
+until 0 228 23
+police 0 228 23
+banned 0 228 23
+them 0 228 23
+from 0 228 23
+the 0 228 23
+network 0 228 23
+in 0 228 23
+February 0 228 23
+2017for 0 228 23
+“numerous 0 228 23
+violations 0 228 23
+of 0 228 23
+House 0 228 23
+security 0 228 23
+policies.” 0 228 23
+Months 0 228 23
+later, 0 228 23
+none 0 228 23
+of 0 228 23
+the 0 228 23
+family 0 228 23
+is 0 228 23
+in 0 228 23
+jail, 0 228 23
+and 0 228 23
+the 0 228 23
+stepmother 0 228 23
+and 0 228 23
+other 0 228 23
+witnesses 0 228 23
+have 0 228 23
+said 0 228 23
+Imran 0 228 23
+and 0 228 23
+Abid 0 228 23
+have 0 228 23
+used 0 228 23
+their 0 228 23
+freedom 0 228 23
+to 0 228 23
+try 0 228 23
+to 0 228 23
+steer 0 228 23
+the 0 228 23
+outcome 0 228 23
+of 0 228 23
+the 0 228 23
+case 0 228 23
+since, 0 228 23
+including 0 228 23
+by 0 228 23
+threatening 0 228 23
+them 0 228 23
+not 0 228 23
+to 0 228 23
+cooperate 0 228 23
+with 0 228 23
+authorities, 0 228 23
+TheDCNF 0 228 23
+previously 0 228 23
+reported. 0 228 23
 
-In 0
-April 0
-2016, 0
-the 0
-House’s 0
-Chief 0
-Administrative 0
-Officer 0
-(CAO) 0
-detected 0
-allegedly 0
-falsified 0
-purchase 0
-orders, 0
-and 0
-the 0
-Inspector 0
-General 0
-quickly 0
-expanded 0
-the 0
-scope 0
-to 0
-investigate 0
-cyber 0
-violations, 0
-finding 0
-that 0
-members 0
-of 0
-the 0
-Awan 0
-family 0
-improperly 0
-accessed 0
-congressmen’s 0
-servers 0
-and 0
-the 0
-House 0
-Democratic 0
-Caucus 0
-server 0
-thousands 0
-of 0
-times. 0
+In 0 228 24
+April 0 228 24
+2016, 0 228 24
+the 0 228 24
+House’s 0 228 24
+Chief 0 228 24
+Administrative 0 228 24
+Officer 0 228 24
+(CAO) 0 228 24
+detected 0 228 24
+allegedly 0 228 24
+falsified 0 228 24
+purchase 0 228 24
+orders, 0 228 24
+and 0 228 24
+the 0 228 24
+Inspector 0 228 24
+General 0 228 24
+quickly 0 228 24
+expanded 0 228 24
+the 0 228 24
+scope 0 228 24
+to 0 228 24
+investigate 0 228 24
+cyber 0 228 24
+violations, 0 228 24
+finding 0 228 24
+that 0 228 24
+members 0 228 24
+of 0 228 24
+the 0 228 24
+Awan 0 228 24
+family 0 228 24
+improperly 0 228 24
+accessed 0 228 24
+congressmen’s 0 228 24
+servers 0 228 24
+and 0 228 24
+the 0 228 24
+House 0 228 24
+Democratic 0 228 24
+Caucus 0 228 24
+server 0 228 24
+thousands 0 228 24
+of 0 228 24
+times. 0 228 24
 
-Though 0
-House 0
-officials 0
-suspected 0
-that 0
-equipment 0
-was 0
-being 0
-stolen, 0
-the 0
-Capitol 0
-Police 0
-did 0
-not 0
-search 0
-their 0
-homes, 0
-The 0
-Daily 0
-Caller 0
-News 0
-Foundation 0
-learned, 0
-and 0
-did 0
-not 0
-ban 0
-them 0
-from 0
-the 0
-network 0
-until 0
-nearly 0
-a 0
-year 0
-later. 0
+Though 0 228 25
+House 0 228 25
+officials 0 228 25
+suspected 0 228 25
+that 0 228 25
+equipment 0 228 25
+was 0 228 25
+being 0 228 25
+stolen, 0 228 25
+the 0 228 25
+Capitol 0 228 25
+Police 0 228 25
+did 0 228 25
+not 0 228 25
+search 0 228 25
+their 0 228 25
+homes, 0 228 25
+The 0 228 25
+Daily 0 228 25
+Caller 0 228 25
+News 0 228 25
+Foundation 0 228 25
+learned, 0 228 25
+and 0 228 25
+did 0 228 25
+not 0 228 25
+ban 0 228 25
+them 0 228 25
+from 0 228 25
+the 0 228 25
+network 0 228 25
+until 0 228 25
+nearly 0 228 25
+a 0 228 25
+year 0 228 25
+later. 0 228 25
 
-In 0
-the 0
-meantime, 0
-evidence 0
-appears 0
-to 0
-have 0
-been 0
-compromised: 0
-In 0
-December 0
-2016, 0
-the 0
-CAO 0
-notified 0
-congressmen 0
-that 0
-the 0
-caucus 0
-server 0
-had 0
-physically 0
-disappeared. 0
+In 0 228 26
+the 0 228 26
+meantime, 0 228 26
+evidence 0 228 26
+appears 0 228 26
+to 0 228 26
+have 0 228 26
+been 0 228 26
+compromised: 0 228 26
+In 0 228 26
+December 0 228 26
+2016, 0 228 26
+the 0 228 26
+CAO 0 228 26
+notified 0 228 26
+congressmen 0 228 26
+that 0 228 26
+the 0 228 26
+caucus 0 228 26
+server 0 228 26
+had 0 228 26
+physically 0 228 26
+disappeared. 0 228 26
 
-Though 0
-Abid 0
-played 0
-a 0
-prominent 0
-role 0
-in 0
-the 0
-late-2016 0
-IG 0
-report, 0
-he 0
-has 0
-not 0
-been 0
-arrested, 0
-with 0
-congressmen 0
-saying 0
-a 0
-criminal 0
-investigation 0
-is 0
-ongoing. 0
+Though 0 228 27
+Abid 0 228 27
+played 0 228 27
+a 0 228 27
+prominent 0 228 27
+role 0 228 27
+in 0 228 27
+the 0 228 27
+late-2016 0 228 27
+IG 0 228 27
+report, 0 228 27
+he 0 228 27
+has 0 228 27
+not 0 228 27
+been 0 228 27
+arrested, 0 228 27
+with 0 228 27
+congressmen 0 228 27
+saying 0 228 27
+a 0 228 27
+criminal 0 228 27
+investigation 0 228 27
+is 0 228 27
+ongoing. 0 228 27
 
-In 0
-January 0
-2017, 0
-in 0
-the 0
-days 0
-around 0
-his 0
-father’s 0
-death, 0
-Abid 0
-removed 0
-Gilani 0
-as 0
-the 0
-beneficiary 0
-of 0
-his 0
-father’s 0
-life 0
-insurance 0
-and 0
-replaced 0
-her 0
-with 0
-himself, 0
-which 0
-led 0
-to 0
-a 0
-lawsuit, 0
-TheDCNF 0
-previously 0
-reported. 0
+In 0 228 28
+January 0 228 28
+2017, 0 228 28
+in 0 228 28
+the 0 228 28
+days 0 228 28
+around 0 228 28
+his 0 228 28
+father’s 0 228 28
+death, 0 228 28
+Abid 0 228 28
+removed 0 228 28
+Gilani 0 228 28
+as 0 228 28
+the 0 228 28
+beneficiary 0 228 28
+of 0 228 28
+his 0 228 28
+father’s 0 228 28
+life 0 228 28
+insurance 0 228 28
+and 0 228 28
+replaced 0 228 28
+her 0 228 28
+with 0 228 28
+himself, 0 228 28
+which 0 228 28
+led 0 228 28
+to 0 228 28
+a 0 228 28
+lawsuit, 0 228 28
+TheDCNF 0 228 28
+previously 0 228 28
+reported. 0 228 28
 
-Abid’s 0
-attorney, 0
-Jim 0
-Bacon, 0
-used 0
-the 0
-life 0
-insurance 0
-lawsuit 0
-to 0
-force 0
-Gilani 0
-to 0
-sit 0
-for 0
-a 0
-sworn 0
-deposition 0
-Oct. 0
-4, 0
-2017 0
-in 0
-which 0
-he 0
-told 0
-her 0
-to 0
-reveal 0
-what 0
-she 0
-told 0
-the 0
-FBI 0
-about 0
-the 0
-congressional 0
-criminal 0
-probe 0
-and 0
-tried 0
-to 0
-get 0
-her 0
-to 0
-find 0
-out 0
-details 0
-from 0
-investigators. 0
+Abid’s 0 228 29
+attorney, 0 228 29
+Jim 0 228 29
+Bacon, 0 228 29
+used 0 228 29
+the 0 228 29
+life 0 228 29
+insurance 0 228 29
+lawsuit 0 228 29
+to 0 228 29
+force 0 228 29
+Gilani 0 228 29
+to 0 228 29
+sit 0 228 29
+for 0 228 29
+a 0 228 29
+sworn 0 228 29
+deposition 0 228 29
+Oct. 0 228 29
+4, 0 228 29
+2017 0 228 29
+in 0 228 29
+which 0 228 29
+he 0 228 29
+told 0 228 29
+her 0 228 29
+to 0 228 29
+reveal 0 228 29
+what 0 228 29
+she 0 228 29
+told 0 228 29
+the 0 228 29
+FBI 0 228 29
+about 0 228 29
+the 0 228 29
+congressional 0 228 29
+criminal 0 228 29
+probe 0 228 29
+and 0 228 29
+tried 0 228 29
+to 0 228 29
+get 0 228 29
+her 0 228 29
+to 0 228 29
+find 0 228 29
+out 0 228 29
+details 0 228 29
+from 0 228 29
+investigators. 0 228 29
 
-In 0
-one 0
-exchange, 0
-Bacon 0
-knew 0
-that 0
-she 0
-had 0
-emailed 0
-with 0
-the 0
-FBI. 0
+In 0 228 30
+one 0 228 30
+exchange, 0 228 30
+Bacon 0 228 30
+knew 0 228 30
+that 0 228 30
+she 0 228 30
+had 0 228 30
+emailed 0 228 30
+with 0 228 30
+the 0 228 30
+FBI. 0 228 30
 
-BACON 0
-Q: 0
-[redacted] 0
-is 0
-your 0
-email 0
-address, 0
-isn’t 0
-it? 0
+BACON 0 228 31
+Q: 0 228 31
+[redacted] 0 228 31
+is 0 228 31
+your 0 228 31
+email 0 228 31
+address, 0 228 31
+isn’t 0 228 31
+it? 0 228 31
 
-And 0
-you 0
-send 0
-emails 0
-from 0
-that 0
-address 0
-including 0
-two 0
-emails 0
-to 0
-the 0
-FBI, 0
-didn’t 0
-you? 0
+And 0 228 32
+you 0 228 32
+send 0 228 32
+emails 0 228 32
+from 0 228 32
+that 0 228 32
+address 0 228 32
+including 0 228 32
+two 0 228 32
+emails 0 228 32
+to 0 228 32
+the 0 228 32
+FBI, 0 228 32
+didn’t 0 228 32
+you? 0 228 32
 
-GILANI 0
-A: 0
-Yes, 0
-a 0
-long 0
-time 0
-ago. 0
+GILANI 0 228 33
+A: 0 228 33
+Yes, 0 228 33
+a 0 228 33
+long 0 228 33
+time 0 228 33
+ago. 0 228 33
 
-Q: 0
-No, 0
-not 0
-a 0
-long 0
-time 0
-ago. 0
+Q: 0 228 34
+No, 0 228 34
+not 0 228 34
+a 0 228 34
+long 0 228 34
+time 0 228 34
+ago. 0 228 34
 
-March 0
-5th, 0
-2017. 0
+March 0 228 35
+5th, 0 228 35
+2017. 0 228 35
 
-March 0
-6th, 0
-2017. 0
+March 0 228 36
+6th, 0 228 36
+2017. 0 228 36
 
-Ma’am, 1
-you 1
-lied 1
-to 1
-me, 1
-didn’t 1
-you? 1
+Ma’am, 1 228 37
+you 1 228 37
+lied 1 228 37
+to 1 228 37
+me, 1 228 37
+didn’t 1 228 37
+you? 1 228 37
 
-You 1
-lied 1
-to 1
-me, 1
-didn’t 1
-you? 1
+You 1 228 38
+lied 1 228 38
+to 1 228 38
+me, 1 228 38
+didn’t 1 228 38
+you? 1 228 38
 
-You’re 1
-a 1
-liar, 1
-aren’t 1
-you? 1
+You’re 1 228 39
+a 1 228 39
+liar, 1 228 39
+aren’t 1 228 39
+you? 1 228 39
 
-A: 0
-I 0
-forgot 0
-about 0
-that. 0
+A: 0 228 40
+I 0 228 40
+forgot 0 228 40
+about 0 228 40
+that. 0 228 40
 
-It 1
-was 1
-not 1
-in 1
-my 1
-mind. 1
+It 1 228 41
+was 1 228 41
+not 1 228 41
+in 1 228 41
+my 1 228 41
+mind. 1 228 41
 
-BACON: 0
-Ah. 0
+BACON: 0 228 42
+Ah. 0 228 42
 
-I 0
-think 0
-we 0
-need 0
-to 0
-take 0
-a 0
-break 0
-before 1
-I 1
-explode. 1
+I 0 228 43
+think 0 228 43
+we 0 228 43
+need 0 228 43
+to 0 228 43
+take 0 228 43
+a 0 228 43
+break 0 228 43
+before 1 228 43
+I 1 228 43
+explode. 1 228 43
 
-Bacon 0
-did 0
-not 0
-respond 0
-to 0
-questions 0
-from 0
-the 0
-TheDCNF 0
-about 0
-how 0
-he 0
-knew 0
-Gilani 0
-had 0
-emailed 0
-the 0
-FBI 0
-on 0
-those 0
-dates…. 0
+Bacon 0 228 44
+did 0 228 44
+not 0 228 44
+respond 0 228 44
+to 0 228 44
+questions 0 228 44
+from 0 228 44
+the 0 228 44
+TheDCNF 0 228 44
+about 0 228 44
+how 0 228 44
+he 0 228 44
+knew 0 228 44
+Gilani 0 228 44
+had 0 228 44
+emailed 0 228 44
+the 0 228 44
+FBI 0 228 44
+on 0 228 44
+those 0 228 44
+dates…. 0 228 44
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-Pamela 0
-Geller 0
+Article 0 228 45
+posted 0 228 45
+with 0 228 45
+permission 0 228 45
+from 0 228 45
+Pamela 0 228 45
+Geller 0 228 45
 
-Pamela 0
-Geller's 0
-commitment 0
-to 0
-freedom 0
-from 0
-jihad 0
-and 0
-Shariah 0
-shines 0
-forth 0
-in 0
-her 0
-books 0
+Pamela 0 228 45
+
+Geller's 0 228 45
+
+commitment 0 228 45
+
+to 0 228 45
+
+freedom 0 228 45
+
+from 0 228 45
+
+jihad 0 228 45
+
+and 0 228 45
+
+Shariah 0 228 45
+
+shines 0 228 45
+
+forth 0 228 45
+
+in 0 228 45
+
+her 0 228 45
+
+books 0 228 45

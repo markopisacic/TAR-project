@@ -1,385 +1,387 @@
-Online 0
-Sociology 0
-Course 0
-Founders 0
-Over 0
-Whether 0
-Australia 0
-is 0
-a 0
-Country 0
+Online 0 155 0
+Sociology 0 155 0
+Course 0 155 0
+Founders 0 155 0
+Over 0 155 0
+Whether 0 155 0
+Australia 0 155 0
+is 0 155 0
+a 0 155 0
+Country 0 155 0
 
-I'm 0
-not 0
-all 0
-that 0
-concerned 0
-with 0
-students 0
-working 0
-toward 0
-a 0
-major 0
-in 0
-poetry, 0
-media 0
-studies 0
-or 0
-some 0
-of 0
-the 0
-more 0
-ridiculous 0
-courses 0
-some 0
-colleges 0
-offer. 0
+I'm 0 155 1
+not 0 155 1
+all 0 155 1
+that 0 155 1
+concerned 0 155 1
+with 0 155 1
+students 0 155 1
+working 0 155 1
+toward 0 155 1
+a 0 155 1
+major 0 155 1
+in 0 155 1
+poetry, 0 155 1
+media 0 155 1
+studies 0 155 1
+or 0 155 1
+some 0 155 1
+of 0 155 1
+the 0 155 1
+more 0 155 1
+ridiculous 0 155 1
+courses 0 155 1
+some 0 155 1
+colleges 0 155 1
+offer. 0 155 1
 
-It's 0
-sociology 0
-that 0
-worries 0
-me. 0
+It's 0 155 2
+sociology 0 155 2
+that 0 155 2
+worries 0 155 2
+me. 0 155 2
 
-Sociology 1
-helped 1
-generate 1
-a 1
-whole 1
-range 1
-of 1
-fake 1
-new 1
-academic 1
-subjects 1
-while 1
-corrupting 1
-existing 1
-ones 1
-into 1
-a 1
-toxic 1
-stew 1
-of 1
-racism 1
-and 1
-meaningless 1
-jargon. 1
+Sociology 1 155 3
+helped 1 155 3
+generate 1 155 3
+a 1 155 3
+whole 1 155 3
+range 1 155 3
+of 1 155 3
+fake 1 155 3
+new 1 155 3
+academic 1 155 3
+subjects 1 155 3
+while 1 155 3
+corrupting 1 155 3
+existing 1 155 3
+ones 1 155 3
+into 1 155 3
+a 1 155 3
+toxic 1 155 3
+stew 1 155 3
+of 1 155 3
+racism 1 155 3
+and 1 155 3
+meaningless 1 155 3
+jargon. 1 155 3
 
-All 0
-too 0
-often, 0
-all 0
-you 0
-need 0
-is 0
-some 0
-statistics 0
-software 0
-(or 0
-its 0
-online 0
-equivalent), 0
-a 0
-politically 0
-correct 0
-premise 0
-and 0
-absolute 1
-ignorance. 1
+All 0 155 4
+too 0 155 4
+often, 0 155 4
+all 0 155 4
+you 0 155 4
+need 0 155 4
+is 0 155 4
+some 0 155 4
+statistics 0 155 4
+software 0 155 4
+(or 0 155 4
+its 0 155 4
+online 0 155 4
+equivalent), 0 155 4
+a 0 155 4
+politically 0 155 4
+correct 0 155 4
+premise 0 155 4
+and 0 155 4
+absolute 1 155 4
+ignorance. 1 155 4
 
-Add 0
-the 0
-internet 0
-and 0
-you 0
-get 0
-a 1
-perfect 1
-storm 1
-of 1
-sociology 1
-stupidity. 1
+Add 0 155 5
+the 0 155 5
+internet 0 155 5
+and 0 155 5
+you 0 155 5
+get 0 155 5
+a 1 155 5
+perfect 1 155 5
+storm 1 155 5
+of 1 155 5
+sociology 1 155 5
+stupidity. 1 155 5
 
-The 0
-story 0
-concerns 0
-Ashley 0
-Arnold, 0
-a 0
-27-year-old 0
-working 0
-on 0
-an 0
-online 0
-sociology 0
-degree. 0
+The 0 155 6
+story 0 155 6
+concerns 0 155 6
+Ashley 0 155 6
+Arnold, 0 155 6
+a 0 155 6
+27-year-old 0 155 6
+working 0 155 6
+on 0 155 6
+an 0 155 6
+online 0 155 6
+sociology 0 155 6
+degree. 0 155 6
 
-As 0
-part 0
-of 0
-her 0
-final 0
-class, 0
-for 0
-which 0
-she 0
-paid 0
-almost 0
-$1,000, 0
-students 0
-were 0
-required 0
-to 0
-complete 0
-a 0
-project 0
-outline 0
-last 0
-month 0
-in 0
-which 0
-they 0
-would 0
-compare 0
-a 0
-social 0
-norm 0
-in 0
-the 0
-US 0
-and 0
-another 0
-country. 0
+As 0 155 7
+part 0 155 7
+of 0 155 7
+her 0 155 7
+final 0 155 7
+class, 0 155 7
+for 0 155 7
+which 0 155 7
+she 0 155 7
+paid 0 155 7
+almost 0 155 7
+$1,000, 0 155 7
+students 0 155 7
+were 0 155 7
+required 0 155 7
+to 0 155 7
+complete 0 155 7
+a 0 155 7
+project 0 155 7
+outline 0 155 7
+last 0 155 7
+month 0 155 7
+in 0 155 7
+which 0 155 7
+they 0 155 7
+would 0 155 7
+compare 0 155 7
+a 0 155 7
+social 0 155 7
+norm 0 155 7
+in 0 155 7
+the 0 155 7
+US 0 155 7
+and 0 155 7
+another 0 155 7
+country. 0 155 7
 
-For 0
-her 0
-"norm" 0
-Arnold 0
-picked 0
-social 0
-media 0
-use, 0
-and 0
-for 0
-her 0
-country 0
-she 0
-chose 0
-Australia. 0
+For 0 155 8
+her 0 155 8
+"norm" 0 155 8
+Arnold 0 155 8
+picked 0 155 8
+social 0 155 8
+media 0 155 8
+use, 0 155 8
+and 0 155 8
+for 0 155 8
+her 0 155 8
+country 0 155 8
+she 0 155 8
+chose 0 155 8
+Australia. 0 155 8
 
-But 0
-when 0
-Arnold 0
-got 0
-her 0
-grade 0
-back 0
-on 0
-Feb. 0
-1, 0
-she 0
-was 0
-shocked 1
-to 0
-see 0
-her 0
-professor 0
-had 0
-failed 0
-her. 0
+But 0 155 9
+when 0 155 9
+Arnold 0 155 9
+got 0 155 9
+her 0 155 9
+grade 0 155 9
+back 0 155 9
+on 0 155 9
+Feb. 0 155 9
+1, 0 155 9
+she 0 155 9
+was 0 155 9
+shocked 1 155 9
+to 0 155 9
+see 0 155 9
+her 0 155 9
+professor 0 155 9
+had 0 155 9
+failed 0 155 9
+her. 0 155 9
 
-Why? 0
+Why? 0 155 10
 
-Because, 0
-according 0
-to 0
-the 0
-teacher, 0
-"Australia 0
-is 0
-a 0
-continent; 0
-not 0
-a 0
-country." 0
+Because, 0 155 11
+according 0 155 11
+to 0 155 11
+the 0 155 11
+teacher, 0 155 11
+"Australia 0 155 11
+is 0 155 11
+a 0 155 11
+continent; 0 155 11
+not 0 155 11
+a 0 155 11
+country." 0 155 11
 
-Sociology. 1
+Sociology. 1 155 12
 
-You 1
-really 1
-don't 1
-need 1
-to 1
-know 1
-anything. 1
+You 1 155 13
+really 1 155 13
+don't 1 155 13
+need 1 155 13
+to 1 155 13
+know 1 155 13
+anything. 1 155 13
 
-The 1
-professor, 1
-who 1
-has 1
-a 1
-PhD 1
-in 1
-philosophy... 1
+The 1 155 14
+professor, 1 155 14
+who 1 155 14
+has 1 155 14
+a 1 155 14
+PhD 1 155 14
+in 1 155 14
+philosophy... 1 155 14
 
-Of 1
-course 1
-she 1
-does. 1
+Of 1 155 15
+course 1 155 15
+she 1 155 15
+does. 1 155 15
 
-I 0
-believe 0
-I 0
-got 0
-zero 0
-or 0
-partial 0
-credit 0
-because 0
-the 0
-instructor 0
-said, 0
-'Australia 0
-is 0
-a 0
-continent; 0
-not 0
-a 0
-country. 0
+I 0 155 16
+believe 0 155 16
+I 0 155 16
+got 0 155 16
+zero 0 155 16
+or 0 155 16
+partial 0 155 16
+credit 0 155 16
+because 0 155 16
+the 0 155 16
+instructor 0 155 16
+said, 0 155 16
+'Australia 0 155 16
+is 0 155 16
+a 0 155 16
+continent; 0 155 16
+not 0 155 16
+a 0 155 16
+country. 0 155 16
 
-However, 0
-I 0
-believe 0
-that 0
-Australia 0
-is 0
-a 0
-country. 0
+However, 0 155 17
+I 0 155 17
+believe 0 155 17
+that 0 155 17
+Australia 0 155 17
+is 0 155 17
+a 0 155 17
+country. 0 155 17
 
-The 0
-research 0
-starter 0
-on 0
-the 0
-SNHU’s 0
-Shapiro 0
-library 0
-written 0
-by 0
-John 0
-Pearson 0
-(2013) 0
-states, 0
-that 0
-Australia 0
-is 0
-the 0
-'sixth-largest 0
-country 0
-in 0
-the 0
-world' 0
-(n.p.). 0
+The 0 155 18
+research 0 155 18
+starter 0 155 18
+on 0 155 18
+the 0 155 18
+SNHU’s 0 155 18
+Shapiro 0 155 18
+library 0 155 18
+written 0 155 18
+by 0 155 18
+John 0 155 18
+Pearson 0 155 18
+(2013) 0 155 18
+states, 0 155 18
+that 0 155 18
+Australia 0 155 18
+is 0 155 18
+the 0 155 18
+'sixth-largest 0 155 18
+country 0 155 18
+in 0 155 18
+the 0 155 18
+world' 0 155 18
+(n.p.). 0 155 18
 
-The 0
-full 0
-name 0
-of 0
-the 0
-country 0
-is 0
-the 0
-Commonwealth 0
-of 0
-Australia, 0
-meaning 0
-Australia 0
-is 0
-both 0
-a 0
-continent 0
-and 0
-a 0
-country. 0
+The 0 155 19
+full 0 155 19
+name 0 155 19
+of 0 155 19
+the 0 155 19
+country 0 155 19
+is 0 155 19
+the 0 155 19
+Commonwealth 0 155 19
+of 0 155 19
+Australia, 0 155 19
+meaning 0 155 19
+Australia 0 155 19
+is 0 155 19
+both 0 155 19
+a 0 155 19
+continent 0 155 19
+and 0 155 19
+a 0 155 19
+country. 0 155 19
 
-Therefore, 0
-these 0
-sections 0
-of 0
-the 0
-rubric 0
-should 0
-be 0
-amended. 0
+Therefore, 0 155 20
+these 0 155 20
+sections 0 155 20
+of 0 155 20
+the 0 155 20
+rubric 0 155 20
+should 0 155 20
+be 0 155 20
+amended. 0 155 20
 
-Australia's 0
-nationhood 0
-is 0
-not 0
-a 0
-matter 0
-of 0
-belief. 0
+Australia's 0 155 21
+nationhood 0 155 21
+is 0 155 21
+not 0 155 21
+a 0 155 21
+matter 0 155 21
+of 0 155 21
+belief. 0 155 21
 
-But 0
-we 0
-are 0
-in 0
-the 1
-age 1
-of, 1
-"My 1
-truth". 1
+But 0 155 22
+we 0 155 22
+are 0 155 22
+in 0 155 22
+the 1 155 22
+age 1 155 22
+of, 1 155 22
+"My 1 155 22
+truth". 1 155 22
 
-And 0
-my 1
-truth 1
-has 0
-a 0
-different 0
-belief 0
-about 0
-Australia 0
-than 0
-yours 0
-does 0
-because 0
-of 0
-my 0
-degree 0
-of 0
-oppression. 0
+And 0 155 23
+my 1 155 23
+truth 1 155 23
+has 0 155 23
+a 0 155 23
+different 0 155 23
+belief 0 155 23
+about 0 155 23
+Australia 0 155 23
+than 0 155 23
+yours 0 155 23
+does 0 155 23
+because 0 155 23
+of 0 155 23
+my 0 155 23
+degree 0 155 23
+of 0 155 23
+oppression. 0 155 23
 
-Finally, 0
+Finally, 0 155 24
 
-the 0
-professor 0
-responded: 0
-Thank 0
-you 0
-for 0
-this 0
-web-address 0
+the 0 155 25
+professor 0 155 25
+responded: 0 155 25
+Thank 0 155 25
+you 0 155 25
+for 0 155 25
+this 0 155 25
+web-address 0 155 25
 
-After 0
+After 0 155 26
+I 0 155 26
+do 0 155 26
+some 0 155 26
+independent 0 155 26
+research 0 155 26
+on 0 155 26
+the 0 155 26
+continent/country 0 155 26
+issue 0 155 26
+I 0 155 26
+will 0 155 26
+review 0 155 26
+your 0 155 26
+paper. 0 155 26
 
-I 0
-do 0
-some 0
-independent 0
-research 0
-on 0
-the 0
-continent/country 0
-issue 0
-I 0
-will 0
-review 0
-your 0
-paper. 0
+Who 0 155 26
 
-Who 0
-can 0
-really 0
-say? 0
+can 0 155 26
+
+really 0 155 26
+
+say? 0 155 26

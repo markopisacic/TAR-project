@@ -1,463 +1,507 @@
-Lawmaker 0
-makes 0
-shocking 1
-claim 1
-about 0
-the 0
-Vegas 0
-massacre 0
-(video) 0
+Lawmaker 0 118 0
+makes 0 118 0
+shocking 1 118 0
+claim 1 118 0
+about 0 118 0
+the 0 118 0
+Vegas 0 118 0
+massacre 0 118 0
+(video) 0 118 0
 
-Personal 0
-Liberty 0
-Poll 0
-Exercise 0
-your 0
-right 0
-to 0
-vote. 0
+Personal 0 118 1
+Liberty 0 118 1
+Poll 0 118 1
+Exercise 0 118 1
+your 0 118 1
+right 0 118 1
+to 0 118 1
+vote. 0 118 1
 
-Americans 0
-still 0
-have 0
-no 0
-idea 0
-what 0
-happened 0
-in 0
-Las 0
-Vegas 0
-in 0
-October. 0
+Americans 0 118 2
+still 0 118 2
+have 0 118 2
+no 0 118 2
+idea 0 118 2
+what 0 118 2
+happened 0 118 2
+in 0 118 2
+Las 0 118 2
+Vegas 0 118 2
+in 0 118 2
+October. 0 118 2
 
-And 0
-one 0
-lawmaker 0
-is 0
-hinting 0
-that 0
-the 0
-government 1
-is 1
-covering 1
-up 1
-a 1
-big 1
-story 1
-about 1
-terrorism. 1
+And 0 118 3
+one 0 118 3
+lawmaker 0 118 3
+is 0 118 3
+hinting 0 118 3
+that 0 118 3
+the 0 118 3
+government 1 118 3
+is 1 118 3
+covering 1 118 3
+up 1 118 3
+a 1 118 3
+big 1 118 3
+story 1 118 3
+about 1 118 3
+terrorism. 1 118 3
 
-During 0
-an 0
-appearance 0
-with 0
-Tucker 0
-Carlson 0
-on 0
-Fox, 0
-Rep. 0
-Scott 0
-Perry 0
-(R-Pa.) 0
-said 0
-he’s 0
-seen 0
-credible 0
-evidence 0
-that 0
-ISIS 0
-was 0
-involved 0
-in 0
-the 0
-devastating 0
-Las 0
-Vegas 0
-shooting. 0
+During 0 118 4
+an 0 118 4
+appearance 0 118 4
+with 0 118 4
+Tucker 0 118 4
+Carlson 0 118 4
+on 0 118 4
+Fox, 0 118 4
+Rep. 0 118 4
+Scott 0 118 4
+Perry 0 118 4
+(R-Pa.) 0 118 4
+said 0 118 4
+he’s 0 118 4
+seen 0 118 4
+credible 0 118 4
+evidence 0 118 4
+that 0 118 4
+ISIS 0 118 4
+was 0 118 4
+involved 0 118 4
+in 0 118 4
+the 0 118 4
+devastating 0 118 4
+Las 0 118 4
+Vegas 0 118 4
+shooting. 0 118 4
 
-ISIS 0
-terrorists, 0
-he 0
-said, 0
-infiltrated 0
-the 0
-U.S. 0
-via 0
-the 0
-southern 0
-border 0
-prior 0
-to 0
-the 0
-attack 0
-blamed 0
-on 0
-alleged 0
-lone 0
-gunman 0
-Stephen 0
-Paddock. 0
+ISIS 0 118 5
+terrorists, 0 118 5
+he 0 118 5
+said, 0 118 5
+infiltrated 0 118 5
+the 0 118 5
+U.S. 0 118 5
+via 0 118 5
+the 0 118 5
+southern 0 118 5
+border 0 118 5
+prior 0 118 5
+to 0 118 5
+the 0 118 5
+attack 0 118 5
+blamed 0 118 5
+on 0 118 5
+alleged 0 118 5
+lone 0 118 5
+gunman 0 118 5
+Stephen 0 118 5
+Paddock. 0 118 5
 
-“Recently 0
-I 0
-have 0
-been 0
-made 0
-aware 0
-of 0
-what 0
-I 0
-believe 0
-to 0
-be 0
-credible 0
-evidence, 0
-credible 0
-information 0
-regarding 0
-potential 0
-terrorist 0
-infiltration 0
-through 0
-the 0
-southern 0
-border 0
-regarding 0
-this 0
-incident,” 0
-Perry 0
-said. 0
+“Recently 0 118 6
+I 0 118 6
+have 0 118 6
+been 0 118 6
+made 0 118 6
+aware 0 118 6
+of 0 118 6
+what 0 118 6
+I 0 118 6
+believe 0 118 6
+to 0 118 6
+be 0 118 6
+credible 0 118 6
+evidence, 0 118 6
+credible 0 118 6
+information 0 118 6
+regarding 0 118 6
+potential 0 118 6
+terrorist 0 118 6
+infiltration 0 118 6
+through 0 118 6
+the 0 118 6
+southern 0 118 6
+border 0 118 6
+regarding 0 118 6
+this 0 118 6
+incident,” 0 118 6
+Perry 0 118 6
+said. 0 118 6
 
-Perry 0
-added 0
-that 0
-ISIS 0
-warnings 0
-of 0
-a 0
-forthcoming 0
-attack 0
-on 0
-Las 0
-Vegas 0
-prior 0
-to 0
-the 0
-shooting 0
-make 0
-a 0
-terror 0
-link 0
-even 0
-more 0
-likely. 0
+Perry 0 118 7
+added 0 118 7
+that 0 118 7
+ISIS 0 118 7
+warnings 0 118 7
+of 0 118 7
+a 0 118 7
+forthcoming 0 118 7
+attack 0 118 7
+on 0 118 7
+Las 0 118 7
+Vegas 0 118 7
+prior 0 118 7
+to 0 118 7
+the 0 118 7
+shooting 0 118 7
+make 0 118 7
+a 0 118 7
+terror 0 118 7
+link 0 118 7
+even 0 118 7
+more 0 118 7
+likely. 0 118 7
 
-“Well, 0
-they 0
-could 0
-be–lets 0
-face 0
-it, 0
-ISIS 0
-twice 0
-before 0
-the 0
-attack, 0
-ISIS 0
-warned 0
-the 0
-United 0
-States 0
-that 0
-they 0
-would 0
-attack 0
-Las 0
-Vegas 0
-in 0
-June 0
-and 0
-August 0
-after 0
-the 0
-attack 0
-claimed 0
-responsibility 0
-four 0
-times. 0
+“Well, 0 118 8
+they 0 118 8
+could 0 118 8
+be–lets 0 118 8
+face 0 118 8
+it, 0 118 8
+ISIS 0 118 8
+twice 0 118 8
+before 0 118 8
+the 0 118 8
+attack, 0 118 8
+ISIS 0 118 8
+warned 0 118 8
+the 0 118 8
+United 0 118 8
+States 0 118 8
+that 0 118 8
+they 0 118 8
+would 0 118 8
+attack 0 118 8
+Las 0 118 8
+Vegas 0 118 8
+in 0 118 8
+June 0 118 8
+and 0 118 8
+August 0 118 8
+after 0 118 8
+the 0 118 8
+attack 0 118 8
+claimed 0 118 8
+responsibility 0 118 8
+four 0 118 8
+times. 0 118 8
 
-Meanwhile, 0
-the 0
-local 0
-law 0
-enforcement 0
-investigative 0
-services 0
-are 0
-telling 0
-us 0
-there 0
-is 0
-no 0
-terrorist 0
-connection–lone 0
-gunman, 0
-again, 0
-something 1
-is 1
-not 1
-adding 1
-up,” 1
-Perry 0
-replied. 0
+Meanwhile, 0 118 9
+the 0 118 9
+local 0 118 9
+law 0 118 9
+enforcement 0 118 9
+investigative 0 118 9
+services 0 118 9
+are 0 118 9
+telling 0 118 9
+us 0 118 9
+there 0 118 9
+is 0 118 9
+no 0 118 9
+terrorist 0 118 9
+connection–lone 0 118 9
+gunman, 0 118 9
+again, 0 118 9
+something 1 118 9
+is 1 118 9
+not 1 118 9
+adding 1 118 9
+up,” 1 118 9
+Perry 0 118 9
+replied. 0 118 9
 
-An 0
-incredulous 0
-Carlson 0
-asked 0
-fellow 0
-guest 0
-Catherine 0
-Lombardo, 0
-a 0
-lawyer 0
-representing 0
-families 0
-affected 0
-by 0
-the 0
-tragedy, 0
-about 0
-the 0
-law 0
-enforcement 0
-investigation 0
-into 0
-the 0
-shooting. 0
+An 0 118 10
+incredulous 0 118 10
+Carlson 0 118 10
+asked 0 118 10
+fellow 0 118 10
+guest 0 118 10
+Catherine 0 118 10
+Lombardo, 0 118 10
+a 0 118 10
+lawyer 0 118 10
+representing 0 118 10
+families 0 118 10
+affected 0 118 10
+by 0 118 10
+the 0 118 10
+tragedy, 0 118 10
+about 0 118 10
+the 0 118 10
+law 0 118 10
+enforcement 0 118 10
+investigation 0 118 10
+into 0 118 10
+the 0 118 10
+shooting. 0 118 10
 
-“The 0
-FBI 0
-and 0
-the 0
-Las 0
-Vegas 0
-metro 0
-police 0
-department 0
-have 0
-been 0
-conducting 0
-the 0
-investigation, 0
-” 0
-she 0
-said. 0
+“The 0 118 11
+FBI 0 118 11
+and 0 118 11
+the 0 118 11
+Las 0 118 11
+Vegas 0 118 11
+metro 0 118 11
+police 0 118 11
+department 0 118 11
+have 0 118 11
+been 0 118 11
+conducting 0 118 11
+the 0 118 11
+investigation, 0 118 11
+” 0 118 11
+she 0 118 11
+said. 0 118 11
 
-“We’ve 0
-seen 0
-no 0
-evidence 0
-of 0
-a 0
-terrorist 0
-attack, 0
-and 0
-I 0
-will 0
-ask 0
-with 0
-all 0
-due 0
-respect, 0
-congressman, 0
-unless 0
-have 0
-you 0
-specific 0
-evidence 0
-to 0
-back 0
-that 0
-up, 0
-it 0
-seems 0
-a 0
-bit 0
-irresponsible 0
-to 0
-make 0
-that 0
-allegation 0
-so, 0
-if 0
-you 0
-do, 0
-or 0
-make 0
-that 0
-assertion, 0
-if 0
-do 0
-you 0
-have 0
-any 0
-evidence 0
-of 0
-that, 0
-I’m 0
-asking 0
-you 0
-right 0
-now 0
-to 0
-share 0
-it 0
-with 0
-us 0
-and 0
-tell 0
-us 0
-what 0
-that 0
-is. 0
+“We’ve 0 118 12
+seen 0 118 12
+no 0 118 12
+evidence 0 118 12
+of 0 118 12
+a 0 118 12
+terrorist 0 118 12
+attack, 0 118 12
+and 0 118 12
+I 0 118 12
+will 0 118 12
+ask 0 118 12
+with 0 118 12
+all 0 118 12
+due 0 118 12
+respect, 0 118 12
+congressman, 0 118 12
+unless 0 118 12
+have 0 118 12
+you 0 118 12
+specific 0 118 12
+evidence 0 118 12
+to 0 118 12
+back 0 118 12
+that 0 118 12
+up, 0 118 12
+it 0 118 12
+seems 0 118 12
+a 0 118 12
+bit 0 118 12
+irresponsible 0 118 12
+to 0 118 12
+make 0 118 12
+that 0 118 12
+allegation 0 118 12
+so, 0 118 12
+if 0 118 12
+you 0 118 12
+do, 0 118 12
+or 0 118 12
+make 0 118 12
+that 0 118 12
+assertion, 0 118 12
+if 0 118 12
+do 0 118 12
+you 0 118 12
+have 0 118 12
+any 0 118 12
+evidence 0 118 12
+of 0 118 12
+that, 0 118 12
+I’m 0 118 12
+asking 0 118 12
+you 0 118 12
+right 0 118 12
+now 0 118 12
+to 0 118 12
+share 0 118 12
+it 0 118 12
+with 0 118 12
+us 0 118 12
+and 0 118 12
+tell 0 118 12
+us 0 118 12
+what 0 118 12
+that 0 118 12
+is. 0 118 12
 
-My 0
-clients… 0
-victims, 0
-all 0
-22,000 0
-people 0
-have 0
-been 0
-waiting 1
-and 1
-waiting 1
-and 1
-waiting 1
-for 0
-evidence.” 0
+My 0 118 13
+clients… 0 118 13
+victims, 0 118 13
+all 0 118 13
+22,000 0 118 13
+people 0 118 13
+have 0 118 13
+been 0 118 13
+waiting 1 118 13
+and 1 118 13
+waiting 1 118 13
+and 1 118 13
+waiting 1 118 13
+for 0 118 13
+evidence.” 0 118 13
 
-Perry 0
-noted 0
-that 0
-all 1
-Americans 1
-are 0
-still 0
-lacking 0
-all 0
-the 0
-evidence. 0
+Perry 0 118 14
+noted 0 118 14
+that 0 118 14
+all 1 118 14
+Americans 1 118 14
+are 0 118 14
+still 0 118 14
+lacking 0 118 14
+all 0 118 14
+the 0 118 14
+evidence. 0 118 14
 
-“We’ve 0
-all 0
-been 0
-waiting, 0
-and 0
-I’m 0
-waiting, 0
-too. 0
+“We’ve 0 118 15
+all 0 118 15
+been 0 118 15
+waiting, 0 118 15
+and 0 118 15
+I’m 0 118 15
+waiting, 0 118 15
+too. 0 118 15
 
-Like 0
-I 0
-said, 0
-nothing 0
-adds 0
-up, 0
-but 0
-I’m 0
-just 0
-telling 0
-you, 0
-I 0
-have 0
-received 0
-what 0
-I 0
-feel 0
-to 0
-be 0
-and 0
-believe 0
-to 0
-be 0
-credible 0
-evidence 0
-of 0
-a 0
-possible 0
-terrorist 0
-nexus, 0
-and 0
-we’re 0
-gonna 0
-have 0
-to 0
-wait… 0
-until 0
-the 0
-situation 0
-develops,” 0
-he 0
-said. 0
+Like 0 118 16
+I 0 118 16
+said, 0 118 16
+nothing 0 118 16
+adds 0 118 16
+up, 0 118 16
+but 0 118 16
+I’m 0 118 16
+just 0 118 16
+telling 0 118 16
+you, 0 118 16
+I 0 118 16
+have 0 118 16
+received 0 118 16
+what 0 118 16
+I 0 118 16
+feel 0 118 16
+to 0 118 16
+be 0 118 16
+and 0 118 16
+believe 0 118 16
+to 0 118 16
+be 0 118 16
+credible 0 118 16
+evidence 0 118 16
+of 0 118 16
+a 0 118 16
+possible 0 118 16
+terrorist 0 118 16
+nexus, 0 118 16
+and 0 118 16
+we’re 0 118 16
+gonna 0 118 16
+have 0 118 16
+to 0 118 16
+wait… 0 118 16
+until 0 118 16
+the 0 118 16
+situation 0 118 16
+develops,” 0 118 16
+he 0 118 16
+said. 0 118 16
 
-The 0
-lawmaker 0
-said 0
-he 0
-wants 0
-the 0
-nation’s 0
-counterterror 0
-agencies 0
-involved 0
-in 0
-the 0
-investigation. 0
+The 0 118 17
+lawmaker 0 118 17
+said 0 118 17
+he 0 118 17
+wants 0 118 17
+the 0 118 17
+nation’s 0 118 17
+counterterror 0 118 17
+agencies 0 118 17
+involved 0 118 17
+in 0 118 17
+the 0 118 17
+investigation. 0 118 17
 
-“If 1
-ISIS 1
-warns 1
-about 1
-an 1
-attack 1
-and 1
-then 1
-an 1
-attack 1
-occurs 1
-and 1
-claims 1
-responsibility 1
-after 1
-the 1
-fact, 1
-it 1
-seems 1
-to 1
-me 1
-that 1
-at 1
-a 1
-minimum, 1
-they 1
-should 1
-have 1
-some 1
-portion 1
-of 1
-the 1
-investigation 1
-to 1
-clearly 1
-debunk 1
-that 1
-claim 1
-and, 1
-yet, 1
-it 1
-hasn’t 1
-happened,” 1
-he 1
-said. 1
+“If 1 118 17
+
+ISIS 1 118 17
+
+warns 1 118 17
+
+about 1 118 17
+
+an 1 118 17
+
+attack 1 118 17
+
+and 1 118 17
+
+then 1 118 17
+
+an 1 118 17
+
+attack 1 118 17
+
+occurs 1 118 17
+
+and 1 118 17
+
+claims 1 118 17
+
+responsibility 1 118 17
+
+after 1 118 17
+
+the 1 118 17
+
+fact, 1 118 17
+
+it 1 118 17
+
+seems 1 118 17
+
+to 1 118 17
+
+me 1 118 17
+
+that 1 118 17
+
+at 1 118 17
+
+a 1 118 17
+
+minimum, 1 118 17
+
+they 1 118 17
+
+should 1 118 17
+
+have 1 118 17
+
+some 1 118 17
+
+portion 1 118 17
+
+of 1 118 17
+
+the 1 118 17
+
+investigation 1 118 17
+
+to 1 118 17
+
+clearly 1 118 17
+
+debunk 1 118 17
+
+that 1 118 17
+
+claim 1 118 17
+
+and, 1 118 17
+
+yet, 1 118 17
+
+it 1 118 17
+
+hasn’t 1 118 17
+
+happened,” 1 118 17
+
+he 1 118 17
+
+said. 1 118 17

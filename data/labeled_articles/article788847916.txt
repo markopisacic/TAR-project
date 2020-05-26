@@ -1,816 +1,824 @@
-Dallas 0
-Chief 0
-Says 0
-She 0
-Can’t 0
-Fire 0
-Amber 0
-Guyger 0
-for 0
-Killing 0
-Botham 0
-Jean 0
-- 0
-Dept 0
-Rules 0
-Imply 0
-Otherwise 0
+Dallas 0 361 0
+Chief 0 361 0
+Says 0 361 0
+She 0 361 0
+Can’t 0 361 0
+Fire 0 361 0
+Amber 0 361 0
+Guyger 0 361 0
+for 0 361 0
+Killing 0 361 0
+Botham 0 361 0
+Jean 0 361 0
+- 0 361 0
+Dept 0 361 0
+Rules 0 361 0
+Imply 0 361 0
+Otherwise 0 361 0
 
-Dallas, 0
-TX 0
-— 0
-As 0
-citizens 0
-call 0
-for 0
-justice 0
-in 0
-the 0
-case 0
-of 0
-Dallas 0
-police 0
-officer 0
-Amber 0
-Guyger 0
-— 0
-the 0
-cop 0
-who 0
-killed 0
-the 0
-innocent 1
-Botham 0
-Jean 0
-in 0
-his 0
-own 0
-home 0
-— 0
-the 0
-controversy 0
-continues 0
-to 0
-grow. 0
+Dallas, 0 361 1
+TX 0 361 1
+— 0 361 1
+As 0 361 1
+citizens 0 361 1
+call 0 361 1
+for 0 361 1
+justice 0 361 1
+in 0 361 1
+the 0 361 1
+case 0 361 1
+of 0 361 1
+Dallas 0 361 1
+police 0 361 1
+officer 0 361 1
+Amber 0 361 1
+Guyger 0 361 1
+— 0 361 1
+the 0 361 1
+cop 0 361 1
+who 0 361 1
+killed 0 361 1
+the 0 361 1
+innocent 1 361 1
+Botham 0 361 1
+Jean 0 361 1
+in 0 361 1
+his 0 361 1
+own 0 361 1
+home 0 361 1
+— 0 361 1
+the 0 361 1
+controversy 0 361 1
+continues 0 361 1
+to 0 361 1
+grow. 0 361 1
 
-In 0
-a 0
-town 0
-hall 0
-meeting 0
-this 0
-week, 0
-citizens 0
-showed 0
-that 0
-they 0
-still 0
-have 0
-a 0
-lot 0
-of 0
-questions 0
-for 0
-the 0
-Dallas 0
-Police 0
-Department 0
-in 0
-regards 0
-to 0
-the 0
-cold-blooded 1
-killing 0
-of 0
-Botham 0
-Jean. 0
+In 0 361 2
+a 0 361 2
+town 0 361 2
+hall 0 361 2
+meeting 0 361 2
+this 0 361 2
+week, 0 361 2
+citizens 0 361 2
+showed 0 361 2
+that 0 361 2
+they 0 361 2
+still 0 361 2
+have 0 361 2
+a 0 361 2
+lot 0 361 2
+of 0 361 2
+questions 0 361 2
+for 0 361 2
+the 0 361 2
+Dallas 0 361 2
+Police 0 361 2
+Department 0 361 2
+in 0 361 2
+regards 0 361 2
+to 0 361 2
+the 0 361 2
+cold-blooded 1 361 2
+killing 0 361 2
+of 0 361 2
+Botham 0 361 2
+Jean. 0 361 2
 
-On 0
-top 0
-of 0
-questions 0
-as 0
-to 0
-why 0
-it 0
-took 0
-several 0
-days 0
-to 0
-arrest 0
-the 0
-cop 0
-— 0
-despite 0
-the 0
-fact 0
-that 0
-Guyger 0
-admitted 0
-to 0
-it 0
-— 0
-were 0
-questions 0
-like 0
-why 0
-this 0
-person 0
-who 0
-has 0
-proven 0
-to 0
-be 0
-a 0
-threat 1
-to 1
-society 1
-has 0
-yet 0
-to 0
-be 0
-fired 0
-from 0
-the 0
-police 0
-force. 0
+On 0 361 3
+top 0 361 3
+of 0 361 3
+questions 0 361 3
+as 0 361 3
+to 0 361 3
+why 0 361 3
+it 0 361 3
+took 0 361 3
+several 0 361 3
+days 0 361 3
+to 0 361 3
+arrest 0 361 3
+the 0 361 3
+cop 0 361 3
+— 0 361 3
+despite 0 361 3
+the 0 361 3
+fact 0 361 3
+that 0 361 3
+Guyger 0 361 3
+admitted 0 361 3
+to 0 361 3
+it 0 361 3
+— 0 361 3
+were 0 361 3
+questions 0 361 3
+like 0 361 3
+why 0 361 3
+this 0 361 3
+person 0 361 3
+who 0 361 3
+has 0 361 3
+proven 0 361 3
+to 0 361 3
+be 0 361 3
+a 0 361 3
+threat 1 361 3
+to 1 361 3
+society 1 361 3
+has 0 361 3
+yet 0 361 3
+to 0 361 3
+be 0 361 3
+fired 0 361 3
+from 0 361 3
+the 0 361 3
+police 0 361 3
+force. 0 361 3
 
-During 0
-the 0
-meeting, 0
-as 0
-Chief 0
-Renee 0
-Hall 0
-dodged 0
-several 0
-questions 0
-over 0
-the 0
-details 0
-of 0
-the 0
-arrest, 0
-she 0
-did 0
-go 0
-out 0
-of 0
-her 0
-way 0
-to 0
-answer 0
-the 0
-question 0
-of 0
-why 0
-Guyger 0
-is 0
-still 0
-collecting 0
-a 0
-paycheck 0
-from 0
-their 0
-department. 0
+During 0 361 4
+the 0 361 4
+meeting, 0 361 4
+as 0 361 4
+Chief 0 361 4
+Renee 0 361 4
+Hall 0 361 4
+dodged 0 361 4
+several 0 361 4
+questions 0 361 4
+over 0 361 4
+the 0 361 4
+details 0 361 4
+of 0 361 4
+the 0 361 4
+arrest, 0 361 4
+she 0 361 4
+did 0 361 4
+go 0 361 4
+out 0 361 4
+of 0 361 4
+her 0 361 4
+way 0 361 4
+to 0 361 4
+answer 0 361 4
+the 0 361 4
+question 0 361 4
+of 0 361 4
+why 0 361 4
+Guyger 0 361 4
+is 0 361 4
+still 0 361 4
+collecting 0 361 4
+a 0 361 4
+paycheck 0 361 4
+from 0 361 4
+their 0 361 4
+department. 0 361 4
 
-The 0
-short 0
-of 0
-it, 0
-according 0
-to 0
-Hall, 0
-is 0
-she 0
-can’t 0
-fire 0
-her. 0
+The 0 361 5
+short 0 361 5
+of 0 361 5
+it, 0 361 5
+according 0 361 5
+to 0 361 5
+Hall, 0 361 5
+is 0 361 5
+she 0 361 5
+can’t 0 361 5
+fire 0 361 5
+her. 0 361 5
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 361 6
+our 0 361 6
+poll 0 361 6
+- 0 361 6
+story 0 361 6
+continues 0 361 6
+below 0 361 6
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 361 7
+should 0 361 7
+replace 0 361 7
+Nikki 0 361 7
+Haley 0 361 7
+as 0 361 7
+our 0 361 7
+ambassador 0 361 7
+to 0 361 7
+the 0 361 7
+U.N.? 0 361 7
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 361 8
+should 0 361 8
+replace 0 361 8
+Nikki 0 361 8
+Haley 0 361 8
+as 0 361 8
+our 0 361 8
+ambassador 0 361 8
+to 0 361 8
+the 0 361 8
+U.N.? 0 361 8
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 361 9
+should 0 361 9
+replace 0 361 9
+Nikki 0 361 9
+Haley 0 361 9
+as 0 361 9
+our 0 361 9
+ambassador 0 361 9
+to 0 361 9
+the 0 361 9
+U.N.? 0 361 9
 
-* 0
-John 0
-Bolton 0
-Richard 0
-Grenell 0
-Dina 0
-Powell 0
-Heather 0
-Nauert 0
-Ivanka 0
-Trump 0
+* 0 361 10
+John 0 361 10
+Bolton 0 361 10
+Richard 0 361 10
+Grenell 0 361 10
+Dina 0 361 10
+Powell 0 361 10
+Heather 0 361 10
+Nauert 0 361 10
+Ivanka 0 361 10
+Trump 0 361 10
 
-Email 0
-* 0
+Email 0 361 11
+* 0 361 11
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 361 12
+This 0 361 12
+field 0 361 12
+is 0 361 12
+for 0 361 12
+validation 0 361 12
+purposes 0 361 12
+and 0 361 12
+should 0 361 12
+be 0 361 12
+left 0 361 12
+unchanged. 0 361 12
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 361 13
+this 0 361 13
+poll 0 361 13
+grants 0 361 13
+you 0 361 13
+access 0 361 13
+to 0 361 13
+Freedom 0 361 13
+Outpost 0 361 13
+updates 0 361 13
+free 0 361 13
+of 0 361 13
+charge. 0 361 13
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 361 14
+may 0 361 14
+opt 0 361 14
+out 0 361 14
+at 0 361 14
+anytime. 0 361 14
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 361 15
+also 0 361 15
+agree 0 361 15
+to 0 361 15
+this 0 361 15
+site's 0 361 15
+Privacy 0 361 15
+Policy 0 361 15
+and 0 361 15
+Terms 0 361 15
+of 0 361 15
+Use. 0 361 15
 
-“I 0
-can’t 0
-do 0
-that 0
-because 0
-there 0
-are 0
-both 0
-local, 0
-state 0
-and 0
-federal 0
-laws 0
-that 0
-prohibit 0
-me 0
-from 0
-taking 0
-action. 0
+“I 0 361 16
+can’t 0 361 16
+do 0 361 16
+that 0 361 16
+because 0 361 16
+there 0 361 16
+are 0 361 16
+both 0 361 16
+local, 0 361 16
+state 0 361 16
+and 0 361 16
+federal 0 361 16
+laws 0 361 16
+that 0 361 16
+prohibit 0 361 16
+me 0 361 16
+from 0 361 16
+taking 0 361 16
+action. 0 361 16
 
-There 0
-are 0
-civil 0
-service 0
-laws 0
-we 0
-have 0
-to 0
-adhere 0
-to,” 0
-said 0
-Hall. 0
+There 0 361 17
+are 0 361 17
+civil 0 361 17
+service 0 361 17
+laws 0 361 17
+we 0 361 17
+have 0 361 17
+to 0 361 17
+adhere 0 361 17
+to,” 0 361 17
+said 0 361 17
+Hall. 0 361 17
 
-But 0
-experts 0
-say 0
-this 0
-is 0
-not 0
-true. 0
+But 0 361 18
+experts 0 361 18
+say 0 361 18
+this 0 361 18
+is 0 361 18
+not 0 361 18
+true. 0 361 18
 
-As 0
-WFAA 0
-reports, 0
-Justin 0
-Moore, 0
-a 0
-civil 0
-rights 0
-attorney 0
-was 0
-a 0
-panelist 0
-at 0
-the 0
-meeting 0
-and 0
-was 0
-surprised 0
-by 0
-the 0
-Chief’s 0
-comments. 0
+As 0 361 19
+WFAA 0 361 19
+reports, 0 361 19
+Justin 0 361 19
+Moore, 0 361 19
+a 0 361 19
+civil 0 361 19
+rights 0 361 19
+attorney 0 361 19
+was 0 361 19
+a 0 361 19
+panelist 0 361 19
+at 0 361 19
+the 0 361 19
+meeting 0 361 19
+and 0 361 19
+was 0 361 19
+surprised 0 361 19
+by 0 361 19
+the 0 361 19
+Chief’s 0 361 19
+comments. 0 361 19
 
-“I 0
-was 0
-completely 0
-mystified, 0
-and 0
-I 0
-really 0
-didn’t 0
-understand 0
-where 0
-it 0
-came 0
-from 0
-last 0
-night. 0
+“I 0 361 20
+was 0 361 20
+completely 0 361 20
+mystified, 0 361 20
+and 0 361 20
+I 0 361 20
+really 0 361 20
+didn’t 0 361 20
+understand 0 361 20
+where 0 361 20
+it 0 361 20
+came 0 361 20
+from 0 361 20
+last 0 361 20
+night. 0 361 20
 
-It 0
-seemed 0
-like 0
-Chief 1
-Hall 1
-might 1
-not 1
-have 1
-been 1
-well 1
-informed 1
-on 1
-the 1
-law,” 1
-said 0
-Moore. 0
+It 0 361 21
+seemed 0 361 21
+like 0 361 21
+Chief 1 361 21
+Hall 1 361 21
+might 1 361 21
+not 1 361 21
+have 1 361 21
+been 1 361 21
+well 1 361 21
+informed 1 361 21
+on 1 361 21
+the 1 361 21
+law,” 1 361 21
+said 0 361 21
+Moore. 0 361 21
 
-WFAA 0
-went 0
-further 0
-and 0
-noted 0
-that 0
-the 0
-“the 0
-Dallas 0
-Police 0
-Department 0
-general 0
-orders 0
-do 0
-allow 0
-the 0
-chief 0
-to 0
-take 0
-action, 0
-saying, 0
-‘The 0
-Chief 0
-of 0
-Police 0
-may 0
-circumvent 0
-all 0
-formal 0
-disciplinary 0
-procedures 0
-to 0
-render 0
-an 0
-immediate 0
-decision 0
-when 0
-it 0
-deems 0
-it 0
-necessary 0
-to 0
-preserve 0
-the 0
-integrity 0
-of 0
-the 0
-department.’” 0
+WFAA 0 361 22
+went 0 361 22
+further 0 361 22
+and 0 361 22
+noted 0 361 22
+that 0 361 22
+the 0 361 22
+“the 0 361 22
+Dallas 0 361 22
+Police 0 361 22
+Department 0 361 22
+general 0 361 22
+orders 0 361 22
+do 0 361 22
+allow 0 361 22
+the 0 361 22
+chief 0 361 22
+to 0 361 22
+take 0 361 22
+action, 0 361 22
+saying, 0 361 22
+‘The 0 361 22
+Chief 0 361 22
+of 0 361 22
+Police 0 361 22
+may 0 361 22
+circumvent 0 361 22
+all 0 361 22
+formal 0 361 22
+disciplinary 0 361 22
+procedures 0 361 22
+to 0 361 22
+render 0 361 22
+an 0 361 22
+immediate 0 361 22
+decision 0 361 22
+when 0 361 22
+it 0 361 22
+deems 0 361 22
+it 0 361 22
+necessary 0 361 22
+to 0 361 22
+preserve 0 361 22
+the 0 361 22
+integrity 0 361 22
+of 0 361 22
+the 0 361 22
+department.’” 0 361 22
 
-Apparently, 0
-this 0
-“integrity” 0
-is 0
-not 0
-worth 0
-preserving 0
-and 0
-the 0
-Dallas 0
-police 0
-are 0
-going 0
-out 0
-of 0
-their 0
-way 0
-to 0
-keep 0
-a 0
-killer 1
-cop 1
-on 0
-their 0
-payroll. 0
+Apparently, 0 361 23
+this 0 361 23
+“integrity” 0 361 23
+is 0 361 23
+not 0 361 23
+worth 0 361 23
+preserving 0 361 23
+and 0 361 23
+the 0 361 23
+Dallas 0 361 23
+police 0 361 23
+are 0 361 23
+going 0 361 23
+out 0 361 23
+of 0 361 23
+their 0 361 23
+way 0 361 23
+to 0 361 23
+keep 0 361 23
+a 0 361 23
+killer 1 361 23
+cop 1 361 23
+on 0 361 23
+their 0 361 23
+payroll. 0 361 23
 
-As 0
-WFAA 0
-pointed 0
-out, 0
-lots 0
-of 0
-cops 0
-across 0
-the 0
-state 0
-who 0
-have 0
-been 0
-under 0
-criminal 0
-investigation 0
-have 0
-been 0
-fired 0
-by 0
-police 0
-chiefs. 0
+As 0 361 24
+WFAA 0 361 24
+pointed 0 361 24
+out, 0 361 24
+lots 0 361 24
+of 0 361 24
+cops 0 361 24
+across 0 361 24
+the 0 361 24
+state 0 361 24
+who 0 361 24
+have 0 361 24
+been 0 361 24
+under 0 361 24
+criminal 0 361 24
+investigation 0 361 24
+have 0 361 24
+been 0 361 24
+fired 0 361 24
+by 0 361 24
+police 0 361 24
+chiefs. 0 361 24
 
-This 0
-includes 0
-cops 0
-within 0
-the 0
-Dallas 0
-police 0
-department. 0
+This 0 361 25
+includes 0 361 25
+cops 0 361 25
+within 0 361 25
+the 0 361 25
+Dallas 0 361 25
+police 0 361 25
+department. 0 361 25
 
-Amy 0
-Wilburn, 0
-a 0
-former 0
-Dallas 1
-cop 1
-shot 1
-an 1
-unarmed 1
-teen 1
-in 0
-the 0
-stomach 0
-as 0
-he 0
-sat 0
-down 0
-with 0
-his 0
-hands 0
-in 0
-the 0
-air 0
-in 0
-2013. 0
+Amy 0 361 26
+Wilburn, 0 361 26
+a 0 361 26
+former 0 361 26
+Dallas 1 361 26
+cop 1 361 26
+shot 1 361 26
+an 1 361 26
+unarmed 1 361 26
+teen 1 361 26
+in 0 361 26
+the 0 361 26
+stomach 0 361 26
+as 0 361 26
+he 0 361 26
+sat 0 361 26
+down 0 361 26
+with 0 361 26
+his 0 361 26
+hands 0 361 26
+in 0 361 26
+the 0 361 26
+air 0 361 26
+in 0 361 26
+2013. 0 361 26
 
-Days 0
-later, 0
-after 0
-her 0
-account 0
-was 0
-found 0
-to 0
-be 0
-entirely 0
-false, 0
-she 0
-was 0
-fired 0
-for 0
-it. 0
+Days 0 361 27
+later, 0 361 27
+after 0 361 27
+her 0 361 27
+account 0 361 27
+was 0 361 27
+found 0 361 27
+to 0 361 27
+be 0 361 27
+entirely 0 361 27
+false, 0 361 27
+she 0 361 27
+was 0 361 27
+fired 0 361 27
+for 0 361 27
+it. 0 361 27
 
-Wilburn 0
-became 0
-the 0
-first 0
-cop 0
-in 0
-41 0
-years 0
-— 0
-since 0
-officer 1
-Darrell 1
-Cain 1
-murdered 1
-a 1
-12-year-old 1
-boy 1
-in 0
-the 0
-back 0
-of 0
-his 0
-squad 0
-car 0
-— 0
-to 0
-be 0
-indicted 0
-for 0
-shooting 0
-a 0
-suspect. 0
+Wilburn 0 361 28
+became 0 361 28
+the 0 361 28
+first 0 361 28
+cop 0 361 28
+in 0 361 28
+41 0 361 28
+years 0 361 28
+— 0 361 28
+since 0 361 28
+officer 1 361 28
+Darrell 1 361 28
+Cain 1 361 28
+murdered 1 361 28
+a 1 361 28
+12-year-old 1 361 28
+boy 1 361 28
+in 0 361 28
+the 0 361 28
+back 0 361 28
+of 0 361 28
+his 0 361 28
+squad 0 361 28
+car 0 361 28
+— 0 361 28
+to 0 361 28
+be 0 361 28
+indicted 0 361 28
+for 0 361 28
+shooting 0 361 28
+a 0 361 28
+suspect. 0 361 28
 
-Also 0
-in 0
-2013, 0
-officer 1
-Cardan 1
-Spencer 1
-shot 1
-a 1
-mentally 1
-ill 1
-man 1
-in 0
-his 0
-driveway. 0
+Also 0 361 29
+in 0 361 29
+2013, 0 361 29
+officer 1 361 29
+Cardan 1 361 29
+Spencer 1 361 29
+shot 1 361 29
+a 1 361 29
+mentally 1 361 29
+ill 1 361 29
+man 1 361 29
+in 0 361 29
+his 0 361 29
+driveway. 0 361 29
 
-Days 0
-later, 0
-he 0
-was 0
-also 0
-fired 0
-after 0
-surveillance 0
-video 0
-proved 0
-he 0
-was 0
-lying 0
-about 0
-what 0
-happened. 0
+Days 0 361 30
+later, 0 361 30
+he 0 361 30
+was 0 361 30
+also 0 361 30
+fired 0 361 30
+after 0 361 30
+surveillance 0 361 30
+video 0 361 30
+proved 0 361 30
+he 0 361 30
+was 0 361 30
+lying 0 361 30
+about 0 361 30
+what 0 361 30
+happened. 0 361 30
 
-So 0
-why 0
-hasn’t 0
-the 0
-chief 0
-fired 0
-Gugyer, 0
-who 0
-has 0
-actually 0
-been 0
-charged, 0
-arrested, 0
-and 0
-admitted 0
-to 0
-killing 0
-an 0
-innocent 1
-man? 0
+So 0 361 31
+why 0 361 31
+hasn’t 0 361 31
+the 0 361 31
+chief 0 361 31
+fired 0 361 31
+Gugyer, 0 361 31
+who 0 361 31
+has 0 361 31
+actually 0 361 31
+been 0 361 31
+charged, 0 361 31
+arrested, 0 361 31
+and 0 361 31
+admitted 0 361 31
+to 0 361 31
+killing 0 361 31
+an 0 361 31
+innocent 1 361 31
+man? 0 361 31
 
-Like 0
-all 0
-those 0
-accused 0
-of 0
-a 0
-crime, 0
-Amber 0
-Guyger 0
-deserves 0
-her 0
-day 0
-in 0
-court. 0
+Like 0 361 32
+all 0 361 32
+those 0 361 32
+accused 0 361 32
+of 0 361 32
+a 0 361 32
+crime, 0 361 32
+Amber 0 361 32
+Guyger 0 361 32
+deserves 0 361 32
+her 0 361 32
+day 0 361 32
+in 0 361 32
+court. 0 361 32
 
-However, 0
-as 0
-far 0
-as 0
-her 0
-job 0
-with 0
-the 0
-department 0
-is 0
-concerned, 0
-she 0
-has 0
-already 0
-proven 0
-that 0
-she 0
-is 0
-no 0
-longer 0
-fit 0
-for 0
-duty, 0
-ever 0
-again. 0
+However, 0 361 33
+as 0 361 33
+far 0 361 33
+as 0 361 33
+her 0 361 33
+job 0 361 33
+with 0 361 33
+the 0 361 33
+department 0 361 33
+is 0 361 33
+concerned, 0 361 33
+she 0 361 33
+has 0 361 33
+already 0 361 33
+proven 0 361 33
+that 0 361 33
+she 0 361 33
+is 0 361 33
+no 0 361 33
+longer 0 361 33
+fit 0 361 33
+for 0 361 33
+duty, 0 361 33
+ever 0 361 33
+again. 0 361 33
 
-WFAA 0
-asked 0
-the 0
-Dallas 0
-Police 0
-Department 0
-for 0
-the 0
-laws 0
-she 0
-cited 0
-claiming 0
-that 0
-she 0
-can’t 0
-fire 0
-Guyger, 0
-but 0
-they 0
-did 0
-not 0
-provide 0
-them. 0
+WFAA 0 361 34
+asked 0 361 34
+the 0 361 34
+Dallas 0 361 34
+Police 0 361 34
+Department 0 361 34
+for 0 361 34
+the 0 361 34
+laws 0 361 34
+she 0 361 34
+cited 0 361 34
+claiming 0 361 34
+that 0 361 34
+she 0 361 34
+can’t 0 361 34
+fire 0 361 34
+Guyger, 0 361 34
+but 0 361 34
+they 0 361 34
+did 0 361 34
+not 0 361 34
+provide 0 361 34
+them. 0 361 34
 
-The 0
-department 0
-did 0
-respond 0
-about 0
-the 0
-general 0
-order 0
-mentioned 0
-by 0
-WFAA, 0
-however, 0
-saying, 0
-“General 0
-order 0
-508 0
-refers 0
-to 0
-the 0
-Police 0
-Chief’s 0
-ability 0
-to 0
-circumvent 0
-the 0
-formal 0
-disciplinary 0
-procedures 0
-not 0
-the 0
-investigative 0
-process.” 0
+The 0 361 35
+department 0 361 35
+did 0 361 35
+respond 0 361 35
+about 0 361 35
+the 0 361 35
+general 0 361 35
+order 0 361 35
+mentioned 0 361 35
+by 0 361 35
+WFAA, 0 361 35
+however, 0 361 35
+saying, 0 361 35
+“General 0 361 35
+order 0 361 35
+508 0 361 35
+refers 0 361 35
+to 0 361 35
+the 0 361 35
+Police 0 361 35
+Chief’s 0 361 35
+ability 0 361 35
+to 0 361 35
+circumvent 0 361 35
+the 0 361 35
+formal 0 361 35
+disciplinary 0 361 35
+procedures 0 361 35
+not 0 361 35
+the 0 361 35
+investigative 0 361 35
+process.” 0 361 35
 
-Exactly 0
-what 0
-“investigative 0
-process” 0
-needs 0
-to 0
-happen 0
-before 0
-they 0
-can 0
-fire 0
-her 0
-remains 0
-unclear 0
-as 0
-this 0
-public 0
-servant 0
-admitted 0
-to 0
-killing 0
-an 0
-innocent 1
-man 0
-in 0
-his 0
-own 0
-home. 0
+Exactly 0 361 36
+what 0 361 36
+“investigative 0 361 36
+process” 0 361 36
+needs 0 361 36
+to 0 361 36
+happen 0 361 36
+before 0 361 36
+they 0 361 36
+can 0 361 36
+fire 0 361 36
+her 0 361 36
+remains 0 361 36
+unclear 0 361 36
+as 0 361 36
+this 0 361 36
+public 0 361 36
+servant 0 361 36
+admitted 0 361 36
+to 0 361 36
+killing 0 361 36
+an 0 361 36
+innocent 1 361 36
+man 0 361 36
+in 0 361 36
+his 0 361 36
+own 0 361 36
+home. 0 361 36
 
-At 0
-the 0
-very 0
-least, 0
-she 0
-should 0
-be 0
-fired 0
-for 0
-this. 0
+At 0 361 37
+the 0 361 37
+very 0 361 37
+least, 0 361 37
+she 0 361 37
+should 0 361 37
+be 0 361 37
+fired 0 361 37
+for 0 361 37
+this. 0 361 37
 
-But 0
-then 0
-again, 0
-as 0
-we’ve 0
-reported 0
-already 0
-this 0
-week, 0
-Amber 0
-Guyger 0
-is 0
-subject 0
-to 0
-a 0
-different 0
-set 0
-of 0
-rules 0
-than 0
-common 0
-citizens, 0
-which 0
-apparently 0
-includes 0
-keeping 0
-a 0
-paycheck 0
-after 0
-admitting 0
-to 0
-killing 0
-an 0
-unarmed, 0
-innocent, 1
-pillar 1
-of 1
-society, 1
-Botham 0
-Jean. 0
+But 0 361 38
+then 0 361 38
+again, 0 361 38
+as 0 361 38
+we’ve 0 361 38
+reported 0 361 38
+already 0 361 38
+this 0 361 38
+week, 0 361 38
+Amber 0 361 38
+Guyger 0 361 38
+is 0 361 38
+subject 0 361 38
+to 0 361 38
+a 0 361 38
+different 0 361 38
+set 0 361 38
+of 0 361 38
+rules 0 361 38
+than 0 361 38
+common 0 361 38
+citizens, 0 361 38
+which 0 361 38
+apparently 0 361 38
+includes 0 361 38
+keeping 0 361 38
+a 0 361 38
+paycheck 0 361 38
+after 0 361 38
+admitting 0 361 38
+to 0 361 38
+killing 0 361 38
+an 0 361 38
+unarmed, 0 361 38
+innocent, 1 361 38
+pillar 1 361 38
+of 1 361 38
+society, 1 361 38
+Botham 0 361 38
+Jean. 0 361 38
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-The 0
-Free 0
-Thought 0
-Project 0
+Article 0 361 38
+
+posted 0 361 38
+
+with 0 361 38
+
+permission 0 361 38
+
+from 0 361 38
+
+The 0 361 38
+
+Free 0 361 38
+
+Thought 0 361 38
+
+Project 0 361 38

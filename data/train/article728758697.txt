@@ -1,333 +1,340 @@
-Dem 0
-Congressman 0
-Praises 0
-Hitler-Loving 0
-Anti-Semite 1
+Dem 0 142 0
+Congressman 0 142 0
+Praises 0 142 0
+Hitler-Loving 0 142 0
+Anti-Semite 1 142 0
 
-The 1
-media 1
-is 1
-very 1
-interested 1
-in 1
-racism. 1
+The 1 142 1
+media 1 142 1
+is 1 142 1
+very 1 142 1
+interested 1 142 1
+in 1 142 1
+racism. 1 142 1
 
-Except 0
-when 0
-it's 0
-coming 0
-from 0
-inside 0
-the 0
-house. 0
+Except 0 142 2
+when 0 142 2
+it's 0 142 2
+coming 0 142 2
+from 0 142 2
+inside 0 142 2
+the 0 142 2
+house. 0 142 2
 
-It's 0
-maintained 0
-a 0
-solid 0
-boycott 0
-on 0
-reporting 0
-on 0
-the 0
-photo 0
-of 0
-Obama 0
-posing 0
-with 0
-Farrakhan. 0
+It's 0 142 3
+maintained 0 142 3
+a 0 142 3
+solid 0 142 3
+boycott 0 142 3
+on 0 142 3
+reporting 0 142 3
+on 0 142 3
+the 0 142 3
+photo 0 142 3
+of 0 142 3
+Obama 0 142 3
+posing 0 142 3
+with 0 142 3
+Farrakhan. 0 142 3
 
-Don't 0
-count 0
-on 0
-these 0
-comments 0
-by 0
-a 0
-Congressional 0
-Black 0
-Cacus 0
-member 0
-to 0
-get 0
-reported 0
-either. 0
+Don't 0 142 4
+count 0 142 4
+on 0 142 4
+these 0 142 4
+comments 0 142 4
+by 0 142 4
+a 0 142 4
+Congressional 0 142 4
+Black 0 142 4
+Cacus 0 142 4
+member 0 142 4
+to 0 142 4
+get 0 142 4
+reported 0 142 4
+either. 0 142 4
 
-Democratic 0
-Illinois 0
-Rep. 0
-Danny 0
-Davis 0
-defended 0
-Nation 0
-of 0
-Islam 0
-leader 0
-Louis 0
-Farrakhan 0
-as 0
-an 0
-“outstanding 0
-human 0
-being” 0
-on 0
-Monday. 0
+Democratic 0 142 5
+Illinois 0 142 5
+Rep. 0 142 5
+Danny 0 142 5
+Davis 0 142 5
+defended 0 142 5
+Nation 0 142 5
+of 0 142 5
+Islam 0 142 5
+leader 0 142 5
+Louis 0 142 5
+Farrakhan 0 142 5
+as 0 142 5
+an 0 142 5
+“outstanding 0 142 5
+human 0 142 5
+being” 0 142 5
+on 0 142 5
+Monday. 0 142 5
 
-Farrakhan’s 0
-history 0
-of 0
-racially 0
-extreme 0
-comments 0
-includes 0
-blaming 0
-Jews 0
-for 0
-the 0
-September 0
-11 0
-attacks, 0
-saying 0
-white 0
-people 0
-“deserve 0
-to 0
-die” 0
-and 0
-praising 0
-Adolf 0
-Hitler 0
-as 0
-a 0
-“very 0
-great 0
-man.” 0
-“I 0
-personally 0
-know 0
-[Farrakhan], 0
-I’ve 0
-been 0
-to 0
-his 0
-home, 0
-done 0
-meetings, 0
-participated 0
-in 0
-events 0
-with 0
-him,” 0
-Davis 0
-told 0
-TheDC. 0
+Farrakhan’s 0 142 6
+history 0 142 6
+of 0 142 6
+racially 0 142 6
+extreme 0 142 6
+comments 0 142 6
+includes 0 142 6
+blaming 0 142 6
+Jews 0 142 6
+for 0 142 6
+the 0 142 6
+September 0 142 6
+11 0 142 6
+attacks, 0 142 6
+saying 0 142 6
+white 0 142 6
+people 0 142 6
+“deserve 0 142 6
+to 0 142 6
+die” 0 142 6
+and 0 142 6
+praising 0 142 6
+Adolf 0 142 6
+Hitler 0 142 6
+as 0 142 6
+a 0 142 6
+“very 0 142 6
+great 0 142 6
+man.” 0 142 6
+“I 0 142 6
+personally 0 142 6
+know 0 142 6
+[Farrakhan], 0 142 6
+I’ve 0 142 6
+been 0 142 6
+to 0 142 6
+his 0 142 6
+home, 0 142 6
+done 0 142 6
+meetings, 0 142 6
+participated 0 142 6
+in 0 142 6
+events 0 142 6
+with 0 142 6
+him,” 0 142 6
+Davis 0 142 6
+told 0 142 6
+TheDC. 0 142 6
 
-“I 0
-don’t 0
-regard 0
-Louis 0
-Farrakhan 0
-as 0
-an 0
-aberration 0
-or 0
-anything, 0
-I 1
-regard 1
-him 1
-as 1
-an 1
-outstanding 1
-human 1
-being 1
-who 1
-commands 1
-a 1
-following 1
-of 1
-individuals 1
-who 1
-are 1
-learned 1
-and 1
-articulate 1
-and 1
-he 1
-plays 1
-a 1
-big 1
-role 1
-in 1
-the 1
-lives 1
-of 1
-thousands 1
-and 1
-thousands 1
-and 1
-thousands 1
-and 1
-thousands 1
-of 1
-people,” 1
-he 0
-emphasized 0
-later. 0
+“I 0 142 7
+don’t 0 142 7
+regard 0 142 7
+Louis 0 142 7
+Farrakhan 0 142 7
+as 0 142 7
+an 0 142 7
+aberration 0 142 7
+or 0 142 7
+anything, 0 142 7
+I 1 142 7
+regard 1 142 7
+him 1 142 7
+as 1 142 7
+an 1 142 7
+outstanding 1 142 7
+human 1 142 7
+being 1 142 7
+who 1 142 7
+commands 1 142 7
+a 1 142 7
+following 1 142 7
+of 1 142 7
+individuals 1 142 7
+who 1 142 7
+are 1 142 7
+learned 1 142 7
+and 1 142 7
+articulate 1 142 7
+and 1 142 7
+he 1 142 7
+plays 1 142 7
+a 1 142 7
+big 1 142 7
+role 1 142 7
+in 1 142 7
+the 1 142 7
+lives 1 142 7
+of 1 142 7
+thousands 1 142 7
+and 1 142 7
+thousands 1 142 7
+and 1 142 7
+thousands 1 142 7
+and 1 142 7
+thousands 1 142 7
+of 1 142 7
+people,” 1 142 7
+he 0 142 7
+emphasized 0 142 7
+later. 0 142 7
 
-When 0
-asked 0
-about 0
-Farrakhan’s 0
-history 0
-of 0
-anti-Semitic 0
-comments, 0
-Davis 0
-was 0
-dismissive 0
-and 0
-said 0
-that 0
-many 0
-people 0
-in 0
-politics 0
-have 0
-a 0
-history 0
-of 0
-inflammatory 0
-comments. 0
+When 0 142 8
+asked 0 142 8
+about 0 142 8
+Farrakhan’s 0 142 8
+history 0 142 8
+of 0 142 8
+anti-Semitic 0 142 8
+comments, 0 142 8
+Davis 0 142 8
+was 0 142 8
+dismissive 0 142 8
+and 0 142 8
+said 0 142 8
+that 0 142 8
+many 0 142 8
+people 0 142 8
+in 0 142 8
+politics 0 142 8
+have 0 142 8
+a 0 142 8
+history 0 142 8
+of 0 142 8
+inflammatory 0 142 8
+comments. 0 142 8
 
-Like 0
-this. 0
+Like 0 142 9
+this. 0 142 9
 
-Farrakhan 1
-had 1
-praised 1
-Hitler 1
-and 1
-declared 1
-that 1
-the 1
-Jews, 1
-"can't 1
-say 1
-'Never 1
-Again' 1
-to 1
-God, 1
-because 1
-when 1
-he 1
-puts 1
-you 1
-in 1
-the 1
-ovens, 1
-you're 1
-there 1
-forever.” 1
+Farrakhan 1 142 10
+had 1 142 10
+praised 1 142 10
+Hitler 1 142 10
+and 1 142 10
+declared 1 142 10
+that 1 142 10
+the 1 142 10
+Jews, 1 142 10
+"can't 1 142 10
+say 1 142 10
+'Never 1 142 10
+Again' 1 142 10
+to 1 142 10
+God, 1 142 10
+because 1 142 10
+when 1 142 10
+he 1 142 10
+puts 1 142 10
+you 1 142 10
+in 1 142 10
+the 1 142 10
+ovens, 1 142 10
+you're 1 142 10
+there 1 142 10
+forever.” 1 142 10
 
-"Here 1
-come 1
-the 1
-Jews. 1
+"Here 1 142 11
+come 1 142 11
+the 1 142 11
+Jews. 1 142 11
 
-They 1
-don't 1
-like 1
-Farrakhan, 1
-so 1
-they 1
-call 1
-me 1
-Hitler. 1
+They 1 142 12
+don't 1 142 12
+like 1 142 12
+Farrakhan, 1 142 12
+so 1 142 12
+they 1 142 12
+call 1 142 12
+me 1 142 12
+Hitler. 1 142 12
 
-Well, 1
-that's 1
-a 1
-good 1
-name. 1
+Well, 1 142 13
+that's 1 142 13
+a 1 142 13
+good 1 142 13
+name. 1 142 13
 
-Hitler 1
-was 1
-a 1
-very 1
-great 1
-man." 1
+Hitler 1 142 14
+was 1 142 14
+a 1 142 14
+very 1 142 14
+great 1 142 14
+man." 1 142 14
 
-Would 1
-a 1
-Republican 1
-get 1
-a 1
-pass 1
-on 1
-meeting 1
-with 1
-a 1
-racist 1
-hate 1
-group 1
-leader? 1
+Would 1 142 15
+a 1 142 15
+Republican 1 142 15
+get 1 142 15
+a 1 142 15
+pass 1 142 15
+on 1 142 15
+meeting 1 142 15
+with 1 142 15
+a 1 142 15
+racist 1 142 15
+hate 1 142 15
+group 1 142 15
+leader? 1 142 15
 
-Obviously 1
-not. 1
+Obviously 1 142 16
+not. 1 142 16
 
-Obama's 0
-meeting 0
-with 0
-Farrakhan 0
-was 0
-part 0
-of 0
-a 0
-CBC 0
-event. 0
+Obama's 0 142 17
+meeting 0 142 17
+with 0 142 17
+Farrakhan 0 142 17
+was 0 142 17
+part 0 142 17
+of 0 142 17
+a 0 142 17
+CBC 0 142 17
+event. 0 142 17
 
-The 0
-Caucus 0
-has 0
-yet 0
-to 0
-apologize 0
-for 0
-it. 0
+The 0 142 18
+Caucus 0 142 18
+has 0 142 18
+yet 0 142 18
+to 0 142 18
+apologize 0 142 18
+for 0 142 18
+it. 0 142 18
 
-Don't 1
-expect 1
-it 1
-to 1
-condemn 1
-Rep. 1
-Davis' 1
-comments. 1
+Don't 1 142 19
+expect 1 142 19
+it 1 142 19
+to 1 142 19
+condemn 1 142 19
+Rep. 1 142 19
+Davis' 1 142 19
+comments. 1 142 19
 
-He 1
-was 1
-just 1
-saying 1
-what 1
-most 1
-of 1
-them 1
-think. 1
+He 1 142 20
+was 1 142 20
+just 1 142 20
+saying 1 142 20
+what 1 142 20
+most 1 142 20
+of 1 142 20
+them 1 142 20
+think. 1 142 20
 
-The 1
-media 1
-is 1
-happy 1
-to 1
-talk 1
-about 1
-anti-Semitism. 1
+The 1 142 21
+media 1 142 21
+is 1 142 21
+happy 1 142 21
+to 1 142 21
+talk 1 142 21
+about 1 142 21
+anti-Semitism. 1 142 21
 
-It 0
-just 0
-won't 0
-address 0
-left-wing 0
-anti-Semitism 0
-and 0
-racism. 0
+It 0 142 21
+
+just 0 142 21
+
+won't 0 142 21
+
+address 0 142 21
+
+left-wing 0 142 21
+
+anti-Semitism 0 142 21
+
+and 0 142 21
+
+racism. 0 142 21

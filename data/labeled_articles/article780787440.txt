@@ -1,766 +1,777 @@
-Pope 0
-admits 0
-Catholic 0
-Church 0
-has 0
-‘long 0
-ignored’ 0
-problem 0
-of 0
-child 0
-abuse 0
+Pope 0 79 0
+admits 0 79 0
+Catholic 0 79 0
+Church 0 79 0
+has 0 79 0
+‘long 0 79 0
+ignored’ 0 79 0
+problem 0 79 0
+of 0 79 0
+child 0 79 0
+abuse 0 79 0
 
-VATICAN 0
-CITY 0
-— 0
-Pope 0
-Francis 0
-on 0
-Monday 0
-asked 0
-forgiveness 0
-for 0
-child 0
-abuse 0
-crimes 0
-and 0
-cover-ups 0
-within 0
-the 0
-Catholic 0
-Church, 0
-admitting 0
-that 0
-the 0
-pain 0
-of 0
-victims 0
-“was 0
-long 0
-ignored, 0
-kept 0
-quiet 0
-or 0
-silenced.” 0
+VATICAN 0 79 1
+CITY 0 79 1
+— 0 79 1
+Pope 0 79 1
+Francis 0 79 1
+on 0 79 1
+Monday 0 79 1
+asked 0 79 1
+forgiveness 0 79 1
+for 0 79 1
+child 0 79 1
+abuse 0 79 1
+crimes 0 79 1
+and 0 79 1
+cover-ups 0 79 1
+within 0 79 1
+the 0 79 1
+Catholic 0 79 1
+Church, 0 79 1
+admitting 0 79 1
+that 0 79 1
+the 0 79 1
+pain 0 79 1
+of 0 79 1
+victims 0 79 1
+“was 0 79 1
+long 0 79 1
+ignored, 0 79 1
+kept 0 79 1
+quiet 0 79 1
+or 0 79 1
+silenced.” 0 79 1
 
-The 0
-strongly 0
-worded 0
-statement 0
-came 0
-ahead 0
-of 0
-an 0
-Aug. 0
-25-26 0
-papal 0
-pilgrimage 0
-to 0
-Ireland, 0
-one 0
-of 0
-the 0
-countries 0
-rocked 1
-by 1
-clergy 1
-sex 1
-abuse 1
-scandals, 1
-and 0
-followed 0
-an 0
-expose 0
-of 0
-pedophile 0
-priests 0
-in 0
-the 0
-U.S. 0
+The 0 79 2
+strongly 0 79 2
+worded 0 79 2
+statement 0 79 2
+came 0 79 2
+ahead 0 79 2
+of 0 79 2
+an 0 79 2
+Aug. 0 79 2
+25-26 0 79 2
+papal 0 79 2
+pilgrimage 0 79 2
+to 0 79 2
+Ireland, 0 79 2
+one 0 79 2
+of 0 79 2
+the 0 79 2
+countries 0 79 2
+rocked 1 79 2
+by 1 79 2
+clergy 1 79 2
+sex 1 79 2
+abuse 1 79 2
+scandals, 1 79 2
+and 0 79 2
+followed 0 79 2
+an 0 79 2
+expose 0 79 2
+of 0 79 2
+pedophile 0 79 2
+priests 0 79 2
+in 0 79 2
+the 0 79 2
+U.S. 0 79 2
 
-“The 1
-heart-wrenching 1
-pain 1
-of 0
-these 0
-victims, 0
-which 1
-cries 1
-out 1
-to 1
-heaven, 1
-was 0
-long 0
-ignored, 0
-kept 0
-quiet 0
-or 0
-silenced,” 0
-Francis 0
-said 0
-in 0
-a 0
-Letter 0
-to 0
-the 0
-People 0
-of 0
-God, 0
-a 0
-rarely-issued 0
-address 0
-to 0
-the 0
-world’s 0
-1.3 0
-billion 0
-Catholics. 0
+“The 1 79 3
+heart-wrenching 1 79 3
+pain 1 79 3
+of 0 79 3
+these 0 79 3
+victims, 0 79 3
+which 1 79 3
+cries 1 79 3
+out 1 79 3
+to 1 79 3
+heaven, 1 79 3
+was 0 79 3
+long 0 79 3
+ignored, 0 79 3
+kept 0 79 3
+quiet 0 79 3
+or 0 79 3
+silenced,” 0 79 3
+Francis 0 79 3
+said 0 79 3
+in 0 79 3
+a 0 79 3
+Letter 0 79 3
+to 0 79 3
+the 0 79 3
+People 0 79 3
+of 0 79 3
+God, 0 79 3
+a 0 79 3
+rarely-issued 0 79 3
+address 0 79 3
+to 0 79 3
+the 0 79 3
+world’s 0 79 3
+1.3 0 79 3
+billion 0 79 3
+Catholics. 0 79 3
 
-On 0
-Aug. 0
-17, 0
-a 0
-Pennsylvania 0
-grand 0
-jury 0
-report, 0
-based 0
-on 0
-hidden 0
-archives 0
-of 0
-the 0
-U.S. 0
-church, 0
-named 0
-301 0
-priests 0
-from 0
-the 0
-state 0
-as 0
-credibly 1
-accused 1
-child 1
-sex 1
-abusers 1
-and 0
-accused 0
-church 0
-leaders 0
-of 0
-a 0
-systematic 0
-cover-up 0
-of 0
-their 0
-crimes. 0
+On 0 79 4
+Aug. 0 79 4
+17, 0 79 4
+a 0 79 4
+Pennsylvania 0 79 4
+grand 0 79 4
+jury 0 79 4
+report, 0 79 4
+based 0 79 4
+on 0 79 4
+hidden 0 79 4
+archives 0 79 4
+of 0 79 4
+the 0 79 4
+U.S. 0 79 4
+church, 0 79 4
+named 0 79 4
+301 0 79 4
+priests 0 79 4
+from 0 79 4
+the 0 79 4
+state 0 79 4
+as 0 79 4
+credibly 1 79 4
+accused 1 79 4
+child 1 79 4
+sex 1 79 4
+abusers 1 79 4
+and 0 79 4
+accused 0 79 4
+church 0 79 4
+leaders 0 79 4
+of 0 79 4
+a 0 79 4
+systematic 0 79 4
+cover-up 0 79 4
+of 0 79 4
+their 0 79 4
+crimes. 0 79 4
 
-The 0
-report 0
-“detailed 0
-the 0
-experiences 0
-of 0
-at 0
-least 0
-a 0
-thousand 0
-survivors, 0
-victims 0
-of 0
-sexual 0
-abuse, 0
-the 0
-abuse 0
-of 0
-power 0
-and 0
-of 0
-conscience 0
-at 0
-the 0
-hands 0
-of 0
-priests 0
-over 0
-a 0
-period 0
-of 0
-approximately 0
-seventy 0
-years,” 0
-Francis 0
-acknowledged. 0
+The 0 79 5
+report 0 79 5
+“detailed 0 79 5
+the 0 79 5
+experiences 0 79 5
+of 0 79 5
+at 0 79 5
+least 0 79 5
+a 0 79 5
+thousand 0 79 5
+survivors, 0 79 5
+victims 0 79 5
+of 0 79 5
+sexual 0 79 5
+abuse, 0 79 5
+the 0 79 5
+abuse 0 79 5
+of 0 79 5
+power 0 79 5
+and 0 79 5
+of 0 79 5
+conscience 0 79 5
+at 0 79 5
+the 0 79 5
+hands 0 79 5
+of 0 79 5
+priests 0 79 5
+over 0 79 5
+a 0 79 5
+period 0 79 5
+of 0 79 5
+approximately 0 79 5
+seventy 0 79 5
+years,” 0 79 5
+Francis 0 79 5
+acknowledged. 0 79 5
 
-“It 1
-is 1
-essential 1
-that 1
-we, 1
-as 1
-a 1
-Church, 1
-be 1
-able 1
-to 1
-acknowledge 1
-and 1
-condemn, 1
-with 1
-sorrow 1
-and 1
-shame, 1
-the 1
-atrocities 1
-perpetrated 1
-by 1
-consecrated 1
-persons, 1
-clerics, 1
-and 1
-all 1
-those 1
-entrusted 1
-with 1
-the 1
-mission 1
-of 1
-watching 1
-over 1
-and 1
-caring 1
-for 1
-those 1
-most 1
-vulnerable,” 1
-he 0
-said. 0
+“It 1 79 6
+is 1 79 6
+essential 1 79 6
+that 1 79 6
+we, 1 79 6
+as 1 79 6
+a 1 79 6
+Church, 1 79 6
+be 1 79 6
+able 1 79 6
+to 1 79 6
+acknowledge 1 79 6
+and 1 79 6
+condemn, 1 79 6
+with 1 79 6
+sorrow 1 79 6
+and 1 79 6
+shame, 1 79 6
+the 1 79 6
+atrocities 1 79 6
+perpetrated 1 79 6
+by 1 79 6
+consecrated 1 79 6
+persons, 1 79 6
+clerics, 1 79 6
+and 1 79 6
+all 1 79 6
+those 1 79 6
+entrusted 1 79 6
+with 1 79 6
+the 1 79 6
+mission 1 79 6
+of 1 79 6
+watching 1 79 6
+over 1 79 6
+and 1 79 6
+caring 1 79 6
+for 1 79 6
+those 1 79 6
+most 1 79 6
+vulnerable,” 1 79 6
+he 0 79 6
+said. 0 79 6
 
-“Let 0
-us 0
-beg 0
-forgiveness 0
-for 0
-our 0
-own 0
-sins 0
-and 0
-the 0
-sins 0
-of 0
-others,” 0
-he 0
-added. 0
+“Let 0 79 7
+us 0 79 7
+beg 0 79 7
+forgiveness 0 79 7
+for 0 79 7
+our 0 79 7
+own 0 79 7
+sins 0 79 7
+and 0 79 7
+the 0 79 7
+sins 0 79 7
+of 0 79 7
+others,” 0 79 7
+he 0 79 7
+added. 0 79 7
 
-In 0
-the 0
-run-up 0
-to 0
-Francis’ 0
-visit 0
-to 0
-Ireland, 0
-the 0
-head 0
-of 0
-the 0
-Irish 0
-Catholic 0
-Church, 0
-Archbishop 0
-Eamon 0
-Martin, 0
-said 0
-he 0
-expected 0
-the 0
-pope 0
-to 0
-meet 0
-with 0
-victims 0
-of 0
-clergy 0
-sex 0
-abuse 0
-and 0
-to 0
-promise 0
-effective 0
-remedies. 0
+In 0 79 8
+the 0 79 8
+run-up 0 79 8
+to 0 79 8
+Francis’ 0 79 8
+visit 0 79 8
+to 0 79 8
+Ireland, 0 79 8
+the 0 79 8
+head 0 79 8
+of 0 79 8
+the 0 79 8
+Irish 0 79 8
+Catholic 0 79 8
+Church, 0 79 8
+Archbishop 0 79 8
+Eamon 0 79 8
+Martin, 0 79 8
+said 0 79 8
+he 0 79 8
+expected 0 79 8
+the 0 79 8
+pope 0 79 8
+to 0 79 8
+meet 0 79 8
+with 0 79 8
+victims 0 79 8
+of 0 79 8
+clergy 0 79 8
+sex 0 79 8
+abuse 0 79 8
+and 0 79 8
+to 0 79 8
+promise 0 79 8
+effective 0 79 8
+remedies. 0 79 8
 
-“I’m 1
-not 1
-sure 1
-what 1
-his 1
-words 1
-will 1
-be 1
-and 1
-I’m 1
-not 1
-sure 1
-that 1
-a 1
-simple 1
-apology 1
-is 1
-what 1
-survivors 1
-of 1
-abuse 1
-want,” 1
-Martin 0
-said 0
-in 0
-a 0
-BBC 0
-interview. 0
+“I’m 1 79 9
+not 1 79 9
+sure 1 79 9
+what 1 79 9
+his 1 79 9
+words 1 79 9
+will 1 79 9
+be 1 79 9
+and 1 79 9
+I’m 1 79 9
+not 1 79 9
+sure 1 79 9
+that 1 79 9
+a 1 79 9
+simple 1 79 9
+apology 1 79 9
+is 1 79 9
+what 1 79 9
+survivors 1 79 9
+of 1 79 9
+abuse 1 79 9
+want,” 1 79 9
+Martin 0 79 9
+said 0 79 9
+in 0 79 9
+a 0 79 9
+BBC 0 79 9
+interview. 0 79 9
 
-“If 1
-he 1
-expresses 1
-an 1
-apology, 1
-it 1
-needs 1
-to 1
-be 1
-more 1
-than 1
-‘we’re 1
-sorry,’” 1
-he 0
-added. 0
+“If 1 79 10
+he 1 79 10
+expresses 1 79 10
+an 1 79 10
+apology, 1 79 10
+it 1 79 10
+needs 1 79 10
+to 1 79 10
+be 1 79 10
+more 1 79 10
+than 1 79 10
+‘we’re 1 79 10
+sorry,’” 1 79 10
+he 0 79 10
+added. 0 79 10
 
-In 0
-his 0
-letter, 0
-Francis 0
-repeated 0
-a 0
-famous 0
-2005 0
-quote 0
-by 0
-his 0
-predecessor 0
-Benedict 0
-XVI, 0
-who, 0
-a 0
-month 0
-before 0
-being 0
-elected 0
-pope, 0
-lamented 0
-“how 1
-much 1
-filth” 1
-there 0
-was 0
-in 0
-the 0
-Catholic 0
-Church. 0
+In 0 79 11
+his 0 79 11
+letter, 0 79 11
+Francis 0 79 11
+repeated 0 79 11
+a 0 79 11
+famous 0 79 11
+2005 0 79 11
+quote 0 79 11
+by 0 79 11
+his 0 79 11
+predecessor 0 79 11
+Benedict 0 79 11
+XVI, 0 79 11
+who, 0 79 11
+a 0 79 11
+month 0 79 11
+before 0 79 11
+being 0 79 11
+elected 0 79 11
+pope, 0 79 11
+lamented 0 79 11
+“how 1 79 11
+much 1 79 11
+filth” 1 79 11
+there 0 79 11
+was 0 79 11
+in 0 79 11
+the 0 79 11
+Catholic 0 79 11
+Church. 0 79 11
 
-“With 1
-shame 1
-and 1
-repentance, 1
-we 1
-acknowledge 1
-as 1
-an 1
-ecclesial 1
-community 1
-that 1
-we 1
-were 1
-not 1
-where 1
-we 1
-should 1
-have 1
-been, 1
-that 1
-we 1
-did 1
-not 1
-act 1
-in 1
-a 1
-timely 1
-manner, 1
-realizing 1
-the 1
-magnitude 1
-and 1
-the 1
-gravity 1
-of 1
-the 1
-damage 1
-done 1
-to 1
-so 1
-many 1
-lives. 1
+“With 1 79 12
+shame 1 79 12
+and 1 79 12
+repentance, 1 79 12
+we 1 79 12
+acknowledge 1 79 12
+as 1 79 12
+an 1 79 12
+ecclesial 1 79 12
+community 1 79 12
+that 1 79 12
+we 1 79 12
+were 1 79 12
+not 1 79 12
+where 1 79 12
+we 1 79 12
+should 1 79 12
+have 1 79 12
+been, 1 79 12
+that 1 79 12
+we 1 79 12
+did 1 79 12
+not 1 79 12
+act 1 79 12
+in 1 79 12
+a 1 79 12
+timely 1 79 12
+manner, 1 79 12
+realizing 1 79 12
+the 1 79 12
+magnitude 1 79 12
+and 1 79 12
+the 1 79 12
+gravity 1 79 12
+of 1 79 12
+the 1 79 12
+damage 1 79 12
+done 1 79 12
+to 1 79 12
+so 1 79 12
+many 1 79 12
+lives. 1 79 12
 
-We 1
-showed 1
-no 1
-care 1
-for 1
-the 1
-little 1
-ones; 1
-we 1
-abandoned 1
-them,” 1
-Francis 0
-said. 0
+We 1 79 13
+showed 1 79 13
+no 1 79 13
+care 1 79 13
+for 1 79 13
+the 1 79 13
+little 1 79 13
+ones; 1 79 13
+we 1 79 13
+abandoned 1 79 13
+them,” 1 79 13
+Francis 0 79 13
+said. 0 79 13
 
-“Looking 0
-back 0
-to 0
-the 0
-past, 0
-no 1
-effort 1
-to 1
-beg 1
-pardon 1
-and 1
-to 1
-seek 1
-to 1
-repair 1
-the 1
-harm 1
-done 1
-will 1
-ever 1
-be 1
-sufficient. 1
+“Looking 0 79 14
+back 0 79 14
+to 0 79 14
+the 0 79 14
+past, 0 79 14
+no 1 79 14
+effort 1 79 14
+to 1 79 14
+beg 1 79 14
+pardon 1 79 14
+and 1 79 14
+to 1 79 14
+seek 1 79 14
+to 1 79 14
+repair 1 79 14
+the 1 79 14
+harm 1 79 14
+done 1 79 14
+will 1 79 14
+ever 1 79 14
+be 1 79 14
+sufficient. 1 79 14
 
-Looking 0
-ahead 0
-to 0
-the 0
-future, 0
-no 0
-effort 0
-must 0
-be 0
-spared 0
-to 0
-create 0
-a 0
-culture 0
-able 0
-to 0
-prevent 0
-such 0
-situations 0
-from 0
-happening, 0
-but 0
-also 0
-to 0
-prevent 0
-the 0
-possibility 0
-of 0
-their 0
-being 0
-covered 0
-up 0
-and 0
-perpetuated,” 0
-he 0
-added. 0
+Looking 0 79 15
+ahead 0 79 15
+to 0 79 15
+the 0 79 15
+future, 0 79 15
+no 0 79 15
+effort 0 79 15
+must 0 79 15
+be 0 79 15
+spared 0 79 15
+to 0 79 15
+create 0 79 15
+a 0 79 15
+culture 0 79 15
+able 0 79 15
+to 0 79 15
+prevent 0 79 15
+such 0 79 15
+situations 0 79 15
+from 0 79 15
+happening, 0 79 15
+but 0 79 15
+also 0 79 15
+to 0 79 15
+prevent 0 79 15
+the 0 79 15
+possibility 0 79 15
+of 0 79 15
+their 0 79 15
+being 0 79 15
+covered 0 79 15
+up 0 79 15
+and 0 79 15
+perpetuated,” 0 79 15
+he 0 79 15
+added. 0 79 15
 
-Colm 0
-O’Gorman, 0
-an 0
-Irish 0
-abuse 0
-survivor 0
-who 0
-founded 0
-One 0
-in 0
-Four, 0
-the 0
-main 0
-survivors’ 0
-group 0
-in 0
-Ireland, 0
-commented 0
-on 0
-Twitter 0
-that 0
-the 0
-pope 0
-offered 0
-“Much 0
-stronger 0
-language 0
-than 0
-ever 0
-used 0
-before.” 0
+Colm 0 79 16
+O’Gorman, 0 79 16
+an 0 79 16
+Irish 0 79 16
+abuse 0 79 16
+survivor 0 79 16
+who 0 79 16
+founded 0 79 16
+One 0 79 16
+in 0 79 16
+Four, 0 79 16
+the 0 79 16
+main 0 79 16
+survivors’ 0 79 16
+group 0 79 16
+in 0 79 16
+Ireland, 0 79 16
+commented 0 79 16
+on 0 79 16
+Twitter 0 79 16
+that 0 79 16
+the 0 79 16
+pope 0 79 16
+offered 0 79 16
+“Much 0 79 16
+stronger 0 79 16
+language 0 79 16
+than 0 79 16
+ever 0 79 16
+used 0 79 16
+before.” 0 79 16
 
-But 0
-O’Gorman 0
-added: 0
-“(The 1
-pope) 1
-begs 1
-for 1
-forgiveness, 1
-but 1
-still 1
-does 1
-not 1
-admit 1
-or 1
-own 1
-the 1
-deliberate 1
-policy 1
-of 1
-cover 1
-up 1
-designed 1
-& 1
-implemented 1
-by 1
-the 1
-#Vatican.” 1
+But 0 79 17
+O’Gorman 0 79 17
+added: 0 79 17
+“(The 1 79 17
+pope) 1 79 17
+begs 1 79 17
+for 1 79 17
+forgiveness, 1 79 17
+but 1 79 17
+still 1 79 17
+does 1 79 17
+not 1 79 17
+admit 1 79 17
+or 1 79 17
+own 1 79 17
+the 1 79 17
+deliberate 1 79 17
+policy 1 79 17
+of 1 79 17
+cover 1 79 17
+up 1 79 17
+designed 1 79 17
+& 1 79 17
+implemented 1 79 17
+by 1 79 17
+the 1 79 17
+#Vatican.” 1 79 17
 
-Like 1
-his 1
-predecessor, 1
-Francis 1
-has 1
-promised 1
-“zero 1
-tolerance” 1
-on 1
-child 1
-abuse, 1
-but 1
-scandals 1
-have 1
-kept 1
-recurring 1
-in 1
-several 1
-parts 1
-of 1
-the 1
-world 1
-— 1
-including 1
-in 1
-Australia 1
-recently. 1
+Like 1 79 18
+his 1 79 18
+predecessor, 1 79 18
+Francis 1 79 18
+has 1 79 18
+promised 1 79 18
+“zero 1 79 18
+tolerance” 1 79 18
+on 1 79 18
+child 1 79 18
+abuse, 1 79 18
+but 1 79 18
+scandals 1 79 18
+have 1 79 18
+kept 1 79 18
+recurring 1 79 18
+in 1 79 18
+several 1 79 18
+parts 1 79 18
+of 1 79 18
+the 1 79 18
+world 1 79 18
+— 1 79 18
+including 1 79 18
+in 1 79 18
+Australia 1 79 18
+recently. 1 79 18
 
-In 0
-January, 0
-the 0
-pope 0
-was 0
-accused 0
-of 0
-insensitivity 0
-and 0
-tone-deafness 0
-after 0
-insisting, 0
-during 0
-a 0
-visit 0
-to 0
-Chile, 0
-that 0
-local 0
-abuse 0
-survivors 0
-had 0
-no 0
-“proof” 0
-against 0
-a 0
-bishop 0
-who 0
-allegedly 0
-witnessed 0
-abuse 0
-and 0
-failed 0
-to 0
-report 0
-it. 0
+In 0 79 19
+January, 0 79 19
+the 0 79 19
+pope 0 79 19
+was 0 79 19
+accused 0 79 19
+of 0 79 19
+insensitivity 0 79 19
+and 0 79 19
+tone-deafness 0 79 19
+after 0 79 19
+insisting, 0 79 19
+during 0 79 19
+a 0 79 19
+visit 0 79 19
+to 0 79 19
+Chile, 0 79 19
+that 0 79 19
+local 0 79 19
+abuse 0 79 19
+survivors 0 79 19
+had 0 79 19
+no 0 79 19
+“proof” 0 79 19
+against 0 79 19
+a 0 79 19
+bishop 0 79 19
+who 0 79 19
+allegedly 0 79 19
+witnessed 0 79 19
+abuse 0 79 19
+and 0 79 19
+failed 0 79 19
+to 0 79 19
+report 0 79 19
+it. 0 79 19
 
-Following 0
-an 0
-outcry, 1
-Francis 0
-apologized 0
-for 0
-his 0
-remarks, 0
-held 0
-private 0
-meetings 0
-with 0
-victims 0
-at 0
-the 0
-Vatican, 0
-and, 0
-after 0
-envoys 0
-he 0
-sent 0
-to 0
-Chile 0
-backed 0
-up 0
-victims’ 0
-claims, 0
-the 0
-entire 0
-leadership 0
-of 0
-the 0
-Chilean 0
-Catholic 0
-church 0
-tendered 0
-their 0
-resignations. 0
+Following 0 79 20
+an 0 79 20
+outcry, 1 79 20
+Francis 0 79 20
+apologized 0 79 20
+for 0 79 20
+his 0 79 20
+remarks, 0 79 20
+held 0 79 20
+private 0 79 20
+meetings 0 79 20
+with 0 79 20
+victims 0 79 20
+at 0 79 20
+the 0 79 20
+Vatican, 0 79 20
+and, 0 79 20
+after 0 79 20
+envoys 0 79 20
+he 0 79 20
+sent 0 79 20
+to 0 79 20
+Chile 0 79 20
+backed 0 79 20
+up 0 79 20
+victims’ 0 79 20
+claims, 0 79 20
+the 0 79 20
+entire 0 79 20
+leadership 0 79 20
+of 0 79 20
+the 0 79 20
+Chilean 0 79 20
+Catholic 0 79 20
+church 0 79 20
+tendered 0 79 20
+their 0 79 20
+resignations. 0 79 20
 
-According 1
-to 1
-church 1
-expert 1
-John 1
-L 1
-Allen, 1
-an 1
-editor 1
-at 1
-specialized 1
-website 1
-Crux.com, 1
-the 1
-Catholic 1
-Church 1
-has 1
-a 1
-structural 1
-problem 1
-when 1
-it 1
-comes 1
-to 1
-dealing 1
-with 1
-cover 1
-up 1
-accusations. 1
+According 1 79 21
+to 1 79 21
+church 1 79 21
+expert 1 79 21
+John 1 79 21
+L 1 79 21
+Allen, 1 79 21
+an 1 79 21
+editor 1 79 21
+at 1 79 21
+specialized 1 79 21
+website 1 79 21
+Crux.com, 1 79 21
+the 1 79 21
+Catholic 1 79 21
+Church 1 79 21
+has 1 79 21
+a 1 79 21
+structural 1 79 21
+problem 1 79 21
+when 1 79 21
+it 1 79 21
+comes 1 79 21
+to 1 79 21
+dealing 1 79 21
+with 1 79 21
+cover 1 79 21
+up 1 79 21
+accusations. 1 79 21
 
-“Sixteen 1
-years 1
-since 1
-the 1
-crisis 1
-first 1
-erupted 1
-in 1
-the 1
-U.S., 1
-almost 1
-ten 1
-years 1
-since 1
-that 1
-happened 1
-in 1
-Ireland, 1
-and 1
-now 1
-more 1
-than 1
-five 1
-years 1
-since 1
-Francis 1
-was 1
-elected, 1
-the 1
-Catholic 1
-Church 1
-still 1
-has 1
-no 1
-credible, 1
-transparent 1
-process 1
-for 1
-handling 1
-cases 1
-when 1
-the 1
-accusation 1
-against 1
-a 1
-bishop 1
-isn’t 1
-the 1
-direct 1
-commission 1
-of 1
-abuse 1
-but 1
-rather 1
-covering 1
-up 1
-someone 1
-else’s 1
-crimes,” 1
-Allen 1
-said 1
-in 1
-a 1
-Sunday 1
-column. 1
+“Sixteen 1 79 22
+years 1 79 22
+since 1 79 22
+the 1 79 22
+crisis 1 79 22
+first 1 79 22
+erupted 1 79 22
+in 1 79 22
+the 1 79 22
+U.S., 1 79 22
+almost 1 79 22
+ten 1 79 22
+years 1 79 22
+since 1 79 22
+that 1 79 22
+happened 1 79 22
+in 1 79 22
+Ireland, 1 79 22
+and 1 79 22
+now 1 79 22
+more 1 79 22
+than 1 79 22
+five 1 79 22
+years 1 79 22
+since 1 79 22
+Francis 1 79 22
+was 1 79 22
+elected, 1 79 22
+the 1 79 22
+Catholic 1 79 22
+Church 1 79 22
+still 1 79 22
+has 1 79 22
+no 1 79 22
+credible, 1 79 22
+transparent 1 79 22
+process 1 79 22
+for 1 79 22
+handling 1 79 22
+cases 1 79 22
+when 1 79 22
+the 1 79 22
+accusation 1 79 22
+against 1 79 22
+a 1 79 22
+bishop 1 79 22
+isn’t 1 79 22
+the 1 79 22
+direct 1 79 22
+commission 1 79 22
+of 1 79 22
+abuse 1 79 22
+but 1 79 22
+rather 1 79 22
+covering 1 79 22
+up 1 79 22
+someone 1 79 22
+else’s 1 79 22
+crimes,” 1 79 22
+Allen 1 79 22
+said 1 79 22
+in 1 79 22
+a 1 79 22
+Sunday 1 79 22
+column. 1 79 22
 
-— 0
-Alvise 0
-Armellini 0
+— 0 79 23
+Alvise 0 79 23
+Armellini 0 79 23
 
-dpa 0
+dpa 0 79 24
 
-——— 0
+——— 0 79 25
 
-©2018 0
-Deutsche 0
-Presse-Agentur 0
-GmbH 0
-(Hamburg, 0
-Germany), 0
-Distributed 0
-by 0
-Tribune 0
-Content 0
-Agency, 0
-LLC. 0
+©2018 0 79 25
+
+Deutsche 0 79 25
+
+Presse-Agentur 0 79 25
+
+GmbH 0 79 25
+
+(Hamburg, 0 79 25
+
+Germany), 0 79 25
+
+Distributed 0 79 25
+
+by 0 79 25
+
+Tribune 0 79 25
+
+Content 0 79 25
+
+Agency, 0 79 25
+
+LLC. 0 79 25

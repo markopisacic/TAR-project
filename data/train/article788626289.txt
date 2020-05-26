@@ -1,550 +1,566 @@
-‘Emotional 0
-And 0
-Physical 0
-Abuse’: 0
-Muslim 0
-Brotherhood 0
-DNC 0
-Deputy 0
-Chair 0
-Ellison 0
-Accuser 0
-Posts 0
-Doctor’s 0
-Report 0
-Naming 0
-Him 0
-As 0
-Alleged 0
-Abuser 0
+‘Emotional 0 358 0
+And 0 358 0
+Physical 0 358 0
+Abuse’: 0 358 0
+Muslim 0 358 0
+Brotherhood 0 358 0
+DNC 0 358 0
+Deputy 0 358 0
+Chair 0 358 0
+Ellison 0 358 0
+Accuser 0 358 0
+Posts 0 358 0
+Doctor’s 0 358 0
+Report 0 358 0
+Naming 0 358 0
+Him 0 358 0
+As 0 358 0
+Alleged 0 358 0
+Abuser 0 358 0
 
-There 0
-is 0
-abundant 0
-evidence 0
-that 0
-Karen 0
-Monahan 0
-is 0
-telling 0
-the 0
-truth 0
-when 0
-she 0
-says 0
-that 0
-Muslim 0
-Brotherhood 0
-Congressman 0
-Hakim 0
-Muhammad, 0
-aka 0
-Keith 0
-Ellison, 0
-abused 0
-her. 0
+There 0 358 1
+is 0 358 1
+abundant 0 358 1
+evidence 0 358 1
+that 0 358 1
+Karen 0 358 1
+Monahan 0 358 1
+is 0 358 1
+telling 0 358 1
+the 0 358 1
+truth 0 358 1
+when 0 358 1
+she 0 358 1
+says 0 358 1
+that 0 358 1
+Muslim 0 358 1
+Brotherhood 0 358 1
+Congressman 0 358 1
+Hakim 0 358 1
+Muhammad, 0 358 1
+aka 0 358 1
+Keith 0 358 1
+Ellison, 0 358 1
+abused 0 358 1
+her. 0 358 1
 
-By 0
-contrast, 0
-there 0
-is 0
-absolutely 0
-no 0
-evidence 0
-whatsoever 0
-that 0
-Brett 0
-Kavanaugh 0
-abused 0
-Christine 0
-Blasey 0
-Ford. 0
+By 0 358 2
+contrast, 0 358 2
+there 0 358 2
+is 0 358 2
+absolutely 0 358 2
+no 0 358 2
+evidence 0 358 2
+whatsoever 0 358 2
+that 0 358 2
+Brett 0 358 2
+Kavanaugh 0 358 2
+abused 0 358 2
+Christine 0 358 2
+Blasey 0 358 2
+Ford. 0 358 2
 
-But 0
-while 0
-the 0
-Democrats 0
-are 0
-in 0
-a 0
-lather 0
-over 0
-Ford 0
-and 0
-Kavanaugh, 0
-demanding 0
-a 0
-delay 0
-of 0
-the 0
-confirmation 0
-vote 0
-until 0
-after 0
-the 0
-midterm 0
-elections 0
-that 0
-they 0
-are 0
-sure 0
-will 0
-go 0
-their 0
-way, 0
-they 0
-couldn’t 0
-care 0
-less 0
-about 0
-Karen 0
-Monahan. 0
+But 0 358 3
+while 0 358 3
+the 0 358 3
+Democrats 0 358 3
+are 0 358 3
+in 0 358 3
+a 0 358 3
+lather 0 358 3
+over 0 358 3
+Ford 0 358 3
+and 0 358 3
+Kavanaugh, 0 358 3
+demanding 0 358 3
+a 0 358 3
+delay 0 358 3
+of 0 358 3
+the 0 358 3
+confirmation 0 358 3
+vote 0 358 3
+until 0 358 3
+after 0 358 3
+the 0 358 3
+midterm 0 358 3
+elections 0 358 3
+that 0 358 3
+they 0 358 3
+are 0 358 3
+sure 0 358 3
+will 0 358 3
+go 0 358 3
+their 0 358 3
+way, 0 358 3
+they 0 358 3
+couldn’t 0 358 3
+care 0 358 3
+less 0 358 3
+about 0 358 3
+Karen 0 358 3
+Monahan. 0 358 3
 
-And 0
-that 0
-shows 0
-that 0
-all 0
-their 0
-#MeToo 1
-rhetoric 0
-is 0
-pure 0
-politically-motivated 0
-hypocrisy 1
-— 0
-as 0
-if 0
-anyone 0
-didn’t 0
-know 0
-that 0
-by 0
-now. 0
+And 0 358 4
+that 0 358 4
+shows 0 358 4
+that 0 358 4
+all 0 358 4
+their 0 358 4
+#MeToo 1 358 4
+rhetoric 0 358 4
+is 0 358 4
+pure 0 358 4
+politically-motivated 0 358 4
+hypocrisy 1 358 4
+— 0 358 4
+as 0 358 4
+if 0 358 4
+anyone 0 358 4
+didn’t 0 358 4
+know 0 358 4
+that 0 358 4
+by 0 358 4
+now. 0 358 4
 
-“‘Emotional 0
-And 0
-Physical 0
-Abuse’: 0
-Ellison 0
-Accuser 0
-Posts 0
-Doctor’s 0
-Report 0
-Naming 0
-Congressman 0
-As 0
-Alleged 0
-Abuser,” 0
-by 0
-Peter 0
-Hasson, 0
-Daily 0
-Caller, 0
-September 0
-19, 0
-2018 0
-(thanks 0
-to 0
-Christian): 0
+“‘Emotional 0 358 5
+And 0 358 5
+Physical 0 358 5
+Abuse’: 0 358 5
+Ellison 0 358 5
+Accuser 0 358 5
+Posts 0 358 5
+Doctor’s 0 358 5
+Report 0 358 5
+Naming 0 358 5
+Congressman 0 358 5
+As 0 358 5
+Alleged 0 358 5
+Abuser,” 0 358 5
+by 0 358 5
+Peter 0 358 5
+Hasson, 0 358 5
+Daily 0 358 5
+Caller, 0 358 5
+September 0 358 5
+19, 0 358 5
+2018 0 358 5
+(thanks 0 358 5
+to 0 358 5
+Christian): 0 358 5
 
-The 0
-ex-girlfriend 0
-accusing 0
-Democratic 0
-Minnesota 0
-Rep. 0
-Keith 0
-Ellison 0
-of 0
-domestic 0
-abuse 0
-told 0
-her 0
-doctor 0
-in 0
-2017 0
-about 0
-alleged 0
-“emotional 0
-and 0
-physical 0
-abuse” 0
-from 0
-Ellison, 0
-according 0
-to 0
-a 0
-document 0
-the 0
-woman 0
-published 0
-Wednesday. 0
+The 0 358 6
+ex-girlfriend 0 358 6
+accusing 0 358 6
+Democratic 0 358 6
+Minnesota 0 358 6
+Rep. 0 358 6
+Keith 0 358 6
+Ellison 0 358 6
+of 0 358 6
+domestic 0 358 6
+abuse 0 358 6
+told 0 358 6
+her 0 358 6
+doctor 0 358 6
+in 0 358 6
+2017 0 358 6
+about 0 358 6
+alleged 0 358 6
+“emotional 0 358 6
+and 0 358 6
+physical 0 358 6
+abuse” 0 358 6
+from 0 358 6
+Ellison, 0 358 6
+according 0 358 6
+to 0 358 6
+a 0 358 6
+document 0 358 6
+the 0 358 6
+woman 0 358 6
+published 0 358 6
+Wednesday. 0 358 6
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 358 7
+our 0 358 7
+poll 0 358 7
+- 0 358 7
+story 0 358 7
+continues 0 358 7
+below 0 358 7
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 358 8
+should 0 358 8
+replace 0 358 8
+Nikki 0 358 8
+Haley 0 358 8
+as 0 358 8
+our 0 358 8
+ambassador 0 358 8
+to 0 358 8
+the 0 358 8
+U.N.? 0 358 8
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 358 9
+should 0 358 9
+replace 0 358 9
+Nikki 0 358 9
+Haley 0 358 9
+as 0 358 9
+our 0 358 9
+ambassador 0 358 9
+to 0 358 9
+the 0 358 9
+U.N.? 0 358 9
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 358 10
+should 0 358 10
+replace 0 358 10
+Nikki 0 358 10
+Haley 0 358 10
+as 0 358 10
+our 0 358 10
+ambassador 0 358 10
+to 0 358 10
+the 0 358 10
+U.N.? 0 358 10
 
-* 0
-John 0
-Bolton 0
-Richard 0
-Grenell 0
-Dina 0
-Powell 0
-Heather 0
-Nauert 0
-Ivanka 0
-Trump 0
+* 0 358 11
+John 0 358 11
+Bolton 0 358 11
+Richard 0 358 11
+Grenell 0 358 11
+Dina 0 358 11
+Powell 0 358 11
+Heather 0 358 11
+Nauert 0 358 11
+Ivanka 0 358 11
+Trump 0 358 11
 
-Email 0
-* 0
+Email 0 358 12
+* 0 358 12
 
-Phone 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Phone 0 358 13
+This 0 358 13
+field 0 358 13
+is 0 358 13
+for 0 358 13
+validation 0 358 13
+purposes 0 358 13
+and 0 358 13
+should 0 358 13
+be 0 358 13
+left 0 358 13
+unchanged. 0 358 13
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 358 14
+this 0 358 14
+poll 0 358 14
+grants 0 358 14
+you 0 358 14
+access 0 358 14
+to 0 358 14
+Freedom 0 358 14
+Outpost 0 358 14
+updates 0 358 14
+free 0 358 14
+of 0 358 14
+charge. 0 358 14
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 358 15
+may 0 358 15
+opt 0 358 15
+out 0 358 15
+at 0 358 15
+anytime. 0 358 15
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 358 16
+also 0 358 16
+agree 0 358 16
+to 0 358 16
+this 0 358 16
+site's 0 358 16
+Privacy 0 358 16
+Policy 0 358 16
+and 0 358 16
+Terms 0 358 16
+of 0 358 16
+Use. 0 358 16
 
-Karen 0
-Monahan’s 0
-account 0
-in 0
-the 0
-doctor’s 0
-report 0
-is 0
-consistent 0
-with 0
-what 0
-she 0
-has 0
-been 0
-saying 0
-publicly 0
-since 0
-August: 0
-that 0
-Ellison 0
-was 0
-emotionally 0
-and 0
-physically 0
-abusive 0
-to 0
-her 0
-while 0
-the 0
-two 0
-were 0
-dating. 0
+Karen 0 358 17
+Monahan’s 0 358 17
+account 0 358 17
+in 0 358 17
+the 0 358 17
+doctor’s 0 358 17
+report 0 358 17
+is 0 358 17
+consistent 0 358 17
+with 0 358 17
+what 0 358 17
+she 0 358 17
+has 0 358 17
+been 0 358 17
+saying 0 358 17
+publicly 0 358 17
+since 0 358 17
+August: 0 358 17
+that 0 358 17
+Ellison 0 358 17
+was 0 358 17
+emotionally 0 358 17
+and 0 358 17
+physically 0 358 17
+abusive 0 358 17
+to 0 358 17
+her 0 358 17
+while 0 358 17
+the 0 358 17
+two 0 358 17
+were 0 358 17
+dating. 0 358 17
 
-Ellison 0
-is 0
-the 0
-deputy 0
-chair 0
-of 0
-the 0
-Democratic 0
-National 0
-Committee 0
-(DNC) 0
-and 0
-is 0
-the 0
-Democratic 0
-nominee 0
-for 0
-Minnesota 0
-attorney 0
-general. 0
+Ellison 0 358 18
+is 0 358 18
+the 0 358 18
+deputy 0 358 18
+chair 0 358 18
+of 0 358 18
+the 0 358 18
+Democratic 0 358 18
+National 0 358 18
+Committee 0 358 18
+(DNC) 0 358 18
+and 0 358 18
+is 0 358 18
+the 0 358 18
+Democratic 0 358 18
+nominee 0 358 18
+for 0 358 18
+Minnesota 0 358 18
+attorney 0 358 18
+general. 0 358 18
 
-He 0
-has 0
-adamantly 0
-denied 0
-emotionally 0
-or 0
-physically 0
-abusing 0
-Monahan. 0
+He 0 358 19
+has 0 358 19
+adamantly 0 358 19
+denied 0 358 19
+emotionally 0 358 19
+or 0 358 19
+physically 0 358 19
+abusing 0 358 19
+Monahan. 0 358 19
 
-“She 0
-states 0
-that 0
-she 0
-was 0
-in 0
-a 0
-very 0
-stressful 0
-environment 0
-for 0
-years, 0
-emotional 0
-and 0
-physical 0
-abuse 0
-by 0
-a 0
-partner 0
-with 0
-whom 0
-she 0
-is 0
-now 0
-separated,” 0
-reads 0
-the 0
-November 0
-2017 0
-report, 0
-a 0
-picture 0
-of 0
-which 0
-Monahan 0
-posted 0
-on 0
-Twitter. 0
+“She 0 358 20
+states 0 358 20
+that 0 358 20
+she 0 358 20
+was 0 358 20
+in 0 358 20
+a 0 358 20
+very 0 358 20
+stressful 0 358 20
+environment 0 358 20
+for 0 358 20
+years, 0 358 20
+emotional 0 358 20
+and 0 358 20
+physical 0 358 20
+abuse 0 358 20
+by 0 358 20
+a 0 358 20
+partner 0 358 20
+with 0 358 20
+whom 0 358 20
+she 0 358 20
+is 0 358 20
+now 0 358 20
+separated,” 0 358 20
+reads 0 358 20
+the 0 358 20
+November 0 358 20
+2017 0 358 20
+report, 0 358 20
+a 0 358 20
+picture 0 358 20
+of 0 358 20
+which 0 358 20
+Monahan 0 358 20
+posted 0 358 20
+on 0 358 20
+Twitter. 0 358 20
 
-“She 0
-did 0
-not 0
-have 0
-any 0
-physical 0
-injuries 0
-that 0
-required 0
-an 0
-examination 0
-in 0
-the 0
-past. 0
+“She 0 358 21
+did 0 358 21
+not 0 358 21
+have 0 358 21
+any 0 358 21
+physical 0 358 21
+injuries 0 358 21
+that 0 358 21
+required 0 358 21
+an 0 358 21
+examination 0 358 21
+in 0 358 21
+the 0 358 21
+past. 0 358 21
 
-She 0
-identifies 0
-the 0
-individual 0
-she 0
-was 0
-involved 0
-with 0
-as 0
-congressman 0
-Ellison, 0
-and 0
-she 0
-is 0
-worried 0
-about 0
-retribution 0
-if 0
-she 0
-identifies 0
-him 0
-publicly,” 0
-the 0
-report 0
-states. 0
+She 0 358 22
+identifies 0 358 22
+the 0 358 22
+individual 0 358 22
+she 0 358 22
+was 0 358 22
+involved 0 358 22
+with 0 358 22
+as 0 358 22
+congressman 0 358 22
+Ellison, 0 358 22
+and 0 358 22
+she 0 358 22
+is 0 358 22
+worried 0 358 22
+about 0 358 22
+retribution 0 358 22
+if 0 358 22
+she 0 358 22
+identifies 0 358 22
+him 0 358 22
+publicly,” 0 358 22
+the 0 358 22
+report 0 358 22
+states. 0 358 22
 
-Ellison’s 0
-congressional 0
-office 0
-did 0
-not 0
-immediately 0
-return 0
-a 0
-request 0
-for 0
-comment. 0
+Ellison’s 0 358 23
+congressional 0 358 23
+office 0 358 23
+did 0 358 23
+not 0 358 23
+immediately 0 358 23
+return 0 358 23
+a 0 358 23
+request 0 358 23
+for 0 358 23
+comment. 0 358 23
 
-The 0
-Democratic 0
-Party 0
-has 0
-maintained 0
-its 0
-support 0
-for 0
-Ellison’s 0
-attorney 0
-general 0
-campaign 0
-despite 0
-the 0
-allegations. 0
+The 0 358 24
+Democratic 0 358 24
+Party 0 358 24
+has 0 358 24
+maintained 0 358 24
+its 0 358 24
+support 0 358 24
+for 0 358 24
+Ellison’s 0 358 24
+attorney 0 358 24
+general 0 358 24
+campaign 0 358 24
+despite 0 358 24
+the 0 358 24
+allegations. 0 358 24
 
-DNC 0
-Chair 0
-Tom 0
-Perez 0
-previously 0
-said 0
-the 0
-committee 0
-was 0
-“reviewing” 0
-the 0
-allegations. 0
+DNC 0 358 25
+Chair 0 358 25
+Tom 0 358 25
+Perez 0 358 25
+previously 0 358 25
+said 0 358 25
+the 0 358 25
+committee 0 358 25
+was 0 358 25
+“reviewing” 0 358 25
+the 0 358 25
+allegations. 0 358 25
 
-Perez 0
-later 0
-deferred 0
-to 0
-an 0
-investigation 0
-by 0
-the 0
-party’s 0
-Minnesota 0
-arm, 0
-the 0
-Democratic-Farmer-Labor 0
-Party 0
-(DFL), 0
-which 0
-endorsed 0
-Ellison’s 0
-campaign 0
-in 0
-spite 0
-of 0
-Monahan’s 0
-allegations. 0
+Perez 0 358 26
+later 0 358 26
+deferred 0 358 26
+to 0 358 26
+an 0 358 26
+investigation 0 358 26
+by 0 358 26
+the 0 358 26
+party’s 0 358 26
+Minnesota 0 358 26
+arm, 0 358 26
+the 0 358 26
+Democratic-Farmer-Labor 0 358 26
+Party 0 358 26
+(DFL), 0 358 26
+which 0 358 26
+endorsed 0 358 26
+Ellison’s 0 358 26
+campaign 0 358 26
+in 0 358 26
+spite 0 358 26
+of 0 358 26
+Monahan’s 0 358 26
+allegations. 0 358 26
 
-Monahan 0
-wrote 0
-Wednesday 0
-that 0
-Ellison 0
-declined 0
-any 0
-meeting 0
-with 0
-her 0
-as 0
-part 0
-of 0
-the 0
-investigation. 0
+Monahan 0 358 27
+wrote 0 358 27
+Wednesday 0 358 27
+that 0 358 27
+Ellison 0 358 27
+declined 0 358 27
+any 0 358 27
+meeting 0 358 27
+with 0 358 27
+her 0 358 27
+as 0 358 27
+part 0 358 27
+of 0 358 27
+the 0 358 27
+investigation. 0 358 27
 
-“I 0
-told 0
-the 0
-investigator 0
-I 0
-would 0
-be 0
-happy 0
-to 0
-talk 0
-with 0
-@keithellison 0
-[with] 0
-them 0
-in 0
-the 0
-room. 0
+“I 0 358 28
+told 0 358 28
+the 0 358 28
+investigator 0 358 28
+I 0 358 28
+would 0 358 28
+be 0 358 28
+happy 0 358 28
+to 0 358 28
+talk 0 358 28
+with 0 358 28
+@keithellison 0 358 28
+[with] 0 358 28
+them 0 358 28
+in 0 358 28
+the 0 358 28
+room. 0 358 28
 
-They 0
-asked 0
-Keith 0
-if 0
-he 0
-would 0
-be 0
-willing 0
-[and] 0
-he 0
-declined 0
-any 0
-meeting 0
-[with] 0
-me,” 0
-she 0
-wrote…. 0
+They 0 358 28
+
+asked 0 358 28
+
+Keith 0 358 28
+
+if 0 358 28
+
+he 0 358 28
+
+would 0 358 28
+
+be 0 358 28
+
+willing 0 358 28
+
+[and] 0 358 28
+
+he 0 358 28
+
+declined 0 358 28
+
+any 0 358 28
+
+meeting 0 358 28
+
+[with] 0 358 28
+
+me,” 0 358 28
+
+she 0 358 28
+
+wrote…. 0 358 28

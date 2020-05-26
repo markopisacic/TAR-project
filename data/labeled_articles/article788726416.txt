@@ -1,767 +1,770 @@
-Deep 1
-State 1
-Insurrection 1
-Defying 0
-POTUS 0
-Trump’s 0
-Order 0
+Deep 1 359 0
+State 1 359 0
+Insurrection 1 359 0
+Defying 0 359 0
+POTUS 0 359 0
+Trump’s 0 359 0
+Order 0 359 0
 
-Deep 1
-State 1
-officials 1
-like 0
-ex-CIA 0
-chief 0
-John 0
-Brennan 0
-are 1
-in 1
-panic 1
-mode. 1
+Deep 1 359 1
+State 1 359 1
+officials 1 359 1
+like 0 359 1
+ex-CIA 0 359 1
+chief 0 359 1
+John 0 359 1
+Brennan 0 359 1
+are 1 359 1
+in 1 359 1
+panic 1 359 1
+mode. 1 359 1
 
-Deep 1
-State 1
-DOJ 1
-tool 1
-Rod 0
-Rosenstein 0
-refuses 0
-to 0
-comply 0
-with 0
-Trump’s 0
-executive 0
-order 0
-as 0
-afforded 0
-him 0
-by 0
-the 0
-US 0
-Constitution. 0
+Deep 1 359 2
+State 1 359 2
+DOJ 1 359 2
+tool 1 359 2
+Rod 0 359 2
+Rosenstein 0 359 2
+refuses 0 359 2
+to 0 359 2
+comply 0 359 2
+with 0 359 2
+Trump’s 0 359 2
+executive 0 359 2
+order 0 359 2
+as 0 359 2
+afforded 0 359 2
+him 0 359 2
+by 0 359 2
+the 0 359 2
+US 0 359 2
+Constitution. 0 359 2
 
-Establishment 0
-Democrats 0
-are 0
-all 0
-over 0
-the 0
-mainstream 0
-media 0
-channels 0
-calling 0
-the 0
-act 0
-of 0
-releasing 0
-documents 0
-criminal. 0
+Establishment 0 359 3
+Democrats 0 359 3
+are 0 359 3
+all 0 359 3
+over 0 359 3
+the 0 359 3
+mainstream 0 359 3
+media 0 359 3
+channels 0 359 3
+calling 0 359 3
+the 0 359 3
+act 0 359 3
+of 0 359 3
+releasing 0 359 3
+documents 0 359 3
+criminal. 0 359 3
 
-The 1
-US 1
-President 1
-wants 1
-every 1
-American 1
-citizen 1
-to 1
-see 1
-the 1
-full, 1
-unredacted 1
-version 1
-of 1
-the 1
-FISA 1
-documents 1
-used 1
-to 1
-spy 1
-on 1
-Carter 1
-Page. 1
+The 1 359 4
+US 1 359 4
+President 1 359 4
+wants 1 359 4
+every 1 359 4
+American 1 359 4
+citizen 1 359 4
+to 1 359 4
+see 1 359 4
+the 1 359 4
+full, 1 359 4
+unredacted 1 359 4
+version 1 359 4
+of 1 359 4
+the 1 359 4
+FISA 1 359 4
+documents 1 359 4
+used 1 359 4
+to 1 359 4
+spy 1 359 4
+on 1 359 4
+Carter 1 359 4
+Page. 1 359 4
 
-Trump 0
-is 0
-simply 0
-asking 0
-for 0
-full 0
-transparency, 0
-in 0
-what 0
-has 0
-become 0
-a 1
-two 1
-year, 1
-multi-million 1
-dollar 1
-witch 1
-hunt, 1
-to 0
-find 0
-collusion 0
-where 0
-there 0
-is 0
-none. 0
+Trump 0 359 5
+is 0 359 5
+simply 0 359 5
+asking 0 359 5
+for 0 359 5
+full 0 359 5
+transparency, 0 359 5
+in 0 359 5
+what 0 359 5
+has 0 359 5
+become 0 359 5
+a 1 359 5
+two 1 359 5
+year, 1 359 5
+multi-million 1 359 5
+dollar 1 359 5
+witch 1 359 5
+hunt, 1 359 5
+to 0 359 5
+find 0 359 5
+collusion 0 359 5
+where 0 359 5
+there 0 359 5
+is 0 359 5
+none. 0 359 5
 
-This 0
-is 0
-all 0
-you 0
-need 0
-to 0
-know 0
-about 0
-the 1
-hoax 1
-that 1
-was 1
-and 1
-is 1
-Trump-Russia 1
-collusion 1
-and 0
-the 0
-Robert 0
-Mueller 0
-special 0
-counsel 0
-investigation. 0
+This 0 359 6
+is 0 359 6
+all 0 359 6
+you 0 359 6
+need 0 359 6
+to 0 359 6
+know 0 359 6
+about 0 359 6
+the 1 359 6
+hoax 1 359 6
+that 1 359 6
+was 1 359 6
+and 1 359 6
+is 1 359 6
+Trump-Russia 1 359 6
+collusion 1 359 6
+and 0 359 6
+the 0 359 6
+Robert 0 359 6
+Mueller 0 359 6
+special 0 359 6
+counsel 0 359 6
+investigation. 0 359 6
 
-The 0
-Duran’s 0
-Alex 0
-Christoforou 0
-and 0
-Editor-in-Chief 0
-Alexander 0
-Mercouris 0
-discuss 0
-the 0
-insurrection 0
-taking 0
-place 0
-at 0
-the 0
-US 0
-Department 0
-of 0
-Justice, 0
-as 0
-Democrats, 0
-ex-Obama 0
-officials, 0
-and 0
-DOJ 0
-directors 0
-are 1
-doing 1
-everything 1
-in 1
-their 1
-power 1
-to 1
-make 1
-sure 1
-the 1
-truth, 1
-about 1
-how 1
-the 1
-FISA 1
-warrant 1
-to 1
-spy 1
-on 1
-Carter 1
-Page 1
-was 1
-obtained, 1
-remains 1
-hidden 1
-from 1
-the 1
-eyes 1
-of 1
-the 1
-American 1
-public. 1
+The 0 359 7
+Duran’s 0 359 7
+Alex 0 359 7
+Christoforou 0 359 7
+and 0 359 7
+Editor-in-Chief 0 359 7
+Alexander 0 359 7
+Mercouris 0 359 7
+discuss 0 359 7
+the 0 359 7
+insurrection 0 359 7
+taking 0 359 7
+place 0 359 7
+at 0 359 7
+the 0 359 7
+US 0 359 7
+Department 0 359 7
+of 0 359 7
+Justice, 0 359 7
+as 0 359 7
+Democrats, 0 359 7
+ex-Obama 0 359 7
+officials, 0 359 7
+and 0 359 7
+DOJ 0 359 7
+directors 0 359 7
+are 1 359 7
+doing 1 359 7
+everything 1 359 7
+in 1 359 7
+their 1 359 7
+power 1 359 7
+to 1 359 7
+make 1 359 7
+sure 1 359 7
+the 1 359 7
+truth, 1 359 7
+about 1 359 7
+how 1 359 7
+the 1 359 7
+FISA 1 359 7
+warrant 1 359 7
+to 1 359 7
+spy 1 359 7
+on 1 359 7
+Carter 1 359 7
+Page 1 359 7
+was 1 359 7
+obtained, 1 359 7
+remains 1 359 7
+hidden 1 359 7
+from 1 359 7
+the 1 359 7
+eyes 1 359 7
+of 1 359 7
+the 1 359 7
+American 1 359 7
+public. 1 359 7
 
-﻿ 0
+﻿ 0 359 8
 
-Via 0
-Zerohedge… 0
+Via 0 359 9
+Zerohedge… 0 359 9
 
-Despite 0
-President 0
-Trump’s 0
-Monday 0
-order 0
-for 0
-the 0
-“immediate 0
-declassification” 0
-of 0
-sensitive 0
-materials 0
-related 0
-to 0
-the 0
-Russia 0
-investigation, 0
-“without 0
-redaction,” 0
-the 0
-agencies 0
-involved 0
-are 0
-planning 0
-to 0
-do 0
-so 0
-anyway, 0
-according 0
-to 0
-Bloomberg, 0
-citing 0
-three 0
-people 0
-familiar 0
-with 0
-the 0
-matter. 0
+Despite 0 359 10
+President 0 359 10
+Trump’s 0 359 10
+Monday 0 359 10
+order 0 359 10
+for 0 359 10
+the 0 359 10
+“immediate 0 359 10
+declassification” 0 359 10
+of 0 359 10
+sensitive 0 359 10
+materials 0 359 10
+related 0 359 10
+to 0 359 10
+the 0 359 10
+Russia 0 359 10
+investigation, 0 359 10
+“without 0 359 10
+redaction,” 0 359 10
+the 0 359 10
+agencies 0 359 10
+involved 0 359 10
+are 0 359 10
+planning 0 359 10
+to 0 359 10
+do 0 359 10
+so 0 359 10
+anyway, 0 359 10
+according 0 359 10
+to 0 359 10
+Bloomberg, 0 359 10
+citing 0 359 10
+three 0 359 10
+people 0 359 10
+familiar 0 359 10
+with 0 359 10
+the 0 359 10
+matter. 0 359 10
 
-The 0
-Justice 0
-Department, 0
-FBI 0
-and 0
-Office 0
-of 0
-the 0
-Director 0
-of 0
-National 0
-Intelligence 0
-are 0
-going 0
-through 0
-a 0
-methodical 0
-review 0
-and 0
-can’t 0
-offer 0
-a 0
-timeline 0
-for 0
-finishing, 0
-said 0
-the 0
-people, 0
-who 0
-weren’t 0
-authorized 0
-to 0
-speak 0
-publicly 0
-about 0
-the 0
-sensitive 0
-matter. 0
+The 0 359 11
+Justice 0 359 11
+Department, 0 359 11
+FBI 0 359 11
+and 0 359 11
+Office 0 359 11
+of 0 359 11
+the 0 359 11
+Director 0 359 11
+of 0 359 11
+National 0 359 11
+Intelligence 0 359 11
+are 0 359 11
+going 0 359 11
+through 0 359 11
+a 0 359 11
+methodical 0 359 11
+review 0 359 11
+and 0 359 11
+can’t 0 359 11
+offer 0 359 11
+a 0 359 11
+timeline 0 359 11
+for 0 359 11
+finishing, 0 359 11
+said 0 359 11
+the 0 359 11
+people, 0 359 11
+who 0 359 11
+weren’t 0 359 11
+authorized 0 359 11
+to 0 359 11
+speak 0 359 11
+publicly 0 359 11
+about 0 359 11
+the 0 359 11
+sensitive 0 359 11
+matter. 0 359 11
 
-–Bloomberg 0
+–Bloomberg 0 359 12
 
-The 0
-Deep 0
-State: 0
-The 0
-Fa... 0
-Mike 0
-Lofgren 0
-Best 0
-Price: 0
-$7.55 0
-Buy 0
-New 0
-$6.00 0
-(as 0
-of 0
-11:45 0
-EDT 0
-- 0
-Details) 0
-Trump 0
-ordered 0
-the 0
-DOJ 0
-to 0
-release 0
-the 0
-text 0
-messages 0
-of 0
-former 0
-FBI 0
-Director 0
-James 0
-Comey, 0
-his 0
-deputy 0
-Andrew 0
-McCabe, 0
-now-fired 0
-special 0
-agent 0
-Peter 0
-Strzok, 0
-former 0
-FBI 0
-attorney 0
-Lisa 0
-Page 0
-and 0
-twice-demoted 1
-DOJ 1
-official 1
-Bruce 0
-Ohr. 0
+The 0 359 13
+Deep 0 359 13
+State: 0 359 13
+The 0 359 13
+Fa... 0 359 13
+Mike 0 359 13
+Lofgren 0 359 13
+Best 0 359 13
+Price: 0 359 13
+$7.55 0 359 13
+Buy 0 359 13
+New 0 359 13
+$6.00 0 359 13
+(as 0 359 13
+of 0 359 13
+11:45 0 359 13
+EDT 0 359 13
+- 0 359 13
+Details) 0 359 13
+Trump 0 359 13
+ordered 0 359 13
+the 0 359 13
+DOJ 0 359 13
+to 0 359 13
+release 0 359 13
+the 0 359 13
+text 0 359 13
+messages 0 359 13
+of 0 359 13
+former 0 359 13
+FBI 0 359 13
+Director 0 359 13
+James 0 359 13
+Comey, 0 359 13
+his 0 359 13
+deputy 0 359 13
+Andrew 0 359 13
+McCabe, 0 359 13
+now-fired 0 359 13
+special 0 359 13
+agent 0 359 13
+Peter 0 359 13
+Strzok, 0 359 13
+former 0 359 13
+FBI 0 359 13
+attorney 0 359 13
+Lisa 0 359 13
+Page 0 359 13
+and 0 359 13
+twice-demoted 1 359 13
+DOJ 1 359 13
+official 1 359 13
+Bruce 0 359 13
+Ohr. 0 359 13
 
-Also 0
-ordered 0
-released 0
-are 0
-specific 0
-pages 0
-from 0
-the 0
-FBI’s 0
-FISA 0
-surveillance 0
-warrant 0
-application 0
-on 0
-former 0
-Trump 0
-campaign 0
-aide 0
-Carter 0
-Page, 0
-as 0
-well 0
-as 0
-interviews 0
-with 0
-Ohr. 0
+Also 0 359 14
+ordered 0 359 14
+released 0 359 14
+are 0 359 14
+specific 0 359 14
+pages 0 359 14
+from 0 359 14
+the 0 359 14
+FBI’s 0 359 14
+FISA 0 359 14
+surveillance 0 359 14
+warrant 0 359 14
+application 0 359 14
+on 0 359 14
+former 0 359 14
+Trump 0 359 14
+campaign 0 359 14
+aide 0 359 14
+Carter 0 359 14
+Page, 0 359 14
+as 0 359 14
+well 0 359 14
+as 0 359 14
+interviews 0 359 14
+with 0 359 14
+Ohr. 0 359 14
 
-The 0
-DOJ 0
-and 0
-the 0
-FBI 0
-are 0
-expected 0
-to 0
-submit 0
-proposed 0
-redactions 0
-to 0
-the 0
-Office 0
-of 0
-the 0
-Director 0
-of 0
-National 0
-Intelligence 0
-– 0
-which 0
-will 0
-prepare 0
-a 0
-package 0
-for 0
-Trump 0
-to 0
-sign 0
-off 0
-on. 0
+The 0 359 15
+DOJ 0 359 15
+and 0 359 15
+the 0 359 15
+FBI 0 359 15
+are 0 359 15
+expected 0 359 15
+to 0 359 15
+submit 0 359 15
+proposed 0 359 15
+redactions 0 359 15
+to 0 359 15
+the 0 359 15
+Office 0 359 15
+of 0 359 15
+the 0 359 15
+Director 0 359 15
+of 0 359 15
+National 0 359 15
+Intelligence 0 359 15
+– 0 359 15
+which 0 359 15
+will 0 359 15
+prepare 0 359 15
+a 0 359 15
+package 0 359 15
+for 0 359 15
+Trump 0 359 15
+to 0 359 15
+sign 0 359 15
+off 0 359 15
+on. 0 359 15
 
-“When 0
-the 0
-president 0
-issues 0
-such 0
-an 0
-order, 0
-it 0
-triggers 0
-a 0
-declassification 0
-review 0
-process 0
-that 0
-is 0
-conducted 0
-by 0
-various 0
-agencies 0
-within 0
-the 0
-intelligence 0
-community, 0
-in 0
-conjunction 0
-with 0
-the 0
-White 0
-House 0
-counsel, 0
-to 0
-seek 0
-to 0
-ensure 0
-the 0
-safety 0
-of 0
-America’s 0
-national 0
-security 0
-interests,” 0
-a 0
-Justice 0
-Department 0
-spokesman 0
-said 0
-in 0
-a 0
-statement. 0
+“When 0 359 16
+the 0 359 16
+president 0 359 16
+issues 0 359 16
+such 0 359 16
+an 0 359 16
+order, 0 359 16
+it 0 359 16
+triggers 0 359 16
+a 0 359 16
+declassification 0 359 16
+review 0 359 16
+process 0 359 16
+that 0 359 16
+is 0 359 16
+conducted 0 359 16
+by 0 359 16
+various 0 359 16
+agencies 0 359 16
+within 0 359 16
+the 0 359 16
+intelligence 0 359 16
+community, 0 359 16
+in 0 359 16
+conjunction 0 359 16
+with 0 359 16
+the 0 359 16
+White 0 359 16
+House 0 359 16
+counsel, 0 359 16
+to 0 359 16
+seek 0 359 16
+to 0 359 16
+ensure 0 359 16
+the 0 359 16
+safety 0 359 16
+of 0 359 16
+America’s 0 359 16
+national 0 359 16
+security 0 359 16
+interests,” 0 359 16
+a 0 359 16
+Justice 0 359 16
+Department 0 359 16
+spokesman 0 359 16
+said 0 359 16
+in 0 359 16
+a 0 359 16
+statement. 0 359 16
 
-“The 0
-department 0
-and 0
-the 0
-Federal 0
-Bureau 0
-of 0
-Investigation 0
-are 0
-already 0
-working 0
-with 0
-the 0
-Director 0
-of 0
-National 0
-Intelligence 0
-to 0
-comply 0
-with 0
-the 0
-president’s 0
-order.” 0
+“The 0 359 17
+department 0 359 17
+and 0 359 17
+the 0 359 17
+Federal 0 359 17
+Bureau 0 359 17
+of 0 359 17
+Investigation 0 359 17
+are 0 359 17
+already 0 359 17
+working 0 359 17
+with 0 359 17
+the 0 359 17
+Director 0 359 17
+of 0 359 17
+National 0 359 17
+Intelligence 0 359 17
+to 0 359 17
+comply 0 359 17
+with 0 359 17
+the 0 359 17
+president’s 0 359 17
+order.” 0 359 17
 
-The 0
-agencies 0
-are 0
-likely 0
-to 0
-cite 0
-national 0
-security 0
-concerns 0
-over 0
-revealing 0
-classified 0
-“sources 0
-and 0
-methods” 0
-pertaining 0
-to 0
-the 0
-Russia 0
-investigation 0
-– 0
-which 0
-will 0
-put 0
-them 0
-in 0
-direct 0
-conflict 0
-with 0
-Trump’s 0
-order. 0
+The 0 359 18
+agencies 0 359 18
+are 0 359 18
+likely 0 359 18
+to 0 359 18
+cite 0 359 18
+national 0 359 18
+security 0 359 18
+concerns 0 359 18
+over 0 359 18
+revealing 0 359 18
+classified 0 359 18
+“sources 0 359 18
+and 0 359 18
+methods” 0 359 18
+pertaining 0 359 18
+to 0 359 18
+the 0 359 18
+Russia 0 359 18
+investigation 0 359 18
+– 0 359 18
+which 0 359 18
+will 0 359 18
+put 0 359 18
+them 0 359 18
+in 0 359 18
+direct 0 359 18
+conflict 0 359 18
+with 0 359 18
+Trump’s 0 359 18
+order. 0 359 18
 
-Trump, 0
-as 0
-president, 0
-has 0
-the 0
-power 0
-to 0
-override 0
-the 0
-agencies 0
-and 0
-declassify 0
-material 0
-on 0
-his 0
-own. 0
+Trump, 0 359 19
+as 0 359 19
+president, 0 359 19
+has 0 359 19
+the 0 359 19
+power 0 359 19
+to 0 359 19
+override 0 359 19
+the 0 359 19
+agencies 0 359 19
+and 0 359 19
+declassify 0 359 19
+material 0 359 19
+on 0 359 19
+his 0 359 19
+own. 0 359 19
 
-Trump’s 0
-order 0
-to 0
-release 0
-the 0
-documents 0
-comes 0
-after 0
-months 0
-of 0
-requests 0
-from 0
-GOP 0
-lawmakers, 0
-while 0
-the 0
-DOJ 0
-has 0
-repeatedly 0
-denied 0
-their 0
-requests 0
-for 0
-more 0
-transparency. 0
+Trump’s 0 359 20
+order 0 359 20
+to 0 359 20
+release 0 359 20
+the 0 359 20
+documents 0 359 20
+comes 0 359 20
+after 0 359 20
+months 0 359 20
+of 0 359 20
+requests 0 359 20
+from 0 359 20
+GOP 0 359 20
+lawmakers, 0 359 20
+while 0 359 20
+the 0 359 20
+DOJ 0 359 20
+has 0 359 20
+repeatedly 0 359 20
+denied 0 359 20
+their 0 359 20
+requests 0 359 20
+for 0 359 20
+more 0 359 20
+transparency. 0 359 20
 
-The 1
-FBI’s 1
-spy… 1
+The 1 359 21
+FBI’s 1 359 21
+spy… 1 359 21
 
-According 0
-to 0
-Bloomberg, 0
-the 0
-DOJ 0
-is 0
-interpreting 0
-Trump’s 0
-request 0
-to 0
-include 0
-information 0
-about 0
-the 0
-use 0
-of 0
-confidential 1
-informant 1
-(spy) 1
-Stephan 0
-Halper 0
-during 0
-the 0
-early 0
-stages 0
-of 0
-the 0
-Trump-Russia 0
-investigation. 0
+According 0 359 22
+to 0 359 22
+Bloomberg, 0 359 22
+the 0 359 22
+DOJ 0 359 22
+is 0 359 22
+interpreting 0 359 22
+Trump’s 0 359 22
+request 0 359 22
+to 0 359 22
+include 0 359 22
+information 0 359 22
+about 0 359 22
+the 0 359 22
+use 0 359 22
+of 0 359 22
+confidential 1 359 22
+informant 1 359 22
+(spy) 1 359 22
+Stephan 0 359 22
+Halper 0 359 22
+during 0 359 22
+the 0 359 22
+early 0 359 22
+stages 0 359 22
+of 0 359 22
+the 0 359 22
+Trump-Russia 0 359 22
+investigation. 0 359 22
 
-After 0
-taking 0
-in 0
-over 0
-$400,000 0
-from 0
-the 0
-Obama 0
-Pentagon 0
-under 0
-the 0
-auspices 0
-of 0
-a 0
-research 0
-contract, 0
-Halper 0
-befriended 0
-and 0
-spied 0
-on 0
-members 0
-of 0
-the 0
-Trump 0
-campaign, 0
-including 0
-aides 0
-Carter 0
-Page 0
-and 0
-George 0
-Papadopoulos. 0
+After 0 359 23
+taking 0 359 23
+in 0 359 23
+over 0 359 23
+$400,000 0 359 23
+from 0 359 23
+the 0 359 23
+Obama 0 359 23
+Pentagon 0 359 23
+under 0 359 23
+the 0 359 23
+auspices 0 359 23
+of 0 359 23
+a 0 359 23
+research 0 359 23
+contract, 0 359 23
+Halper 0 359 23
+befriended 0 359 23
+and 0 359 23
+spied 0 359 23
+on 0 359 23
+members 0 359 23
+of 0 359 23
+the 0 359 23
+Trump 0 359 23
+campaign, 0 359 23
+including 0 359 23
+aides 0 359 23
+Carter 0 359 23
+Page 0 359 23
+and 0 359 23
+George 0 359 23
+Papadopoulos. 0 359 23
 
-Showdown? 0
+Showdown? 0 359 24
 
-Top 0
-Congressional 0
-Democrats 0
-Nancy 0
-Pelosi, 0
-Chuck 0
-Schumer, 0
-Adam 0
-Schiff 0
-and 0
-Mark 0
-Warner 0
-penned 0
-a 0
-joint 0
-letter 0
-to 0
-ODNI 0
-Director 0
-Dan 0
-Coates, 0
-Deputy 0
-AG 0
-Rod 0
-Rosenstein 0
-and 0
-FBI 0
-Director 0
-Christopher 0
-Wray 0
-demanding 1
-that 1
-the 1
-agencies 1
-defy 1
-President 1
-Trump. 1
+Top 0 359 25
+Congressional 0 359 25
+Democrats 0 359 25
+Nancy 0 359 25
+Pelosi, 0 359 25
+Chuck 0 359 25
+Schumer, 0 359 25
+Adam 0 359 25
+Schiff 0 359 25
+and 0 359 25
+Mark 0 359 25
+Warner 0 359 25
+penned 0 359 25
+a 0 359 25
+joint 0 359 25
+letter 0 359 25
+to 0 359 25
+ODNI 0 359 25
+Director 0 359 25
+Dan 0 359 25
+Coates, 0 359 25
+Deputy 0 359 25
+AG 0 359 25
+Rod 0 359 25
+Rosenstein 0 359 25
+and 0 359 25
+FBI 0 359 25
+Director 0 359 25
+Christopher 0 359 25
+Wray 0 359 25
+demanding 1 359 25
+that 1 359 25
+the 1 359 25
+agencies 1 359 25
+defy 1 359 25
+President 1 359 25
+Trump. 1 359 25
 
-Showdown? 0
+Showdown? 0 359 26
 
-In 0
-letter, 0
-Pelosi/Schumer/Schiff/Warner 0
-order 0
-intel 0
-agencies 0
-to 0
-ignore 0
-presidential 0
-order 0
-on 0
-declassification 0
-until 0
-consulting 0
-with 0
-Congress. 0
+In 0 359 27
+letter, 0 359 27
+Pelosi/Schumer/Schiff/Warner 0 359 27
+order 0 359 27
+intel 0 359 27
+agencies 0 359 27
+to 0 359 27
+ignore 0 359 27
+presidential 0 359 27
+order 0 359 27
+on 0 359 27
+declassification 0 359 27
+until 0 359 27
+consulting 0 359 27
+with 0 359 27
+Congress. 0 359 27
 
-https://t.co/x7JDUJd4t0 0
-pic.twitter.com/o64PC7EEFQ 0
-— 0
-Byron 0
-York 0
-(@ByronYork) 0
-September 0
-19, 0
-2018 0
+https://t.co/x7JDUJd4t0 0 359 28
+pic.twitter.com/o64PC7EEFQ 0 359 28
+— 0 359 28
+Byron 0 359 28
+York 0 359 28
+(@ByronYork) 0 359 28
+September 0 359 28
+19, 0 359 28
+2018 0 359 28
 
-In 0
-the 0
-letter, 0
-the 0
-lawmakers 0
-“express 0
-profound 1
-alarm” 1
-at 0
-the 0
-decision 0
-to 0
-“intervene 0
-in 0
-an 0
-ongoing 0
-law 0
-enforcement 0
-investigation 0
-that 0
-may 0
-implicate 0
-the 0
-President 0
-himself 0
-or 0
-those 0
-around 0
-him.” 0
+In 0 359 29
+the 0 359 29
+letter, 0 359 29
+the 0 359 29
+lawmakers 0 359 29
+“express 0 359 29
+profound 1 359 29
+alarm” 1 359 29
+at 0 359 29
+the 0 359 29
+decision 0 359 29
+to 0 359 29
+“intervene 0 359 29
+in 0 359 29
+an 0 359 29
+ongoing 0 359 29
+law 0 359 29
+enforcement 0 359 29
+investigation 0 359 29
+that 0 359 29
+may 0 359 29
+implicate 0 359 29
+the 0 359 29
+President 0 359 29
+himself 0 359 29
+or 0 359 29
+those 0 359 29
+around 0 359 29
+him.” 0 359 29
 
-“Any 0
-decision 0
-by 0
-your 0
-offices 0
-to 0
-share 0
-this 0
-material 0
-with 0
-the 0
-President 0
-or 0
-his 0
-lawyers 0
-will 0
-violate 0
-longstanding 0
-Department 0
-of 0
-Justice 0
-polices, 0
-as 0
-well 0
-as 0
-assurances 0
-you 0
-have 0
-provided 0
-to 0
-us.” 0
+“Any 0 359 30
+decision 0 359 30
+by 0 359 30
+your 0 359 30
+offices 0 359 30
+to 0 359 30
+share 0 359 30
+this 0 359 30
+material 0 359 30
+with 0 359 30
+the 0 359 30
+President 0 359 30
+or 0 359 30
+his 0 359 30
+lawyers 0 359 30
+will 0 359 30
+violate 0 359 30
+longstanding 0 359 30
+Department 0 359 30
+of 0 359 30
+Justice 0 359 30
+polices, 0 359 30
+as 0 359 30
+well 0 359 30
+as 0 359 30
+assurances 0 359 30
+you 0 359 30
+have 0 359 30
+provided 0 359 30
+to 0 359 30
+us.” 0 359 30
 
-The 0
-letter 0
-then 0
-demands 0
-that 0
-the 0
-agencies 0
-brief 0
-the 1
-Gang 1
-of 1
-Eight 1
-before 0
-releasing 0
-the 0
-materials 0
-“to 0
-anyone 0
-at 0
-the 0
-White 0
-House.” 0
+The 0 359 31
+letter 0 359 31
+then 0 359 31
+demands 0 359 31
+that 0 359 31
+the 0 359 31
+agencies 0 359 31
+brief 0 359 31
+the 1 359 31
+Gang 1 359 31
+of 1 359 31
+Eight 1 359 31
+before 0 359 31
+releasing 0 359 31
+the 0 359 31
+materials 0 359 31
+“to 0 359 31
+anyone 0 359 31
+at 0 359 31
+the 0 359 31
+White 0 359 31
+House.” 0 359 31
 
-Reprinted 0
-from 0
-The 0
-Duran. 0
+Reprinted 0 359 31
+
+from 0 359 31
+
+The 0 359 31
+
+Duran. 0 359 31

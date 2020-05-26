@@ -1,1253 +1,1257 @@
-Julian 0
-Assange 0
+Julian 0 271 0
+Assange 0 271 0
 
-During 0
-World 0
-War 0
-II 0
-Cardinal 0
-Jozsef 0
-Mindszenty 0
-was 0
-a 0
-huge 0
-critic 0
-of 0
-fascism 0
-and 0
-wound 0
-up 0
-in 0
-prison. 0
+During 0 271 1
+World 0 271 1
+War 0 271 1
+II 0 271 1
+Cardinal 0 271 1
+Jozsef 0 271 1
+Mindszenty 0 271 1
+was 0 271 1
+a 0 271 1
+huge 0 271 1
+critic 0 271 1
+of 0 271 1
+fascism 0 271 1
+and 0 271 1
+wound 0 271 1
+up 0 271 1
+in 0 271 1
+prison. 0 271 1
 
-In 0
-Oct. 0
-1945 0
-he 0
-became 0
-head 0
-of 0
-the 0
-Church 0
-in 0
-Hungary 0
-and 0
-spoke 0
-out 0
-just 0
-as 0
-strongly 0
-against 0
-Communist 0
-oppression. 0
+In 0 271 2
+Oct. 0 271 2
+1945 0 271 2
+he 0 271 2
+became 0 271 2
+head 0 271 2
+of 0 271 2
+the 0 271 2
+Church 0 271 2
+in 0 271 2
+Hungary 0 271 2
+and 0 271 2
+spoke 0 271 2
+out 0 271 2
+just 0 271 2
+as 0 271 2
+strongly 0 271 2
+against 0 271 2
+Communist 0 271 2
+oppression. 0 271 2
 
-He 0
-wound 0
-up 0
-back 0
-in 0
-prison 0
-for 0
-eight 0
-more 0
-years, 0
-including 0
-long 0
-periods 0
-of 0
-solitary 0
-confinement 0
-and 0
-endured 0
-other 0
-forms 0
-of 0
-torture. 0
+He 0 271 3
+wound 0 271 3
+up 0 271 3
+back 0 271 3
+in 0 271 3
+prison 0 271 3
+for 0 271 3
+eight 0 271 3
+more 0 271 3
+years, 0 271 3
+including 0 271 3
+long 0 271 3
+periods 0 271 3
+of 0 271 3
+solitary 0 271 3
+confinement 0 271 3
+and 0 271 3
+endured 0 271 3
+other 0 271 3
+forms 0 271 3
+of 0 271 3
+torture. 0 271 3
 
-In 0
-1949 0
-he 0
-was 0
-sentenced 0
-to 0
-life 0
-in 0
-a 1
-show 1
-trial 1
-that 0
-generated 1
-worldwide 1
-condemnation. 1
+In 0 271 4
+1949 0 271 4
+he 0 271 4
+was 0 271 4
+sentenced 0 271 4
+to 0 271 4
+life 0 271 4
+in 0 271 4
+a 1 271 4
+show 1 271 4
+trial 1 271 4
+that 0 271 4
+generated 1 271 4
+worldwide 1 271 4
+condemnation. 1 271 4
 
-Two 0
-weeks 0
-after 0
-the 0
-trial 0
-began 0
-in 0
-early 0
-1949, 0
-Pope 0
-Pius 0
-XII 0
-(having 0
-failed 0
-to 0
-speak 0
-out 0
-forcefully 0
-against 0
-the 0
-Third 0
-Reich) 0
-did 0
-summon 0
-the 0
-courage 0
-to 0
-condemn 0
-what 0
-was 0
-happening 0
-to 0
-Mindszenty. 0
+Two 0 271 5
+weeks 0 271 5
+after 0 271 5
+the 0 271 5
+trial 0 271 5
+began 0 271 5
+in 0 271 5
+early 0 271 5
+1949, 0 271 5
+Pope 0 271 5
+Pius 0 271 5
+XII 0 271 5
+(having 0 271 5
+failed 0 271 5
+to 0 271 5
+speak 0 271 5
+out 0 271 5
+forcefully 0 271 5
+against 0 271 5
+the 0 271 5
+Third 0 271 5
+Reich) 0 271 5
+did 0 271 5
+summon 0 271 5
+the 0 271 5
+courage 0 271 5
+to 0 271 5
+condemn 0 271 5
+what 0 271 5
+was 0 271 5
+happening 0 271 5
+to 0 271 5
+Mindszenty. 0 271 5
 
-Pius 0
-excommunicated 0
-everyone 0
-involved 0
-in 0
-the 0
-Mindszenty 0
-trial. 0
+Pius 0 271 6
+excommunicated 0 271 6
+everyone 0 271 6
+involved 0 271 6
+in 0 271 6
+the 0 271 6
+Mindszenty 0 271 6
+trial. 0 271 6
 
-Then, 0
-addressing 0
-a 0
-huge 0
-crowd 0
-on 0
-St. 0
-Peter’s 0
-Square, 0
-he 0
-asked, 0
-“Do 1
-you 1
-want 1
-a 1
-Church 1
-that 1
-remains 1
-silent 1
-when 1
-she 1
-should 1
-speak 1
-… 1
-a 1
-Church 1
-that 1
-does 1
-not 1
-condemn 1
-the 1
-suppression 1
-of 1
-conscience 1
-and 1
-does 1
-not 1
-stand 1
-up 1
-for 1
-the 1
-just 1
-liberty 1
-of 1
-the 1
-people 1
-… 1
-a 1
-Church 1
-that 1
-locks 1
-herself 1
-up 1
-within 1
-the 1
-four 1
-walls 1
-of 1
-her 1
-temple 1
-in 1
-unseemly 1
-sycophancy 1
-…?” 0
+Then, 0 271 7
+addressing 0 271 7
+a 0 271 7
+huge 0 271 7
+crowd 0 271 7
+on 0 271 7
+St. 0 271 7
+Peter’s 0 271 7
+Square, 0 271 7
+he 0 271 7
+asked, 0 271 7
+“Do 1 271 7
+you 1 271 7
+want 1 271 7
+a 1 271 7
+Church 1 271 7
+that 1 271 7
+remains 1 271 7
+silent 1 271 7
+when 1 271 7
+she 1 271 7
+should 1 271 7
+speak 1 271 7
+… 1 271 7
+a 1 271 7
+Church 1 271 7
+that 1 271 7
+does 1 271 7
+not 1 271 7
+condemn 1 271 7
+the 1 271 7
+suppression 1 271 7
+of 1 271 7
+conscience 1 271 7
+and 1 271 7
+does 1 271 7
+not 1 271 7
+stand 1 271 7
+up 1 271 7
+for 1 271 7
+the 1 271 7
+just 1 271 7
+liberty 1 271 7
+of 1 271 7
+the 1 271 7
+people 1 271 7
+… 1 271 7
+a 1 271 7
+Church 1 271 7
+that 1 271 7
+locks 1 271 7
+herself 1 271 7
+up 1 271 7
+within 1 271 7
+the 1 271 7
+four 1 271 7
+walls 1 271 7
+of 1 271 7
+her 1 271 7
+temple 1 271 7
+in 1 271 7
+unseemly 1 271 7
+sycophancy 1 271 7
+…?” 0 271 7
 
-When 0
-the 0
-Hungarian 0
-revolution 0
-broke 0
-out 0
-in 0
-1956, 0
-Mindszenty 0
-was 0
-freed, 0
-but 0
-only 0
-for 0
-four 0
-days. 0
+When 0 271 8
+the 0 271 8
+Hungarian 0 271 8
+revolution 0 271 8
+broke 0 271 8
+out 0 271 8
+in 0 271 8
+1956, 0 271 8
+Mindszenty 0 271 8
+was 0 271 8
+freed, 0 271 8
+but 0 271 8
+only 0 271 8
+for 0 271 8
+four 0 271 8
+days. 0 271 8
 
-When 0
-Soviet 0
-tanks 0
-rolled 0
-back 0
-into 0
-Budapest, 0
-he 0
-fled 0
-to 0
-the 0
-U.S. 0
-embassy 0
-and 0
-was 0
-given 0
-immediate 0
-asylum 0
-by 0
-President 0
-Eisenhower. 0
+When 0 271 9
+Soviet 0 271 9
+tanks 0 271 9
+rolled 0 271 9
+back 0 271 9
+into 0 271 9
+Budapest, 0 271 9
+he 0 271 9
+fled 0 271 9
+to 0 271 9
+the 0 271 9
+U.S. 0 271 9
+embassy 0 271 9
+and 0 271 9
+was 0 271 9
+given 0 271 9
+immediate 0 271 9
+asylum 0 271 9
+by 0 271 9
+President 0 271 9
+Eisenhower. 0 271 9
 
-Speaking 0
-Freely: 0
-Ray 0
-M... 0
-Buy 0
-New 0
-$1.99 0
-(as 0
-of 0
-09:20 0
-EDT 0
-- 0
-Details) 0
+Speaking 0 271 10
+Freely: 0 271 10
+Ray 0 271 10
+M... 0 271 10
+Buy 0 271 10
+New 0 271 10
+$1.99 0 271 10
+(as 0 271 10
+of 0 271 10
+09:20 0 271 10
+EDT 0 271 10
+- 0 271 10
+Details) 0 271 10
 
-There 0
-the 0
-Cardinal 0
-stayed 0
-cooped 1
-up 1
-for 0
-the 0
-next 0
-15 0
-years. 0
+There 0 271 11
+the 0 271 11
+Cardinal 0 271 11
+stayed 0 271 11
+cooped 1 271 11
+up 1 271 11
+for 0 271 11
+the 0 271 11
+next 0 271 11
+15 0 271 11
+years. 0 271 11
 
-Mindszenty’s 0
-mother 0
-was 0
-permitted 0
-to 0
-visit 0
-him 0
-four 0
-times 0
-a 0
-year, 0
-and 0
-the 0
-communist 0
-authorities 0
-stationed 0
-secret 0
-police 0
-outside 0
-the 0
-embassy 0
-ready 0
-to 0
-arrest 0
-him 0
-should 0
-he 0
-try 0
-to 0
-leave. 0
+Mindszenty’s 0 271 12
+mother 0 271 12
+was 0 271 12
+permitted 0 271 12
+to 0 271 12
+visit 0 271 12
+him 0 271 12
+four 0 271 12
+times 0 271 12
+a 0 271 12
+year, 0 271 12
+and 0 271 12
+the 0 271 12
+communist 0 271 12
+authorities 0 271 12
+stationed 0 271 12
+secret 0 271 12
+police 0 271 12
+outside 0 271 12
+the 0 271 12
+embassy 0 271 12
+ready 0 271 12
+to 0 271 12
+arrest 0 271 12
+him 0 271 12
+should 0 271 12
+he 0 271 12
+try 0 271 12
+to 0 271 12
+leave. 0 271 12
 
-Sound 0
-familiar? 0
+Sound 0 271 13
+familiar? 0 271 13
 
-Where 1
-is 1
-the 1
-voice 1
-of 1
-conscience 1
-to 1
-condemn 1
-what 1
-is 1
-happening 1
-to 1
-Julian 1
-Assange, 1
-whose 1
-only 1
-“crime” 1
-is 1
-publishing 1
-documents 1
-exposing 1
-the 1
-criminal 1
-activities 1
-and 1
-corruption 1
-of 1
-governments 1
-and 1
-other 1
-Establishment 1
-elites? 1
+Where 1 271 14
+is 1 271 14
+the 1 271 14
+voice 1 271 14
+of 1 271 14
+conscience 1 271 14
+to 1 271 14
+condemn 1 271 14
+what 1 271 14
+is 1 271 14
+happening 1 271 14
+to 1 271 14
+Julian 1 271 14
+Assange, 1 271 14
+whose 1 271 14
+only 1 271 14
+“crime” 1 271 14
+is 1 271 14
+publishing 1 271 14
+documents 1 271 14
+exposing 1 271 14
+the 1 271 14
+criminal 1 271 14
+activities 1 271 14
+and 1 271 14
+corruption 1 271 14
+of 1 271 14
+governments 1 271 14
+and 1 271 14
+other 1 271 14
+Establishment 1 271 14
+elites? 1 271 14
 
-Decades 0
-ago, 0
-the 0
-U.S. 0
-and 0
-“civilized 0
-world” 0
-had 0
-nothing 0
-but 0
-high 0
-praise 0
-for 0
-the 0
-courageous 0
-Mindszenty. 0
+Decades 0 271 15
+ago, 0 271 15
+the 0 271 15
+U.S. 0 271 15
+and 0 271 15
+“civilized 0 271 15
+world” 0 271 15
+had 0 271 15
+nothing 0 271 15
+but 0 271 15
+high 0 271 15
+praise 0 271 15
+for 0 271 15
+the 0 271 15
+courageous 0 271 15
+Mindszenty. 0 271 15
 
-He 0
-became 0
-a 0
-candidate 0
-for 0
-sainthood. 0
+He 0 271 16
+became 0 271 16
+a 0 271 16
+candidate 0 271 16
+for 0 271 16
+sainthood. 0 271 16
 
-And 0
-Assange? 0
+And 0 271 17
+Assange? 0 271 17
 
-He 0
-has 0
-been 0
-confined 0
-in 0
-the 0
-Ecuadorian 0
-embassy 0
-in 0
-London 0
-for 0
-six 0
-years 0
-—from 0
-June 0
-19, 0
-2012—the 0
-victim 1
-of 1
-a 1
-scurrilous 1
-slander 1
-campaign 1
-and 0
-British 0
-threats 0
-to 0
-arrest 0
-him, 0
-should 0
-he 0
-ever 0
-step 0
-outside. 0
+He 0 271 18
+has 0 271 18
+been 0 271 18
+confined 0 271 18
+in 0 271 18
+the 0 271 18
+Ecuadorian 0 271 18
+embassy 0 271 18
+in 0 271 18
+London 0 271 18
+for 0 271 18
+six 0 271 18
+years 0 271 18
+—from 0 271 18
+June 0 271 18
+19, 0 271 18
+2012—the 0 271 18
+victim 1 271 18
+of 1 271 18
+a 1 271 18
+scurrilous 1 271 18
+slander 1 271 18
+campaign 1 271 18
+and 0 271 18
+British 0 271 18
+threats 0 271 18
+to 0 271 18
+arrest 0 271 18
+him, 0 271 18
+should 0 271 18
+he 0 271 18
+ever 0 271 18
+step 0 271 18
+outside. 0 271 18
 
-The 0
-U.S. 0
-government 0
-has 0
-been 0
-putting 1
-extraordinary 1
-pressure 1
-on 0
-Ecuador 0
-to 0
-end 0
-his 0
-asylum 0
-and 0
-top 0
-U.S. 0
-officials 0
-have 0
-made 0
-it 0
-clear 0
-that, 0
-as 0
-soon 0
-as 0
-they 0
-get 1
-their 1
-hands 1
-on 1
-him, 1
-they 0
-will 0
-manufacture 0
-a 0
-reason 0
-to 0
-put 0
-him 0
-on 0
-trial 0
-and 0
-put 0
-him 0
-in 0
-prison. 0
+The 0 271 19
+U.S. 0 271 19
+government 0 271 19
+has 0 271 19
+been 0 271 19
+putting 1 271 19
+extraordinary 1 271 19
+pressure 1 271 19
+on 0 271 19
+Ecuador 0 271 19
+to 0 271 19
+end 0 271 19
+his 0 271 19
+asylum 0 271 19
+and 0 271 19
+top 0 271 19
+U.S. 0 271 19
+officials 0 271 19
+have 0 271 19
+made 0 271 19
+it 0 271 19
+clear 0 271 19
+that, 0 271 19
+as 0 271 19
+soon 0 271 19
+as 0 271 19
+they 0 271 19
+get 1 271 19
+their 1 271 19
+hands 1 271 19
+on 1 271 19
+him, 1 271 19
+they 0 271 19
+will 0 271 19
+manufacture 0 271 19
+a 0 271 19
+reason 0 271 19
+to 0 271 19
+put 0 271 19
+him 0 271 19
+on 0 271 19
+trial 0 271 19
+and 0 271 19
+put 0 271 19
+him 0 271 19
+in 0 271 19
+prison. 0 271 19
 
-All 1
-for 1
-spreading 1
-unwelcome 1
-truth 1
-around. 1
+All 1 271 20
+for 1 271 20
+spreading 1 271 20
+unwelcome 1 271 20
+truth 1 271 20
+around. 1 271 20
 
-A 0
-Suppression 0
-of 0
-Conscience 0
+A 0 271 21
+Suppression 0 271 21
+of 0 271 21
+Conscience 0 271 21
 
-One 1
-might 1
-ask, 1
-is 1
-“unseemly 1
-sycophancy” 1
-at 1
-work 1
-among 1
-the 1
-media? 1
+One 1 271 22
+might 1 271 22
+ask, 1 271 22
+is 1 271 22
+“unseemly 1 271 22
+sycophancy” 1 271 22
+at 1 271 22
+work 1 271 22
+among 1 271 22
+the 1 271 22
+media? 1 271 22
 
-The 0
-silence 0
-of 0
-what 0
-used 0
-to 0
-be 0
-the 1
-noble 1
-profession 1
-of 1
-journalism 1
-is 0
-deafening. 1
+The 0 271 23
+silence 0 271 23
+of 0 271 23
+what 0 271 23
+used 0 271 23
+to 0 271 23
+be 0 271 23
+the 1 271 23
+noble 1 271 23
+profession 1 271 23
+of 1 271 23
+journalism 1 271 23
+is 0 271 23
+deafening. 1 271 23
 
-John 0
-Pilger 0
-— 0
-one 0
-of 0
-the 0
-few 0
-journalists 0
-to 0
-speak 0
-out 0
-on 0
-Julian 0
-Assange’s 0
-behalf, 0
-labels 0
-journalists 0
-who 0
-fail 0
-to 0
-stand 0
-in 0
-solidarity 0
-with 0
-Assange 0
-in 0
-exposing 0
-the 0
-behavior 0
-of 0
-the 0
-Establishment, 0
-“Vichy 1
-journalists 1
-— 0
-after 1
-the 1
-Vichy 1
-government 1
-that 1
-served 1
-ad 1
-enabled 1
-the 1
-German 1
-occupation 1
-of 1
-France.” 1
+John 0 271 24
+Pilger 0 271 24
+— 0 271 24
+one 0 271 24
+of 0 271 24
+the 0 271 24
+few 0 271 24
+journalists 0 271 24
+to 0 271 24
+speak 0 271 24
+out 0 271 24
+on 0 271 24
+Julian 0 271 24
+Assange’s 0 271 24
+behalf, 0 271 24
+labels 0 271 24
+journalists 0 271 24
+who 0 271 24
+fail 0 271 24
+to 0 271 24
+stand 0 271 24
+in 0 271 24
+solidarity 0 271 24
+with 0 271 24
+Assange 0 271 24
+in 0 271 24
+exposing 0 271 24
+the 0 271 24
+behavior 0 271 24
+of 0 271 24
+the 0 271 24
+Establishment, 0 271 24
+“Vichy 1 271 24
+journalists 1 271 24
+— 0 271 24
+after 1 271 24
+the 1 271 24
+Vichy 1 271 24
+government 1 271 24
+that 1 271 24
+served 1 271 24
+ad 1 271 24
+enabled 1 271 24
+the 1 271 24
+German 1 271 24
+occupation 1 271 24
+of 1 271 24
+France.” 1 271 24
 
-Pilger 0
-adds: 0
+Pilger 0 271 25
+adds: 0 271 25
 
-“No 1
-investigative 1
-journalism 1
-in 1
-my 1
-lifetime 1
-can 1
-equal 1
-the 1
-importance 1
-of 1
-what 1
-WikiLeaks 1
-has 1
-done 1
-in 0
-calling 0
-rapacious 0
-power 0
-to 0
-account. 0
+“No 1 271 26
+investigative 1 271 26
+journalism 1 271 26
+in 1 271 26
+my 1 271 26
+lifetime 1 271 26
+can 1 271 26
+equal 1 271 26
+the 1 271 26
+importance 1 271 26
+of 1 271 26
+what 1 271 26
+WikiLeaks 1 271 26
+has 1 271 26
+done 1 271 26
+in 0 271 26
+calling 0 271 26
+rapacious 0 271 26
+power 0 271 26
+to 0 271 26
+account. 0 271 26
 
-It 0
-is 0
-as 0
-if 0
-a 1
-one-way 1
-moral 1
-screen 1
-has 1
-been 1
-pushed 1
-back 1
-to 1
-expose 1
-the 1
-imperialism 1
-of 1
-liberal 1
-democracies: 1
-the 0
-commitment 0
-to 0
-endless 1
-warfare 1
-… 0
-When 0
-Harold 0
-Pinter 0
-accepted 0
-the 0
-Nobel 0
-Prize 0
-for 0
-Literature 0
-in 0
-2005, 0
-he 0
-referred 0
-to 0
-‘a 0
-vast 1
-tapestry 1
-of 1
-lies 1
-up 1
-on 1
-which 1
-we 1
-feed.’ 1
-He 0
-asked 0
-why 1
-‘the 1
-systematic 1
-brutality, 1
-the 1
-widespread 1
-atrocities, 1
-the 1
-ruthless 1
-suppression 1
-of 1
-independent 1
-thought’ 1
-of 1
-the 1
-Soviet 1
-Union 1
-were 1
-well 1
-known 1
-in 1
-the 1
-West 1
-while 1
-America’s 1
-imperial 1
-crimes 1
-“never 1
-happened 1
-… 0
-even 0
-while 0
-[they] 0
-were 0
-happening, 0
-they 0
-never 0
-happened.’” 0
+It 0 271 27
+is 0 271 27
+as 0 271 27
+if 0 271 27
+a 1 271 27
+one-way 1 271 27
+moral 1 271 27
+screen 1 271 27
+has 1 271 27
+been 1 271 27
+pushed 1 271 27
+back 1 271 27
+to 1 271 27
+expose 1 271 27
+the 1 271 27
+imperialism 1 271 27
+of 1 271 27
+liberal 1 271 27
+democracies: 1 271 27
+the 0 271 27
+commitment 0 271 27
+to 0 271 27
+endless 1 271 27
+warfare 1 271 27
+… 0 271 27
+When 0 271 27
+Harold 0 271 27
+Pinter 0 271 27
+accepted 0 271 27
+the 0 271 27
+Nobel 0 271 27
+Prize 0 271 27
+for 0 271 27
+Literature 0 271 27
+in 0 271 27
+2005, 0 271 27
+he 0 271 27
+referred 0 271 27
+to 0 271 27
+‘a 0 271 27
+vast 1 271 27
+tapestry 1 271 27
+of 1 271 27
+lies 1 271 27
+up 1 271 27
+on 1 271 27
+which 1 271 27
+we 1 271 27
+feed.’ 1 271 27
+He 0 271 27
+asked 0 271 27
+why 1 271 27
+‘the 1 271 27
+systematic 1 271 27
+brutality, 1 271 27
+the 1 271 27
+widespread 1 271 27
+atrocities, 1 271 27
+the 1 271 27
+ruthless 1 271 27
+suppression 1 271 27
+of 1 271 27
+independent 1 271 27
+thought’ 1 271 27
+of 1 271 27
+the 1 271 27
+Soviet 1 271 27
+Union 1 271 27
+were 1 271 27
+well 1 271 27
+known 1 271 27
+in 1 271 27
+the 1 271 27
+West 1 271 27
+while 1 271 27
+America’s 1 271 27
+imperial 1 271 27
+crimes 1 271 27
+“never 1 271 27
+happened 1 271 27
+… 0 271 27
+even 0 271 27
+while 0 271 27
+[they] 0 271 27
+were 0 271 27
+happening, 0 271 27
+they 0 271 27
+never 0 271 27
+happened.’” 0 271 27
 
-WikiLeaks 0
-and 0
-9/11: 0
-What 0
-if? 0
+WikiLeaks 0 271 28
+and 0 271 28
+9/11: 0 271 28
+What 0 271 28
+if? 0 271 28
 
-In 0
-an 0
-op-ed 0
-published 0
-several 0
-years 0
-ago 0
-by 0
-The 0
-Los 0
-Angeles 0
-Times, 0
-two 0
-members 0
-of 0
-Veteran 0
-Intelligence 0
-Professionals 0
-for 0
-Sanity, 0
-Coleen 0
-Rowley 0
-and 0
-Bogdan 0
-Dzakovic, 0
-pointed 0
-out 0
-that 0
-— 0
-If 0
-WikiLeaks 0
-had 0
-been 0
-up 0
-and 0
-running 0
-before 0
-9/11 0
-— 0
-frustrated 1
-FBI 1
-investigators 1
-might 0
-have 0
-chosen 0
-to 0
-leak 0
-information 0
-that 0
-their 0
-superiors 0
-bottled 0
-up, 0
-perhaps 0
-averting 0
-the 0
-terrorism 0
-attacks. 0
+In 0 271 29
+an 0 271 29
+op-ed 0 271 29
+published 0 271 29
+several 0 271 29
+years 0 271 29
+ago 0 271 29
+by 0 271 29
+The 0 271 29
+Los 0 271 29
+Angeles 0 271 29
+Times, 0 271 29
+two 0 271 29
+members 0 271 29
+of 0 271 29
+Veteran 0 271 29
+Intelligence 0 271 29
+Professionals 0 271 29
+for 0 271 29
+Sanity, 0 271 29
+Coleen 0 271 29
+Rowley 0 271 29
+and 0 271 29
+Bogdan 0 271 29
+Dzakovic, 0 271 29
+pointed 0 271 29
+out 0 271 29
+that 0 271 29
+— 0 271 29
+If 0 271 29
+WikiLeaks 0 271 29
+had 0 271 29
+been 0 271 29
+up 0 271 29
+and 0 271 29
+running 0 271 29
+before 0 271 29
+9/11 0 271 29
+— 0 271 29
+frustrated 1 271 29
+FBI 1 271 29
+investigators 1 271 29
+might 0 271 29
+have 0 271 29
+chosen 0 271 29
+to 0 271 29
+leak 0 271 29
+information 0 271 29
+that 0 271 29
+their 0 271 29
+superiors 0 271 29
+bottled 0 271 29
+up, 0 271 29
+perhaps 0 271 29
+averting 0 271 29
+the 0 271 29
+terrorism 0 271 29
+attacks. 0 271 29
 
-“There 0
-were 0
-a 0
-lot 0
-of 0
-us 0
-in 0
-the 0
-run-up 0
-to 0
-Sept. 0
-11 0
-who 0
-had 0
-seen 0
-warning 0
-signs 0
-that 0
-something 1
-devastating 1
-might 0
-be 0
-in 0
-the 0
-planning 0
-stages. 0
+“There 0 271 30
+were 0 271 30
+a 0 271 30
+lot 0 271 30
+of 0 271 30
+us 0 271 30
+in 0 271 30
+the 0 271 30
+run-up 0 271 30
+to 0 271 30
+Sept. 0 271 30
+11 0 271 30
+who 0 271 30
+had 0 271 30
+seen 0 271 30
+warning 0 271 30
+signs 0 271 30
+that 0 271 30
+something 1 271 30
+devastating 1 271 30
+might 0 271 30
+be 0 271 30
+in 0 271 30
+the 0 271 30
+planning 0 271 30
+stages. 0 271 30
 
-But 0
-we 0
-worked 0
-for 0
-ossified 1
-bureaucracies 1
-incapable 1
-of 1
-acting 1
-quickly 1
-and 1
-decisively. 1
+But 0 271 31
+we 0 271 31
+worked 0 271 31
+for 0 271 31
+ossified 1 271 31
+bureaucracies 1 271 31
+incapable 1 271 31
+of 1 271 31
+acting 1 271 31
+quickly 1 271 31
+and 1 271 31
+decisively. 1 271 31
 
-Lately, 0
-the 0
-two 0
-of 0
-us 0
-have 0
-been 0
-wondering 0
-how 0
-things 0
-might 0
-have 0
-been 0
-different 0
-if 0
-there 0
-had 0
-been 0
-a 0
-quick, 0
-confidential 0
-way 0
-to 0
-get 0
-information 0
-out.” 0
-The 0
-WikiLeaks 0
-Files: 0
-T... 0
-WikiLeaks 0
-Best 0
-Price: 0
-$2.50 0
-Buy 0
-New 0
-$7.00 0
-(as 0
-of 0
-05:50 0
-EDT 0
-- 0
-Details) 0
+Lately, 0 271 32
+the 0 271 32
+two 0 271 32
+of 0 271 32
+us 0 271 32
+have 0 271 32
+been 0 271 32
+wondering 0 271 32
+how 0 271 32
+things 0 271 32
+might 0 271 32
+have 0 271 32
+been 0 271 32
+different 0 271 32
+if 0 271 32
+there 0 271 32
+had 0 271 32
+been 0 271 32
+a 0 271 32
+quick, 0 271 32
+confidential 0 271 32
+way 0 271 32
+to 0 271 32
+get 0 271 32
+information 0 271 32
+out.” 0 271 32
+The 0 271 32
+WikiLeaks 0 271 32
+Files: 0 271 32
+T... 0 271 32
+WikiLeaks 0 271 32
+Best 0 271 32
+Price: 0 271 32
+$2.50 0 271 32
+Buy 0 271 32
+New 0 271 32
+$7.00 0 271 32
+(as 0 271 32
+of 0 271 32
+05:50 0 271 32
+EDT 0 271 32
+- 0 271 32
+Details) 0 271 32
 
-Fourth 1
-Estate 1
-on 1
-Life 1
-Support 1
+Fourth 1 271 33
+Estate 1 271 33
+on 1 271 33
+Life 1 271 33
+Support 1 271 33
 
-In 0
-2010, 0
-while 0
-he 0
-was 0
-still 0
-a 0
-free 0
-man, 0
-the 0
-Sam 0
-Adams 0
-Associates 0
-for 0
-Integrity 0
-gave 0
-its 0
-annual 0
-award 0
-to 0
-Assange. 0
+In 0 271 34
+2010, 0 271 34
+while 0 271 34
+he 0 271 34
+was 0 271 34
+still 0 271 34
+a 0 271 34
+free 0 271 34
+man, 0 271 34
+the 0 271 34
+Sam 0 271 34
+Adams 0 271 34
+Associates 0 271 34
+for 0 271 34
+Integrity 0 271 34
+gave 0 271 34
+its 0 271 34
+annual 0 271 34
+award 0 271 34
+to 0 271 34
+Assange. 0 271 34
 
-The 0
-citation 0
-read: 0
+The 0 271 35
+citation 0 271 35
+read: 0 271 35
 
-“It 0
-seems 0
-altogether 0
-fitting 0
-and 0
-proper 0
-that 0
-this 0
-year’s 0
-award 0
-be 0
-presented 0
-in 0
-London, 0
-where 0
-Edmund 0
-Burke 0
-coined 0
-the 0
-expression 0
-“Fourth 0
-Estate.” 0
-Comparing 0
-the 0
-function 0
-of 0
-the 0
-press 0
-to 0
-that 0
-of 0
-the 0
-three 0
-Houses 0
-then 0
-in 0
-Parliament, 0
-Burke 0
-said: 0
-“…but 0
-in 0
-the 0
-Reporters 0
-Gallery 0
-yonder, 0
-there 0
-sits 0
-a 1
-Fourth 1
-Estate 1
-more 1
-important 1
-far 1
-then 1
-they 1
-all.” 1
-The 0
-year 0
-was 0
-1787—the 0
-year 0
-the 0
-U.S. 0
-Constitution 0
-was 0
-adopted. 0
+“It 0 271 36
+seems 0 271 36
+altogether 0 271 36
+fitting 0 271 36
+and 0 271 36
+proper 0 271 36
+that 0 271 36
+this 0 271 36
+year’s 0 271 36
+award 0 271 36
+be 0 271 36
+presented 0 271 36
+in 0 271 36
+London, 0 271 36
+where 0 271 36
+Edmund 0 271 36
+Burke 0 271 36
+coined 0 271 36
+the 0 271 36
+expression 0 271 36
+“Fourth 0 271 36
+Estate.” 0 271 36
+Comparing 0 271 36
+the 0 271 36
+function 0 271 36
+of 0 271 36
+the 0 271 36
+press 0 271 36
+to 0 271 36
+that 0 271 36
+of 0 271 36
+the 0 271 36
+three 0 271 36
+Houses 0 271 36
+then 0 271 36
+in 0 271 36
+Parliament, 0 271 36
+Burke 0 271 36
+said: 0 271 36
+“…but 0 271 36
+in 0 271 36
+the 0 271 36
+Reporters 0 271 36
+Gallery 0 271 36
+yonder, 0 271 36
+there 0 271 36
+sits 0 271 36
+a 1 271 36
+Fourth 1 271 36
+Estate 1 271 36
+more 1 271 36
+important 1 271 36
+far 1 271 36
+then 1 271 36
+they 1 271 36
+all.” 1 271 36
+The 0 271 36
+year 0 271 36
+was 0 271 36
+1787—the 0 271 36
+year 0 271 36
+the 0 271 36
+U.S. 0 271 36
+Constitution 0 271 36
+was 0 271 36
+adopted. 0 271 36
 
-The 0
-First 0
-Amendment, 0
-approved 0
-four 0
-years 0
-later, 0
-aimed 0
-at 0
-ensuring 0
-that 0
-the 0
-press 0
-would 0
-be 0
-free 0
-of 0
-government 0
-interference. 0
+The 0 271 37
+First 0 271 37
+Amendment, 0 271 37
+approved 0 271 37
+four 0 271 37
+years 0 271 37
+later, 0 271 37
+aimed 0 271 37
+at 0 271 37
+ensuring 0 271 37
+that 0 271 37
+the 0 271 37
+press 0 271 37
+would 0 271 37
+be 0 271 37
+free 0 271 37
+of 0 271 37
+government 0 271 37
+interference. 0 271 37
 
-That 0
-was 0
-then. 0
+That 0 271 38
+was 0 271 38
+then. 0 271 38
 
-With 0
-the 0
-Fourth 1
-Estate 1
-now 1
-on 1
-life 1
-support, 1
-there 0
-is 0
-a 0
-high 0
-premium 0
-on 0
-the 0
-fledgling 0
-Fifth 0
-Estate, 0
-which 0
-uses 0
-the 0
-ether 0
-and 0
-is 0
-not 0
-susceptible 0
-of 0
-government 0
-or 0
-corporation 0
-control. 0
+With 0 271 39
+the 0 271 39
+Fourth 1 271 39
+Estate 1 271 39
+now 1 271 39
+on 1 271 39
+life 1 271 39
+support, 1 271 39
+there 0 271 39
+is 0 271 39
+a 0 271 39
+high 0 271 39
+premium 0 271 39
+on 0 271 39
+the 0 271 39
+fledgling 0 271 39
+Fifth 0 271 39
+Estate, 0 271 39
+which 0 271 39
+uses 0 271 39
+the 0 271 39
+ether 0 271 39
+and 0 271 39
+is 0 271 39
+not 0 271 39
+susceptible 0 271 39
+of 0 271 39
+government 0 271 39
+or 0 271 39
+corporation 0 271 39
+control. 0 271 39
 
-Small 1
-wonder 1
-that 0
-governments 0
-with 0
-lots 0
-to 0
-hide 0
-feel 0
-very 0
-threatened. 0
+Small 1 271 40
+wonder 1 271 40
+that 0 271 40
+governments 0 271 40
+with 0 271 40
+lots 0 271 40
+to 0 271 40
+hide 0 271 40
+feel 0 271 40
+very 0 271 40
+threatened. 0 271 40
 
-It 0
-has 0
-been 0
-said: 0
-“You 0
-shall 0
-know 0
-the 0
-truth, 0
-and 0
-the 0
-truth 0
-shall 0
-set 0
-you 0
-free.” 0
-WikiLeaks 0
-is 0
-helping 0
-make 0
-that 0
-possible 0
-by 0
-publishing 0
-documents 0
-that 0
-do 0
-not 0
-lie. 0
+It 0 271 41
+has 0 271 41
+been 0 271 41
+said: 0 271 41
+“You 0 271 41
+shall 0 271 41
+know 0 271 41
+the 0 271 41
+truth, 0 271 41
+and 0 271 41
+the 0 271 41
+truth 0 271 41
+shall 0 271 41
+set 0 271 41
+you 0 271 41
+free.” 0 271 41
+WikiLeaks 0 271 41
+is 0 271 41
+helping 0 271 41
+make 0 271 41
+that 0 271 41
+possible 0 271 41
+by 0 271 41
+publishing 0 271 41
+documents 0 271 41
+that 0 271 41
+do 0 271 41
+not 0 271 41
+lie. 0 271 41
 
-Last 0
-spring, 0
-when 0
-we 0
-chose 0
-WikiLeaks 0
-and 0
-Julian 0
-Assange 0
-for 0
-this 0
-award, 0
-Julian 0
-said 0
-he 0
-would 0
-accept 0
-only 0
-“on 0
-behalf 0
-or 0
-our 0
-sources, 0
-without 0
-which 0
-WikiLeaks’ 0
-contributions 0
-are 0
-of 0
-no 0
-significance.” 0
-We 0
-do 0
-not 0
-know 0
-if 0
-Pvt. 0
+Last 0 271 42
+spring, 0 271 42
+when 0 271 42
+we 0 271 42
+chose 0 271 42
+WikiLeaks 0 271 42
+and 0 271 42
+Julian 0 271 42
+Assange 0 271 42
+for 0 271 42
+this 0 271 42
+award, 0 271 42
+Julian 0 271 42
+said 0 271 42
+he 0 271 42
+would 0 271 42
+accept 0 271 42
+only 0 271 42
+“on 0 271 42
+behalf 0 271 42
+or 0 271 42
+our 0 271 42
+sources, 0 271 42
+without 0 271 42
+which 0 271 42
+WikiLeaks’ 0 271 42
+contributions 0 271 42
+are 0 271 42
+of 0 271 42
+no 0 271 42
+significance.” 0 271 42
+We 0 271 42
+do 0 271 42
+not 0 271 42
+know 0 271 42
+if 0 271 42
+Pvt. 0 271 42
 
-Bradley 0
-Manning 0
-gave 0
-WikiLeaks 0
-the 0
-gun-barrel 0
-video 0
-of 0
-July 0
-12, 0
-2007 0
-called 0
-“Collateral 0
-Murder.” 0
-Whoever 0
-did 0
-provide 0
-that 0
-graphic 0
-footage, 0
-showing 0
-the 1
-brutality 1
-of 1
-the 1
-celebrated 1
-“surge” 1
-in 1
-Iraq, 1
-was 0
-certainly 0
-far 1
-more 1
-a 1
-patriot 1
-than 0
-the 1
-“mainstream” 1
-journalist 1
-embedded 0
-in 0
-that 0
-same 0
-Army 0
-unit. 0
+Bradley 0 271 43
+Manning 0 271 43
+gave 0 271 43
+WikiLeaks 0 271 43
+the 0 271 43
+gun-barrel 0 271 43
+video 0 271 43
+of 0 271 43
+July 0 271 43
+12, 0 271 43
+2007 0 271 43
+called 0 271 43
+“Collateral 0 271 43
+Murder.” 0 271 43
+Whoever 0 271 43
+did 0 271 43
+provide 0 271 43
+that 0 271 43
+graphic 0 271 43
+footage, 0 271 43
+showing 0 271 43
+the 1 271 43
+brutality 1 271 43
+of 1 271 43
+the 1 271 43
+celebrated 1 271 43
+“surge” 1 271 43
+in 1 271 43
+Iraq, 1 271 43
+was 0 271 43
+certainly 0 271 43
+far 1 271 43
+more 1 271 43
+a 1 271 43
+patriot 1 271 43
+than 0 271 43
+the 1 271 43
+“mainstream” 1 271 43
+journalist 1 271 43
+embedded 0 271 43
+in 0 271 43
+that 0 271 43
+same 0 271 43
+Army 0 271 43
+unit. 0 271 43
 
-He 0
-suppressed 0
-what 0
-happened 0
-in 0
-Baghdad 0
-that 0
-day, 0
-dismissed 0
-it 0
-as 0
-simply 0
-“one 1
-bad 1
-day 1
-in 1
-a 1
-surge 1
-that 1
-was 1
-filled 1
-with 1
-such 1
-days,” 1
-and 0
-then 0
-had 1
-the 1
-temerity 1
-to 1
-lavish 1
-praise 1
-on 0
-the 0
-unit 0
-in 0
-a 0
-book 0
-he 0
-called 0
-“The 0
-Good 0
-Soldiers.” 0
-Julian 0
-is 0
-right 0
-to 0
-emphasize 0
-that 0
-the 0
-world 0
-is 0
-deeply 0
-indebted 0
-to 0
-patriotic 1
-truth-tellers 1
-like 0
-the 0
-sources 0
-who 0
-provided 0
-the 0
-gun-barrel 0
-footage 0
-and 0
-the 0
-many 0
-documents 0
-on 0
-Afghanistan 0
-and 0
-Iraq 0
-to 0
-WikiLeaks. 0
+He 0 271 44
+suppressed 0 271 44
+what 0 271 44
+happened 0 271 44
+in 0 271 44
+Baghdad 0 271 44
+that 0 271 44
+day, 0 271 44
+dismissed 0 271 44
+it 0 271 44
+as 0 271 44
+simply 0 271 44
+“one 1 271 44
+bad 1 271 44
+day 1 271 44
+in 1 271 44
+a 1 271 44
+surge 1 271 44
+that 1 271 44
+was 1 271 44
+filled 1 271 44
+with 1 271 44
+such 1 271 44
+days,” 1 271 44
+and 0 271 44
+then 0 271 44
+had 1 271 44
+the 1 271 44
+temerity 1 271 44
+to 1 271 44
+lavish 1 271 44
+praise 1 271 44
+on 0 271 44
+the 0 271 44
+unit 0 271 44
+in 0 271 44
+a 0 271 44
+book 0 271 44
+he 0 271 44
+called 0 271 44
+“The 0 271 44
+Good 0 271 44
+Soldiers.” 0 271 44
+Julian 0 271 44
+is 0 271 44
+right 0 271 44
+to 0 271 44
+emphasize 0 271 44
+that 0 271 44
+the 0 271 44
+world 0 271 44
+is 0 271 44
+deeply 0 271 44
+indebted 0 271 44
+to 0 271 44
+patriotic 1 271 44
+truth-tellers 1 271 44
+like 0 271 44
+the 0 271 44
+sources 0 271 44
+who 0 271 44
+provided 0 271 44
+the 0 271 44
+gun-barrel 0 271 44
+footage 0 271 44
+and 0 271 44
+the 0 271 44
+many 0 271 44
+documents 0 271 44
+on 0 271 44
+Afghanistan 0 271 44
+and 0 271 44
+Iraq 0 271 44
+to 0 271 44
+WikiLeaks. 0 271 44
 
-We 0
-hope 0
-to 0
-have 0
-a 0
-chance 0
-to 0
-honor 0
-them 0
-in 0
-person 0
-in 0
-the 0
-future. 0
+We 0 271 45
+hope 0 271 45
+to 0 271 45
+have 0 271 45
+a 0 271 45
+chance 0 271 45
+to 0 271 45
+honor 0 271 45
+them 0 271 45
+in 0 271 45
+person 0 271 45
+in 0 271 45
+the 0 271 45
+future. 0 271 45
 
-Today 0
-we 0
-honor 0
-WikiLeaks, 0
-and 0
-one 0
-of 0
-its 0
-leaders, 0
-Julian 0
-Assange, 0
-for 0
-their 0
-ingenuity 0
-in 0
-creating 0
-a 0
-new 0
-highway 0
-by 0
-which 0
-important 0
-documentary 0
-evidence 0
-can 0
-make 0
-its 0
-way, 0
-quickly 0
-and 0
-confidentially, 0
-through 0
-the 0
-ether 0
-and 0
-into 0
-our 0
-in-boxes. 0
+Today 0 271 46
+we 0 271 46
+honor 0 271 46
+WikiLeaks, 0 271 46
+and 0 271 46
+one 0 271 46
+of 0 271 46
+its 0 271 46
+leaders, 0 271 46
+Julian 0 271 46
+Assange, 0 271 46
+for 0 271 46
+their 0 271 46
+ingenuity 0 271 46
+in 0 271 46
+creating 0 271 46
+a 0 271 46
+new 0 271 46
+highway 0 271 46
+by 0 271 46
+which 0 271 46
+important 0 271 46
+documentary 0 271 46
+evidence 0 271 46
+can 0 271 46
+make 0 271 46
+its 0 271 46
+way, 0 271 46
+quickly 0 271 46
+and 0 271 46
+confidentially, 0 271 46
+through 0 271 46
+the 0 271 46
+ether 0 271 46
+and 0 271 46
+into 0 271 46
+our 0 271 46
+in-boxes. 0 271 46
 
-Long 1
-live 1
-the 1
-Fifth 1
-Estate!” 1
+Long 1 271 47
+live 1 271 47
+the 1 271 47
+Fifth 1 271 47
+Estate!” 1 271 47
 
-Eventually 0
-a 0
-compromise 0
-was 0
-found 0
-in 0
-1971 0
-when 0
-Pope 0
-Paul 0
-VI 0
-lifted 0
-the 0
-excommunications 0
-and 0
-Mindszenty 0
-was 0
-able 0
-to 0
-leave 0
-the 0
-U.S. 0
-embassy. 0
+Eventually 0 271 48
+a 0 271 48
+compromise 0 271 48
+was 0 271 48
+found 0 271 48
+in 0 271 48
+1971 0 271 48
+when 0 271 48
+Pope 0 271 48
+Paul 0 271 48
+VI 0 271 48
+lifted 0 271 48
+the 0 271 48
+excommunications 0 271 48
+and 0 271 48
+Mindszenty 0 271 48
+was 0 271 48
+able 0 271 48
+to 0 271 48
+leave 0 271 48
+the 0 271 48
+U.S. 0 271 48
+embassy. 0 271 48
 
-Can 0
-such 0
-a 0
-diplomatic 0
-solution 0
-be 0
-found 0
-to 0
-free 0
-Assange? 0
+Can 0 271 49
+such 0 271 49
+a 0 271 49
+diplomatic 0 271 49
+solution 0 271 49
+be 0 271 49
+found 0 271 49
+to 0 271 49
+free 0 271 49
+Assange? 0 271 49
 
-It 0
-is 0
-looking 0
-more 0
-and 0
-more 0
-unlikely 0
-with 0
-each 0
-passing 0
-year. 0
+It 0 271 50
+is 0 271 50
+looking 0 271 50
+more 0 271 50
+and 0 271 50
+more 0 271 50
+unlikely 0 271 50
+with 0 271 50
+each 0 271 50
+passing 0 271 50
+year. 0 271 50
 
-Reprinted 0
-with 0
-permission 0
-from 0
-Consortiumnews.com. 0
+Reprinted 0 271 50
+
+with 0 271 50
+
+permission 0 271 50
+
+from 0 271 50
+
+Consortiumnews.com. 0 271 50

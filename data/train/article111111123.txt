@@ -1,776 +1,770 @@
-Domestic 0
-abuse 0
-allegations 0
-against 0
-Keith 0
-Ellison 0
-cannot 0
-be 0
-substantiated, 0
-Dems' 0
-lawyer 0
-says 0
+Domestic 0 8 0
+abuse 0 8 0
+allegations 0 8 0
+against 0 8 0
+Keith 0 8 0
+Ellison 0 8 0
+cannot 0 8 0
+be 0 8 0
+substantiated, 0 8 0
+Dems' 0 8 0
+lawyer 0 8 0
+says 0 8 0
 
-A 0
-lawyer 0
-hired 0
-by 0
-Minnesota 0
-Democrats 0
-says 0
-she 0
-is 0
-unable 0
-to 0
-substantiate 0
-the 0
-accusations 0
-of 0
-domestic 0
-abuse 0
-against 0
-Rep. 0
-Keith 0
-Ellison 0
-because 0
-the 0
-lawmaker’s 0
-ex-girlfriend 0
-refused 0
-to 0
-provide 0
-video 0
-of 0
-the 0
-incident 0
-- 0
-but 0
-the 0
-findings 0
-are 0
-still 0
-being 0
-turned 0
-over 0
-to 0
-law 0
-enforcement. 0
+A 0 8 1
+lawyer 0 8 1
+hired 0 8 1
+by 0 8 1
+Minnesota 0 8 1
+Democrats 0 8 1
+says 0 8 1
+she 0 8 1
+is 0 8 1
+unable 0 8 1
+to 0 8 1
+substantiate 0 8 1
+the 0 8 1
+accusations 0 8 1
+of 0 8 1
+domestic 0 8 1
+abuse 0 8 1
+against 0 8 1
+Rep. 0 8 1
+Keith 0 8 1
+Ellison 0 8 1
+because 0 8 1
+the 0 8 1
+lawmaker’s 0 8 1
+ex-girlfriend 0 8 1
+refused 0 8 1
+to 0 8 1
+provide 0 8 1
+video 0 8 1
+of 0 8 1
+the 0 8 1
+incident 0 8 1
+- 0 8 1
+but 0 8 1
+the 0 8 1
+findings 0 8 1
+are 0 8 1
+still 0 8 1
+being 0 8 1
+turned 0 8 1
+over 0 8 1
+to 0 8 1
+law 0 8 1
+enforcement. 0 8 1
 
-The 0
+The 0 8 2
+Associated 0 8 2
+Press 0 8 2
+on 0 8 2
+Monday 0 8 2
+reported 0 8 2
+that 0 8 2
+it 0 8 2
+obtained 0 8 2
+a 0 8 2
+draft 0 8 2
+of 0 8 2
+a 0 8 2
+report 0 8 2
+written 0 8 2
+by 0 8 2
+Susan 0 8 2
+Ellingstad, 0 8 2
+a 0 8 2
+lawyer 0 8 2
+hired 0 8 2
+by 0 8 2
+Minnesota's 0 8 2
+Democratic-Farmer-Labor 0 8 2
+Party 0 8 2
+to 0 8 2
+investigate 0 8 2
+the 0 8 2
+claim 0 8 2
+against 0 8 2
+Ellison. 0 8 2
 
-Associated 0
-Press 0
-on 0
-Monday 0
-reported 0
-that 0
-it 0
-obtained 0
-a 0
-draft 0
-of 0
-a 0
-report 0
-written 0
-by 0
-Susan 0
-Ellingstad, 0
-a 0
-lawyer 0
-hired 0
-by 0
-Minnesota's 0
-Democratic-Farmer-Labor 0
-Party 0
-to 0
-investigate 0
-the 0
-claim 0
-against 0
-Ellison. 0
+"The 0 8 3
+investigation 0 8 3
+report, 0 8 3
+which 0 8 3
+was 0 8 3
+released 0 8 3
+today 0 8 3
+without 0 8 3
+our 0 8 3
+knowledge 0 8 3
+by 0 8 3
+someone 0 8 3
+outside 0 8 3
+of 0 8 3
+our 0 8 3
+organization, 0 8 3
+was 0 8 3
+unable 0 8 3
+to 0 8 3
+substantiate 0 8 3
+the 0 8 3
+claim 0 8 3
+of 0 8 3
+physical 0 8 3
+abuse 0 8 3
+made 0 8 3
+by 0 8 3
+Ms. 0 8 3
+Monahan,” 0 8 3
+DFL 0 8 3
+Chairman 0 8 3
+Ken 0 8 3
+Martin 0 8 3
+said 0 8 3
+in 0 8 3
+a 0 8 3
+statement. 0 8 3
 
-"The 0
+Martin 0 8 4
+said 0 8 4
+they 0 8 4
+planned 0 8 4
+to 0 8 4
+turn 0 8 4
+over 0 8 4
+the 0 8 4
+report 0 8 4
+to 0 8 4
+local 0 8 4
+law 0 8 4
+enforcement. 0 8 4
 
-investigation 0
+“For 0 8 5
+the 0 8 5
+purpose 0 8 5
+of 0 8 5
+objectivity 0 8 5
+and 0 8 5
+getting 0 8 5
+all 0 8 5
+of 0 8 5
+the 0 8 5
+facts 0 8 5
+regarding 0 8 5
+these 0 8 5
+allegations, 0 8 5
+we 0 8 5
+have 0 8 5
+decided 0 8 5
+to 0 8 5
+forward 0 8 5
+the 0 8 5
+information 0 8 5
+in 0 8 5
+the 0 8 5
+investigation 0 8 5
+to 0 8 5
+local 0 8 5
+authorities 0 8 5
+in 0 8 5
+order 0 8 5
+to 0 8 5
+let 0 8 5
+them 0 8 5
+review 0 8 5
+the 0 8 5
+contents 0 8 5
+and 0 8 5
+determine 0 8 5
+whether 0 8 5
+further 0 8 5
+investigation 0 8 5
+is 0 8 5
+warranted,” 0 8 5
+Martin 0 8 5
 
-report, 0
-which 0
-was 0
-released 0
-today 0
-without 0
-our 0
-knowledge 0
-by 0
-someone 0
-outside 0
-of 0
-our 0
-organization, 0
-was 0
-unable 0
-to 0
-substantiate 0
-the 0
-claim 0
-of 0
-physical 0
-abuse 0
-made 0
-by 0
-Ms. 0
-Monahan,” 0
-DFL 0
-Chairman 0
-Ken 0
-Martin 0
-said 0
-in 0
-a 0
-statement. 0
+said. 0 8 6
+The 0 8 6
+Democratic 0 8 6
+congressman, 0 8 6
+who 0 8 6
+serves 0 8 6
+as 0 8 6
+deputy 0 8 6
+chairman 0 8 6
+of 0 8 6
+the 0 8 6
+Democratic 0 8 6
+National 0 8 6
+Committee, 0 8 6
+has 0 8 6
+denied 0 8 6
+the 0 8 6
+allegations. 0 8 6
 
-Martin 0
+In 0 8 7
+a 0 8 7
+statement, 0 8 7
+Ellison 0 8 7
+thanked 0 8 7
+Ellingstad 0 8 7
+for 0 8 7
+conducting 0 8 7
+a 0 8 7
+"thorough, 0 8 7
+independent, 0 8 7
+and 0 8 7
+fair 0 8 7
+review." 0 8 7
 
-said 0
-they 0
-planned 0
-to 0
-turn 0
-over 0
-the 0
-report 0
-to 0
-local 0
-law 0
-enforcement. 0
+"I 0 8 8
+believe 0 8 8
+women 0 8 8
+who 0 8 8
+come 0 8 8
+forward 0 8 8
+must 0 8 8
+be 0 8 8
+heard, 0 8 8
+and 0 8 8
+to 0 8 8
+have 0 8 8
+their 0 8 8
+allegations 0 8 8
+fully 0 8 8
+investigated," 0 8 8
+Ellison 0 8 8
 
-“For 0
+said. 0 8 9
+"This 0 8 9
+is 0 8 9
+why 0 8 9
+I 0 8 9
+have 0 8 9
+complied 0 8 9
+with 0 8 9
+this 0 8 9
+investigation 0 8 9
+fully, 0 8 9
+and 0 8 9
+will 0 8 9
+do 0 8 9
+so 0 8 9
+with 0 8 9
+any 0 8 9
+other 0 8 9
+inquiries. 0 8 9
 
-the 0
-purpose 0
-of 0
-objectivity 0
-and 0
-getting 0
-all 0
-of 0
-the 0
-facts 0
-regarding 0
-these 0
-allegations, 0
-we 0
-have 0
-decided 0
-to 0
-forward 0
-the 0
-information 0
-in 0
-the 0
-investigation 0
-to 0
-local 0
-authorities 0
-in 0
-order 0
-to 0
-let 0
-them 0
-review 0
-the 0
-contents 0
-and 0
-determine 0
-whether 0
-further 0
-investigation 0
-is 0
-warranted,” 0
-Martin 0
-said. 0
+... 0 8 10
+At 0 8 10
+this 0 8 10
+time, 0 8 10
+I 0 8 10
+will 0 8 10
+be 0 8 10
+focusing 0 8 10
+on 0 8 10
+the 0 8 10
+issues 0 8 10
+of 0 8 10
+this 0 8 10
+important 0 8 10
+election." 0 8 10
 
-The 0
-Democratic 0
-congressman, 0
-who 0
-serves 0
-as 0
-deputy 0
-chairman 0
-of 0
-the 0
-Democratic 0
-National 0
-Committee, 0
-has 0
-denied 0
-the 0
-allegations. 0
+Ellison’s 0 8 11
+ex-girlfriend, 0 8 11
+Karen 0 8 11
+Monahan, 0 8 11
+alleged 0 8 11
+in 0 8 11
+August 0 8 11
+that 0 8 11
+Ellison 0 8 11
+dragged 0 8 11
+her 0 8 11
+off 0 8 11
+a 0 8 11
+bed 0 8 11
+by 0 8 11
+her 0 8 11
+feet 0 8 11
+while 0 8 11
+screaming 0 8 11
+obscenities 0 8 11
+at 0 8 11
+her 0 8 11
 
-In 0
+in 0 8 12
+2016. 0 8 12
+Monahan 0 8 12
+said 0 8 12
+she 0 8 12
+had 0 8 12
+video 0 8 12
+footage 0 8 12
+of 0 8 12
+the 0 8 12
+incident 0 8 12
+and 0 8 12
+levied 0 8 12
+the 0 8 12
+allegation 0 8 12
+just 0 8 12
+days 0 8 12
+ahead 0 8 12
+of 0 8 12
+a 0 8 12
+crowded 0 8 12
+Democratic 0 8 12
+primary 0 8 12
+for 0 8 12
+Minnesota 0 8 12
+attorney 0 8 12
+general 0 8 12
+that 0 8 12
+Ellison 0 8 12
+went 0 8 12
+on 0 8 12
 
-a 0
-statement, 0
-Ellison 0
-thanked 0
-Ellingstad 0
-for 0
-conducting 0
-a 0
-"thorough, 0
-independent, 0
-and 0
-fair 0
-review." 0
+to 0 8 13
+win. 0 8 13
+The 0 8 13
+state's 0 8 13
+Democratic 0 8 13
+party 0 8 13
+launched 0 8 13
+an 0 8 13
+investigation 0 8 13
+into 0 8 13
+the 0 8 13
+claim, 0 8 13
+retaining 0 8 13
+a 0 8 13
+local 0 8 13
+attorney 0 8 13
+with 0 8 13
+links 0 8 13
+to 0 8 13
+the 0 8 13
+state 0 8 13
+party 0 8 13
+to 0 8 13
+determine 0 8 13
+whether 0 8 13
+the 0 8 13
+alleged 0 8 13
+incident 0 8 13
+took 0 8 13
 
-"I 0
+place. 0 8 14
+Democratic 0 8 14
+party 0 8 14
+chairman 0 8 14
+Ken 0 8 14
+Martin 0 8 14
+said 0 8 14
+last 0 8 14
+week 0 8 14
+he 0 8 14
+expected 0 8 14
+the 0 8 14
+investigation 0 8 14
+to 0 8 14
+conclude 0 8 14
 
-believe 0
-women 0
-who 0
-come 0
-forward 0
-must 0
-be 0
-heard, 0
-and 0
-to 0
-have 0
-their 0
-allegations 0
-fully 0
-investigated," 0
-Ellison 0
-said. 0
+soon. 0 8 15
+A 0 8 15
+draft 0 8 15
+report 0 8 15
+obtained 0 8 15
+by 0 8 15
+the 0 8 15
+AP 0 8 15
+noted 0 8 15
+Monahan's 0 8 15
+shifting 0 8 15
+rationale 0 8 15
+for 0 8 15
+refusing 0 8 15
+to 0 8 15
+produce 0 8 15
+the 0 8 15
+video 0 8 15
+footage, 0 8 15
+including 0 8 15
+that 0 8 15
+it 0 8 15
+was 0 8 15
+lost, 0 8 15
+was 0 8 15
+on 0 8 15
+a 0 8 15
+USB 0 8 15
+drive 0 8 15
+in 0 8 15
+storage 0 8 15
+and 0 8 15
+would 0 8 15
+be 0 8 15
+too 0 8 15
+embarrassing 0 8 15
+and 0 8 15
+traumatic 0 8 15
+to 0 8 15
+release 0 8 15
 
-"This 0
-is 0
-why 0
-I 0
-have 0
-complied 0
-with 0
-this 0
-investigation 0
-fully, 0
-and 0
-will 0
-do 0
-so 0
-with 0
-any 0
-other 0
-inquiries. 0
+it. 0 8 16
+The 0 8 16
+Ellison 0 8 16
+accusations 0 8 16
+have 0 8 16
+put 0 8 16
+Democrats 0 8 16
+in 0 8 16
+an 0 8 16
+uncomfortable 0 8 16
+position, 0 8 16
+as 0 8 16
+they 0 8 16
+speak 0 8 16
+out 0 8 16
+on 0 8 16
+sexual 0 8 16
+misconduct 0 8 16
+claims 0 8 16
+against 0 8 16
+Supreme 0 8 16
+Court 0 8 16
+nominee 0 8 16
+Brett 0 8 16
 
-... 0
-At 0
-this 0
-time, 0
-I 0
-will 0
-be 0
-focusing 0
-on 0
-the 0
-issues 0
-of 0
-this 0
-important 0
-election." 0
+Kavanaugh. 0 8 17
+Kavanaugh 0 8 17
+denies 0 8 17
+the 0 8 17
+accusations. 0 8 17
 
-Ellison’s 0
+Monahan 0 8 18
+slammed 0 8 18
+the 0 8 18
+Democratic 0 8 18
+Party 0 8 18
+for 0 8 18
+its 0 8 18
+response 0 8 18
+to 0 8 18
+her 0 8 18
+allegations 0 8 18
+when 0 8 18
+compared 0 8 18
+to 0 8 18
+its 0 8 18
+treatment 0 8 18
+of 0 8 18
+Christine 0 8 18
 
-ex-girlfriend, 0
-Karen 0
-Monahan, 0
-alleged 0
-in 0
-August 0
-that 0
-Ellison 0
-dragged 0
-her 0
-off 0
-a 0
-bed 0
-by 0
-her 0
-feet 0
-while 0
-screaming 0
-obscenities 0
-at 0
-her 0
-in 0
-2016. 0
+Blasey 0 8 19
+Ford. 0 8 19
+Ford 0 8 19
+has 0 8 19
+accused 0 8 19
+Kavanaugh 0 8 19
+of 0 8 19
+attempting 0 8 19
+to 0 8 19
+force 0 8 19
+himself 0 8 19
+onto 0 8 19
+her 0 8 19
+during 0 8 19
+a 0 8 19
+high 0 8 19
+school 0 8 19
+party 0 8 19
+nearly 0 8 19
+four 0 8 19
 
-Monahan 0
-said 0
-she 0
-had 0
-video 0
-footage 0
-of 0
-the 0
-incident 0
-and 0
-levied 0
-the 0
-allegation 0
-just 0
-days 0
-ahead 0
-of 0
-a 0
-crowded 0
-Democratic 0
-primary 0
-for 0
-Minnesota 0
-attorney 0
-general 0
-that 0
-Ellison 0
-went 0
-on 0
-to 0
-win. 0
+decades 0 8 20
+ago. 0 8 20
+Many 0 8 20
+prominent 0 8 20
+Democrats 0 8 20
+have 0 8 20
+supported 0 8 20
+Ford’s 0 8 20
 
-The 0
+allegations. 0 8 21
+“No, 0 8 21
+they 0 8 21
+don't,” 0 8 21
+Monahan 0 8 21
+tweeted 0 8 21
+in 0 8 21
+response 0 8 21
+to 0 8 21
+a 0 8 21
+question 0 8 21
+of 0 8 21
+whether 0 8 21
+the 0 8 21
+party 0 8 21
+believes 0 8 21
+women’s 0 8 21
 
-state's 0
-Democratic 0
-party 0
-launched 0
-an 0
-investigation 0
-into 0
-the 0
-claim, 0
-retaining 0
-a 0
-local 0
-attorney 0
-with 0
-links 0
-to 0
-the 0
-state 0
-party 0
-to 0
-determine 0
-whether 0
-the 0
-alleged 0
-incident 0
-took 0
-place. 0
+stories. 0 8 22
+“I've 0 8 22
+been 0 8 22
+smeared, 0 8 22
+threatened, 0 8 22
+isolated 0 8 22
+from 0 8 22
 
-Democratic 0
-party 0
-chairman 0
-Ken 0
-Martin 0
-said 0
-last 0
-week 0
-he 0
-expected 0
-the 0
-investigation 0
-to 0
-conclude 0
-soon. 0
+my 0 8 23
+own 0 8 23
+party. 0 8 23
+I 0 8 23
+provided 0 8 23
+medical 0 8 23
+records 0 8 23
+from 0 8 23
+2017, 0 8 23
+stating 0 8 23
+on 0 8 23
+two 0 8 23
 
-A 0
+different 0 8 24
+Dr. 0 8 24
+Visits, 0 8 24
+I 0 8 24
+told 0 8 24
+them 0 8 24
+about 0 8 24
+the 0 8 24
+abuse 0 8 24
+and 0 8 24
 
-draft 0
-report 0
-obtained 0
-by 0
-the 0
-AP 0
-noted 0
-Monahan's 0
-shifting 0
-rationale 0
-for 0
-refusing 0
-to 0
-produce 0
-the 0
-video 0
-footage, 0
-including 0
-that 0
-it 0
-was 0
-lost, 0
-was 0
-on 0
-a 0
-USB 0
-drive 0
-in 0
-storage 0
-and 0
-would 0
-be 0
-too 0
-embarrassing 0
-and 0
-traumatic 0
-to 0
-release 0
-it. 0
+who 0 8 25
+did 0 8 25
+it. 0 8 25
+My 0 8 25
+therapist 0 8 25
+released 0 8 25
+records 0 8 25
+stating 0 8 25
+I 0 8 25
+have 0 8 25
+been 0 8 25
+dealing 0 8 25
+and 0 8 25
+healing 0 8 25
+from 0 8 25
 
-The 0
+the 0 8 26
+abuse.” 0 8 26
+She 0 8 26
+added: 0 8 26
+“Four 0 8 26
+people, 0 8 26
+including 0 8 26
+my 0 8 26
+supervisor 0 8 26
+at 0 8 26
+the 0 8 26
+time, 0 8 26
+stated 0 8 26
+that 0 8 26
+I 0 8 26
+came 0 8 26
+to 0 8 26
+them 0 8 26
+after 0 8 26
+and 0 8 26
+shared 0 8 26
+the 0 8 26
+exact 0 8 26
+story 0 8 26
+I 0 8 26
+shared 0 8 26
+publicly, 0 8 26
+I 0 8 26
+shared 0 8 26
+multiple 0 8 26
+text 0 8 26
+between 0 8 26
+me 0 8 26
+and 0 8 26
+Keith, 0 8 26
+where 0 8 26
+I 0 8 26
+discuss 0 8 26
+the 0 8 26
+abuse 0 8 26
+with 0 8 26
+him 0 8 26
 
-Ellison 0
-accusations 0
-have 0
-put 0
-Democrats 0
-in 0
-an 0
-uncomfortable 0
-position, 0
-as 0
-they 0
-speak 0
-out 0
-on 0
-sexual 0
-misconduct 0
-claims 0
-against 0
-Supreme 0
-Court 0
-nominee 0
-Brett 0
-Kavanaugh. 0
+and 0 8 27
+much 0 8 27
+more. 0 8 27
+As 0 8 27
+I 0 8 27
+said 0 8 27
+before, 0 8 27
+I 0 8 27
+knew 0 8 27
+I 0 8 27
+wouldn't 0 8 27
 
-Kavanaugh 0
-denies 0
-the 0
-accusations. 0
+be 0 8 28
+believed.” 0 8 28
+Many 0 8 28
+other 0 8 28
+Democrats 0 8 28
+and 0 8 28
+progressives 0 8 28
+– 0 8 28
+who 0 8 28
+largely 0 8 28
+stayed 0 8 28
+silent 0 8 28
+after 0 8 28
+the 0 8 28
+accusations 0 8 28
+against 0 8 28
+Ellison 0 8 28
+emerged 0 8 28
+– 0 8 28
+came 0 8 28
+out 0 8 28
+in 0 8 28
+support 0 8 28
+of 0 8 28
+Ford, 0 8 28
+including 0 8 28
+Vermont 0 8 28
+Sen. 0 8 28
+Bernie 0 8 28
+Sanders 0 8 28
+and 0 8 28
+Tom 0 8 28
+Perez, 0 8 28
+chairman 0 8 28
+of 0 8 28
+the 0 8 28
+DNC, 0 8 28
+who 0 8 28
+urged 0 8 28
+to 0 8 28
+investigate 0 8 28
+the 0 8 28
+claims 0 8 28
 
-Monahan 0
+and 0 8 29
+Kavanaugh. 0 8 29
+Monahan 0 8 29
+went 0 8 29
+to 0 8 29
+reiterate 0 8 29
+that 0 8 29
+her 0 8 29
+story 0 8 29
+has 0 8 29
+nothing 0 8 29
+to 0 8 29
+do 0 8 29
 
-slammed 0
-the 0
-Democratic 0
-Party 0
-for 0
-its 0
-response 0
-to 0
-her 0
-allegations 0
-when 0
-compared 0
-to 0
-its 0
-treatment 0
-of 0
-Christine 0
-Blasey 0
-Ford. 0
+with 0 8 30
+politics. 0 8 30
+“I 0 8 30
+have 0 8 30
+nothing 0 8 30
+to 0 8 30
+prove 0 8 30
+to 0 8 30
+anyone, 0 8 30
+I 0 8 30
+simply 0 8 30
+shared 0 8 30
 
-Ford 0
-has 0
-accused 0
-Kavanaugh 0
-of 0
-attempting 0
-to 0
-force 0
-himself 0
-onto 0
-her 0
-during 0
-a 0
-high 0
-school 0
-party 0
-nearly 0
-four 0
-decades 0
-ago. 0
+my 0 8 31
+story. 0 8 31
+People 0 8 31
+can 0 8 31
+believe 0 8 31
 
-Many 0
-prominent 0
-Democrats 0
-have 0
-supported 0
-Ford’s 0
-allegations. 0
+it 0 8 32
+or 0 8 32
+not. 0 8 32
+I 0 8 32
+don’t 0 8 32
+need 0 8 32
+anyone 0 8 32
+to 0 8 32
+affirm 0 8 32
+my 0 8 32
+humanity, 0 8 32
+I 0 8 32
+affirmed 0 8 32
+it,” 0 8 32
+she 0 8 32
+wrote 0 8 32
+in 0 8 32
 
-“No, 0
+another 0 8 33
+tweet. 0 8 33
+“The 0 8 33
+fact 0 8 33
+that 0 8 33
+both 0 8 33
+parties 0 8 33
+only 0 8 33
+care 0 8 33
+if 0 8 33
+it 0 8 33
+scores 0 8 33
+political 0 8 33
+points 0 8 33
+is 0 8 33
+hypocritical,” 1 8 33
 
-they 0
-don't,” 0
-Monahan 0
-tweeted 0
-in 0
-response 0
-to 0
-a 0
-question 0
-of 0
-whether 0
-the 0
-party 0
-believes 0
-women’s 0
-stories. 0
+she 0 8 34
+added. 0 8 34
+“Do 0 8 34
+you 0 8 34
+think 0 8 34
+a 0 8 34
+person 0 8 34
+who 0 8 34
+has 0 8 34
+dealt 0 8 34
+with 0 8 34
+any 0 8 34
+form 0 8 34
+of 0 8 34
+abuse 0 8 34
+by 0 8 34
+politicians 0 8 34
+is 0 8 34
+thinking 0 8 34
 
-“I've 0
-been 0
-smeared, 0
-threatened, 0
-isolated 0
-from 0
-my 0
-own 0
-party. 0
+about 0 8 34
 
-I 0
-provided 0
-medical 0
-records 0
-from 0
-2017, 0
-stating 0
-on 0
-two 0
-different 0
-Dr. 0
+politics? 0 8 34
 
-Visits, 0
-I 0
-told 0
-them 0
-about 0
-the 0
-abuse 0
-and 0
-who 0
-did 0
-it. 0
+No, 0 8 34
 
-My 0
-therapist 0
-released 0
-records 0
-stating 0
-I 0
-have 0
-been 0
-dealing 0
-and 0
-healing 0
-from 0
-the 0
-abuse.” 0
+we 0 8 34
 
-She 0
+& 0 8 34
 
-added: 0
-“Four 0
-people, 0
-including 0
-my 0
-supervisor 0
-at 0
-the 0
-time, 0
-stated 0
-that 0
-I 0
-came 0
-to 0
-them 0
-after 0
-and 0
-shared 0
-the 0
-exact 0
-story 0
-I 0
-shared 0
-publicly, 0
-I 0
-shared 0
-multiple 0
-text 0
-between 0
-me 0
-and 0
-Keith, 0
-where 0
-I 0
-discuss 0
-the 0
-abuse 0
-with 0
-him 0
-and 0
-much 0
-more. 0
+are 0 8 34
 
-As 0
-I 0
-said 0
-before, 0
-I 0
-knew 0
-I 0
-wouldn't 0
-be 0
-believed.” 0
+families 0 8 34
 
-Many 0
-other 0
-Democrats 0
-and 0
-progressives 0
-– 0
-who 0
-largely 0
-stayed 0
-silent 0
-after 0
-the 0
-accusations 0
-against 0
-Ellison 0
-emerged 0
-– 0
-came 0
-out 0
-in 0
-support 0
-of 0
-Ford, 0
-including 0
-Vermont 0
-Sen. 0
-Bernie 0
-Sanders 0
-and 0
-Tom 0
-Perez, 0
-chairman 0
-of 0
-the 0
-DNC, 0
-who 0
-urged 0
-to 0
-investigate 0
-the 0
-claims 0
-and 0
-Kavanaugh. 0
+are 0 8 34
 
-Monahan 0
+trying 0 8 34
 
-went 0
-to 0
-reiterate 0
-that 0
-her 0
-story 0
-has 0
-nothing 0
-to 0
-do 0
-with 0
-politics. 0
+to 0 8 34
 
-“I 0
-have 0
-nothing 0
-to 0
-prove 0
-to 0
-anyone, 0
-I 0
-simply 0
-shared 0
-my 0
-story. 0
-
-People 0
-can 0
-believe 0
-it 0
-or 0
-not. 0
-
-I 0
-don’t 0
-need 0
-anyone 0
-to 0
-affirm 0
-my 0
-humanity, 0
-I 0
-affirmed 0
-it,” 0
-she 0
-wrote 0
-in 0
-another 0
-tweet. 0
-
-“The 0
-
-fact 0
-that 0
-both 0
-parties 0
-only 0
-care 0
-if 0
-it 0
-scores 0
-political 0
-points 0
-is 0
-hypocritical,” 1
-she 0
-added. 0
-
-“Do 0
-you 0
-think 0
-a 0
-person 0
-who 0
-has 0
-dealt 0
-with 0
-any 0
-form 0
-of 0
-abuse 0
-by 0
-politicians 0
-is 0
-thinking 0
-about 0
-politics? 0
-
-No, 0
-we 0
-& 0
-are 0
-families 0
-are 0
-trying 0
-to 0
-heal.” 0
+heal.” 0 8 34

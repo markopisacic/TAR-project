@@ -1,709 +1,714 @@
-Vote 0
-targeting 0
-Jewish 0
-student 0
-politician 0
-was 0
-not 0
-anti-Semitic: 0
-McGill 0
-report 0
+Vote 0 144 0
+targeting 0 144 0
+Jewish 0 144 0
+student 0 144 0
+politician 0 144 0
+was 0 144 0
+not 0 144 0
+anti-Semitic: 0 144 0
+McGill 0 144 0
+report 0 144 0
 
-MONTREAL 0
-– 0
-It 0
-was 0
-political 0
-disagreement 0
-— 0
-not 0
-anti-Semitism 0
-— 0
-that 0
-led 0
-to 0
-a 0
-Jewish 0
-student 0
-being 0
-voted 0
-off 0
-the 0
-McGill 0
-University 0
-student 0
-council’s 0
-board 0
-of 0
-directors, 0
-an 0
-investigation 0
-ordered 0
-by 0
-the 0
-principal 0
-has 0
-concluded. 0
+MONTREAL 0 144 1
+– 0 144 1
+It 0 144 1
+was 0 144 1
+political 0 144 1
+disagreement 0 144 1
+— 0 144 1
+not 0 144 1
+anti-Semitism 0 144 1
+— 0 144 1
+that 0 144 1
+led 0 144 1
+to 0 144 1
+a 0 144 1
+Jewish 0 144 1
+student 0 144 1
+being 0 144 1
+voted 0 144 1
+off 0 144 1
+the 0 144 1
+McGill 0 144 1
+University 0 144 1
+student 0 144 1
+council’s 0 144 1
+board 0 144 1
+of 0 144 1
+directors, 0 144 1
+an 0 144 1
+investigation 0 144 1
+ordered 0 144 1
+by 0 144 1
+the 0 144 1
+principal 0 144 1
+has 0 144 1
+concluded. 0 144 1
 
-But 1
-Jewish 1
-groups 1
-on 1
-and 1
-off 1
-campus 1
-have 1
-denounced 1
-the 1
-report 1
-as 1
-flawed, 1
-saying 1
-it 1
-missed 1
-the 1
-significance 1
-of 1
-an 1
-anti-Semitic 1
-text 1
-circulated 1
-online 1
-before 1
-Noah 1
-Lew 1
-was 1
-removed 1
-from 1
-the 1
-board 1
-last 1
-fall. 1
+But 1 144 2
+Jewish 1 144 2
+groups 1 144 2
+on 1 144 2
+and 1 144 2
+off 1 144 2
+campus 1 144 2
+have 1 144 2
+denounced 1 144 2
+the 1 144 2
+report 1 144 2
+as 1 144 2
+flawed, 1 144 2
+saying 1 144 2
+it 1 144 2
+missed 1 144 2
+the 1 144 2
+significance 1 144 2
+of 1 144 2
+an 1 144 2
+anti-Semitic 1 144 2
+text 1 144 2
+circulated 1 144 2
+online 1 144 2
+before 1 144 2
+Noah 1 144 2
+Lew 1 144 2
+was 1 144 2
+removed 1 144 2
+from 1 144 2
+the 1 144 2
+board 1 144 2
+last 1 144 2
+fall. 1 144 2
 
-A 0
-joint 0
-statement 0
-from 0
-five 0
-campus 0
-Jewish 0
-groups 0
-says 0
-the 0
-report, 0
-released 0
-this 0
-week 0
-by 0
-principal 0
-Suzanne 0
-Fortier, 0
-“appears 0
-to 0
-condone 0
-discrimination 0
-against 0
-Jewish 0
-students 0
-at 0
-McGill 0
-based 0
-on 0
-the 0
-cultural 0
-and 0
-religious 0
-organizations 0
-they 0
-affiliate 0
-with.” 0
+A 0 144 3
+joint 0 144 3
+statement 0 144 3
+from 0 144 3
+five 0 144 3
+campus 0 144 3
+Jewish 0 144 3
+groups 0 144 3
+says 0 144 3
+the 0 144 3
+report, 0 144 3
+released 0 144 3
+this 0 144 3
+week 0 144 3
+by 0 144 3
+principal 0 144 3
+Suzanne 0 144 3
+Fortier, 0 144 3
+“appears 0 144 3
+to 0 144 3
+condone 0 144 3
+discrimination 0 144 3
+against 0 144 3
+Jewish 0 144 3
+students 0 144 3
+at 0 144 3
+McGill 0 144 3
+based 0 144 3
+on 0 144 3
+the 0 144 3
+cultural 0 144 3
+and 0 144 3
+religious 0 144 3
+organizations 0 144 3
+they 0 144 3
+affiliate 0 144 3
+with.” 0 144 3
 
-The 0
-controversy 0
-has 0
-its 0
-roots 0
-in 0
-McGill’s 0
-long-running 0
-debate 0
-over 0
-the 0
-anti-Israel 0
-Boycott, 0
-Divestment 0
-and 0
-Sanctions 0
-movement. 0
+The 0 144 4
+controversy 0 144 4
+has 0 144 4
+its 0 144 4
+roots 0 144 4
+in 0 144 4
+McGill’s 0 144 4
+long-running 0 144 4
+debate 0 144 4
+over 0 144 4
+the 0 144 4
+anti-Israel 0 144 4
+Boycott, 0 144 4
+Divestment 0 144 4
+and 0 144 4
+Sanctions 0 144 4
+movement. 0 144 4
 
-At 0
-an 0
-Oct. 0
-23 0
-general 0
-assembly 0
-of 0
-the 0
-Student 0
-Society 0
-of 0
-McGill 0
-University, 0
-a 0
-routine 0
-motion 0
-to 0
-elect 0
-a 0
-slate 0
-of 0
-directors 0
-turned 0
-contentious. 0
+At 0 144 5
+an 0 144 5
+Oct. 0 144 5
+23 0 144 5
+general 0 144 5
+assembly 0 144 5
+of 0 144 5
+the 0 144 5
+Student 0 144 5
+Society 0 144 5
+of 0 144 5
+McGill 0 144 5
+University, 0 144 5
+a 0 144 5
+routine 0 144 5
+motion 0 144 5
+to 0 144 5
+elect 0 144 5
+a 0 144 5
+slate 0 144 5
+of 0 144 5
+directors 0 144 5
+turned 0 144 5
+contentious. 0 144 5
 
-Supporters 0
-of 0
-a 0
-group 0
-called 0
-Democratize 0
-SSMU, 0
-formed 0
-to 0
-fight 0
-a 0
-decision 0
-of 0
-the 0
-board 0
-of 0
-directors 0
-declaring 0
-BDS 0
-counter 0
-to 0
-the 0
-SSMU 0
-constitution, 0
-brought 0
-a 0
-motion 0
-to 0
-divide 0
-the 0
-election 0
-vote. 0
+Supporters 0 144 6
+of 0 144 6
+a 0 144 6
+group 0 144 6
+called 0 144 6
+Democratize 0 144 6
+SSMU, 0 144 6
+formed 0 144 6
+to 0 144 6
+fight 0 144 6
+a 0 144 6
+decision 0 144 6
+of 0 144 6
+the 0 144 6
+board 0 144 6
+of 0 144 6
+directors 0 144 6
+declaring 0 144 6
+BDS 0 144 6
+counter 0 144 6
+to 0 144 6
+the 0 144 6
+SSMU 0 144 6
+constitution, 0 144 6
+brought 0 144 6
+a 0 144 6
+motion 0 144 6
+to 0 144 6
+divide 0 144 6
+the 0 144 6
+election 0 144 6
+vote. 0 144 6
 
-In 0
-the 0
-past 0
-they 0
-had 0
-been 0
-ratified 0
-as 0
-a 0
-bloc. 0
+In 0 144 7
+the 0 144 7
+past 0 144 7
+they 0 144 7
+had 0 144 7
+been 0 144 7
+ratified 0 144 7
+as 0 144 7
+a 0 144 7
+bloc. 0 144 7
 
-The 0
-first 0
-five 0
-candidates 0
-were 0
-overwhelmingly 1
-approved, 1
-but 0
-when 0
-they 0
-got 0
-to 0
-Lew, 0
-the 0
-only 0
-Jewish 0
-director, 0
-he 0
-was 0
-rejected 0
-105 0
-to 0
-73. 0
+The 0 144 8
+first 0 144 8
+five 0 144 8
+candidates 0 144 8
+were 0 144 8
+overwhelmingly 1 144 8
+approved, 1 144 8
+but 0 144 8
+when 0 144 8
+they 0 144 8
+got 0 144 8
+to 0 144 8
+Lew, 0 144 8
+the 0 144 8
+only 0 144 8
+Jewish 0 144 8
+director, 0 144 8
+he 0 144 8
+was 0 144 8
+rejected 0 144 8
+105 0 144 8
+to 0 144 8
+73. 0 144 8
 
-In 0
-a 0
-subsequent 0
-Facebook 0
-post, 0
-Lew 0
-wrote, 0
-“My 1
-Jewish 1
-identity 1
-was 1
-now 1
-public, 1
-and 1
-a 1
-target 1
-was 1
-placed 1
-squarely 1
-upon 1
-me 1
-by 1
-the 1
-McGill 1
-BDS 1
-movement.” 1
+In 0 144 9
+a 0 144 9
+subsequent 0 144 9
+Facebook 0 144 9
+post, 0 144 9
+Lew 0 144 9
+wrote, 0 144 9
+“My 1 144 9
+Jewish 1 144 9
+identity 1 144 9
+was 1 144 9
+now 1 144 9
+public, 1 144 9
+and 1 144 9
+a 1 144 9
+target 1 144 9
+was 1 144 9
+placed 1 144 9
+squarely 1 144 9
+upon 1 144 9
+me 1 144 9
+by 1 144 9
+the 1 144 9
+McGill 1 144 9
+BDS 1 144 9
+movement.” 1 144 9
 
-An 1
-outcry 1
-followed, 0
-leading 0
-Fortier 0
-to 0
-appoint 0
-former 0
-Ombudsperson 0
-for 0
-Students, 0
-Spencer 0
-Boudreau, 0
-to 0
-investigate. 0
+An 1 144 10
+outcry 1 144 10
+followed, 0 144 10
+leading 0 144 10
+Fortier 0 144 10
+to 0 144 10
+appoint 0 144 10
+former 0 144 10
+Ombudsperson 0 144 10
+for 0 144 10
+Students, 0 144 10
+Spencer 0 144 10
+Boudreau, 0 144 10
+to 0 144 10
+investigate. 0 144 10
 
-She 0
-also 0
-created 0
-a 0
-Task 0
-Force 0
-on 0
-Respect 0
-and 0
-Inclusion 0
-in 0
-Campus 0
-Life 0
-and 0
-a 0
-support 0
-line 0
-to 0
-report 0
-incidents 0
-of 0
-intolerance. 0
+She 0 144 11
+also 0 144 11
+created 0 144 11
+a 0 144 11
+Task 0 144 11
+Force 0 144 11
+on 0 144 11
+Respect 0 144 11
+and 0 144 11
+Inclusion 0 144 11
+in 0 144 11
+Campus 0 144 11
+Life 0 144 11
+and 0 144 11
+a 0 144 11
+support 0 144 11
+line 0 144 11
+to 0 144 11
+report 0 144 11
+incidents 0 144 11
+of 0 144 11
+intolerance. 0 144 11
 
-Boudreau 0
-interviewed 0
-38 0
-students 0
-over 0
-his 0
-three-and-a-half 0
-week 0
-investigation. 0
+Boudreau 0 144 12
+interviewed 0 144 12
+38 0 144 12
+students 0 144 12
+over 0 144 12
+his 0 144 12
+three-and-a-half 0 144 12
+week 0 144 12
+investigation. 0 144 12
 
-His 0
-findings, 0
-he 0
-wrote, 0
-do 0
-“not 0
-substantiate 0
-the 0
-notion 0
-that 0
-the 0
-vote 0
-was 0
-motivated 0
-by 0
-anti-Semitism,” 0
-which 0
-he 0
-defined 0
-as 0
-hostility 0
-toward 0
-or 0
-discrimination 0
-against 0
-Jews. 0
+His 0 144 13
+findings, 0 144 13
+he 0 144 13
+wrote, 0 144 13
+do 0 144 13
+“not 0 144 13
+substantiate 0 144 13
+the 0 144 13
+notion 0 144 13
+that 0 144 13
+the 0 144 13
+vote 0 144 13
+was 0 144 13
+motivated 0 144 13
+by 0 144 13
+anti-Semitism,” 0 144 13
+which 0 144 13
+he 0 144 13
+defined 0 144 13
+as 0 144 13
+hostility 0 144 13
+toward 0 144 13
+or 0 144 13
+discrimination 0 144 13
+against 0 144 13
+Jews. 0 144 13
 
-Rather, 0
-he 0
-found, 0
-votes 0
-against 0
-Lew 0
-were 0
-“motivated 0
-by 0
-politics, 0
-that 0
-is, 0
-based 0
-on 0
-his 0
-support 0
-for 0
-Israel 0
-and 0
-Zionism 0
-and/or 0
-for 0
-his 0
-view 0
-of 0
-the 0
-BDS 0
-movement.” 0
-Protests 0
-about 0
-Israel’s 0
-policies 0
-cannot 0
-be 0
-equated 0
-with 0
-anti-Semitism, 0
-Boudreau 0
-wrote, 0
-though 0
-he 0
-said 0
-Lew’s 0
-belief 0
-that 0
-he 0
-was 0
-targeted 0
-because 0
-he 0
-was 0
-Jewish 0
-was 0
-“honest 0
-and 0
-even 0
-understandable.” 0
+Rather, 0 144 14
+he 0 144 14
+found, 0 144 14
+votes 0 144 14
+against 0 144 14
+Lew 0 144 14
+were 0 144 14
+“motivated 0 144 14
+by 0 144 14
+politics, 0 144 14
+that 0 144 14
+is, 0 144 14
+based 0 144 14
+on 0 144 14
+his 0 144 14
+support 0 144 14
+for 0 144 14
+Israel 0 144 14
+and 0 144 14
+Zionism 0 144 14
+and/or 0 144 14
+for 0 144 14
+his 0 144 14
+view 0 144 14
+of 0 144 14
+the 0 144 14
+BDS 0 144 14
+movement.” 0 144 14
+Protests 0 144 14
+about 0 144 14
+Israel’s 0 144 14
+policies 0 144 14
+cannot 0 144 14
+be 0 144 14
+equated 0 144 14
+with 0 144 14
+anti-Semitism, 0 144 14
+Boudreau 0 144 14
+wrote, 0 144 14
+though 0 144 14
+he 0 144 14
+said 0 144 14
+Lew’s 0 144 14
+belief 0 144 14
+that 0 144 14
+he 0 144 14
+was 0 144 14
+targeted 0 144 14
+because 0 144 14
+he 0 144 14
+was 0 144 14
+Jewish 0 144 14
+was 0 144 14
+“honest 0 144 14
+and 0 144 14
+even 0 144 14
+understandable.” 0 144 14
 
-A 0
-statement 0
-Wednesday 0
-by 0
-Hillel 0
-McGill, 0
-Chabad 0
-at 0
-McGill 0
-and 0
-three 0
-other 0
-Jewish 0
-groups 0
-said 0
-Boudreau 0
-was 0
-mistaken 0
-about 0
-the 0
-timing 0
-of 0
-an 0
-anti-Semitic 0
-message 0
-posted 0
-online 0
-by 0
-Democratize 0
-SSMU. 0
+A 0 144 15
+statement 0 144 15
+Wednesday 0 144 15
+by 0 144 15
+Hillel 0 144 15
+McGill, 0 144 15
+Chabad 0 144 15
+at 0 144 15
+McGill 0 144 15
+and 0 144 15
+three 0 144 15
+other 0 144 15
+Jewish 0 144 15
+groups 0 144 15
+said 0 144 15
+Boudreau 0 144 15
+was 0 144 15
+mistaken 0 144 15
+about 0 144 15
+the 0 144 15
+timing 0 144 15
+of 0 144 15
+an 0 144 15
+anti-Semitic 0 144 15
+message 0 144 15
+posted 0 144 15
+online 0 144 15
+by 0 144 15
+Democratize 0 144 15
+SSMU. 0 144 15
 
-Boudreau’s 0
-report 0
-said 0
-the 0
-message 0
-followed 0
-the 0
-assembly 0
-vote, 0
-but 0
-in 0
-fact 0
-it 0
-was 0
-posted 0
-at 0
-the 0
-beginning 0
-of 0
-October. 0
+Boudreau’s 0 144 16
+report 0 144 16
+said 0 144 16
+the 0 144 16
+message 0 144 16
+followed 0 144 16
+the 0 144 16
+assembly 0 144 16
+vote, 0 144 16
+but 0 144 16
+in 0 144 16
+fact 0 144 16
+it 0 144 16
+was 0 144 16
+posted 0 144 16
+at 0 144 16
+the 0 144 16
+beginning 0 144 16
+of 0 144 16
+October. 0 144 16
 
-Democratize 0
-SSMU 0
-deleted 0
-the 0
-message, 0
-which 0
-targeted 0
-Lew 0
-and 0
-two 0
-other 0
-candidates, 0
-after 0
-the 0
-meeting 0
-and 0
-apologized 0
-for 0
-publishing 0
-material 0
-that 0
-was 0
-“insensitive 0
-to 0
-anti-Semitic 1
-tropes 1
-of 1
-Jewish 1
-people 1
-as 0
-corrupt 0
-and 0
-politically 0
-powerful.” 0
+Democratize 0 144 17
+SSMU 0 144 17
+deleted 0 144 17
+the 0 144 17
+message, 0 144 17
+which 0 144 17
+targeted 0 144 17
+Lew 0 144 17
+and 0 144 17
+two 0 144 17
+other 0 144 17
+candidates, 0 144 17
+after 0 144 17
+the 0 144 17
+meeting 0 144 17
+and 0 144 17
+apologized 0 144 17
+for 0 144 17
+publishing 0 144 17
+material 0 144 17
+that 0 144 17
+was 0 144 17
+“insensitive 0 144 17
+to 0 144 17
+anti-Semitic 1 144 17
+tropes 1 144 17
+of 1 144 17
+Jewish 1 144 17
+people 1 144 17
+as 0 144 17
+corrupt 0 144 17
+and 0 144 17
+politically 0 144 17
+powerful.” 0 144 17
 
-The 1
-Jewish 1
-groups 1
-said 1
-this 1
-anti-Semitic 1
-rhetoric 1
-“was 1
-used 1
-to 1
-encourage 1
-students 1
-to 1
-vote 1
-specifically 1
-against 1
-Noah 1
-Lew. 1
+The 1 144 18
+Jewish 1 144 18
+groups 1 144 18
+said 1 144 18
+this 1 144 18
+anti-Semitic 1 144 18
+rhetoric 1 144 18
+“was 1 144 18
+used 1 144 18
+to 1 144 18
+encourage 1 144 18
+students 1 144 18
+to 1 144 18
+vote 1 144 18
+specifically 1 144 18
+against 1 144 18
+Noah 1 144 18
+Lew. 1 144 18
 
-It 1
-is 1
-under 1
-this 1
-context 1
-that 1
-the 1
-(general 1
-assembly) 1
-occurred, 1
-and 1
-the 1
-report 1
-fundamentally 1
-misunderstands 1
-this, 1
-which 1
-alters 1
-the 1
-entire 1
-findings 1
-of 1
-the 1
-report.” 1
+It 1 144 19
+is 1 144 19
+under 1 144 19
+this 1 144 19
+context 1 144 19
+that 1 144 19
+the 1 144 19
+(general 1 144 19
+assembly) 1 144 19
+occurred, 1 144 19
+and 1 144 19
+the 1 144 19
+report 1 144 19
+fundamentally 1 144 19
+misunderstands 1 144 19
+this, 1 144 19
+which 1 144 19
+alters 1 144 19
+the 1 144 19
+entire 1 144 19
+findings 1 144 19
+of 1 144 19
+the 1 144 19
+report.” 1 144 19
 
-They 0
-say 0
-Boudreau’s 0
-report 0
-“insinuates 0
-that 0
-Jewish 0
-students 0
-who 0
-engage 0
-with 0
-mainstream 0
-Jewish 0
-community 0
-organizations 0
-are 0
-permitted 0
-to 0
-be 0
-precluded 0
-from 0
-holding 0
-political 0
-office.” 0
+They 0 144 20
+say 0 144 20
+Boudreau’s 0 144 20
+report 0 144 20
+“insinuates 0 144 20
+that 0 144 20
+Jewish 0 144 20
+students 0 144 20
+who 0 144 20
+engage 0 144 20
+with 0 144 20
+mainstream 0 144 20
+Jewish 0 144 20
+community 0 144 20
+organizations 0 144 20
+are 0 144 20
+permitted 0 144 20
+to 0 144 20
+be 0 144 20
+precluded 0 144 20
+from 0 144 20
+holding 0 144 20
+political 0 144 20
+office.” 0 144 20
 
-Lew 0
-was 0
-restored 0
-to 0
-his 0
-post 0
-as 0
-a 0
-director 0
-last 0
-month 0
-after 0
-a 0
-ruling 0
-that 0
-the 0
-split 0
-vote 0
-in 0
-October 0
-had 0
-violated 0
-the 0
-SSMU 0
-constitution. 0
+Lew 0 144 21
+was 0 144 21
+restored 0 144 21
+to 0 144 21
+his 0 144 21
+post 0 144 21
+as 0 144 21
+a 0 144 21
+director 0 144 21
+last 0 144 21
+month 0 144 21
+after 0 144 21
+a 0 144 21
+ruling 0 144 21
+that 0 144 21
+the 0 144 21
+split 0 144 21
+vote 0 144 21
+in 0 144 21
+October 0 144 21
+had 0 144 21
+violated 0 144 21
+the 0 144 21
+SSMU 0 144 21
+constitution. 0 144 21
 
-He 0
-was 0
-not 0
-immediately 0
-available 0
-for 0
-comment. 0
+He 0 144 22
+was 0 144 22
+not 0 144 22
+immediately 0 144 22
+available 0 144 22
+for 0 144 22
+comment. 0 144 22
 
-Michael 0
-Mostyn, 0
-CEO 0
-of 0
-B’nai 0
-Brith 0
-Canada, 0
-called 0
-the 0
-report 0
-a 1
-whitewash. 1
+Michael 0 144 23
+Mostyn, 0 144 23
+CEO 0 144 23
+of 0 144 23
+B’nai 0 144 23
+Brith 0 144 23
+Canada, 0 144 23
+called 0 144 23
+the 0 144 23
+report 0 144 23
+a 1 144 23
+whitewash. 1 144 23
 
-“The 0
-report 0
-does 0
-not 0
-present 0
-a 0
-full 0
-or 0
-accurate 0
-picture 0
-of 0
-the 0
-hostile 0
-atmosphere 0
-facing 0
-Jewish 0
-students 0
-at 0
-McGill,” 0
-he 0
-said 0
-in 0
-a 0
-statement. 0
+“The 0 144 24
+report 0 144 24
+does 0 144 24
+not 0 144 24
+present 0 144 24
+a 0 144 24
+full 0 144 24
+or 0 144 24
+accurate 0 144 24
+picture 0 144 24
+of 0 144 24
+the 0 144 24
+hostile 0 144 24
+atmosphere 0 144 24
+facing 0 144 24
+Jewish 0 144 24
+students 0 144 24
+at 0 144 24
+McGill,” 0 144 24
+he 0 144 24
+said 0 144 24
+in 0 144 24
+a 0 144 24
+statement. 0 144 24
 
-Fortier 0
-said 0
-the 0
-university’s 0
-next 0
-actions 0
-will 0
-be 0
-based 0
-on 0
-the 0
-recommendations 0
-of 0
-the 0
-Task 0
-Force 0
-on 0
-Respect 0
-and 0
-Inclusion 0
-in 0
-Campus 0
-Life, 0
-due 0
-to 0
-report 0
-in 0
-April. 0
+Fortier 0 144 25
+said 0 144 25
+the 0 144 25
+university’s 0 144 25
+next 0 144 25
+actions 0 144 25
+will 0 144 25
+be 0 144 25
+based 0 144 25
+on 0 144 25
+the 0 144 25
+recommendations 0 144 25
+of 0 144 25
+the 0 144 25
+Task 0 144 25
+Force 0 144 25
+on 0 144 25
+Respect 0 144 25
+and 0 144 25
+Inclusion 0 144 25
+in 0 144 25
+Campus 0 144 25
+Life, 0 144 25
+due 0 144 25
+to 0 144 25
+report 0 144 25
+in 0 144 25
+April. 0 144 25
 
-“I 0
-would 0
-like 0
-to 0
-take 0
-this 0
-opportunity 0
-to 0
-make 0
-it 0
-clear 0
-that 0
-there 0
-is 0
-absolutely 1
-no 1
-place 1
-for 1
-anti-Semitism 1
-at 0
-McGill 0
-University 0
-and 0
-that, 0
-as 0
-principal 0
-and 0
-vice-chancellor, 0
-I 0
-will 0
-remain 0
-vigilant 0
-to 0
-ensure 0
-that 0
-all 0
-members 0
-of 0
-our 0
-community 0
-feel 0
-safe, 0
-welcomed 0
-and 0
-respected 0
-on 0
-our 0
-campuses,” 0
-she 0
-said 0
-in 0
-a 0
-statement. 0
+“I 0 144 26
+would 0 144 26
+like 0 144 26
+to 0 144 26
+take 0 144 26
+this 0 144 26
+opportunity 0 144 26
+to 0 144 26
+make 0 144 26
+it 0 144 26
+clear 0 144 26
+that 0 144 26
+there 0 144 26
+is 0 144 26
+absolutely 1 144 26
+no 1 144 26
+place 1 144 26
+for 1 144 26
+anti-Semitism 1 144 26
+at 0 144 26
+McGill 0 144 26
+University 0 144 26
+and 0 144 26
+that, 0 144 26
+as 0 144 26
+principal 0 144 26
+and 0 144 26
+vice-chancellor, 0 144 26
+I 0 144 26
+will 0 144 26
+remain 0 144 26
+vigilant 0 144 26
+to 0 144 26
+ensure 0 144 26
+that 0 144 26
+all 0 144 26
+members 0 144 26
+of 0 144 26
+our 0 144 26
+community 0 144 26
+feel 0 144 26
+safe, 0 144 26
+welcomed 0 144 26
+and 0 144 26
+respected 0 144 26
+on 0 144 26
+our 0 144 26
+campuses,” 0 144 26
+she 0 144 26
+said 0 144 26
+in 0 144 26
+a 0 144 26
+statement. 0 144 26
 
-• 0
-Email: 0
-ghamilton@nationalpost.com 0
-| 0
-Twitter: 0
-grayhamilton 0
+• 0 144 26
+
+Email: 0 144 26
+
+ghamilton@nationalpost.com 0 144 26
+
+| 0 144 26
+
+Twitter: 0 144 26
+
+grayhamilton 0 144 26

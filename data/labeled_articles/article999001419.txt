@@ -1,931 +1,960 @@
-Trump 0
-Vows 0
-to 0
-Kick 0
-CNN’s 0
-Acosta 0
-Out 0
-Again 0
+Trump 0 441 0
+Vows 0 441 0
+to 0 441 0
+Kick 0 441 0
+CNN’s 0 441 0
+Acosta 0 441 0
+Out 0 441 0
+Again 0 441 0
 
-President 0
-Trump 0
-took 0
-CNN’s 0
-improbable 0
-court 0
-victory 0
-temporarily 0
-restoring 0
-CNN 0
-White 0
-House 0
-correspondent 0
-Jim 0
-Acosta’s 0
-“hard 0
-pass” 0
-media 0
-credential 0
-for 0
-the 0
-executive 0
-mansion 0
-in 0
-stride, 0
-vowing 0
-to 0
-kick 0
-Acosta 0
-out 0
-again 0
-in 0
-the 0
-future 0
-if 0
-he 0
-breaches 0
-White 0
-House 0
-protocol 0
-again. 0
+President 0 441 1
+Trump 0 441 1
+took 0 441 1
+CNN’s 0 441 1
+improbable 0 441 1
+court 0 441 1
+victory 0 441 1
+temporarily 0 441 1
+restoring 0 441 1
+CNN 0 441 1
+White 0 441 1
+House 0 441 1
+correspondent 0 441 1
+Jim 0 441 1
+Acosta’s 0 441 1
+“hard 0 441 1
+pass” 0 441 1
+media 0 441 1
+credential 0 441 1
+for 0 441 1
+the 0 441 1
+executive 0 441 1
+mansion 0 441 1
+in 0 441 1
+stride, 0 441 1
+vowing 0 441 1
+to 0 441 1
+kick 0 441 1
+Acosta 0 441 1
+out 0 441 1
+again 0 441 1
+in 0 441 1
+the 0 441 1
+future 0 441 1
+if 0 441 1
+he 0 441 1
+breaches 0 441 1
+White 0 441 1
+House 0 441 1
+protocol 0 441 1
+again. 0 441 1
 
-The 0
-yanking 0
-of 0
-the 0
-physical 0
-credential, 0
-by 0
-the 0
-way, 0
-isn’t 0
-exactly 0
-a 0
-grave 1
-hardship. 1
+The 0 441 2
+yanking 0 441 2
+of 0 441 2
+the 0 441 2
+physical 0 441 2
+credential, 0 441 2
+by 0 441 2
+the 0 441 2
+way, 0 441 2
+isn’t 0 441 2
+exactly 0 441 2
+a 0 441 2
+grave 1 441 2
+hardship. 1 441 2
 
-It 0
-just 0
-means 0
-Acosta 0
-would 0
-need 0
-to 0
-make 0
-an 0
-appointment 0
-through 0
-the 0
-White 0
-House 0
-press 0
-office 0
-every 0
-time 0
-he 0
-wanted 0
-to 0
-visit 0
-the 0
-White 0
-House 0
-grounds, 0
-just 0
-as 0
-the 0
-rest 0
-of 0
-the 0
-non-hard 0
-pass-holding 0
-journalists 0
-who 0
-don’t 0
-work 0
-for 0
-big 0
-media 0
-outlets 0
-like 0
-CNN 0
-have 0
-to 0
-do. 0
+It 0 441 3
+just 0 441 3
+means 0 441 3
+Acosta 0 441 3
+would 0 441 3
+need 0 441 3
+to 0 441 3
+make 0 441 3
+an 0 441 3
+appointment 0 441 3
+through 0 441 3
+the 0 441 3
+White 0 441 3
+House 0 441 3
+press 0 441 3
+office 0 441 3
+every 0 441 3
+time 0 441 3
+he 0 441 3
+wanted 0 441 3
+to 0 441 3
+visit 0 441 3
+the 0 441 3
+White 0 441 3
+House 0 441 3
+grounds, 0 441 3
+just 0 441 3
+as 0 441 3
+the 0 441 3
+rest 0 441 3
+of 0 441 3
+the 0 441 3
+non-hard 0 441 3
+pass-holding 0 441 3
+journalists 0 441 3
+who 0 441 3
+don’t 0 441 3
+work 0 441 3
+for 0 441 3
+big 0 441 3
+media 0 441 3
+outlets 0 441 3
+like 0 441 3
+CNN 0 441 3
+have 0 441 3
+to 0 441 3
+do. 0 441 3
 
-Lacking 0
-a 0
-hard 0
-pass 0
-does 0
-not 0
-prevent 0
-anyone 0
-from 0
-reporting 0
-on 0
-the 0
-White 0
-House. 0
+Lacking 0 441 4
+a 0 441 4
+hard 0 441 4
+pass 0 441 4
+does 0 441 4
+not 0 441 4
+prevent 0 441 4
+anyone 0 441 4
+from 0 441 4
+reporting 0 441 4
+on 0 441 4
+the 0 441 4
+White 0 441 4
+House. 0 441 4
 
-Speaking 0
-to 0
-Chris 0
-Wallace 0
-of 0
-Fox 0
-News 0
-Channel 0
-in 0
-an 0
-interview 0
-that 0
-aired 0
-Sunday, 0
-Trump 0
-had 0
-some 0
-new 0
-ideas 0
-on 0
-how 0
-to 0
-deal 0
-with 0
-Acosta, 0
-who 0
-picks 0
-fights 0
-with 0
-him 0
-during 0
-pressers. 0
+Speaking 0 441 5
+to 0 441 5
+Chris 0 441 5
+Wallace 0 441 5
+of 0 441 5
+Fox 0 441 5
+News 0 441 5
+Channel 0 441 5
+in 0 441 5
+an 0 441 5
+interview 0 441 5
+that 0 441 5
+aired 0 441 5
+Sunday, 0 441 5
+Trump 0 441 5
+had 0 441 5
+some 0 441 5
+new 0 441 5
+ideas 0 441 5
+on 0 441 5
+how 0 441 5
+to 0 441 5
+deal 0 441 5
+with 0 441 5
+Acosta, 0 441 5
+who 0 441 5
+picks 0 441 5
+fights 0 441 5
+with 0 441 5
+him 0 441 5
+during 0 441 5
+pressers. 0 441 5
 
-"I 0
-think 0
-one 0
-of 0
-the 0
-things 0
-we’ll 0
-do 0
-is 0
-maybe 0
-turn 0
-the 0
-camera 0
-off 0
-that 0
-faces 0
-them, 0
-because 0
-then 0
-they 0
-don’t 0
-have 0
-any 0
-air 0
-time, 0
-although 0
-I’ll 0
-probably 0
-be 0
-sued 0
-for 0
-that 0
-and 0
-maybe, 0
-you 0
-know, 0
-win 0
-or 0
-lose 0
-it, 0
-who 0
-knows," 0
-Trump 0
-said. 0
+"I 0 441 6
+think 0 441 6
+one 0 441 6
+of 0 441 6
+the 0 441 6
+things 0 441 6
+we’ll 0 441 6
+do 0 441 6
+is 0 441 6
+maybe 0 441 6
+turn 0 441 6
+the 0 441 6
+camera 0 441 6
+off 0 441 6
+that 0 441 6
+faces 0 441 6
+them, 0 441 6
+because 0 441 6
+then 0 441 6
+they 0 441 6
+don’t 0 441 6
+have 0 441 6
+any 0 441 6
+air 0 441 6
+time, 0 441 6
+although 0 441 6
+I’ll 0 441 6
+probably 0 441 6
+be 0 441 6
+sued 0 441 6
+for 0 441 6
+that 0 441 6
+and 0 441 6
+maybe, 0 441 6
+you 0 441 6
+know, 0 441 6
+win 0 441 6
+or 0 441 6
+lose 0 441 6
+it, 0 441 6
+who 0 441 6
+knows," 0 441 6
+Trump 0 441 6
+said. 0 441 6
 
-"I 0
-mean, 0
-with 0
-this 0
-stuff 0
-you 0
-never 0
-know 0
-what’s 0
-going 0
-to 0
-happen." 0
+"I 0 441 7
+mean, 0 441 7
+with 0 441 7
+this 0 441 7
+stuff 0 441 7
+you 0 441 7
+never 0 441 7
+know 0 441 7
+what’s 0 441 7
+going 0 441 7
+to 0 441 7
+happen." 0 441 7
 
-The 0
-president 0
-described 0
-Acosta 0
-as 0
-"unbelievably 1
-rude 1
-to 0
-[White 0
-House 0
-Press 0
-Secretary] 0
-Sarah 0
-Huckabee, 0
-who’s 0
-a 0
-wonderful 1
-woman," 1
-and 0
-said 0
-his 0
-administration 0
-is 0
-drawing 0
-up 0
-"rules 0
-and 0
-regulations" 0
-for 0
-White 0
-House 0
-reporters. 0
+The 0 441 8
+president 0 441 8
+described 0 441 8
+Acosta 0 441 8
+as 0 441 8
+"unbelievably 1 441 8
+rude 1 441 8
+to 0 441 8
+[White 0 441 8
+House 0 441 8
+Press 0 441 8
+Secretary] 0 441 8
+Sarah 0 441 8
+Huckabee, 0 441 8
+who’s 0 441 8
+a 0 441 8
+wonderful 1 441 8
+woman," 1 441 8
+and 0 441 8
+said 0 441 8
+his 0 441 8
+administration 0 441 8
+is 0 441 8
+drawing 0 441 8
+up 0 441 8
+"rules 0 441 8
+and 0 441 8
+regulations" 0 441 8
+for 0 441 8
+White 0 441 8
+House 0 441 8
+reporters. 0 441 8
 
-"And 0
-if 1
-he 1
-misbehaves, 1
-we’ll 1
-throw 1
-him 1
-out 1
-or 1
-we’ll 1
-stop 1
-the 1
-news 1
-conference," 1
-Trump 0
-said. 0
+"And 0 441 9
+if 1 441 9
+he 1 441 9
+misbehaves, 1 441 9
+we’ll 1 441 9
+throw 1 441 9
+him 1 441 9
+out 1 441 9
+or 1 441 9
+we’ll 1 441 9
+stop 1 441 9
+the 1 441 9
+news 1 441 9
+conference," 1 441 9
+Trump 0 441 9
+said. 0 441 9
 
-Acosta’s 0
-hard 0
-pass 0
-was 0
-pulled 0
-after 0
-a 0
-contentious 0
-Nov. 0
-7 0
-press 0
-conference 0
-at 0
-the 0
-White 0
-House. 0
+Acosta’s 0 441 10
+hard 0 441 10
+pass 0 441 10
+was 0 441 10
+pulled 0 441 10
+after 0 441 10
+a 0 441 10
+contentious 0 441 10
+Nov. 0 441 10
+7 0 441 10
+press 0 441 10
+conference 0 441 10
+at 0 441 10
+the 0 441 10
+White 0 441 10
+House. 0 441 10
 
-After 0
-interacting 0
-with 0
-President 0
-Trump 0
-– 0
-Acosta 0
-said 0
-he 0
-wanted 0
-to 0
-“challenge” 0
-him 0
-on 0
-calling 0
-the 0
-Central 0
-American 0
-caravans 0
-an 0
-“invasion” 1
-– 0
-the 0
-president 0
-called 0
-upon 0
-another 0
-reporter 0
-to 0
-speak. 0
+After 0 441 11
+interacting 0 441 11
+with 0 441 11
+President 0 441 11
+Trump 0 441 11
+– 0 441 11
+Acosta 0 441 11
+said 0 441 11
+he 0 441 11
+wanted 0 441 11
+to 0 441 11
+“challenge” 0 441 11
+him 0 441 11
+on 0 441 11
+calling 0 441 11
+the 0 441 11
+Central 0 441 11
+American 0 441 11
+caravans 0 441 11
+an 0 441 11
+“invasion” 1 441 11
+– 0 441 11
+the 0 441 11
+president 0 441 11
+called 0 441 11
+upon 0 441 11
+another 0 441 11
+reporter 0 441 11
+to 0 441 11
+speak. 0 441 11
 
-After 0
-lecturing 0
-Trump, 0
-Acosta 0
-belligerently 1
-refused 0
-to 0
-yield 0
-the 0
-microphone 0
-to 0
-a 0
-White 0
-House 0
-staffer 0
-and 0
-pushed 0
-her 0
-arm 0
-away 0
-as 0
-she 0
-reached 0
-for 0
-the 0
-device, 0
-all 0
-of 0
-which 0
-was 0
-captured 0
-on 0
-video. 0
+After 0 441 12
+lecturing 0 441 12
+Trump, 0 441 12
+Acosta 0 441 12
+belligerently 1 441 12
+refused 0 441 12
+to 0 441 12
+yield 0 441 12
+the 0 441 12
+microphone 0 441 12
+to 0 441 12
+a 0 441 12
+White 0 441 12
+House 0 441 12
+staffer 0 441 12
+and 0 441 12
+pushed 0 441 12
+her 0 441 12
+arm 0 441 12
+away 0 441 12
+as 0 441 12
+she 0 441 12
+reached 0 441 12
+for 0 441 12
+the 0 441 12
+device, 0 441 12
+all 0 441 12
+of 0 441 12
+which 0 441 12
+was 0 441 12
+captured 0 441 12
+on 0 441 12
+video. 0 441 12
 
-On 0
-Nov. 0
-16, 0
-U.S. 0
-District 0
-Judge 0
-Timothy 0
-J. 0
-Kelly 0
-of 0
-Washington, 0
-D.C., 0
-who 0
-was 0
-appointed 0
-by 0
-Trump, 0
-ruled 0
-against 0
-the 0
-administration 0
-and 0
-ordered 0
-Acosta’s 0
-hard 0
-pass 0
-restored 0
-for 0
-14 0
-days, 0
-pending 0
-further 0
-hearings 0
-in 0
-the 0
-lawsuit. 0
+On 0 441 13
+Nov. 0 441 13
+16, 0 441 13
+U.S. 0 441 13
+District 0 441 13
+Judge 0 441 13
+Timothy 0 441 13
+J. 0 441 13
+Kelly 0 441 13
+of 0 441 13
+Washington, 0 441 13
+D.C., 0 441 13
+who 0 441 13
+was 0 441 13
+appointed 0 441 13
+by 0 441 13
+Trump, 0 441 13
+ruled 0 441 13
+against 0 441 13
+the 0 441 13
+administration 0 441 13
+and 0 441 13
+ordered 0 441 13
+Acosta’s 0 441 13
+hard 0 441 13
+pass 0 441 13
+restored 0 441 13
+for 0 441 13
+14 0 441 13
+days, 0 441 13
+pending 0 441 13
+further 0 441 13
+hearings 0 441 13
+in 0 441 13
+the 0 441 13
+lawsuit. 0 441 13
 
-But 0
-it 0
-was 0
-not 0
-a 0
-vindication 0
-of 0
-Acosta’s 0
-free 0
-speech 0
-rights 0
-under 0
-the 0
-First 0
-Amendment. 0
+But 0 441 14
+it 0 441 14
+was 0 441 14
+not 0 441 14
+a 0 441 14
+vindication 0 441 14
+of 0 441 14
+Acosta’s 0 441 14
+free 0 441 14
+speech 0 441 14
+rights 0 441 14
+under 0 441 14
+the 0 441 14
+First 0 441 14
+Amendment. 0 441 14
 
-The 0
-judge 0
-specifically 0
-said 0
-that 0
-the 0
-First 0
-Amendment 0
-claim 0
-made 0
-by 0
-Acosta 0
-and 0
-CNN 0
-had 0
-not 0
-yet 0
-been 0
-adjudicated 0
-and 0
-added 0
-that 0
-the 0
-president 0
-was 0
-free 0
-not 0
-to 0
-call 0
-on 0
-Acosta 0
-at 0
-future 0
-press 0
-conferences. 0
+The 0 441 15
+judge 0 441 15
+specifically 0 441 15
+said 0 441 15
+that 0 441 15
+the 0 441 15
+First 0 441 15
+Amendment 0 441 15
+claim 0 441 15
+made 0 441 15
+by 0 441 15
+Acosta 0 441 15
+and 0 441 15
+CNN 0 441 15
+had 0 441 15
+not 0 441 15
+yet 0 441 15
+been 0 441 15
+adjudicated 0 441 15
+and 0 441 15
+added 0 441 15
+that 0 441 15
+the 0 441 15
+president 0 441 15
+was 0 441 15
+free 0 441 15
+not 0 441 15
+to 0 441 15
+call 0 441 15
+on 0 441 15
+Acosta 0 441 15
+at 0 441 15
+future 0 441 15
+press 0 441 15
+conferences. 0 441 15
 
-The 0
-temporary 0
-restraining 0
-order 0
-was 0
-nowhere 0
-to 0
-be 0
-found 0
-online 0
-at 0
-press 0
-time, 0
-but 0
-according 0
-to 0
-media 0
-reports, 0
-Kelly 0
-found 0
-that 0
-the 0
-administration 0
-violated 0
-Acosta’s 0
-due 0
-process 0
-rights 0
-under 0
-the 0
-Fifth 0
-Amendment 0
-to 0
-the 0
-Constitution. 0
+The 0 441 16
+temporary 0 441 16
+restraining 0 441 16
+order 0 441 16
+was 0 441 16
+nowhere 0 441 16
+to 0 441 16
+be 0 441 16
+found 0 441 16
+online 0 441 16
+at 0 441 16
+press 0 441 16
+time, 0 441 16
+but 0 441 16
+according 0 441 16
+to 0 441 16
+media 0 441 16
+reports, 0 441 16
+Kelly 0 441 16
+found 0 441 16
+that 0 441 16
+the 0 441 16
+administration 0 441 16
+violated 0 441 16
+Acosta’s 0 441 16
+due 0 441 16
+process 0 441 16
+rights 0 441 16
+under 0 441 16
+the 0 441 16
+Fifth 0 441 16
+Amendment 0 441 16
+to 0 441 16
+the 0 441 16
+Constitution. 0 441 16
 
-The 0
-White 0
-House 0
-vowed 0
-to 0
-remedy 0
-the 0
-situation 0
-by 0
-drawing 0
-up 0
-rules 0
-governing 0
-press 0
-conferences. 0
+The 0 441 17
+White 0 441 17
+House 0 441 17
+vowed 0 441 17
+to 0 441 17
+remedy 0 441 17
+the 0 441 17
+situation 0 441 17
+by 0 441 17
+drawing 0 441 17
+up 0 441 17
+rules 0 441 17
+governing 0 441 17
+press 0 441 17
+conferences. 0 441 17
 
-The 0
-U.S. 0
-Department 0
-of 0
-Justice 0
-said 0
-the 0
-court 0
-ruling 0
-was 0
-disappointing. 1
+The 0 441 18
+U.S. 0 441 18
+Department 0 441 18
+of 0 441 18
+Justice 0 441 18
+said 0 441 18
+the 0 441 18
+court 0 441 18
+ruling 0 441 18
+was 0 441 18
+disappointing. 1 441 18
 
-“The 0
-President 0
-has 0
-broad 0
-authority 0
-to 0
-regulate 0
-access 0
-to 0
-the 0
-White 0
-House, 0
-including 0
-to 0
-ensure 0
-fair 0
-and 0
-orderly 0
-White 0
-House 0
-events 0
-and 0
-press 0
-conferences. 0
+“The 0 441 19
+President 0 441 19
+has 0 441 19
+broad 0 441 19
+authority 0 441 19
+to 0 441 19
+regulate 0 441 19
+access 0 441 19
+to 0 441 19
+the 0 441 19
+White 0 441 19
+House, 0 441 19
+including 0 441 19
+to 0 441 19
+ensure 0 441 19
+fair 0 441 19
+and 0 441 19
+orderly 0 441 19
+White 0 441 19
+House 0 441 19
+events 0 441 19
+and 0 441 19
+press 0 441 19
+conferences. 0 441 19
 
-We 0
-look 0
-forward 0
-to 0
-continuing 0
-to 0
-defend 0
-the 0
-White 0
-House's 0
-lawful 1
-actions." 0
+We 0 441 20
+look 0 441 20
+forward 0 441 20
+to 0 441 20
+continuing 0 441 20
+to 0 441 20
+defend 0 441 20
+the 0 441 20
+White 0 441 20
+House's 0 441 20
+lawful 1 441 20
+actions." 0 441 20
 
-Acosta 0
-ignorantly 1
-blathered 1
-on 0
-to 0
-reporters 0
-when 0
-he 0
-returned 0
-to 0
-the 0
-White 0
-House 0
-Friday 0
-after 0
-the 0
-court 0
-ruling, 0
-incorrectly 0
-claiming 0
-he 0
-won 0
-a 1
-great 1
-First 1
-Amendment 1
-victory. 1
+Acosta 0 441 21
+ignorantly 1 441 21
+blathered 1 441 21
+on 0 441 21
+to 0 441 21
+reporters 0 441 21
+when 0 441 21
+he 0 441 21
+returned 0 441 21
+to 0 441 21
+the 0 441 21
+White 0 441 21
+House 0 441 21
+Friday 0 441 21
+after 0 441 21
+the 0 441 21
+court 0 441 21
+ruling, 0 441 21
+incorrectly 0 441 21
+claiming 0 441 21
+he 0 441 21
+won 0 441 21
+a 1 441 21
+great 1 441 21
+First 1 441 21
+Amendment 1 441 21
+victory. 1 441 21
 
-"I'm 0
-very 0
-grateful 0
-for 0
-what 0
-happened 0
-today," 0
-Acosta 0
-said. 0
+"I'm 0 441 22
+very 0 441 22
+grateful 0 441 22
+for 0 441 22
+what 0 441 22
+happened 0 441 22
+today," 0 441 22
+Acosta 0 441 22
+said. 0 441 22
 
-"I'm 0
-grateful 0
-for 0
-my 0
-colleagues 0
-in 0
-the 0
-press 0
-who 0
-stood 0
-by 0
-us 0
-through 0
-all 0
-of 0
-this." 0
+"I'm 0 441 23
+grateful 0 441 23
+for 0 441 23
+my 0 441 23
+colleagues 0 441 23
+in 0 441 23
+the 0 441 23
+press 0 441 23
+who 0 441 23
+stood 0 441 23
+by 0 441 23
+us 0 441 23
+through 0 441 23
+all 0 441 23
+of 0 441 23
+this." 0 441 23
 
-"This 0
-was 0
-a 0
-test 0
-and 0
-I 0
-think 0
-we 0
-passed 0
-the 0
-test," 0
-he 0
-said. 0
+"This 0 441 24
+was 0 441 24
+a 0 441 24
+test 0 441 24
+and 0 441 24
+I 0 441 24
+think 0 441 24
+we 0 441 24
+passed 0 441 24
+the 0 441 24
+test," 0 441 24
+he 0 441 24
+said. 0 441 24
 
-"Journalists 0
-need 0
-to 0
-know 0
-that 0
-in 0
-this 0
-country 0
-their 0
-First 0
-Amendment 0
-rights 0
-of 0
-freedom 0
-of 0
-the 0
-press 0
-are 0
-sacred, 0
-they're 0
-protected 0
-in 0
-our 1
-Constitution," 1
-Acosta 0
-said. 0
+"Journalists 0 441 25
+need 0 441 25
+to 0 441 25
+know 0 441 25
+that 0 441 25
+in 0 441 25
+this 0 441 25
+country 0 441 25
+their 0 441 25
+First 0 441 25
+Amendment 0 441 25
+rights 0 441 25
+of 0 441 25
+freedom 0 441 25
+of 0 441 25
+the 0 441 25
+press 0 441 25
+are 0 441 25
+sacred, 0 441 25
+they're 0 441 25
+protected 0 441 25
+in 0 441 25
+our 1 441 25
+Constitution," 1 441 25
+Acosta 0 441 25
+said. 0 441 25
 
-"Throughout 0
-all 0
-of 0
-this 0
-I 0
-was 0
-confident 0
-and 0
-I 0
-thought 0
-that 0
-this 0
-would 0
-be 0
-the 0
-result 0
-at 0
-the 0
-end 0
-of 0
-the 0
-day 0
-that 0
-our 0
-rights 0
-would 0
-be 0
-protected 0
-as 0
-we 0
-continue 0
-to 0
-cover 0
-our 0
-government 0
-and 0
-hold 0
-our 0
-leaders 0
-accountable." 0
+"Throughout 0 441 26
+all 0 441 26
+of 0 441 26
+this 0 441 26
+I 0 441 26
+was 0 441 26
+confident 0 441 26
+and 0 441 26
+I 0 441 26
+thought 0 441 26
+that 0 441 26
+this 0 441 26
+would 0 441 26
+be 0 441 26
+the 0 441 26
+result 0 441 26
+at 0 441 26
+the 0 441 26
+end 0 441 26
+of 0 441 26
+the 0 441 26
+day 0 441 26
+that 0 441 26
+our 0 441 26
+rights 0 441 26
+would 0 441 26
+be 0 441 26
+protected 0 441 26
+as 0 441 26
+we 0 441 26
+continue 0 441 26
+to 0 441 26
+cover 0 441 26
+our 0 441 26
+government 0 441 26
+and 0 441 26
+hold 0 441 26
+our 0 441 26
+leaders 0 441 26
+accountable." 0 441 26
 
-The 0
-court 0
-case 0
-isn’t 0
-over 0
-yet. 0
+The 0 441 27
+court 0 441 27
+case 0 441 27
+isn’t 0 441 27
+over 0 441 27
+yet. 0 441 27
 
-The 0
-legal 0
-antagonists 0
-have 0
-to 0
-report 0
-to 0
-the 0
-court 0
-Monday 0
-afternoon. 0
+The 0 441 28
+legal 0 441 28
+antagonists 0 441 28
+have 0 441 28
+to 0 441 28
+report 0 441 28
+to 0 441 28
+the 0 441 28
+court 0 441 28
+Monday 0 441 28
+afternoon. 0 441 28
 
-The 0
-court 0
-ordered 0
-the 0
-parties 0
-to 0
-“file 0
-a 0
-joint 0
-status 0
-report 0
-proposing 0
-how 0
-they 0
-would 0
-like 0
-to 0
-proceed 0
-in 0
-this 0
-case 0
-by 0
-3:00 0
-p.m. 0
-on 0
-November 0
-19, 0
-2018[,]” 0
-according 0
-to 0
-its 0
-online 0
-docket. 0
+The 0 441 29
+court 0 441 29
+ordered 0 441 29
+the 0 441 29
+parties 0 441 29
+to 0 441 29
+“file 0 441 29
+a 0 441 29
+joint 0 441 29
+status 0 441 29
+report 0 441 29
+proposing 0 441 29
+how 0 441 29
+they 0 441 29
+would 0 441 29
+like 0 441 29
+to 0 441 29
+proceed 0 441 29
+in 0 441 29
+this 0 441 29
+case 0 441 29
+by 0 441 29
+3:00 0 441 29
+p.m. 0 441 29
+on 0 441 29
+November 0 441 29
+19, 0 441 29
+2018[,]” 0 441 29
+according 0 441 29
+to 0 441 29
+its 0 441 29
+online 0 441 29
+docket. 0 441 29
 
-According 0
-to 0
-CNN, 0
-“White 0
-House 0
-officials 0
-sent 0
-Acosta 0
-a 0
-letter 0
-stating 0
-that 0
-his 0
-pass 0
-is 0
-set 0
-to 0
-be 0
-suspended 0
-again 0
-once 0
-the 0
-restraining 0
-order 0
-expires.” 0
+According 0 441 30
+to 0 441 30
+CNN, 0 441 30
+“White 0 441 30
+House 0 441 30
+officials 0 441 30
+sent 0 441 30
+Acosta 0 441 30
+a 0 441 30
+letter 0 441 30
+stating 0 441 30
+that 0 441 30
+his 0 441 30
+pass 0 441 30
+is 0 441 30
+set 0 441 30
+to 0 441 30
+be 0 441 30
+suspended 0 441 30
+again 0 441 30
+once 0 441 30
+the 0 441 30
+restraining 0 441 30
+order 0 441 30
+expires.” 0 441 30
 
-From 0
-the 0
-looks 0
-of 0
-the 0
-letter, 0
-the 0
-W.H. 0
+From 0 441 31
+the 0 441 31
+looks 0 441 31
+of 0 441 31
+the 0 441 31
+letter, 0 441 31
+the 0 441 31
+W.H. 0 441 31
 
-is 0
-trying 0
-to 0
-establish 0
-a 0
-paper 0
-trail 0
-that 0
-will 0
-empower 0
-the 0
-administration 0
-to 0
-boot 0
-Acosta 0
-again 0
-at 0
-the 0
-end 0
-of 0
-the 0
-month. 0
+is 0 441 32
+trying 0 441 32
+to 0 441 32
+establish 0 441 32
+a 0 441 32
+paper 0 441 32
+trail 0 441 32
+that 0 441 32
+will 0 441 32
+empower 0 441 32
+the 0 441 32
+administration 0 441 32
+to 0 441 32
+boot 0 441 32
+Acosta 0 441 32
+again 0 441 32
+at 0 441 32
+the 0 441 32
+end 0 441 32
+of 0 441 32
+the 0 441 32
+month. 0 441 32
 
-CNN 0
-responded 0
-with 0
-this 0
-statement 0
-on 0
-Sunday: 0
-"The 0
-White 0
-House 0
-is 0
-continuing 0
-to 0
-violate 0
-the 0
-First 0
-and 0
-5th 0
-Amendments 0
-of 0
-the 0
-Constitution. 0
+CNN 0 441 33
+responded 0 441 33
+with 0 441 33
+this 0 441 33
+statement 0 441 33
+on 0 441 33
+Sunday: 0 441 33
+"The 0 441 33
+White 0 441 33
+House 0 441 33
+is 0 441 33
+continuing 0 441 33
+to 0 441 33
+violate 0 441 33
+the 0 441 33
+First 0 441 33
+and 0 441 33
+5th 0 441 33
+Amendments 0 441 33
+of 0 441 33
+the 0 441 33
+Constitution. 0 441 33
 
-These 0
-actions 0
-threaten 0
-all 0
-journalists 0
-and 0
-news 0
-organizations. 0
+These 0 441 34
+actions 0 441 34
+threaten 0 441 34
+all 0 441 34
+journalists 0 441 34
+and 0 441 34
+news 0 441 34
+organizations. 0 441 34
 
-Jim 0
-Acosta 0
-and 0
-CNN 0
-will 0
-continue 0
-to 0
-report 0
-the 0
-news 0
-about 0
-the 0
-White 0
-House 0
-and 0
-the 0
-President." 0
+Jim 0 441 35
+Acosta 0 441 35
+and 0 441 35
+CNN 0 441 35
+will 0 441 35
+continue 0 441 35
+to 0 441 35
+report 0 441 35
+the 0 441 35
+news 0 441 35
+about 0 441 35
+the 0 441 35
+White 0 441 35
+House 0 441 35
+and 0 441 35
+the 0 441 35
+President." 0 441 35
 
-The 0
-Acosta-CNN 0
-lawsuit 0
-was 0
-filed 0
-by 0
-Ted 0
-Boutrous 0
-and 0
-Trump-hating 1
-Republican 1
-lawyer 0
-Ted 0
-Olson, 0
-of 0
-the 0
-law 0
-firm 0
-Gibson, 0
-Dunn, 0
-and 0
-Crutcher. 0
+The 0 441 36
+Acosta-CNN 0 441 36
+lawsuit 0 441 36
+was 0 441 36
+filed 0 441 36
+by 0 441 36
+Ted 0 441 36
+Boutrous 0 441 36
+and 0 441 36
+Trump-hating 1 441 36
+Republican 1 441 36
+lawyer 0 441 36
+Ted 0 441 36
+Olson, 0 441 36
+of 0 441 36
+the 0 441 36
+law 0 441 36
+firm 0 441 36
+Gibson, 0 441 36
+Dunn, 0 441 36
+and 0 441 36
+Crutcher. 0 441 36
 
-Olson 0
-was 0
-solicitor 0
-general 0
-in 0
-President 0
-George 0
-W. 0
-Bush’s 0
-administration. 0
+Olson 0 441 37
+was 0 441 37
+solicitor 0 441 37
+general 0 441 37
+in 0 441 37
+President 0 441 37
+George 0 441 37
+W. 0 441 37
+Bush’s 0 441 37
+administration. 0 441 37
 
-(The 0
-legal 0
-complaint 0
-may 0
-be 0
-viewed 0
-here.) 0
+(The 0 441 38
+legal 0 441 38
+complaint 0 441 38
+may 0 441 38
+be 0 441 38
+viewed 0 441 38
+here.) 0 441 38
 
-Boutrous 0
-said 0
-CNN 0
-is 0
-prepared 0
-to 0
-dig 0
-in 0
-for 0
-a 0
-protracted 0
-legal 0
-fight 0
-if 0
-it 0
-needs 0
-to. 0
+Boutrous 0 441 39
+said 0 441 39
+CNN 0 441 39
+is 0 441 39
+prepared 0 441 39
+to 0 441 39
+dig 0 441 39
+in 0 441 39
+for 0 441 39
+a 0 441 39
+protracted 0 441 39
+legal 0 441 39
+fight 0 441 39
+if 0 441 39
+it 0 441 39
+needs 0 441 39
+to. 0 441 39
 
-"We're 0
-ready 0
-to 0
-litigate 0
-as 0
-long 0
-as 0
-we 0
-have 0
-to, 0
-to 0
-protect 0
-these 0
-First 0
-Amendment 0
-rights, 0
-to 0
-ask 0
-the 0
-court 0
-to 0
-declare 0
-rules 0
-of 0
-the 0
-road 0
-going 0
-forward," 0
-he 0
-said. 0
+"We're 0 441 39
+
+ready 0 441 39
+
+to 0 441 39
+
+litigate 0 441 39
+
+as 0 441 39
+
+long 0 441 39
+
+as 0 441 39
+
+we 0 441 39
+
+have 0 441 39
+
+to, 0 441 39
+
+to 0 441 39
+
+protect 0 441 39
+
+these 0 441 39
+
+First 0 441 39
+
+Amendment 0 441 39
+
+rights, 0 441 39
+
+to 0 441 39
+
+ask 0 441 39
+
+the 0 441 39
+
+court 0 441 39
+
+to 0 441 39
+
+declare 0 441 39
+
+rules 0 441 39
+
+of 0 441 39
+
+the 0 441 39
+
+road 0 441 39
+
+going 0 441 39
+
+forward," 0 441 39
+
+he 0 441 39
+
+said. 0 441 39

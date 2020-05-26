@@ -1,385 +1,397 @@
-U.S. 0
-judge 0
-frees 0
-Indonesian 0
-immigrant 0
-held 0
-by 0
-Trump 0
-order 0
+U.S. 0 3 0
+judge 0 3 0
+frees 0 3 0
+Indonesian 0 3 0
+immigrant 0 3 0
+held 0 3 0
+by 0 3 0
+Trump 0 3 0
+order 0 3 0
 
-A 0
-U.S. 0
-judge 0
-on 0
-Wednesday 0
-ordered 0
-the 0
-release 0
-of 0
-an 0
-illegal 0
-immigrant 0
-who 0
-is 0
-among 0
-47 0
-Indonesians 0
-in 0
-New 0
-Hampshire 0
-challenging 0
-the 0
-Trump 0
-administration’s 0
-order 0
-to 0
-deport 0
-them. 0
+A 0 3 1
+U.S. 0 3 1
+judge 0 3 1
+on 0 3 1
+Wednesday 0 3 1
+ordered 0 3 1
+the 0 3 1
+release 0 3 1
+of 0 3 1
+an 0 3 1
+illegal 0 3 1
+immigrant 0 3 1
+who 0 3 1
+is 0 3 1
+among 0 3 1
+47 0 3 1
+Indonesians 0 3 1
+in 0 3 1
+New 0 3 1
+Hampshire 0 3 1
+challenging 0 3 1
+the 0 3 1
+Trump 0 3 1
+administration’s 0 3 1
+order 0 3 1
+to 0 3 1
+deport 0 3 1
+them. 0 3 1
 
-SPONSORED 0
+SPONSORED 0 3 2
 
-Rombot, 0
+Rombot, 0 3 3
+part 0 3 3
+of 0 3 3
+a 0 3 3
+wave 0 3 3
+of 0 3 3
+Indonesian 0 3 3
+Christians 0 3 3
+who 0 3 3
+fled 0 3 3
+their 0 3 3
+country 0 3 3
+following 0 3 3
+deadly 0 3 3
+riots 0 3 3
+in 0 3 3
+1998, 0 3 3
+learned 0 3 3
+of 0 3 3
+the 0 3 3
+policy 0 3 3
+change 0 3 3
+when 0 3 3
+he 0 3 3
+appeared 0 3 3
+for 0 3 3
+an 0 3 3
+Aug. 0 3 3
+1 0 3 3
+check-in 0 3 3
+with 0 3 3
+ICE 0 3 3
+and 0 3 3
+was 0 3 3
+arrested. 0 3 3
 
-part 0
+“He 0 3 4
+walks 0 3 4
+out 0 3 4
+of 0 3 4
+the 0 3 4
+courthouse 0 3 4
+right 0 3 4
+now,” 0 3 4
+Chief 0 3 4
+U.S. 0 3 4
+District 0 3 4
+Judge 0 3 4
+Patti 0 3 4
+Saris 0 3 4
+said 0 3 4
+after 0 3 4
+concluding 0 3 4
+that 0 3 4
+Rombot’s 0 3 4
+detention 0 3 4
+violated 0 3 4
+his 0 3 4
+rights. 0 3 4
 
-of 0
-a 0
-wave 0
-of 0
-Indonesian 0
-Christians 0
-who 0
-fled 0
-their 0
-country 0
-following 0
-deadly 0
-riots 0
-in 0
-1998, 0
-learned 0
-of 0
-the 0
-policy 0
-change 0
-when 0
-he 0
-appeared 0
-for 0
-an 0
-Aug. 0
-1 0
-check-in 0
-with 0
-ICE 0
-and 0
-was 0
-arrested. 0
+He 0 3 5
+walked 0 3 5
+out 0 3 5
+of 0 3 5
+the 0 3 5
+U.S. 0 3 5
+District 0 3 5
+Court 0 3 5
+in 0 3 5
+Boston 0 3 5
+in 0 3 5
+his 0 3 5
+blue 0 3 5
+jail 0 3 5
+scrubs, 0 3 5
+without 0 3 5
+a 0 3 5
+chance 0 3 5
+to 0 3 5
+change 0 3 5
+into 0 3 5
+street 0 3 5
+clothes. 0 3 5
 
-“He 0
+Rombot’s 0 3 6
+lawyers 0 3 6
+said 0 3 6
+he 0 3 6
+was 0 3 6
+arrested 0 3 6
+despite 0 3 6
+a 0 3 6
+2015 0 3 6
+letter 0 3 6
+from 0 3 6
+ICE 0 3 6
+saying 0 3 6
+he 0 3 6
+would 0 3 6
+have 0 3 6
+a 0 3 6
+chance 0 3 6
+to 0 3 6
+prepare 0 3 6
+for 0 3 6
+an 0 3 6
+“orderly” 0 3 6
+departure. 0 3 6
 
-walks 0
-out 0
-of 0
-the 0
-courthouse 0
-right 0
-now,” 0
-Chief 0
-U.S. 0
-District 0
-Judge 0
-Patti 0
-Saris 0
-said 0
-after 0
-concluding 0
-that 0
-Rombot’s 0
-detention 0
-violated 0
-his 0
-rights. 0
+The 0 3 7
+judge 0 3 7
+cited 0 3 7
+that 0 3 7
+letter 0 3 7
+during 0 3 7
+Wednesday’s 0 3 7
+hearing 0 3 7
+in 0 3 7
+holding 0 3 7
+that 0 3 7
+Rombot’s 0 3 7
+detention 0 3 7
+despite 0 3 7
+ICE’s 0 3 7
+previous 0 3 7
+guidance 0 3 7
+violated 0 3 7
+his 0 3 7
+due 0 3 7
+process 0 3 7
+rights 0 3 7
+under 0 3 7
+the 0 3 7
+U.S. 0 3 7
+Constitution. 0 3 7
 
-He 0
+“This 0 3 8
+is 0 3 8
+what 0 3 8
+intent 0 3 8
+was, 0 3 8
+that 0 3 8
+he 0 3 8
+would 0 3 8
+be 0 3 8
+given 0 3 8
+the 0 3 8
+opportunity 0 3 8
+to 0 3 8
+leave 0 3 8
+under 0 3 8
+his 0 3 8
+own 0 3 8
+steam 0 3 8
+and 0 3 8
+not 0 3 8
+under 0 3 8
+shackles,” 0 3 8
+she 0 3 8
 
-walked 0
-out 0
-of 0
-the 0
-U.S. 0
-District 0
-Court 0
-in 0
-Boston 0
-in 0
-his 0
-blue 0
-jail 0
-scrubs, 0
-without 0
-a 0
-chance 0
-to 0
-change 0
-into 0
-street 0
-clothes. 0
+said. 0 3 9
+Outside 0 3 9
+the 0 3 9
+courtroom, 0 3 9
+Rombot 0 3 9
+said: 0 3 9
+“I 0 3 9
+just 0 3 9
+want 0 3 9
+to 0 3 9
+say 0 3 9
+thank 0 3 9
+you 0 3 9
+to 0 3 9
+my 0 3 9
+attorney, 0 3 9
+my 0 3 9
+pastor 0 3 9
+and 0 3 9
+all 0 3 9
+of 0 3 9
+my 0 3 9
+friends.” 0 3 9
 
-Rombot’s 0
-lawyers 0
-said 0
-he 0
-was 0
-arrested 0
-despite 0
-a 0
-2015 0
-letter 0
-from 0
-ICE 0
-saying 0
-he 0
-would 0
-have 0
-a 0
-chance 0
-to 0
-prepare 0
-for 0
-an 0
-“orderly” 0
-departure. 0
+The 0 3 10
+U.S. 0 3 10
+Attorney’s 0 3 10
+office 0 3 10
+is 0 3 10
+considering 0 3 10
+an 0 3 10
+appeal, 0 3 10
+a 0 3 10
+spokeswoman 0 3 10
 
-The 0
+said. 0 3 11
+ICE 0 3 11
+officials 0 3 11
+said 0 3 11
+the 0 3 11
+arrangement 0 3 11
+had 0 3 11
+always 0 3 11
+been 0 3 11
+a 0 3 11
+temporary 0 3 11
+one 0 3 11
+and 0 3 11
+that 0 3 11
+the 0 3 11
+agency 0 3 11
+always 0 3 11
+had 0 3 11
+discretion 0 3 11
+to 0 3 11
+deport 0 3 11
+the 0 3 11
+people 0 3 11
+covered 0 3 11
+by 0 3 11
+the 0 3 11
+arrangement. 0 3 11
 
-judge 0
-cited 0
-that 0
-letter 0
-during 0
-Wednesday’s 0
-hearing 0
-in 0
-holding 0
-that 0
-Rombot’s 0
-detention 0
-despite 0
-ICE’s 0
-previous 0
-guidance 0
-violated 0
-his 0
-due 0
-process 0
-rights 0
-under 0
-the 0
-U.S. 0
-Constitution. 0
+The 0 3 12
+Indonesians 0 3 12
+are 0 3 12
+part 0 3 12
+of 0 3 12
+an 0 3 12
+ethnic 0 3 12
+community 0 3 12
+of 0 3 12
+about 0 3 12
+2,000 0 3 12
+people 0 3 12
+clustered 0 3 12
+around 0 3 12
+the 0 3 12
+city 0 3 12
+of 0 3 12
+Dover 0 3 12
+in 0 3 12
+New 0 3 12
+Hampshire’s 0 3 12
+seacoast 0 3 12
 
-“This 0
+region. 0 3 13
+Members 0 3 13
+of 0 3 13
+the 0 3 13
+group 0 3 13
+and 0 3 13
+advocates 0 3 13
+say 0 3 13
+they 1 3 13
+fear 1 3 13
+they 1 3 13
+could 1 3 13
+face 1 3 13
+discrimination 1 3 13
+or 1 3 13
+violence 1 3 13
+if 1 3 13
+forced 1 3 13
+to 1 3 13
+return 1 3 13
+to 1 3 13
+the 1 3 13
+world’s 1 3 13
+largest 1 3 13
+Muslim-majority 1 3 13
 
-is 0
-what 0
-intent 0
-was, 0
-that 0
-he 0
-would 0
-be 0
-given 0
-the 0
-opportunity 0
-to 0
-leave 0
-under 0
-his 0
-own 0
-steam 0
-and 0
-not 0
-under 0
-shackles,” 0
-she 0
-said. 0
+country. 1 3 14
+Their 0 3 14
+cause 0 3 14
+has 0 3 14
+drawn 0 3 14
+the 0 3 14
+support 0 3 14
+of 0 3 14
+Republican 0 3 14
+Governor 0 3 14
+Chris 0 3 14
+Sununu 0 3 14
+and 0 3 14
+New 0 3 14
+Hampshire’s 0 3 14
+all-Democratic 0 3 14
+congressional 0 3 14
+delegation, 0 3 14
+including 0 3 14
 
-Outside 0
+U.S. 0 3 15
+Senator 0 3 15
+Jeanne 0 3 15
 
-the 0
-courtroom, 0
-Rombot 0
-said: 0
-“I 0
-just 0
-want 0
-to 0
-say 0
-thank 0
-you 0
-to 0
-my 0
-attorney, 0
-my 0
-pastor 0
-and 0
-all 0
-of 0
-my 0
-friends.” 0
+Shaheen. 0 3 16
+Saris 0 3 16
+previously 0 3 16
+ordered 0 3 16
+a 0 3 16
+stay 0 3 16
+to 0 3 16
+the 0 3 16
 
-The 0
+deportations. 0 3 16
 
-U.S. 0
-Attorney’s 0
-office 0
-is 0
-considering 0
-an 0
-appeal, 0
-a 0
-spokeswoman 0
-said. 0
+She 0 3 16
 
-ICE 0
+is 0 3 16
 
-officials 0
-said 0
-the 0
-arrangement 0
-had 0
-always 0
-been 0
-a 0
-temporary 0
-one 0
-and 0
-that 0
-the 0
-agency 0
-always 0
-had 0
-discretion 0
-to 0
-deport 0
-the 0
-people 0
-covered 0
-by 0
-the 0
-arrangement. 0
+currently 0 3 16
 
-The 0
+weighing 0 3 16
 
-Indonesians 0
-are 0
-part 0
-of 0
-an 0
-ethnic 0
-community 0
-of 0
-about 0
-2,000 0
-people 0
-clustered 0
-around 0
-the 0
-city 0
-of 0
-Dover 0
-in 0
-New 0
-Hampshire’s 0
-seacoast 0
-region. 0
+whether 0 3 16
 
-Members 0
+she 0 3 16
 
-of 0
-the 0
-group 0
-and 0
-advocates 0
-say 0
-they 1
-fear 1
-they 1
-could 1
-face 1
-discrimination 1
-or 1
-violence 1
-if 1
-forced 1
-to 1
-return 1
-to 1
-the 1
-world’s 1
-largest 1
-Muslim-majority 1
-country. 1
+can 0 3 16
 
-Their 0
+order 0 3 16
 
-cause 0
-has 0
-drawn 0
-the 0
-support 0
-of 0
-Republican 0
-Governor 0
-Chris 0
-Sununu 0
-and 0
-New 0
-Hampshire’s 0
-all-Democratic 0
-congressional 0
-delegation, 0
-including 0
-U.S. 0
+a 0 3 16
 
-Senator 0
-Jeanne 0
-Shaheen. 0
+longer 0 3 16
 
-Saris 0
+delay 0 3 16
 
-previously 0
-ordered 0
-a 0
-stay 0
-to 0
-the 0
-deportations. 0
+to 0 3 16
 
-She 0
-is 0
-currently 0
-weighing 0
-whether 0
-she 0
-can 0
-order 0
-a 0
-longer 0
-delay 0
-to 0
-give 0
-the 0
-affected 0
-people 0
-time 0
-to 0
-renew 0
-their 0
-efforts 0
-to 0
-gain 0
-legal 0
-status. 0
+give 0 3 16
+
+the 0 3 16
+
+affected 0 3 16
+
+people 0 3 16
+
+time 0 3 16
+
+to 0 3 16
+
+renew 0 3 16
+
+their 0 3 16
+
+efforts 0 3 16
+
+to 0 3 16
+
+gain 0 3 16
+
+legal 0 3 16
+
+status. 0 3 16

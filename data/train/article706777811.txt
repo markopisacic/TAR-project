@@ -1,693 +1,707 @@
-Black 1
-Death: 1
-‘It’s 0
-100 0
-% 0
-Likely’ 0
-It 0
-Spreads 0
-To 0
-The 0
-UK 0
-And 0
-A 1
-‘Ticking 1
-Time 1
-Bomb’ 1
-Ready 1
-To 1
-Decimate 1
-The 1
-World 1
+Black 1 89 0
+Death: 1 89 0
+‘It’s 0 89 0
+100 0 89 0
+% 0 89 0
+Likely’ 0 89 0
+It 0 89 0
+Spreads 0 89 0
+To 0 89 0
+The 0 89 0
+UK 0 89 0
+And 0 89 0
+A 1 89 0
+‘Ticking 1 89 0
+Time 1 89 0
+Bomb’ 1 89 0
+Ready 1 89 0
+To 1 89 0
+Decimate 1 89 0
+The 1 89 0
+World 1 89 0
 
-The 0
-death 0
-toll 0
-in 0
-Madagascar 0
-due 0
-to 0
-the 0
-plague 0
-has 0
-jumped 0
-for 0
-the 0
-first 0
-time 0
-since 0
-health 0
-officials 0
-claimed 0
-the 0
-infection 0
-was 0
-in 0
-the 0
-beginning 0
-stages 0
-of 0
-control. 0
+The 0 89 1
+death 0 89 1
+toll 0 89 1
+in 0 89 1
+Madagascar 0 89 1
+due 0 89 1
+to 0 89 1
+the 0 89 1
+plague 0 89 1
+has 0 89 1
+jumped 0 89 1
+for 0 89 1
+the 0 89 1
+first 0 89 1
+time 0 89 1
+since 0 89 1
+health 0 89 1
+officials 0 89 1
+claimed 0 89 1
+the 0 89 1
+infection 0 89 1
+was 0 89 1
+in 0 89 1
+the 0 89 1
+beginning 0 89 1
+stages 0 89 1
+of 0 89 1
+control. 0 89 1
 
-With 0
-the 0
-new 0
-uptick 0
-in 0
-those 0
-who 0
-died, 0
-the 0
-fear 0
-that 0
-the 0
-disease 0
-will 0
-spread 0
-to 0
-the 0
-United 0
-Kingdom 0
-has 0
-been 0
-confirmed 0
-as 0
-“100 0
-percent 0
-likely.” 0
+With 0 89 2
+the 0 89 2
+new 0 89 2
+uptick 0 89 2
+in 0 89 2
+those 0 89 2
+who 0 89 2
+died, 0 89 2
+the 0 89 2
+fear 0 89 2
+that 0 89 2
+the 0 89 2
+disease 0 89 2
+will 0 89 2
+spread 0 89 2
+to 0 89 2
+the 0 89 2
+United 0 89 2
+Kingdom 0 89 2
+has 0 89 2
+been 0 89 2
+confirmed 0 89 2
+as 0 89 2
+“100 0 89 2
+percent 0 89 2
+likely.” 0 89 2
 
-The 0
-plague 0
-death 0
-toll 0
-has 0
-now 0
-shown 0
-signs 0
-that 0
-it’s 0
-picking 0
-up 0
-speed 0
-again. 0
+The 0 89 3
+plague 0 89 3
+death 0 89 3
+toll 0 89 3
+has 0 89 3
+now 0 89 3
+shown 0 89 3
+signs 0 89 3
+that 0 89 3
+it’s 0 89 3
+picking 0 89 3
+up 0 89 3
+speed 0 89 3
+again. 0 89 3
 
-Official 0
-figures 0
-reveal 0
-165 0
-people 0
-have 0
-now 0
-lost 0
-their 0
-lives 0
-in 0
-Madagascar’s 0
-“worst 1
-outbreak 1
-in 1
-50 1
-years.” 1
-Recent 0
-data 0
-shows 0
-a 0
-15 0
-percent 0
-jump 0
-in 0
-fatalities 0
-over 0
-just 0
-three 0
-days, 0
-coupled 0
-with 0
-scientists 0
-concerned 0
-that 0
-the 0
-black 0
-death 0
-has 0
-reached 0
-a 0
-“crisis” 0
-point. 0
+Official 0 89 4
+figures 0 89 4
+reveal 0 89 4
+165 0 89 4
+people 0 89 4
+have 0 89 4
+now 0 89 4
+lost 0 89 4
+their 0 89 4
+lives 0 89 4
+in 0 89 4
+Madagascar’s 0 89 4
+“worst 1 89 4
+outbreak 1 89 4
+in 1 89 4
+50 1 89 4
+years.” 1 89 4
+Recent 0 89 4
+data 0 89 4
+shows 0 89 4
+a 0 89 4
+15 0 89 4
+percent 0 89 4
+jump 0 89 4
+in 0 89 4
+fatalities 0 89 4
+over 0 89 4
+just 0 89 4
+three 0 89 4
+days, 0 89 4
+coupled 0 89 4
+with 0 89 4
+scientists 0 89 4
+concerned 0 89 4
+that 0 89 4
+the 0 89 4
+black 0 89 4
+death 0 89 4
+has 0 89 4
+reached 0 89 4
+a 0 89 4
+“crisis” 0 89 4
+point. 0 89 4
 
-Ten 0
-other 0
-African 0
-countries 0
-have 0
-also 0
-been 0
-placed 0
-on 0
-high 1
-alert, 1
-warning 1
-that 1
-an 1
-outbreak 1
-could 1
-occur 1
-at 1
-any 1
-time. 1
+Ten 0 89 5
+other 0 89 5
+African 0 89 5
+countries 0 89 5
+have 0 89 5
+also 0 89 5
+been 0 89 5
+placed 0 89 5
+on 0 89 5
+high 1 89 5
+alert, 1 89 5
+warning 1 89 5
+that 1 89 5
+an 1 89 5
+outbreak 1 89 5
+could 1 89 5
+occur 1 89 5
+at 1 89 5
+any 1 89 5
+time. 1 89 5
 
-At 0
-least 0
-2,034 0
-people 0
-have 0
-been 0
-infected 0
-down 0
-by 0
-a 0
-more 0
-lethal 0
-form 0
-of 0
-the 0
-black 0
-death 0
-so 0
-far 0
-in 0
-the 0
-country, 0
-which 0
-lies 0
-off 0
-the 0
-coast 0
-of 0
-Africa, 0
-according 0
-to 0
-WHO 0
-statistics. 0
+At 0 89 6
+least 0 89 6
+2,034 0 89 6
+people 0 89 6
+have 0 89 6
+been 0 89 6
+infected 0 89 6
+down 0 89 6
+by 0 89 6
+a 0 89 6
+more 0 89 6
+lethal 0 89 6
+form 0 89 6
+of 0 89 6
+the 0 89 6
+black 0 89 6
+death 0 89 6
+so 0 89 6
+far 0 89 6
+in 0 89 6
+the 0 89 6
+country, 0 89 6
+which 0 89 6
+lies 0 89 6
+off 0 89 6
+the 0 89 6
+coast 0 89 6
+of 0 89 6
+Africa, 0 89 6
+according 0 89 6
+to 0 89 6
+WHO 0 89 6
+statistics. 0 89 6
 
-Some 0
-experts 1
-fear 1
-the 0
-disease 0
-(which 0
-is 0
-so 0
-deadly 0
-because 0
-it 0
-is 0
-airborne) 0
-could 1
-mutate 1
-and 1
-become 1
-untreatable 1
-during 0
-this 0
-year’s 0
-outbreak 0
-– 0
-which 0
-is 0
-expected 0
-to 0
-blight 0
-Madagascar 0
-until 0
-April. 0
+Some 0 89 7
+experts 1 89 7
+fear 1 89 7
+the 0 89 7
+disease 0 89 7
+(which 0 89 7
+is 0 89 7
+so 0 89 7
+deadly 0 89 7
+because 0 89 7
+it 0 89 7
+is 0 89 7
+airborne) 0 89 7
+could 1 89 7
+mutate 1 89 7
+and 1 89 7
+become 1 89 7
+untreatable 1 89 7
+during 0 89 7
+this 0 89 7
+year’s 0 89 7
+outbreak 0 89 7
+– 0 89 7
+which 0 89 7
+is 0 89 7
+expected 0 89 7
+to 0 89 7
+blight 0 89 7
+Madagascar 0 89 7
+until 0 89 7
+April. 0 89 7
 
-Others 0
-worry 0
-the 1
-plague 1
-will 1
-go 1
-beyond 1
-mainland 0
-Africa 0
-and 0
-eventually 0
-reach 0
-the 0
-US, 0
-Europe, 0
-and 0
-Britain. 0
+Others 0 89 8
+worry 0 89 8
+the 1 89 8
+plague 1 89 8
+will 1 89 8
+go 1 89 8
+beyond 1 89 8
+mainland 0 89 8
+Africa 0 89 8
+and 0 89 8
+eventually 0 89 8
+reach 0 89 8
+the 0 89 8
+US, 0 89 8
+Europe, 0 89 8
+and 0 89 8
+Britain. 0 89 8
 
-The 0
-plague 0
-spreads 0
-easily 0
-and 0
-can 0
-kill 0
-within 0
-48 0
-hours. 0
+The 0 89 9
+plague 0 89 9
+spreads 0 89 9
+easily 0 89 9
+and 0 89 9
+can 0 89 9
+kill 0 89 9
+within 0 89 9
+48 0 89 9
+hours. 0 89 9
 
-That 0
-would 0
-leave 1
-millions 1
-more 1
-vulnerable 1
-to 1
-the 1
-outbreak, 1
-and 1
-create 1
-a 1
-short 1
-supply 1
-of 0
-life-saving 0
-antibiotics. 0
+That 0 89 10
+would 0 89 10
+leave 1 89 10
+millions 1 89 10
+more 1 89 10
+vulnerable 1 89 10
+to 1 89 10
+the 1 89 10
+outbreak, 1 89 10
+and 1 89 10
+create 1 89 10
+a 1 89 10
+short 1 89 10
+supply 1 89 10
+of 0 89 10
+life-saving 0 89 10
+antibiotics. 0 89 10
 
-According 0
-to 0
-the 0
-Daily 0
-Mail, 0
-experts 0
-warn 0
-the 0
-outbreak 0
-of 0
-plague 0
-in 0
-Madagascar 0
-this 0
-year 0
-is 0
-being 0
-fueled 0
-by 0
-a 0
-strain 0
-more 0
-lethal 0
-than 0
-the 0
-one 0
-which 0
-usually 0
-strikes 0
-the 0
-country. 0
+According 0 89 11
+to 0 89 11
+the 0 89 11
+Daily 0 89 11
+Mail, 0 89 11
+experts 0 89 11
+warn 0 89 11
+the 0 89 11
+outbreak 0 89 11
+of 0 89 11
+plague 0 89 11
+in 0 89 11
+Madagascar 0 89 11
+this 0 89 11
+year 0 89 11
+is 0 89 11
+being 0 89 11
+fueled 0 89 11
+by 0 89 11
+a 0 89 11
+strain 0 89 11
+more 0 89 11
+lethal 0 89 11
+than 0 89 11
+the 0 89 11
+one 0 89 11
+which 0 89 11
+usually 0 89 11
+strikes 0 89 11
+the 0 89 11
+country. 0 89 11
 
-This 0
-form 0
-of 0
-the 0
-pneumonic 0
-plague 0
-is 0
-airborne, 0
-easily 0
-spread 0
-by 0
-a 0
-cough 0
-or 0
-a 0
-sneeze, 0
-and 0
-has 0
-been 0
-responsible 0
-for 0
-two-thirds 0
-of 0
-all 0
-infections 0
-this 0
-year. 0
+This 0 89 12
+form 0 89 12
+of 0 89 12
+the 0 89 12
+pneumonic 0 89 12
+plague 0 89 12
+is 0 89 12
+airborne, 0 89 12
+easily 0 89 12
+spread 0 89 12
+by 0 89 12
+a 0 89 12
+cough 0 89 12
+or 0 89 12
+a 0 89 12
+sneeze, 0 89 12
+and 0 89 12
+has 0 89 12
+been 0 89 12
+responsible 0 89 12
+for 0 89 12
+two-thirds 0 89 12
+of 0 89 12
+all 0 89 12
+infections 0 89 12
+this 0 89 12
+year. 0 89 12
 
-The 0
-bubonic 0
-form 0
-of 0
-the 0
-plague, 0
-responsible 0
-for 0
-the 0
-“Black 1
-Death” 1
-in 0
-the 0
-14th 0
-century 0
-strikes 0
-the 0
-country 0
-each 0
-year 0
-and 0
-infects 0
-around 0
-600 0
-people. 0
+The 0 89 13
+bubonic 0 89 13
+form 0 89 13
+of 0 89 13
+the 0 89 13
+plague, 0 89 13
+responsible 0 89 13
+for 0 89 13
+the 0 89 13
+“Black 1 89 13
+Death” 1 89 13
+in 0 89 13
+the 0 89 13
+14th 0 89 13
+century 0 89 13
+strikes 0 89 13
+the 0 89 13
+country 0 89 13
+each 0 89 13
+year 0 89 13
+and 0 89 13
+infects 0 89 13
+around 0 89 13
+600 0 89 13
+people. 0 89 13
 
-But 0
-with 0
-over 0
-2000 0
-alread 0
-infected 0
-by 0
-pneumonic 0
-plague 0
-(and 0
-counting) 0
-health 0
-officials 0
-aren’t 0
-willing 0
-to 0
-quit 0
-sounding 0
-alarms 0
-just 0
-yet. 0
+But 0 89 14
+with 0 89 14
+over 0 89 14
+2000 0 89 14
+alread 0 89 14
+infected 0 89 14
+by 0 89 14
+pneumonic 0 89 14
+plague 0 89 14
+(and 0 89 14
+counting) 0 89 14
+health 0 89 14
+officials 0 89 14
+aren’t 0 89 14
+willing 0 89 14
+to 0 89 14
+quit 0 89 14
+sounding 0 89 14
+alarms 0 89 14
+just 0 89 14
+yet. 0 89 14
 
-Paul 0
-Hunter, 0
-a 0
-professor 0
-of 0
-health 0
-protection 0
-at 0
-the 0
-world-renowned 0
-University 0
-of 0
-East 0
-Anglia, 0
-was 0
-the 0
-first 0
-expert 0
-to 0
-predict 0
-the 0
-plague 0
-could 0
-travel 0
-across 0
-the 0
-sea. 0
+Paul 0 89 15
+Hunter, 0 89 15
+a 0 89 15
+professor 0 89 15
+of 0 89 15
+health 0 89 15
+protection 0 89 15
+at 0 89 15
+the 0 89 15
+world-renowned 0 89 15
+University 0 89 15
+of 0 89 15
+East 0 89 15
+Anglia, 0 89 15
+was 0 89 15
+the 0 89 15
+first 0 89 15
+expert 0 89 15
+to 0 89 15
+predict 0 89 15
+the 0 89 15
+plague 0 89 15
+could 0 89 15
+travel 0 89 15
+across 0 89 15
+the 0 89 15
+sea. 0 89 15
 
-He 0
-previously 0
-said: 0
-“The 0
-big 0
-anxiety 0
-is 0
-it 0
-could 0
-spread 0
-to 0
-mainland 0
-Africa, 0
-it’s 0
-not 0
-probable, 0
-but 0
-certainly 0
-possible, 0
-that 0
-might 0
-then 0
-be 0
-difficult 0
-to 0
-control. 0
+He 0 89 16
+previously 0 89 16
+said: 0 89 16
+“The 0 89 16
+big 0 89 16
+anxiety 0 89 16
+is 0 89 16
+it 0 89 16
+could 0 89 16
+spread 0 89 16
+to 0 89 16
+mainland 0 89 16
+Africa, 0 89 16
+it’s 0 89 16
+not 0 89 16
+probable, 0 89 16
+but 0 89 16
+certainly 0 89 16
+possible, 0 89 16
+that 0 89 16
+might 0 89 16
+then 0 89 16
+be 0 89 16
+difficult 0 89 16
+to 0 89 16
+control. 0 89 16
 
-If 1
-we 1
-don’t 1
-carry 1
-on 1
-doing 1
-stuff 1
-here, 1
-at 1
-one 1
-point 1
-something 1
-will 1
-happen 1
-and 1
-it 1
-will 1
-get 1
-out 1
-of 1
-our 1
-control 1
-and 1
-cause 1
-huge 1
-devastation 1
-all 1
-around 1
-the 1
-world.” 1
-There 0
-is 0
-always 0
-a 0
-risk 0
-with 0
-travel 0
-that 0
-the 0
-disease 1
-will 1
-spread 1
-globally, 1
-Hunter 0
-added. 0
+If 1 89 17
+we 1 89 17
+don’t 1 89 17
+carry 1 89 17
+on 1 89 17
+doing 1 89 17
+stuff 1 89 17
+here, 1 89 17
+at 1 89 17
+one 1 89 17
+point 1 89 17
+something 1 89 17
+will 1 89 17
+happen 1 89 17
+and 1 89 17
+it 1 89 17
+will 1 89 17
+get 1 89 17
+out 1 89 17
+of 1 89 17
+our 1 89 17
+control 1 89 17
+and 1 89 17
+cause 1 89 17
+huge 1 89 17
+devastation 1 89 17
+all 1 89 17
+around 1 89 17
+the 1 89 17
+world.” 1 89 17
+There 0 89 17
+is 0 89 17
+always 0 89 17
+a 0 89 17
+risk 0 89 17
+with 0 89 17
+travel 0 89 17
+that 0 89 17
+the 0 89 17
+disease 1 89 17
+will 1 89 17
+spread 1 89 17
+globally, 1 89 17
+Hunter 0 89 17
+added. 0 89 17
 
-“We 0
-don’t 0
-want 0
-a 0
-situation 0
-where 0
-the 0
-disease 0
-spreads 0
-so 0
-fast 0
-it 0
-gets 0
-out 0
-of 0
-control. 0
+“We 0 89 18
+don’t 0 89 18
+want 0 89 18
+a 0 89 18
+situation 0 89 18
+where 0 89 18
+the 0 89 18
+disease 0 89 18
+spreads 0 89 18
+so 0 89 18
+fast 0 89 18
+it 0 89 18
+gets 0 89 18
+out 0 89 18
+of 0 89 18
+control. 0 89 18
 
-We 0
-are 0
-talking 0
-about 0
-it 0
-spreading 0
-in 0
-days 0
-rather 0
-than 0
-weeks.” 0
-But 0
-Hunter 0
-is 0
-adamant 0
-that 0
-a 0
-well-developed 0
-country 0
-could 0
-manage 0
-the 0
-plague 0
-should 0
-a 0
-global 0
-outbreak 0
-occur. 0
+We 0 89 19
+are 0 89 19
+talking 0 89 19
+about 0 89 19
+it 0 89 19
+spreading 0 89 19
+in 0 89 19
+days 0 89 19
+rather 0 89 19
+than 0 89 19
+weeks.” 0 89 19
+But 0 89 19
+Hunter 0 89 19
+is 0 89 19
+adamant 0 89 19
+that 0 89 19
+a 0 89 19
+well-developed 0 89 19
+country 0 89 19
+could 0 89 19
+manage 0 89 19
+the 0 89 19
+plague 0 89 19
+should 0 89 19
+a 0 89 19
+global 0 89 19
+outbreak 0 89 19
+occur. 0 89 19
 
-Hopefully, 0
-most 0
-will 0
-never 0
-have 0
-to 0
-find 0
-out 0
-how 0
-well 0
-another 0
-country 0
-can 0
-manage 0
-this 0
-infection. 0
+Hopefully, 0 89 20
+most 0 89 20
+will 0 89 20
+never 0 89 20
+have 0 89 20
+to 0 89 20
+find 0 89 20
+out 0 89 20
+how 0 89 20
+well 0 89 20
+another 0 89 20
+country 0 89 20
+can 0 89 20
+manage 0 89 20
+this 0 89 20
+infection. 0 89 20
 
-A 0
-few 0
-health 0
-experts 0
-have 0
-warned 0
-that 0
-there 0
-is 0
-no 0
-threat 0
-to 0
-the 0
-UK, 0
-however, 0
-some 1
-have 1
-warned 1
-the 1
-plague 1
-outbreak 1
-will 1
-certainly 1
-spread 1
-to 1
-the 1
-region. 1
+A 0 89 21
+few 0 89 21
+health 0 89 21
+experts 0 89 21
+have 0 89 21
+warned 0 89 21
+that 0 89 21
+there 0 89 21
+is 0 89 21
+no 0 89 21
+threat 0 89 21
+to 0 89 21
+the 0 89 21
+UK, 0 89 21
+however, 0 89 21
+some 1 89 21
+have 1 89 21
+warned 1 89 21
+the 1 89 21
+plague 1 89 21
+outbreak 1 89 21
+will 1 89 21
+certainly 1 89 21
+spread 1 89 21
+to 1 89 21
+the 1 89 21
+region. 1 89 21
 
-Richard 0
-Conroy, 0
-the 0
-founder 0
-of 0
-Sick 0
-Holiday, 0
-has 0
-sent 0
-a 0
-chilling 1
-warning 1
-to 0
-UK 0
-authorities. 0
+Richard 0 89 22
+Conroy, 0 89 22
+the 0 89 22
+founder 0 89 22
+of 0 89 22
+Sick 0 89 22
+Holiday, 0 89 22
+has 0 89 22
+sent 0 89 22
+a 0 89 22
+chilling 1 89 22
+warning 1 89 22
+to 0 89 22
+UK 0 89 22
+authorities. 0 89 22
 
-Conway 0
-is 0
-saying 1
-it’s 1
-“only 1
-a 1
-matter 1
-of 1
-time” 1
-before 1
-the 1
-disease 1
-arrives 1
-on 1
-British 1
-soil. 1
+Conway 0 89 23
+is 0 89 23
+saying 1 89 23
+it’s 1 89 23
+“only 1 89 23
+a 1 89 23
+matter 1 89 23
+of 1 89 23
+time” 1 89 23
+before 1 89 23
+the 1 89 23
+disease 1 89 23
+arrives 1 89 23
+on 1 89 23
+British 1 89 23
+soil. 1 89 23
 
-Conroy 0
-warned 1
-it 1
-is 1
-inevitable 1
-that 1
-the 1
-plague 1
-will 1
-spread 1
-due 0
-to 0
-the 0
-vast 0
-movement 0
-of 0
-people 0
-across 0
-the 0
-globe. 0
+Conroy 0 89 24
+warned 1 89 24
+it 1 89 24
+is 1 89 24
+inevitable 1 89 24
+that 1 89 24
+the 1 89 24
+plague 1 89 24
+will 1 89 24
+spread 1 89 24
+due 0 89 24
+to 0 89 24
+the 0 89 24
+vast 0 89 24
+movement 0 89 24
+of 0 89 24
+people 0 89 24
+across 0 89 24
+the 0 89 24
+globe. 0 89 24
 
-“I 1
-believe 1
-that 1
-it’s 1
-100 1
-percent 1
-likely 1
-that 1
-plague 1
-will 1
-arrive 1
-in 1
-the 1
-UK 1
-once 1
-more 1
-– 1
-it’s 1
-just 1
-a 1
-question 1
-of 1
-‘when’, 1
-not 1
-‘if’. 1
+“I 1 89 25
+believe 1 89 25
+that 1 89 25
+it’s 1 89 25
+100 1 89 25
+percent 1 89 25
+likely 1 89 25
+that 1 89 25
+plague 1 89 25
+will 1 89 25
+arrive 1 89 25
+in 1 89 25
+the 1 89 25
+UK 1 89 25
+once 1 89 25
+more 1 89 25
+– 1 89 25
+it’s 1 89 25
+just 1 89 25
+a 1 89 25
+question 1 89 25
+of 1 89 25
+‘when’, 1 89 25
+not 1 89 25
+‘if’. 1 89 25
 
-And 0
-it’s 0
-not 0
-an 0
-exaggeration 0
-to 0
-say 0
-that 0
-this 0
-is 0
-a 0
-real 0
-threat 0
-– 0
-a 1
-ticking 1
-time 1
-bomb 1
-that’s 1
-waiting 1
-to 1
-decimate 1
-the 1
-world,” 1
-Conroy 0
-continued. 0
+And 0 89 26
+it’s 0 89 26
+not 0 89 26
+an 0 89 26
+exaggeration 0 89 26
+to 0 89 26
+say 0 89 26
+that 0 89 26
+this 0 89 26
+is 0 89 26
+a 0 89 26
+real 0 89 26
+threat 0 89 26
+– 0 89 26
+a 1 89 26
+ticking 1 89 26
+time 1 89 26
+bomb 1 89 26
+that’s 1 89 26
+waiting 1 89 26
+to 1 89 26
+decimate 1 89 26
+the 1 89 26
+world,” 1 89 26
+Conroy 0 89 26
+continued. 0 89 26
 
-“With 0
-the 0
-current 0
-outbreak 0
-still 0
-remaining 0
-treatable 0
-with 0
-antibiotics, 0
-however, 0
-the 0
-current 0
-risk 0
-is 0
-low.” 0
+“With 0 89 26
+
+the 0 89 26
+
+current 0 89 26
+
+outbreak 0 89 26
+
+still 0 89 26
+
+remaining 0 89 26
+
+treatable 0 89 26
+
+with 0 89 26
+
+antibiotics, 0 89 26
+
+however, 0 89 26
+
+the 0 89 26
+
+current 0 89 26
+
+risk 0 89 26
+
+is 0 89 26
+
+low.” 0 89 26

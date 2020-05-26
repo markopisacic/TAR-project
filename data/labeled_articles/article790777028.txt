@@ -1,645 +1,660 @@
-President 0
-Trump 0
-Orders 0
-FBI 0
-Investigation 0
-Into 0
-Kavanaugh 0
-Following 0
-Democrat 0
-Temper 1
-Tantrum 1
+President 0 379 0
+Trump 0 379 0
+Orders 0 379 0
+FBI 0 379 0
+Investigation 0 379 0
+Into 0 379 0
+Kavanaugh 0 379 0
+Following 0 379 0
+Democrat 0 379 0
+Temper 1 379 0
+Tantrum 1 379 0
 
-Thought 0
-Judge 0
-Brett 0
-Kavanaugh 0
-has 0
-been 0
-through 0
-at 0
-least 0
-6 0
-FBI 0
-background 0
-checks, 0
-because 0
-of 0
-Senate 0
-Democrat 0
-temper 1
-tantrums 1
-and 0
-RINO 0
-Republican 0
-Senator 0
-Jeff 0
-Flake's 0
-desire 0
-to 0
-have 0
-another 0
-FBI 0
-investigation 0
-into 0
-allegations 0
-of 0
-sexual 0
-misconduct 0
-by 0
-Kavanaugh 0
-with 0
-zero 0
-evidence, 0
-President 0
-Trump 0
-succumbed 0
-to 0
-the 0
-pressure 0
-and 0
-issued 0
-an 0
-executive 0
-order 0
-on 0
-Friday 0
-that 0
-authorizes 0
-another 0
-FBI 0
-background 0
-check 0
-into 0
-Kavanaugh. 0
+Thought 0 379 1
+Judge 0 379 1
+Brett 0 379 1
+Kavanaugh 0 379 1
+has 0 379 1
+been 0 379 1
+through 0 379 1
+at 0 379 1
+least 0 379 1
+6 0 379 1
+FBI 0 379 1
+background 0 379 1
+checks, 0 379 1
+because 0 379 1
+of 0 379 1
+Senate 0 379 1
+Democrat 0 379 1
+temper 1 379 1
+tantrums 1 379 1
+and 0 379 1
+RINO 0 379 1
+Republican 0 379 1
+Senator 0 379 1
+Jeff 0 379 1
+Flake's 0 379 1
+desire 0 379 1
+to 0 379 1
+have 0 379 1
+another 0 379 1
+FBI 0 379 1
+investigation 0 379 1
+into 0 379 1
+allegations 0 379 1
+of 0 379 1
+sexual 0 379 1
+misconduct 0 379 1
+by 0 379 1
+Kavanaugh 0 379 1
+with 0 379 1
+zero 0 379 1
+evidence, 0 379 1
+President 0 379 1
+Trump 0 379 1
+succumbed 0 379 1
+to 0 379 1
+the 0 379 1
+pressure 0 379 1
+and 0 379 1
+issued 0 379 1
+an 0 379 1
+executive 0 379 1
+order 0 379 1
+on 0 379 1
+Friday 0 379 1
+that 0 379 1
+authorizes 0 379 1
+another 0 379 1
+FBI 0 379 1
+background 0 379 1
+check 0 379 1
+into 0 379 1
+Kavanaugh. 0 379 1
 
-“I’ve 0
-ordered 0
-the 0
-FBI 0
-to 0
-conduct 0
-a 0
-supplemental 0
-investigation 0
-to 0
-update 0
-Judge 0
-Kavanaugh’s 0
-file. 0
+“I’ve 0 379 2
+ordered 0 379 2
+the 0 379 2
+FBI 0 379 2
+to 0 379 2
+conduct 0 379 2
+a 0 379 2
+supplemental 0 379 2
+investigation 0 379 2
+to 0 379 2
+update 0 379 2
+Judge 0 379 2
+Kavanaugh’s 0 379 2
+file. 0 379 2
 
-As 0
-the 0
-Senate 0
-has 0
-requested, 0
-this 0
-update 0
-must 0
-be 0
-limited 0
-in 0
-scope 0
-and 0
-completed 0
-in 0
-less 0
-than 0
-one 0
-week,” 0
-the 0
-president 0
-said 0
-in 0
-a 0
-statement. 0
+As 0 379 3
+the 0 379 3
+Senate 0 379 3
+has 0 379 3
+requested, 0 379 3
+this 0 379 3
+update 0 379 3
+must 0 379 3
+be 0 379 3
+limited 0 379 3
+in 0 379 3
+scope 0 379 3
+and 0 379 3
+completed 0 379 3
+in 0 379 3
+less 0 379 3
+than 0 379 3
+one 0 379 3
+week,” 0 379 3
+the 0 379 3
+president 0 379 3
+said 0 379 3
+in 0 379 3
+a 0 379 3
+statement. 0 379 3
 
-The 0
-scope 0
-and 0
-one-week 0
-limitations 0
-were 0
-what 0
-Senator 0
-Jeff 0
-Flake 0
-proposed 0
-just 0
-prior 0
-to 0
-the 0
-vote 0
-that 0
-passed 0
-the 0
-Kavanaugh 0
-nomination 0
-out 0
-of 0
-committee 0
-and 0
-to 0
-the 0
-Senate 0
-for 0
-a 0
-vote 0
-on 0
-his 0
-confirmation. 0
+The 0 379 4
+scope 0 379 4
+and 0 379 4
+one-week 0 379 4
+limitations 0 379 4
+were 0 379 4
+what 0 379 4
+Senator 0 379 4
+Jeff 0 379 4
+Flake 0 379 4
+proposed 0 379 4
+just 0 379 4
+prior 0 379 4
+to 0 379 4
+the 0 379 4
+vote 0 379 4
+that 0 379 4
+passed 0 379 4
+the 0 379 4
+Kavanaugh 0 379 4
+nomination 0 379 4
+out 0 379 4
+of 0 379 4
+committee 0 379 4
+and 0 379 4
+to 0 379 4
+the 0 379 4
+Senate 0 379 4
+for 0 379 4
+a 0 379 4
+vote 0 379 4
+on 0 379 4
+his 0 379 4
+confirmation. 0 379 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 379 5
+our 0 379 5
+poll 0 379 5
+- 0 379 5
+story 0 379 5
+continues 0 379 5
+below 0 379 5
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 379 6
+should 0 379 6
+replace 0 379 6
+Nikki 0 379 6
+Haley 0 379 6
+as 0 379 6
+our 0 379 6
+ambassador 0 379 6
+to 0 379 6
+the 0 379 6
+U.N.? 0 379 6
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 379 7
+should 0 379 7
+replace 0 379 7
+Nikki 0 379 7
+Haley 0 379 7
+as 0 379 7
+our 0 379 7
+ambassador 0 379 7
+to 0 379 7
+the 0 379 7
+U.N.? 0 379 7
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 379 8
+should 0 379 8
+replace 0 379 8
+Nikki 0 379 8
+Haley 0 379 8
+as 0 379 8
+our 0 379 8
+ambassador 0 379 8
+to 0 379 8
+the 0 379 8
+U.N.? 0 379 8
 
-* 0
-John 0
-Bolton 0
-Richard 0
-Grenell 0
-Dina 0
-Powell 0
-Heather 0
-Nauert 0
-Ivanka 0
-Trump 0
+* 0 379 9
+John 0 379 9
+Bolton 0 379 9
+Richard 0 379 9
+Grenell 0 379 9
+Dina 0 379 9
+Powell 0 379 9
+Heather 0 379 9
+Nauert 0 379 9
+Ivanka 0 379 9
+Trump 0 379 9
 
-Email 0
-* 0
+Email 0 379 10
+* 0 379 10
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 379 11
+This 0 379 11
+field 0 379 11
+is 0 379 11
+for 0 379 11
+validation 0 379 11
+purposes 0 379 11
+and 0 379 11
+should 0 379 11
+be 0 379 11
+left 0 379 11
+unchanged. 0 379 11
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 379 12
+this 0 379 12
+poll 0 379 12
+grants 0 379 12
+you 0 379 12
+access 0 379 12
+to 0 379 12
+Freedom 0 379 12
+Outpost 0 379 12
+updates 0 379 12
+free 0 379 12
+of 0 379 12
+charge. 0 379 12
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 379 13
+may 0 379 13
+opt 0 379 13
+out 0 379 13
+at 0 379 13
+anytime. 0 379 13
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 379 14
+also 0 379 14
+agree 0 379 14
+to 0 379 14
+this 0 379 14
+site's 0 379 14
+Privacy 0 379 14
+Policy 0 379 14
+and 0 379 14
+Terms 0 379 14
+of 0 379 14
+Use. 0 379 14
 
-The 0
-statement 0
-came 0
-just 0
-a 0
-day 0
-after 0
-Senate 0
-Democrats 0
-continued 0
-their 0
-smear 1
-of 0
-Kavanaugh 0
-by 0
-declaring 0
-they 0
-believed 0
-Dr. 0
-Christine 0
-Ford's 0
-allegations 0
-against 0
-him 0
-while 0
-at 0
-the 0
-same 0
-time 0
-obviously 0
-not 0
-believing 0
-his 0
-denial 0
-of 0
-the 0
-allegations. 0
+The 0 379 15
+statement 0 379 15
+came 0 379 15
+just 0 379 15
+a 0 379 15
+day 0 379 15
+after 0 379 15
+Senate 0 379 15
+Democrats 0 379 15
+continued 0 379 15
+their 0 379 15
+smear 1 379 15
+of 0 379 15
+Kavanaugh 0 379 15
+by 0 379 15
+declaring 0 379 15
+they 0 379 15
+believed 0 379 15
+Dr. 0 379 15
+Christine 0 379 15
+Ford's 0 379 15
+allegations 0 379 15
+against 0 379 15
+him 0 379 15
+while 0 379 15
+at 0 379 15
+the 0 379 15
+same 0 379 15
+time 0 379 15
+obviously 0 379 15
+not 0 379 15
+believing 0 379 15
+his 0 379 15
+denial 0 379 15
+of 0 379 15
+the 0 379 15
+allegations. 0 379 15
 
-On 0
-top 0
-of 0
-that, 0
-there 0
-has 0
-been 0
-zero 0
-evidence 0
-submitted 0
-to 0
-the 0
-committee 0
-that 0
-Ford's 0
-allegations 0
-are 0
-true. 0
+On 0 379 16
+top 0 379 16
+of 0 379 16
+that, 0 379 16
+there 0 379 16
+has 0 379 16
+been 0 379 16
+zero 0 379 16
+evidence 0 379 16
+submitted 0 379 16
+to 0 379 16
+the 0 379 16
+committee 0 379 16
+that 0 379 16
+Ford's 0 379 16
+allegations 0 379 16
+are 0 379 16
+true. 0 379 16
 
-In 0
-fact, 0
-everything 0
-submitted 0
-has 0
-refuted 0
-her 0
-claims, 0
-from 0
-sworn 0
-statements 0
-by 0
-those 0
-she 0
-claims 0
-were 0
-there 0
-to 0
-Kavanaugh's 0
-calendar 0
-to 0
-character 0
-statements 0
-by 0
-dozens 0
-of 0
-women 0
-who 0
-have 0
-known 0
-him 0
-since 0
-high 0
-school 0
-to 0
-those 0
-he 0
-has 0
-worked 0
-with 0
-in 0
-DC. 0
+In 0 379 17
+fact, 0 379 17
+everything 0 379 17
+submitted 0 379 17
+has 0 379 17
+refuted 0 379 17
+her 0 379 17
+claims, 0 379 17
+from 0 379 17
+sworn 0 379 17
+statements 0 379 17
+by 0 379 17
+those 0 379 17
+she 0 379 17
+claims 0 379 17
+were 0 379 17
+there 0 379 17
+to 0 379 17
+Kavanaugh's 0 379 17
+calendar 0 379 17
+to 0 379 17
+character 0 379 17
+statements 0 379 17
+by 0 379 17
+dozens 0 379 17
+of 0 379 17
+women 0 379 17
+who 0 379 17
+have 0 379 17
+known 0 379 17
+him 0 379 17
+since 0 379 17
+high 0 379 17
+school 0 379 17
+to 0 379 17
+those 0 379 17
+he 0 379 17
+has 0 379 17
+worked 0 379 17
+with 0 379 17
+in 0 379 17
+DC. 0 379 17
 
-All 0
-of 0
-the 0
-people 0
-named 0
-by 0
-Ford 0
-have 0
-already 0
-submitted 0
-statements 0
-that 0
-they 0
-have 0
-no 0
-memory 0
-of 0
-the 0
-event 0
-ever 0
-occurring, 0
-including 0
-a 0
-female 0
-friend 0
-of 0
-hers 0
-at 0
-the 0
-time. 0
+All 0 379 18
+of 0 379 18
+the 0 379 18
+people 0 379 18
+named 0 379 18
+by 0 379 18
+Ford 0 379 18
+have 0 379 18
+already 0 379 18
+submitted 0 379 18
+statements 0 379 18
+that 0 379 18
+they 0 379 18
+have 0 379 18
+no 0 379 18
+memory 0 379 18
+of 0 379 18
+the 0 379 18
+event 0 379 18
+ever 0 379 18
+occurring, 0 379 18
+including 0 379 18
+a 0 379 18
+female 0 379 18
+friend 0 379 18
+of 0 379 18
+hers 0 379 18
+at 0 379 18
+the 0 379 18
+time. 0 379 18
 
-Two 0
-of 0
-those 0
-named 0
-have 0
-stated 0
-that 0
-they 0
-will 0
-cooperate 0
-with 0
-the 0
-FBI. 0
+Two 0 379 19
+of 0 379 19
+those 0 379 19
+named 0 379 19
+have 0 379 19
+stated 0 379 19
+that 0 379 19
+they 0 379 19
+will 0 379 19
+cooperate 0 379 19
+with 0 379 19
+the 0 379 19
+FBI. 0 379 19
 
-“I 0
-will 0
-cooperate 0
-with 0
-any 0
-law 0
-enforcement 0
-agency 0
-that 0
-is 0
-assigned 0
-to 0
-confidentially 0
-investigate 0
-these 0
-allegations,” 0
-Kavanaugh 0
-friend 0
-Mark 0
-Judge 0
-said. 0
+“I 0 379 20
+will 0 379 20
+cooperate 0 379 20
+with 0 379 20
+any 0 379 20
+law 0 379 20
+enforcement 0 379 20
+agency 0 379 20
+that 0 379 20
+is 0 379 20
+assigned 0 379 20
+to 0 379 20
+confidentially 0 379 20
+investigate 0 379 20
+these 0 379 20
+allegations,” 0 379 20
+Kavanaugh 0 379 20
+friend 0 379 20
+Mark 0 379 20
+Judge 0 379 20
+said. 0 379 20
 
-“My 0
-client, 0
-Patrick 0
-J. 0
-Smyth, 0
-is 0
-happy 0
-to 0
-cooperate 0
-fully 0
-with 0
-this 0
-FBI 0
-investigation,” 0
-said 0
-attorney 0
-Eric 0
-B. 0
-Bruce. 0
+“My 0 379 21
+client, 0 379 21
+Patrick 0 379 21
+J. 0 379 21
+Smyth, 0 379 21
+is 0 379 21
+happy 0 379 21
+to 0 379 21
+cooperate 0 379 21
+fully 0 379 21
+with 0 379 21
+this 0 379 21
+FBI 0 379 21
+investigation,” 0 379 21
+said 0 379 21
+attorney 0 379 21
+Eric 0 379 21
+B. 0 379 21
+Bruce. 0 379 21
 
-Kavanaugh 0
-also 0
-said 0
-he 0
-would 0
-be 0
-cooperating 0
-as 0
-he 0
-has 0
-in 0
-the 0
-past. 0
+Kavanaugh 0 379 22
+also 0 379 22
+said 0 379 22
+he 0 379 22
+would 0 379 22
+be 0 379 22
+cooperating 0 379 22
+as 0 379 22
+he 0 379 22
+has 0 379 22
+in 0 379 22
+the 0 379 22
+past. 0 379 22
 
-“Throughout 0
-this 0
-process, 0
-I’ve 0
-been 0
-interviewed 0
-by 0
-the 0
-FBI, 0
-I’ve 0
-done 0
-a 0
-number 0
-of 0
-‘background’ 0
-calls 0
-directly 0
-with 0
-the 0
-Senate, 0
-and 0
-yesterday, 0
-I 0
-answered 0
-questions 0
-under 0
-oath 0
-about 0
-every 0
-topic 0
-the 0
-Senators 0
-and 0
-their 0
-counsel 0
-asked 0
-me," 0
-Kavanaugh 0
-said 0
-in 0
-a 0
-statement 0
-that 0
-was 0
-released 0
-by 0
-the 0
-White 0
-House. 0
+“Throughout 0 379 23
+this 0 379 23
+process, 0 379 23
+I’ve 0 379 23
+been 0 379 23
+interviewed 0 379 23
+by 0 379 23
+the 0 379 23
+FBI, 0 379 23
+I’ve 0 379 23
+done 0 379 23
+a 0 379 23
+number 0 379 23
+of 0 379 23
+‘background’ 0 379 23
+calls 0 379 23
+directly 0 379 23
+with 0 379 23
+the 0 379 23
+Senate, 0 379 23
+and 0 379 23
+yesterday, 0 379 23
+I 0 379 23
+answered 0 379 23
+questions 0 379 23
+under 0 379 23
+oath 0 379 23
+about 0 379 23
+every 0 379 23
+topic 0 379 23
+the 0 379 23
+Senators 0 379 23
+and 0 379 23
+their 0 379 23
+counsel 0 379 23
+asked 0 379 23
+me," 0 379 23
+Kavanaugh 0 379 23
+said 0 379 23
+in 0 379 23
+a 0 379 23
+statement 0 379 23
+that 0 379 23
+was 0 379 23
+released 0 379 23
+by 0 379 23
+the 0 379 23
+White 0 379 23
+House. 0 379 23
 
-"I’ve 0
-done 0
-everything 0
-they 0
-have 0
-requested 0
-and 0
-will 0
-continue 0
-to 0
-cooperate." 0
+"I’ve 0 379 24
+done 0 379 24
+everything 0 379 24
+they 0 379 24
+have 0 379 24
+requested 0 379 24
+and 0 379 24
+will 0 379 24
+continue 0 379 24
+to 0 379 24
+cooperate." 0 379 24
 
-Well, 0
-Senator 0
-Flake 0
-has 0
-given 0
-the 0
-Democrats 0
-what 0
-they 0
-wanted 0
-and 0
-you 0
-can 0
-bet 0
-that 0
-they 0
-are 0
-still 0
-going 0
-to 0
-vote 0
-pretty 0
-much 0
-on 0
-party 0
-lines 0
-concerning 0
-Kavanaugh. 0
+Well, 0 379 25
+Senator 0 379 25
+Flake 0 379 25
+has 0 379 25
+given 0 379 25
+the 0 379 25
+Democrats 0 379 25
+what 0 379 25
+they 0 379 25
+wanted 0 379 25
+and 0 379 25
+you 0 379 25
+can 0 379 25
+bet 0 379 25
+that 0 379 25
+they 0 379 25
+are 0 379 25
+still 0 379 25
+going 0 379 25
+to 0 379 25
+vote 0 379 25
+pretty 0 379 25
+much 0 379 25
+on 0 379 25
+party 0 379 25
+lines 0 379 25
+concerning 0 379 25
+Kavanaugh. 0 379 25
 
-Now, 0
-President 0
-Trump 0
-has 0
-gone 0
-along 0
-with 0
-it. 0
+Now, 0 379 26
+President 0 379 26
+Trump 0 379 26
+has 0 379 26
+gone 0 379 26
+along 0 379 26
+with 0 379 26
+it. 0 379 26
 
-My 0
-guess 0
-is 0
-that 0
-one 0
-of 0
-two 0
-things 0
-will 0
-occur 0
-with 0
-the 0
-FBI 0
-investigation: 0
-(1) 0
-Absolutely 1
-nothing 1
-will 1
-be 1
-found, 1
-and 0
-this 0
-will 0
-have 0
-been 0
-a 0
-huge 1
-waste 1
-of 1
-time 1
-or 0
-(2) 0
-look 0
-for 0
-this 0
-thing 0
-to 0
-expand 0
-and 0
-the 0
-need 0
-will 0
-arise 0
-to 0
-make 0
-this 0
-more 1
-of 1
-a 1
-circus 1
-than 1
-it 1
-already 1
-is, 1
-which 0
-will 0
-dwarf 0
-anything 0
-Clarence 0
-Thomas 0
-had 0
-to 0
-face 0
-from 0
-the 0
-slanderous 1
-accusations 0
-of 0
-Anita 0
-Hill. 0
+My 0 379 27
+guess 0 379 27
+is 0 379 27
+that 0 379 27
+one 0 379 27
+of 0 379 27
+two 0 379 27
+things 0 379 27
+will 0 379 27
+occur 0 379 27
+with 0 379 27
+the 0 379 27
+FBI 0 379 27
+investigation: 0 379 27
+(1) 0 379 27
+Absolutely 1 379 27
+nothing 1 379 27
+will 1 379 27
+be 1 379 27
+found, 1 379 27
+and 0 379 27
+this 0 379 27
+will 0 379 27
+have 0 379 27
+been 0 379 27
+a 0 379 27
+huge 1 379 27
+waste 1 379 27
+of 1 379 27
+time 1 379 27
+or 0 379 27
+(2) 0 379 27
+look 0 379 27
+for 0 379 27
+this 0 379 27
+thing 0 379 27
+to 0 379 27
+expand 0 379 27
+and 0 379 27
+the 0 379 27
+need 0 379 27
+will 0 379 27
+arise 0 379 27
+to 0 379 27
+make 0 379 27
+this 0 379 27
+more 1 379 27
+of 1 379 27
+a 1 379 27
+circus 1 379 27
+than 1 379 27
+it 1 379 27
+already 1 379 27
+is, 1 379 27
+which 0 379 27
+will 0 379 27
+dwarf 0 379 27
+anything 0 379 27
+Clarence 0 379 27
+Thomas 0 379 27
+had 0 379 27
+to 0 379 27
+face 0 379 27
+from 0 379 27
+the 0 379 27
+slanderous 1 379 27
+accusations 0 379 27
+of 0 379 27
+Anita 0 379 27
+Hill. 0 379 27
 
-Remember, 0
-whether 0
-you 0
-like 0
-Judge 0
-Kavanaugh 0
-or 0
-not, 0
-this 0
-has 0
-been 0
-nothing 0
-but 0
-a 0
-political 1
-hit. 1
+Remember, 0 379 27
+
+whether 0 379 27
+
+you 0 379 27
+
+like 0 379 27
+
+Judge 0 379 27
+
+Kavanaugh 0 379 27
+
+or 0 379 27
+
+not, 0 379 27
+
+this 0 379 27
+
+has 0 379 27
+
+been 0 379 27
+
+nothing 0 379 27
+
+but 0 379 27
+
+a 0 379 27
+
+political 1 379 27
+
+hit. 1 379 27

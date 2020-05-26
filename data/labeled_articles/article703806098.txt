@@ -1,488 +1,530 @@
-There 0
-Were 0
-“Active 0
-Shooters 0
-On 0
-The 0
-Runway” 0
-Bombshell 0
-Air 0
-Traffic 0
-Control 0
-Audio 0
-From 0
-The 0
-Night 0
-Of 0
-The 0
-Las 0
-Vegas 0
-Massacre 0
-Reveals 0
+There 0 53 0
+Were 0 53 0
+“Active 0 53 0
+Shooters 0 53 0
+On 0 53 0
+The 0 53 0
+Runway” 0 53 0
+Bombshell 0 53 0
+Air 0 53 0
+Traffic 0 53 0
+Control 0 53 0
+Audio 0 53 0
+From 0 53 0
+The 0 53 0
+Night 0 53 0
+Of 0 53 0
+The 0 53 0
+Las 0 53 0
+Vegas 0 53 0
+Massacre 0 53 0
+Reveals 0 53 0
 
-In 0
-yet 0
-another 0
-striking 1
-example 1
-of 0
-a 0
-widespread 1
-cover-up 1
-currently 0
-underway 0
-regarding 0
-the 0
-worst 0
-mass 0
-shooting 0
-in 0
-American 0
-history, 0
-new 0
-air 0
-traffic 0
-control 0
-audio 0
-has 0
-been 0
-released 0
-that 0
-details 0
-the 0
-fact 0
-that 0
-there 0
-were 0
-multiple 0
-active 0
-shooters 0
-on 0
-the 0
-airports 0
-property 0
-which 0
-is 0
-extremely 0
-close 0
-to 0
-the 0
-venue 0
-where 0
-at 0
-least 0
-part 0
-of 0
-the 0
-attack 0
-took 0
-place. 0
+In 0 53 1
+yet 0 53 1
+another 0 53 1
+striking 1 53 1
+example 1 53 1
+of 0 53 1
+a 0 53 1
+widespread 1 53 1
+cover-up 1 53 1
+currently 0 53 1
+underway 0 53 1
+regarding 0 53 1
+the 0 53 1
+worst 0 53 1
+mass 0 53 1
+shooting 0 53 1
+in 0 53 1
+American 0 53 1
+history, 0 53 1
+new 0 53 1
+air 0 53 1
+traffic 0 53 1
+control 0 53 1
+audio 0 53 1
+has 0 53 1
+been 0 53 1
+released 0 53 1
+that 0 53 1
+details 0 53 1
+the 0 53 1
+fact 0 53 1
+that 0 53 1
+there 0 53 1
+were 0 53 1
+multiple 0 53 1
+active 0 53 1
+shooters 0 53 1
+on 0 53 1
+the 0 53 1
+airports 0 53 1
+property 0 53 1
+which 0 53 1
+is 0 53 1
+extremely 0 53 1
+close 0 53 1
+to 0 53 1
+the 0 53 1
+venue 0 53 1
+where 0 53 1
+at 0 53 1
+least 0 53 1
+part 0 53 1
+of 0 53 1
+the 0 53 1
+attack 0 53 1
+took 0 53 1
+place. 0 53 1
 
-The 0
-audio 0
-recordings, 0
-taken 0
-from 0
-the 0
-night 0
-of 0
-the 0
-October 0
-1st 0
-massacre 0
-that 0
-left 0
-58 0
-dead 0
-and 0
-over 0
-500 0
-injured, 0
-are 0
-further 0
-proof 0
-that 0
-multiple 0
-shooters 0
-were 0
-used 0
-throughout 0
-the 0
-area, 0
-a 0
-fact 0
-that 0
-directly 0
-contradicts 0
-the 0
-official 0
-story. 0
+The 0 53 2
+audio 0 53 2
+recordings, 0 53 2
+taken 0 53 2
+from 0 53 2
+the 0 53 2
+night 0 53 2
+of 0 53 2
+the 0 53 2
+October 0 53 2
+1st 0 53 2
+massacre 0 53 2
+that 0 53 2
+left 0 53 2
+58 0 53 2
+dead 0 53 2
+and 0 53 2
+over 0 53 2
+500 0 53 2
+injured, 0 53 2
+are 0 53 2
+further 0 53 2
+proof 0 53 2
+that 0 53 2
+multiple 0 53 2
+shooters 0 53 2
+were 0 53 2
+used 0 53 2
+throughout 0 53 2
+the 0 53 2
+area, 0 53 2
+a 0 53 2
+fact 0 53 2
+that 0 53 2
+directly 0 53 2
+contradicts 0 53 2
+the 0 53 2
+official 0 53 2
+story. 0 53 2
 
-During 0
-the 0
-air 0
-traffic 0
-control 0
-recordings, 0
-which 0
-were 0
-released 0
-by 0
-political 0
-strategist 0
-and 0
-co-founder 0
-of 0
-“The 0
-New 0
-Right” 0
-Mike 0
-Tokes, 0
-one 0
-of 0
-the 0
-dispatchers 0
-is 0
-heard 0
-telling 0
-an 0
-incoming 0
-plane 0
-that 0
-landing 0
-might 0
-not 0
-be 0
-a 0
-good 0
-idea 0
-because 0
-there 0
-were 0
-multiple 0
-active 0
-shooters 0
-on 0
-the 0
-airport 0
-property 0
-itself. 0
+During 0 53 3
+the 0 53 3
+air 0 53 3
+traffic 0 53 3
+control 0 53 3
+recordings, 0 53 3
+which 0 53 3
+were 0 53 3
+released 0 53 3
+by 0 53 3
+political 0 53 3
+strategist 0 53 3
+and 0 53 3
+co-founder 0 53 3
+of 0 53 3
+“The 0 53 3
+New 0 53 3
+Right” 0 53 3
+Mike 0 53 3
+Tokes, 0 53 3
+one 0 53 3
+of 0 53 3
+the 0 53 3
+dispatchers 0 53 3
+is 0 53 3
+heard 0 53 3
+telling 0 53 3
+an 0 53 3
+incoming 0 53 3
+plane 0 53 3
+that 0 53 3
+landing 0 53 3
+might 0 53 3
+not 0 53 3
+be 0 53 3
+a 0 53 3
+good 0 53 3
+idea 0 53 3
+because 0 53 3
+there 0 53 3
+were 0 53 3
+multiple 0 53 3
+active 0 53 3
+shooters 0 53 3
+on 0 53 3
+the 0 53 3
+airport 0 53 3
+property 0 53 3
+itself. 0 53 3
 
-“Shutting 0
-down 0
-might 0
-not 0
-be 0
-a 0
-good 0
-idea, 0
-there’s 0
-active 0
-shooters 0
-on 0
-the 0
-runway,” 0
-he 0
-declared. 0
+“Shutting 0 53 4
+down 0 53 4
+might 0 53 4
+not 0 53 4
+be 0 53 4
+a 0 53 4
+good 0 53 4
+idea, 0 53 4
+there’s 0 53 4
+active 0 53 4
+shooters 0 53 4
+on 0 53 4
+the 0 53 4
+runway,” 0 53 4
+he 0 53 4
+declared. 0 53 4
 
-“The 0
-19s 0
-are 0
-closed, 0
-we 0
-are 0
-in 0
-the 0
-process 0
-of 0
-trying 0
-to 0
-round 0
-them 0
-up, 0
-they 0
-are 0
-on 0
-the 0
-airport 0
-property.” 0
+“The 0 53 5
+19s 0 53 5
+are 0 53 5
+closed, 0 53 5
+we 0 53 5
+are 0 53 5
+in 0 53 5
+the 0 53 5
+process 0 53 5
+of 0 53 5
+trying 0 53 5
+to 0 53 5
+round 0 53 5
+them 0 53 5
+up, 0 53 5
+they 0 53 5
+are 0 53 5
+on 0 53 5
+the 0 53 5
+airport 0 53 5
+property.” 0 53 5
 
-Air 0
-traffic 0
-control 0
-tapes 0
-on 0
-the 0
-night 0
-of 0
-the 0
-Las 0
-Vegas 0
-shooting: 0
-“There’s 0
-active 0
-shooters 0
-on 0
-the 0
-runway. 0
+Air 0 53 6
+traffic 0 53 6
+control 0 53 6
+tapes 0 53 6
+on 0 53 6
+the 0 53 6
+night 0 53 6
+of 0 53 6
+the 0 53 6
+Las 0 53 6
+Vegas 0 53 6
+shooting: 0 53 6
+“There’s 0 53 6
+active 0 53 6
+shooters 0 53 6
+on 0 53 6
+the 0 53 6
+runway. 0 53 6
 
-They’re 0
-on 0
-the 0
-airport 0
-property” 0
-pic.twitter.com/HZf3LBeAgk 0
-— 0
-Mike 0
-Tokes 0
-(@MikeTokes) 0
-October 0
-29, 0
-2017 0
+They’re 0 53 7
+on 0 53 7
+the 0 53 7
+airport 0 53 7
+property” 0 53 7
+pic.twitter.com/HZf3LBeAgk 0 53 7
+— 0 53 7
+Mike 0 53 7
+Tokes 0 53 7
+(@MikeTokes) 0 53 7
+October 0 53 7
+29, 0 53 7
+2017 0 53 7
 
-This 0
-stunning 1
-tower 1
-audio 1
-once 0
-again 0
-provides 0
-proof 0
-that 0
-the 0
-entire 0
-narrative 0
-that 0
-claims 0
-that 0
-Stephen 0
-Paddock 0
-operated 0
-alone 0
-from 0
-the 0
-32nd 0
-floor 0
-of 0
-the 0
-Mandalay 0
-Bay 0
-Hotel 0
-is 0
-complete 1
-nonsense 1
-and 0
-that 0
-authorities 1
-are 1
-actually 1
-actively 1
-covering 1
-up 1
-what 1
-really 1
-happened 1
-on 0
-that 0
-fateful 0
-night. 0
+This 0 53 8
+stunning 1 53 8
+tower 1 53 8
+audio 1 53 8
+once 0 53 8
+again 0 53 8
+provides 0 53 8
+proof 0 53 8
+that 0 53 8
+the 0 53 8
+entire 0 53 8
+narrative 0 53 8
+that 0 53 8
+claims 0 53 8
+that 0 53 8
+Stephen 0 53 8
+Paddock 0 53 8
+operated 0 53 8
+alone 0 53 8
+from 0 53 8
+the 0 53 8
+32nd 0 53 8
+floor 0 53 8
+of 0 53 8
+the 0 53 8
+Mandalay 0 53 8
+Bay 0 53 8
+Hotel 0 53 8
+is 0 53 8
+complete 1 53 8
+nonsense 1 53 8
+and 0 53 8
+that 0 53 8
+authorities 1 53 8
+are 1 53 8
+actually 1 53 8
+actively 1 53 8
+covering 1 53 8
+up 1 53 8
+what 1 53 8
+really 1 53 8
+happened 1 53 8
+on 0 53 8
+that 0 53 8
+fateful 0 53 8
+night. 0 53 8
 
-While 0
-there 0
-have 0
-been 0
-countless 0
-stories 0
-since 0
-the 0
-attack 0
-that 0
-raise 0
-the 0
-very 0
-real 0
-possibility 0
-that 0
-this 0
-was 0
-a 0
-false 0
-flag, 0
-one 0
-has 0
-stood 0
-out 0
-due 0
-to 0
-the 0
-fact 0
-that 0
-the 0
-person 0
-who 0
-released 0
-the 0
-information 0
-died 0
-shortly 0
-after. 0
+While 0 53 9
+there 0 53 9
+have 0 53 9
+been 0 53 9
+countless 0 53 9
+stories 0 53 9
+since 0 53 9
+the 0 53 9
+attack 0 53 9
+that 0 53 9
+raise 0 53 9
+the 0 53 9
+very 0 53 9
+real 0 53 9
+possibility 0 53 9
+that 0 53 9
+this 0 53 9
+was 0 53 9
+a 0 53 9
+false 0 53 9
+flag, 0 53 9
+one 0 53 9
+has 0 53 9
+stood 0 53 9
+out 0 53 9
+due 0 53 9
+to 0 53 9
+the 0 53 9
+fact 0 53 9
+that 0 53 9
+the 0 53 9
+person 0 53 9
+who 0 53 9
+released 0 53 9
+the 0 53 9
+information 0 53 9
+died 0 53 9
+shortly 0 53 9
+after. 0 53 9
 
-As 0
-Shepard 0
-Ambellas 0
-reported 0
-in 0
-a 0
-now 0
-viral 0
-article, 0
-“Kymberley 0
-Suchomel, 0
-who 0
-posted 0
-her 0
-eyewitness 0
-account 0
-of 0
-the 0
-Las 0
-Vegas 0
-massacre 0
-in 0
-astonishingly 0
-vivid 0
-detail 0
-to 0
-her 0
-Facebook 0
-page 0
-on 0
-Oct. 0
-4, 0
-subsequently 0
-passed 0
-away 0
-in 0
-her 0
-home 0
-on 0
-Oct. 0
-9 0
-from 0
-what 0
-reports 0
-are 0
-claiming 0
-are 0
-natural 0
-causes.” 0
+As 0 53 10
+Shepard 0 53 10
+Ambellas 0 53 10
+reported 0 53 10
+in 0 53 10
+a 0 53 10
+now 0 53 10
+viral 0 53 10
+article, 0 53 10
+“Kymberley 0 53 10
+Suchomel, 0 53 10
+who 0 53 10
+posted 0 53 10
+her 0 53 10
+eyewitness 0 53 10
+account 0 53 10
+of 0 53 10
+the 0 53 10
+Las 0 53 10
+Vegas 0 53 10
+massacre 0 53 10
+in 0 53 10
+astonishingly 0 53 10
+vivid 0 53 10
+detail 0 53 10
+to 0 53 10
+her 0 53 10
+Facebook 0 53 10
+page 0 53 10
+on 0 53 10
+Oct. 0 53 10
+4, 0 53 10
+subsequently 0 53 10
+passed 0 53 10
+away 0 53 10
+in 0 53 10
+her 0 53 10
+home 0 53 10
+on 0 53 10
+Oct. 0 53 10
+9 0 53 10
+from 0 53 10
+what 0 53 10
+reports 0 53 10
+are 0 53 10
+claiming 0 53 10
+are 0 53 10
+natural 0 53 10
+causes.” 0 53 10
 
-“Shockingly, 0
-just 0
-days 0
-before 0
-her 0
-death, 0
-Suchomel 0
-posted 0
-key 0
-details 0
-about 0
-the 0
-shooting 0
-to 0
-Facebook 0
-that 0
-contradicted 0
-the 0
-official 0
-narrative 0
-which 0
-claims 0
-that 0
-Stephen 0
-Paddock 0
-was 0
-the 0
-lone 0
-gunman.” 0
+“Shockingly, 0 53 11
+just 0 53 11
+days 0 53 11
+before 0 53 11
+her 0 53 11
+death, 0 53 11
+Suchomel 0 53 11
+posted 0 53 11
+key 0 53 11
+details 0 53 11
+about 0 53 11
+the 0 53 11
+shooting 0 53 11
+to 0 53 11
+Facebook 0 53 11
+that 0 53 11
+contradicted 0 53 11
+the 0 53 11
+official 0 53 11
+narrative 0 53 11
+which 0 53 11
+claims 0 53 11
+that 0 53 11
+Stephen 0 53 11
+Paddock 0 53 11
+was 0 53 11
+the 0 53 11
+lone 0 53 11
+gunman.” 0 53 11
 
-From 0
-dozens 0
-of 0
-eyewitness 0
-reports, 0
-including 0
-Suchomel’s, 0
-that 0
-clearly 0
-indicate 0
-the 0
-presence 0
-of 0
-multiple 0
-shooters, 0
-to 0
-the 0
-possibility 0
-of 0
-helicopters 0
-being 0
-used 0
-in 0
-the 0
-attack, 0
-the 1
-American 1
-people 1
-are 1
-clearly 1
-not 1
-being 1
-told 1
-the 1
-truth. 1
+From 0 53 12
+dozens 0 53 12
+of 0 53 12
+eyewitness 0 53 12
+reports, 0 53 12
+including 0 53 12
+Suchomel’s, 0 53 12
+that 0 53 12
+clearly 0 53 12
+indicate 0 53 12
+the 0 53 12
+presence 0 53 12
+of 0 53 12
+multiple 0 53 12
+shooters, 0 53 12
+to 0 53 12
+the 0 53 12
+possibility 0 53 12
+of 0 53 12
+helicopters 0 53 12
+being 0 53 12
+used 0 53 12
+in 0 53 12
+the 0 53 12
+attack, 0 53 12
+the 1 53 12
+American 1 53 12
+people 1 53 12
+are 1 53 12
+clearly 1 53 12
+not 1 53 12
+being 1 53 12
+told 1 53 12
+the 1 53 12
+truth. 1 53 12
 
-It 0
-is 0
-also 0
-important 0
-to 0
-keep 0
-in 0
-mind 0
-that 0
-multiple 0
-investigative 0
-reports 0
-conducted 0
-by 0
-other 0
-alternative 0
-media 0
-outlets 0
-have 0
-actually 0
-named 0
-government 0
-officials 0
-and 0
-private 0
-companies 0
-that 0
-may 0
-be 0
-behind 0
-the 0
-attack 0
-and 0
-so 0
-far 0
-there 0
-has 0
-been 0
-no 0
-official 0
-denial 0
-from 0
-either. 0
+It 0 53 12
+
+is 0 53 12
+
+also 0 53 12
+
+important 0 53 12
+
+to 0 53 12
+
+keep 0 53 12
+
+in 0 53 12
+
+mind 0 53 12
+
+that 0 53 12
+
+multiple 0 53 12
+
+investigative 0 53 12
+
+reports 0 53 12
+
+conducted 0 53 12
+
+by 0 53 12
+
+other 0 53 12
+
+alternative 0 53 12
+
+media 0 53 12
+
+outlets 0 53 12
+
+have 0 53 12
+
+actually 0 53 12
+
+named 0 53 12
+
+government 0 53 12
+
+officials 0 53 12
+
+and 0 53 12
+
+private 0 53 12
+
+companies 0 53 12
+
+that 0 53 12
+
+may 0 53 12
+
+be 0 53 12
+
+behind 0 53 12
+
+the 0 53 12
+
+attack 0 53 12
+
+and 0 53 12
+
+so 0 53 12
+
+far 0 53 12
+
+there 0 53 12
+
+has 0 53 12
+
+been 0 53 12
+
+no 0 53 12
+
+official 0 53 12
+
+denial 0 53 12
+
+from 0 53 12
+
+either. 0 53 12

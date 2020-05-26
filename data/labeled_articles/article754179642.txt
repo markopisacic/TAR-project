@@ -1,600 +1,618 @@
-New 0
-outbreak 0
-of 0
-Ebola 0
-kills 0
-17 0
-in 0
-northwest 0
-DR 0
-Congo 0
+New 0 208 0
+outbreak 0 208 0
+of 0 208 0
+Ebola 0 208 0
+kills 0 208 0
+17 0 208 0
+in 0 208 0
+northwest 0 208 0
+DR 0 208 0
+Congo 0 208 0
 
-Seventeen 0
-people 0
-in 0
-northwest 0
-Democratic 0
-Republic 0
-of 0
-Congo 0
-(DRC) 0
-have 0
-died 0
-from 0
-Ebola, 0
-the 0
-health 0
-ministry 0
-said 0
-on 0
-Tuesday, 0
-describing 0
-the 0
-fresh 0
-outbreak 0
-as 0
-a 0
-"public 1
-health 1
-emergency 1
-with 1
-international 1
-impact." 1
+Seventeen 0 208 1
+people 0 208 1
+in 0 208 1
+northwest 0 208 1
+Democratic 0 208 1
+Republic 0 208 1
+of 0 208 1
+Congo 0 208 1
+(DRC) 0 208 1
+have 0 208 1
+died 0 208 1
+from 0 208 1
+Ebola, 0 208 1
+the 0 208 1
+health 0 208 1
+ministry 0 208 1
+said 0 208 1
+on 0 208 1
+Tuesday, 0 208 1
+describing 0 208 1
+the 0 208 1
+fresh 0 208 1
+outbreak 0 208 1
+as 0 208 1
+a 0 208 1
+"public 1 208 1
+health 1 208 1
+emergency 1 208 1
+with 1 208 1
+international 1 208 1
+impact." 1 208 1
 
-"Twenty-one 0
-cases 0
-of 0
-fever 0
-with 0
-haemorrhagic 0
-indications 0
-and 0
-17 0
-deaths" 0
-have 0
-been 0
-recorded 0
-in 0
-Equateur 0
-province, 0
-it 0
-said, 0
-citing 0
-a 0
-notification 0
-to 0
-the 0
-ministry 0
-as 0
-of 0
-May 0
-3. 0
+"Twenty-one 0 208 2
+cases 0 208 2
+of 0 208 2
+fever 0 208 2
+with 0 208 2
+haemorrhagic 0 208 2
+indications 0 208 2
+and 0 208 2
+17 0 208 2
+deaths" 0 208 2
+have 0 208 2
+been 0 208 2
+recorded 0 208 2
+in 0 208 2
+Equateur 0 208 2
+province, 0 208 2
+it 0 208 2
+said, 0 208 2
+citing 0 208 2
+a 0 208 2
+notification 0 208 2
+to 0 208 2
+the 0 208 2
+ministry 0 208 2
+as 0 208 2
+of 0 208 2
+May 0 208 2
+3. 0 208 2
 
-It 0
-is 0
-the 0
-DRC's 0
-ninth 0
-known 0
-outbreak 0
-of 0
-Ebola 0
-since 0
-1976, 0
-when 0
-the 0
-deady 0
-viral 0
-disease 0
-was 0
-first 0
-identified 0
-in 0
-then-Zaire 0
-by 0
-a 0
-Belgian-led 0
-team. 0
+It 0 208 3
+is 0 208 3
+the 0 208 3
+DRC's 0 208 3
+ninth 0 208 3
+known 0 208 3
+outbreak 0 208 3
+of 0 208 3
+Ebola 0 208 3
+since 0 208 3
+1976, 0 208 3
+when 0 208 3
+the 0 208 3
+deady 0 208 3
+viral 0 208 3
+disease 0 208 3
+was 0 208 3
+first 0 208 3
+identified 0 208 3
+in 0 208 3
+then-Zaire 0 208 3
+by 0 208 3
+a 0 208 3
+Belgian-led 0 208 3
+team. 0 208 3
 
-In 0
-Geneva, 0
-the 0
-World 0
-Health 0
-Organization 0
-(WHO) 0
-said 0
-lab 0
-tests 0
-in 0
-the 0
-DRC 0
-confirmed 0
-the 0
-presence 0
-of 0
-Ebola 0
-virus 0
-in 0
-two 0
-out 0
-of 0
-five 0
-samples 0
-collected 0
-from 0
-patients. 0
+In 0 208 4
+Geneva, 0 208 4
+the 0 208 4
+World 0 208 4
+Health 0 208 4
+Organization 0 208 4
+(WHO) 0 208 4
+said 0 208 4
+lab 0 208 4
+tests 0 208 4
+in 0 208 4
+the 0 208 4
+DRC 0 208 4
+confirmed 0 208 4
+the 0 208 4
+presence 0 208 4
+of 0 208 4
+Ebola 0 208 4
+virus 0 208 4
+in 0 208 4
+two 0 208 4
+out 0 208 4
+of 0 208 4
+five 0 208 4
+samples 0 208 4
+collected 0 208 4
+from 0 208 4
+patients. 0 208 4
 
-"WHO 0
-is 0
-working 0
-closely 0
-with 0
-the 0
-government 0
-of 0
-the 0
-DRC 0
-to 0
-rapidly 0
-scale 0
-up 0
-its 0
-operations 0
-and 0
-mobilize 0
-health 0
-partners, 0
-using 0
-the 0
-model 0
-of 0
-a 0
-successful 0
-response 0
-to 0
-a 0
-similar... 0
-outbreak 0
-in 0
-2017," 0
-it 0
-said 0
-in 0
-a 0
-statement. 0
+"WHO 0 208 5
+is 0 208 5
+working 0 208 5
+closely 0 208 5
+with 0 208 5
+the 0 208 5
+government 0 208 5
+of 0 208 5
+the 0 208 5
+DRC 0 208 5
+to 0 208 5
+rapidly 0 208 5
+scale 0 208 5
+up 0 208 5
+its 0 208 5
+operations 0 208 5
+and 0 208 5
+mobilize 0 208 5
+health 0 208 5
+partners, 0 208 5
+using 0 208 5
+the 0 208 5
+model 0 208 5
+of 0 208 5
+a 0 208 5
+successful 0 208 5
+response 0 208 5
+to 0 208 5
+a 0 208 5
+similar... 0 208 5
+outbreak 0 208 5
+in 0 208 5
+2017," 0 208 5
+it 0 208 5
+said 0 208 5
+in 0 208 5
+a 0 208 5
+statement. 0 208 5
 
-It 0
-said 0
-it 0
-had 0
-released 0
-$1 0
-million 0
-(840,000 0
-euros) 0
-from 0
-an 0
-emergency 0
-contingency 0
-fund, 0
-set 0
-up 0
-a 0
-coordination 0
-group 0
-and 0
-deployed 0
-more 0
-than 0
-50 0
-experts 0
-to 0
-work 0
-with 0
-the 0
-DRC 0
-government 0
-and 0
-health 0
-agencies. 0
+It 0 208 6
+said 0 208 6
+it 0 208 6
+had 0 208 6
+released 0 208 6
+$1 0 208 6
+million 0 208 6
+(840,000 0 208 6
+euros) 0 208 6
+from 0 208 6
+an 0 208 6
+emergency 0 208 6
+contingency 0 208 6
+fund, 0 208 6
+set 0 208 6
+up 0 208 6
+a 0 208 6
+coordination 0 208 6
+group 0 208 6
+and 0 208 6
+deployed 0 208 6
+more 0 208 6
+than 0 208 6
+50 0 208 6
+experts 0 208 6
+to 0 208 6
+work 0 208 6
+with 0 208 6
+the 0 208 6
+DRC 0 208 6
+government 0 208 6
+and 0 208 6
+health 0 208 6
+agencies. 0 208 6
 
-"The 0
-action 0
-plan 0
-prepared 0
-by 0
-the 0
-health 0
-ministry 0
-has 0
-been 0
-approved," 0
-an 0
-official 0
-statement 0
-released 0
-after 0
-a 0
-cabinet 0
-meeting 0
-said. 0
+"The 0 208 7
+action 0 208 7
+plan 0 208 7
+prepared 0 208 7
+by 0 208 7
+the 0 208 7
+health 0 208 7
+ministry 0 208 7
+has 0 208 7
+been 0 208 7
+approved," 0 208 7
+an 0 208 7
+official 0 208 7
+statement 0 208 7
+released 0 208 7
+after 0 208 7
+a 0 208 7
+cabinet 0 208 7
+meeting 0 208 7
+said. 0 208 7
 
-- 0
-No 0
-new 0
-deaths 0
-- 0
+- 0 208 8
+No 0 208 8
+new 0 208 8
+deaths 0 208 8
+- 0 208 8
 
-"Since 0
-the 0
-notification 0
-of 0
-the 0
-cases 0
-on 0
-May 0
-3, 0
-no 0
-deaths 0
-have 0
-been 0
-reported," 0
-it 0
-said, 0
-without 0
-specifying 0
-when 0
-the 0
-first 0
-case 0
-came 0
-to 0
-light. 0
+"Since 0 208 9
+the 0 208 9
+notification 0 208 9
+of 0 208 9
+the 0 208 9
+cases 0 208 9
+on 0 208 9
+May 0 208 9
+3, 0 208 9
+no 0 208 9
+deaths 0 208 9
+have 0 208 9
+been 0 208 9
+reported," 0 208 9
+it 0 208 9
+said, 0 208 9
+without 0 208 9
+specifying 0 208 9
+when 0 208 9
+the 0 208 9
+first 0 208 9
+case 0 208 9
+came 0 208 9
+to 0 208 9
+light. 0 208 9
 
-The 0
-outbreak 0
-occurred 0
-in 0
-Bikoro, 0
-on 0
-the 0
-shores 0
-of 0
-Lake 0
-Tumba. 0
+The 0 208 10
+outbreak 0 208 10
+occurred 0 208 10
+in 0 208 10
+Bikoro, 0 208 10
+on 0 208 10
+the 0 208 10
+shores 0 208 10
+of 0 208 10
+Lake 0 208 10
+Tumba. 0 208 10
 
-All 0
-the 0
-cases 0
-were 0
-reported 0
-from 0
-a 0
-clinic 0
-at 0
-Ilkoko 0
-Iponge, 0
-located 0
-about 0
-30 0
-kilometres 0
-(20 0
-miles) 0
-from 0
-Bikoro, 0
-where 0
-treatment 0
-capacities 0
-are 0
-limited, 0
-the 0
-WHO 0
-said. 0
+All 0 208 11
+the 0 208 11
+cases 0 208 11
+were 0 208 11
+reported 0 208 11
+from 0 208 11
+a 0 208 11
+clinic 0 208 11
+at 0 208 11
+Ilkoko 0 208 11
+Iponge, 0 208 11
+located 0 208 11
+about 0 208 11
+30 0 208 11
+kilometres 0 208 11
+(20 0 208 11
+miles) 0 208 11
+from 0 208 11
+Bikoro, 0 208 11
+where 0 208 11
+treatment 0 208 11
+capacities 0 208 11
+are 0 208 11
+limited, 0 208 11
+the 0 208 11
+WHO 0 208 11
+said. 0 208 11
 
-A 0
-team 0
-of 0
-experts 0
-from 0
-the 0
-WHO, 0
-Doctors 0
-without 0
-Borders 0
-(DRC) 0
-and 0
-Equateur 0
-province 0
-travelled 0
-to 0
-Bikoro 0
-on 0
-Tuesday 0
-to 0
-beef 0
-up 0
-coordination 0
-and 0
-carry 0
-out 0
-investigations, 0
-it 0
-said. 0
+A 0 208 12
+team 0 208 12
+of 0 208 12
+experts 0 208 12
+from 0 208 12
+the 0 208 12
+WHO, 0 208 12
+Doctors 0 208 12
+without 0 208 12
+Borders 0 208 12
+(DRC) 0 208 12
+and 0 208 12
+Equateur 0 208 12
+province 0 208 12
+travelled 0 208 12
+to 0 208 12
+Bikoro 0 208 12
+on 0 208 12
+Tuesday 0 208 12
+to 0 208 12
+beef 0 208 12
+up 0 208 12
+coordination 0 208 12
+and 0 208 12
+carry 0 208 12
+out 0 208 12
+investigations, 0 208 12
+it 0 208 12
+said. 0 208 12
 
-Ebola 0
-is 0
-one 0
-of 0
-the 0
-world's 0
-most 0
-notorious 0
-diseases, 0
-being 0
-both 0
-highly 1
-infectious 1
-and 1
-extremely 1
-lethal. 1
+Ebola 0 208 13
+is 0 208 13
+one 0 208 13
+of 0 208 13
+the 0 208 13
+world's 0 208 13
+most 0 208 13
+notorious 0 208 13
+diseases, 0 208 13
+being 0 208 13
+both 0 208 13
+highly 1 208 13
+infectious 1 208 13
+and 1 208 13
+extremely 1 208 13
+lethal. 1 208 13
 
-It 0
-is 0
-caused 0
-by 0
-a 0
-virus 0
-that 0
-has 0
-a 0
-natural 0
-reservoir 0
-in 0
-the 0
-bat, 0
-which 0
-does 0
-not 0
-itself 0
-fall 0
-ill, 0
-but 0
-can 0
-pass 0
-the 0
-microbe 0
-on 0
-to 0
-humans 0
-who 0
-hunt 0
-it 0
-for 0
-"bushmeat". 0
+It 0 208 14
+is 0 208 14
+caused 0 208 14
+by 0 208 14
+a 0 208 14
+virus 0 208 14
+that 0 208 14
+has 0 208 14
+a 0 208 14
+natural 0 208 14
+reservoir 0 208 14
+in 0 208 14
+the 0 208 14
+bat, 0 208 14
+which 0 208 14
+does 0 208 14
+not 0 208 14
+itself 0 208 14
+fall 0 208 14
+ill, 0 208 14
+but 0 208 14
+can 0 208 14
+pass 0 208 14
+the 0 208 14
+microbe 0 208 14
+on 0 208 14
+to 0 208 14
+humans 0 208 14
+who 0 208 14
+hunt 0 208 14
+it 0 208 14
+for 0 208 14
+"bushmeat". 0 208 14
 
-The 0
-virus 0
-is 0
-handed 0
-on 0
-by 0
-contact 0
-with 0
-bodily 0
-fluids 0
--- 0
-touching 0
-a 0
-sick 0
-or 0
-dead 0
-person 0
-is 0
-a 0
-well-known 0
-source 0
-of 0
-infection. 0
+The 0 208 15
+virus 0 208 15
+is 0 208 15
+handed 0 208 15
+on 0 208 15
+by 0 208 15
+contact 0 208 15
+with 0 208 15
+bodily 0 208 15
+fluids 0 208 15
+-- 0 208 15
+touching 0 208 15
+a 0 208 15
+sick 0 208 15
+or 0 208 15
+dead 0 208 15
+person 0 208 15
+is 0 208 15
+a 0 208 15
+well-known 0 208 15
+source 0 208 15
+of 0 208 15
+infection. 0 208 15
 
-Following 0
-an 0
-incubation 0
-period 0
-of 0
-between 0
-two 0
-and 0
-21 0
-days, 0
-Ebola 0
-develops 0
-into 0
-a 0
-high 0
-fever, 0
-weakness, 0
-intense 0
-muscle 0
-and 0
-joint 0
-pain, 0
-headaches 0
-and 0
-a 0
-sore 0
-throat. 0
+Following 0 208 16
+an 0 208 16
+incubation 0 208 16
+period 0 208 16
+of 0 208 16
+between 0 208 16
+two 0 208 16
+and 0 208 16
+21 0 208 16
+days, 0 208 16
+Ebola 0 208 16
+develops 0 208 16
+into 0 208 16
+a 0 208 16
+high 0 208 16
+fever, 0 208 16
+weakness, 0 208 16
+intense 0 208 16
+muscle 0 208 16
+and 0 208 16
+joint 0 208 16
+pain, 0 208 16
+headaches 0 208 16
+and 0 208 16
+a 0 208 16
+sore 0 208 16
+throat. 0 208 16
 
-That 0
-is 0
-often 0
-followed 0
-by 0
-vomiting 0
-and 0
-diarrhoea, 0
-skin 0
-eruptions, 0
-kidney 0
-and 0
-liver 0
-failure, 0
-and 0
-internal 0
-and 0
-external 0
-bleeding. 0
+That 0 208 17
+is 0 208 17
+often 0 208 17
+followed 0 208 17
+by 0 208 17
+vomiting 0 208 17
+and 0 208 17
+diarrhoea, 0 208 17
+skin 0 208 17
+eruptions, 0 208 17
+kidney 0 208 17
+and 0 208 17
+liver 0 208 17
+failure, 0 208 17
+and 0 208 17
+internal 0 208 17
+and 0 208 17
+external 0 208 17
+bleeding. 0 208 17
 
-The 0
-worst-ever 0
-Ebola 0
-outbreak 0
-started 0
-in 0
-December 0
-2013 0
-in 0
-southern 0
-Guinea 0
-before 0
-spreading 0
-to 0
-two 0
-neighbouring 0
-west 0
-African 0
-countries, 0
-Liberia 0
-and 0
-Sierra 0
-Leone. 0
+The 0 208 18
+worst-ever 0 208 18
+Ebola 0 208 18
+outbreak 0 208 18
+started 0 208 18
+in 0 208 18
+December 0 208 18
+2013 0 208 18
+in 0 208 18
+southern 0 208 18
+Guinea 0 208 18
+before 0 208 18
+spreading 0 208 18
+to 0 208 18
+two 0 208 18
+neighbouring 0 208 18
+west 0 208 18
+African 0 208 18
+countries, 0 208 18
+Liberia 0 208 18
+and 0 208 18
+Sierra 0 208 18
+Leone. 0 208 18
 
-That 0
-outbreak 0
-killed 0
-more 0
-than 0
-11,300 0
-people 0
-out 0
-of 0
-nearly 0
-29,000 0
-registered 0
-cases, 0
-according 0
-to 0
-WHO 0
-estimates, 0
-although 0
-the 0
-real 0
-figure 0
-is 0
-thought 0
-to 0
-be 0
-significantly 0
-higher. 0
+That 0 208 19
+outbreak 0 208 19
+killed 0 208 19
+more 0 208 19
+than 0 208 19
+11,300 0 208 19
+people 0 208 19
+out 0 208 19
+of 0 208 19
+nearly 0 208 19
+29,000 0 208 19
+registered 0 208 19
+cases, 0 208 19
+according 0 208 19
+to 0 208 19
+WHO 0 208 19
+estimates, 0 208 19
+although 0 208 19
+the 0 208 19
+real 0 208 19
+figure 0 208 19
+is 0 208 19
+thought 0 208 19
+to 0 208 19
+be 0 208 19
+significantly 0 208 19
+higher. 0 208 19
 
-More 0
-than 0
-99 0
-percent 0
-of 0
-victims 0
-were 0
-in 0
-the 0
-three 0
-West 0
-African 0
-countries, 0
-although 0
-cases 0
-occurred 0
-in 0
-other 0
-parts 0
-of 0
-the 0
-world, 0
-often 0
-stirring 0
-panic. 0
+More 0 208 20
+than 0 208 20
+99 0 208 20
+percent 0 208 20
+of 0 208 20
+victims 0 208 20
+were 0 208 20
+in 0 208 20
+the 0 208 20
+three 0 208 20
+West 0 208 20
+African 0 208 20
+countries, 0 208 20
+although 0 208 20
+cases 0 208 20
+occurred 0 208 20
+in 0 208 20
+other 0 208 20
+parts 0 208 20
+of 0 208 20
+the 0 208 20
+world, 0 208 20
+often 0 208 20
+stirring 0 208 20
+panic. 0 208 20
 
-There 0
-is 0
-no 0
-current 0
-vaccine 0
-to 0
-prevent 0
-Ebola 0
-or 0
-licensed 0
-treatment 0
-for 0
-it, 0
-although 0
-a 0
-range 0
-of 0
-experimental 0
-drugs 0
-are 0
-in 0
-development. 0
+There 0 208 21
+is 0 208 21
+no 0 208 21
+current 0 208 21
+vaccine 0 208 21
+to 0 208 21
+prevent 0 208 21
+Ebola 0 208 21
+or 0 208 21
+licensed 0 208 21
+treatment 0 208 21
+for 0 208 21
+it, 0 208 21
+although 0 208 21
+a 0 208 21
+range 0 208 21
+of 0 208 21
+experimental 0 208 21
+drugs 0 208 21
+are 0 208 21
+in 0 208 21
+development. 0 208 21
 
-Early 0
-care 0
-with 0
-rehydration 0
-may 0
-boost 0
-the 0
-chance 0
-of 0
-survival. 0
+Early 0 208 22
+care 0 208 22
+with 0 208 22
+rehydration 0 208 22
+may 0 208 22
+boost 0 208 22
+the 0 208 22
+chance 0 208 22
+of 0 208 22
+survival. 0 208 22
 
-Given 0
-the 0
-lack 0
-of 0
-a 0
-pharmaceutical 0
-weapon 0
-against 0
-Ebola, 0
-health 0
-experts 0
-have 0
-responded 0
-with 0
-time-honoured 0
-measures 0
-of 0
-control, 0
-prevention 0
-and 0
-containment. 0
+Given 0 208 23
+the 0 208 23
+lack 0 208 23
+of 0 208 23
+a 0 208 23
+pharmaceutical 0 208 23
+weapon 0 208 23
+against 0 208 23
+Ebola, 0 208 23
+health 0 208 23
+experts 0 208 23
+have 0 208 23
+responded 0 208 23
+with 0 208 23
+time-honoured 0 208 23
+measures 0 208 23
+of 0 208 23
+control, 0 208 23
+prevention 0 208 23
+and 0 208 23
+containment. 0 208 23
 
-They 0
-use 0
-rigorous 0
-protocols 0
-to 0
-protect 0
-medical 0
-personnel 0
-with 0
-disposable 0
-full-body 0
-suits, 0
-masks, 0
-goggles 0
-and 0
-gloves 0
-and 0
-disinfecting 0
-sprays. 0
+They 0 208 23
+
+use 0 208 23
+
+rigorous 0 208 23
+
+protocols 0 208 23
+
+to 0 208 23
+
+protect 0 208 23
+
+medical 0 208 23
+
+personnel 0 208 23
+
+with 0 208 23
+
+disposable 0 208 23
+
+full-body 0 208 23
+
+suits, 0 208 23
+
+masks, 0 208 23
+
+goggles 0 208 23
+
+and 0 208 23
+
+gloves 0 208 23
+
+and 0 208 23
+
+disinfecting 0 208 23
+
+sprays. 0 208 23

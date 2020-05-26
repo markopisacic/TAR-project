@@ -1,743 +1,764 @@
-New 0
-Audio 0
-From 0
-The 0
-Night 0
-Of 0
-The 0
-Las 0
-Vegas 0
-Massacre 0
-Reveals 0
-That 0
-There 0
-Was 0
-“Another 0
-Active 0
-Shooter” 0
-In 0
-The 0
-Bar 0
-At 0
-The 0
-Top 0
-Of 0
-The 0
-Mandalay 0
-Bay 0
-Hotel 0
-During 0
-The 0
-Attack 0
+New 0 56 0
+Audio 0 56 0
+From 0 56 0
+The 0 56 0
+Night 0 56 0
+Of 0 56 0
+The 0 56 0
+Las 0 56 0
+Vegas 0 56 0
+Massacre 0 56 0
+Reveals 0 56 0
+That 0 56 0
+There 0 56 0
+Was 0 56 0
+“Another 0 56 0
+Active 0 56 0
+Shooter” 0 56 0
+In 0 56 0
+The 0 56 0
+Bar 0 56 0
+At 0 56 0
+The 0 56 0
+Top 0 56 0
+Of 0 56 0
+The 0 56 0
+Mandalay 0 56 0
+Bay 0 56 0
+Hotel 0 56 0
+During 0 56 0
+The 0 56 0
+Attack 0 56 0
 
-Newly 0
-released 0
-audio 0
-from 0
-the 0
-Clark 0
-County 0
-Fire 0
-Department 0
-has 0
-provided 0
-even 0
-more 0
-proof 0
-that 0
-there 0
-were 0
-multiple 0
-shooters 0
-during 0
-The 0
-Las 0
-Vegas 0
-Massacre, 0
-further 0
-debunking 0
-the 0
-official 0
-narrative 0
-of 0
-a 0
-lone 0
-gunman 0
-on 0
-the 0
-32nd 0
-floor 0
-and 0
-once 0
-again 0
-calling 0
-into 0
-question 0
-almost 0
-every 0
-aspect 0
-of 0
-what 0
-actually 0
-happened 0
-during 0
-the 0
-worst 0
-mass 0
-shooting 0
-in 0
-American 0
-history. 0
+Newly 0 56 1
+released 0 56 1
+audio 0 56 1
+from 0 56 1
+the 0 56 1
+Clark 0 56 1
+County 0 56 1
+Fire 0 56 1
+Department 0 56 1
+has 0 56 1
+provided 0 56 1
+even 0 56 1
+more 0 56 1
+proof 0 56 1
+that 0 56 1
+there 0 56 1
+were 0 56 1
+multiple 0 56 1
+shooters 0 56 1
+during 0 56 1
+The 0 56 1
+Las 0 56 1
+Vegas 0 56 1
+Massacre, 0 56 1
+further 0 56 1
+debunking 0 56 1
+the 0 56 1
+official 0 56 1
+narrative 0 56 1
+of 0 56 1
+a 0 56 1
+lone 0 56 1
+gunman 0 56 1
+on 0 56 1
+the 0 56 1
+32nd 0 56 1
+floor 0 56 1
+and 0 56 1
+once 0 56 1
+again 0 56 1
+calling 0 56 1
+into 0 56 1
+question 0 56 1
+almost 0 56 1
+every 0 56 1
+aspect 0 56 1
+of 0 56 1
+what 0 56 1
+actually 0 56 1
+happened 0 56 1
+during 0 56 1
+the 0 56 1
+worst 0 56 1
+mass 0 56 1
+shooting 0 56 1
+in 0 56 1
+American 0 56 1
+history. 0 56 1
 
-The 0
-audio, 0
-released 0
-on 0
-the 0
-SoundCloud 0
-account 0
-of 0
-a 0
-local 0
-news 0
-reporter, 0
-is 0
-an 0
-almost 0
-three 0
-hour 0
-recording 0
-of 0
-transmissions 0
-between 0
-dispatch 0
-and 0
-units 0
-on 0
-the 0
-ground 0
-amid 0
-the 0
-confusion 0
-of 0
-the 0
-mass 0
-shooting 0
-that 0
-at 0
-one 0
-point 0
-details 0
-a 0
-report 0
-that 0
-a 0
-wife 0
-of 0
-a 0
-firefighter 0
-was 0
-actually 0
-pinned 0
-down 0
-in 0
-the 0
-Foundation 0
-Room 0
-bar 0
-on 0
-top 0
-of 0
-the 0
-Mandalay 0
-Hotel. 0
+The 0 56 2
+audio, 0 56 2
+released 0 56 2
+on 0 56 2
+the 0 56 2
+SoundCloud 0 56 2
+account 0 56 2
+of 0 56 2
+a 0 56 2
+local 0 56 2
+news 0 56 2
+reporter, 0 56 2
+is 0 56 2
+an 0 56 2
+almost 0 56 2
+three 0 56 2
+hour 0 56 2
+recording 0 56 2
+of 0 56 2
+transmissions 0 56 2
+between 0 56 2
+dispatch 0 56 2
+and 0 56 2
+units 0 56 2
+on 0 56 2
+the 0 56 2
+ground 0 56 2
+amid 0 56 2
+the 0 56 2
+confusion 0 56 2
+of 0 56 2
+the 0 56 2
+mass 0 56 2
+shooting 0 56 2
+that 0 56 2
+at 0 56 2
+one 0 56 2
+point 0 56 2
+details 0 56 2
+a 0 56 2
+report 0 56 2
+that 0 56 2
+a 0 56 2
+wife 0 56 2
+of 0 56 2
+a 0 56 2
+firefighter 0 56 2
+was 0 56 2
+actually 0 56 2
+pinned 0 56 2
+down 0 56 2
+in 0 56 2
+the 0 56 2
+Foundation 0 56 2
+Room 0 56 2
+bar 0 56 2
+on 0 56 2
+top 0 56 2
+of 0 56 2
+the 0 56 2
+Mandalay 0 56 2
+Hotel. 0 56 2
 
-Intellihub’s 0
-Shepard 0
-Ambellas, 0
-who 0
-has 0
-extensively 0
-reported 0
-on 0
-the 0
-entire 0
-Vegas 0
-cover-up 0
-since 0
-the 0
-beginning, 0
-recently 0
-found 0
-that 0
-at 0
-around 0
-the 0
-1:27:54 0
-mark 0
-of 0
-the 0
-audio 0
-file 0
-you 0
-can 0
-clearly 0
-hear 0
-dispatch 0
-describing 0
-the 0
-situation 0
-to 0
-first 0
-responders 0
-who 0
-are 0
-headed 0
-in 0
-that 0
-direction. 0
+Intellihub’s 0 56 3
+Shepard 0 56 3
+Ambellas, 0 56 3
+who 0 56 3
+has 0 56 3
+extensively 0 56 3
+reported 0 56 3
+on 0 56 3
+the 0 56 3
+entire 0 56 3
+Vegas 0 56 3
+cover-up 0 56 3
+since 0 56 3
+the 0 56 3
+beginning, 0 56 3
+recently 0 56 3
+found 0 56 3
+that 0 56 3
+at 0 56 3
+around 0 56 3
+the 0 56 3
+1:27:54 0 56 3
+mark 0 56 3
+of 0 56 3
+the 0 56 3
+audio 0 56 3
+file 0 56 3
+you 0 56 3
+can 0 56 3
+clearly 0 56 3
+hear 0 56 3
+dispatch 0 56 3
+describing 0 56 3
+the 0 56 3
+situation 0 56 3
+to 0 56 3
+first 0 56 3
+responders 0 56 3
+who 0 56 3
+are 0 56 3
+headed 0 56 3
+in 0 56 3
+that 0 56 3
+direction. 0 56 3
 
-“We 0
-have 0
-a 0
-firefighter’s 0
-wife 0
-at 0
-this 0
-event 0
-who 0
-is 0
-pinned 0
-down 0
-behind 0
-the 0
-bar 0
-at 0
-Mandalay 0
-Bay. 0
+“We 0 56 4
+have 0 56 4
+a 0 56 4
+firefighter’s 0 56 4
+wife 0 56 4
+at 0 56 4
+this 0 56 4
+event 0 56 4
+who 0 56 4
+is 0 56 4
+pinned 0 56 4
+down 0 56 4
+behind 0 56 4
+the 0 56 4
+bar 0 56 4
+at 0 56 4
+Mandalay 0 56 4
+Bay. 0 56 4
 
-We 0
-are 0
-trying 0
-to 0
-get 0
-further 0
-on 0
-the 0
-name,” 0
-dispatch 0
-frantically 0
-notes. 0
+We 0 56 5
+are 0 56 5
+trying 0 56 5
+to 0 56 5
+get 0 56 5
+further 0 56 5
+on 0 56 5
+the 0 56 5
+name,” 0 56 5
+dispatch 0 56 5
+frantically 0 56 5
+notes. 0 56 5
 
-“Batallion 0
-6, 0
-be 0
-advised 0
-that 0
-we 0
-are 0
-getting 0
-reports 0
-on 0
-Mandalay 0
-Bay, 0
-at 0
-the 0
-bar, 0
-we 0
-currently 0
-have, 0
-another 0
-active 0
-shooter 0
-up 0
-there.” 0
+“Batallion 0 56 6
+6, 0 56 6
+be 0 56 6
+advised 0 56 6
+that 0 56 6
+we 0 56 6
+are 0 56 6
+getting 0 56 6
+reports 0 56 6
+on 0 56 6
+Mandalay 0 56 6
+Bay, 0 56 6
+at 0 56 6
+the 0 56 6
+bar, 0 56 6
+we 0 56 6
+currently 0 56 6
+have, 0 56 6
+another 0 56 6
+active 0 56 6
+shooter 0 56 6
+up 0 56 6
+there.” 0 56 6
 
-After 0
-being 0
-asked 0
-to 0
-confirm 0
-the 0
-information, 0
-dispatch 0
-goes 0
-on 0
-to 0
-make 0
-clear 0
-that 0
-she 0
-is 0
-specifically 0
-speaking 0
-about 0
-the 0
-bar 0
-at 0
-the 0
-top 0
-of 0
-the 0
-hotel 0
-rather 0
-than 0
-anywhere 0
-near 0
-the 0
-32nd 0
-floor 0
-room 0
-that 0
-Stephen 0
-Paddock 0
-supposedly 0
-operated 0
-from. 0
+After 0 56 7
+being 0 56 7
+asked 0 56 7
+to 0 56 7
+confirm 0 56 7
+the 0 56 7
+information, 0 56 7
+dispatch 0 56 7
+goes 0 56 7
+on 0 56 7
+to 0 56 7
+make 0 56 7
+clear 0 56 7
+that 0 56 7
+she 0 56 7
+is 0 56 7
+specifically 0 56 7
+speaking 0 56 7
+about 0 56 7
+the 0 56 7
+bar 0 56 7
+at 0 56 7
+the 0 56 7
+top 0 56 7
+of 0 56 7
+the 0 56 7
+hotel 0 56 7
+rather 0 56 7
+than 0 56 7
+anywhere 0 56 7
+near 0 56 7
+the 0 56 7
+32nd 0 56 7
+floor 0 56 7
+room 0 56 7
+that 0 56 7
+Stephen 0 56 7
+Paddock 0 56 7
+supposedly 0 56 7
+operated 0 56 7
+from. 0 56 7
 
-“The 0
-only 0
-information 0
-I 0
-have 0
-is 0
-it’s 0
-the 0
-bar 0
-on 0
-top 0
-of 0
-the 0
-Mandalay 0
-Bay,” 0
-dispatch 0
-continues 0
-before 0
-being 0
-asked 0
-if 0
-the 0
-shooter 0
-was 0
-pinned 0
-down 0
-or 0
-“just 0
-sheltering 0
-right 0
-now?” 0
+“The 0 56 8
+only 0 56 8
+information 0 56 8
+I 0 56 8
+have 0 56 8
+is 0 56 8
+it’s 0 56 8
+the 0 56 8
+bar 0 56 8
+on 0 56 8
+top 0 56 8
+of 0 56 8
+the 0 56 8
+Mandalay 0 56 8
+Bay,” 0 56 8
+dispatch 0 56 8
+continues 0 56 8
+before 0 56 8
+being 0 56 8
+asked 0 56 8
+if 0 56 8
+the 0 56 8
+shooter 0 56 8
+was 0 56 8
+pinned 0 56 8
+down 0 56 8
+or 0 56 8
+“just 0 56 8
+sheltering 0 56 8
+right 0 56 8
+now?” 0 56 8
 
-Interestingly, 0
-the 0
-story 0
-doesn’t 0
-end 0
-there, 0
-as 0
-Ambellas 0
-wrote 0
-in 0
-his 0
-piece, 0
-author 0
-and 0
-entrepreneur 0
-Grant 0
-Cardone 0
-was 0
-actually 0
-holding 0
-an 0
-investors 0
-meeting 0
-in 0
-the 0
-very 0
-same 0
-bar 0
-shortly 0
-before 0
-the 0
-attack 0
-took 0
-place. 0
+Interestingly, 0 56 9
+the 0 56 9
+story 0 56 9
+doesn’t 0 56 9
+end 0 56 9
+there, 0 56 9
+as 0 56 9
+Ambellas 0 56 9
+wrote 0 56 9
+in 0 56 9
+his 0 56 9
+piece, 0 56 9
+author 0 56 9
+and 0 56 9
+entrepreneur 0 56 9
+Grant 0 56 9
+Cardone 0 56 9
+was 0 56 9
+actually 0 56 9
+holding 0 56 9
+an 0 56 9
+investors 0 56 9
+meeting 0 56 9
+in 0 56 9
+the 0 56 9
+very 0 56 9
+same 0 56 9
+bar 0 56 9
+shortly 0 56 9
+before 0 56 9
+the 0 56 9
+attack 0 56 9
+took 0 56 9
+place. 0 56 9
 
-The 0
-popular 0
-social 0
-media 0
-influencer 0
-apparently 0
-left 0
-the 0
-Foundation 0
-Room 0
-literally 0
-seven 0
-minutes 0
-before 0
-authorities 0
-claim 0
-Paddock 0
-opened 0
-fire 0
-from 0
-his 0
-32nd 0
-floor 0
-room. 0
+The 0 56 10
+popular 0 56 10
+social 0 56 10
+media 0 56 10
+influencer 0 56 10
+apparently 0 56 10
+left 0 56 10
+the 0 56 10
+Foundation 0 56 10
+Room 0 56 10
+literally 0 56 10
+seven 0 56 10
+minutes 0 56 10
+before 0 56 10
+authorities 0 56 10
+claim 0 56 10
+Paddock 0 56 10
+opened 0 56 10
+fire 0 56 10
+from 0 56 10
+his 0 56 10
+32nd 0 56 10
+floor 0 56 10
+room. 0 56 10
 
-Cardone 0
-wrote 0
-about 0
-his 0
-experience 0
-in 0
-a 0
-post 0
-on 0
-Medium 0
-in 0
-which 0
-he 0
-claimed 0
-that 0
-the 0
-Mandalay 0
-Bay 0
-was 0
-telling 0
-visitors 0
-that 0
-there 0
-was 0
-at 0
-least 0
-one 0
-active 0
-shooter, 0
-“moving” 0
-throughout 0
-the 0
-hotel 0
-shooting 0
-people. 0
+Cardone 0 56 11
+wrote 0 56 11
+about 0 56 11
+his 0 56 11
+experience 0 56 11
+in 0 56 11
+a 0 56 11
+post 0 56 11
+on 0 56 11
+Medium 0 56 11
+in 0 56 11
+which 0 56 11
+he 0 56 11
+claimed 0 56 11
+that 0 56 11
+the 0 56 11
+Mandalay 0 56 11
+Bay 0 56 11
+was 0 56 11
+telling 0 56 11
+visitors 0 56 11
+that 0 56 11
+there 0 56 11
+was 0 56 11
+at 0 56 11
+least 0 56 11
+one 0 56 11
+active 0 56 11
+shooter, 0 56 11
+“moving” 0 56 11
+throughout 0 56 11
+the 0 56 11
+hotel 0 56 11
+shooting 0 56 11
+people. 0 56 11
 
-It 0
-was 0
-reported 0
-by 0
-the 0
-Mandalay 0
-there 0
-was 0
-a 0
-shooter 0
-moving 0
-through 0
-the 0
-hotel. 0
+It 0 56 12
+was 0 56 12
+reported 0 56 12
+by 0 56 12
+the 0 56 12
+Mandalay 0 56 12
+there 0 56 12
+was 0 56 12
+a 0 56 12
+shooter 0 56 12
+moving 0 56 12
+through 0 56 12
+the 0 56 12
+hotel. 0 56 12
 
-I 0
-told 0
-Elena 0
-and 0
-Johnny, 0
-“stay 0
-close 0
-to 0
-me, 0
-we 0
-are 0
-not 0
-running 0
-out, 0
-stay 0
-calm, 0
-there 0
-is 0
-one 0
-person 0
-in 0
-charge 0
-— 0
-where 0
-I 0
-go, 0
-you 0
-follow, 0
-no 0
-matter 0
-what.” 0
-[…] 0
-About 0
-this 0
-time, 0
-there 0
-was 0
-starting 0
-to 0
-be 0
-a 0
-lot 0
-more 0
-activity 0
-through 0
-the 0
-casino 0
-and 0
-now 0
-the 0
-reports 0
-suggested 0
-there 0
-was 0
-active 0
-multiple 0
-terrorists 0
-moving 0
-through 0
-the 0
-hotel 0
-shooting 0
-guest. 0
+I 0 56 13
+told 0 56 13
+Elena 0 56 13
+and 0 56 13
+Johnny, 0 56 13
+“stay 0 56 13
+close 0 56 13
+to 0 56 13
+me, 0 56 13
+we 0 56 13
+are 0 56 13
+not 0 56 13
+running 0 56 13
+out, 0 56 13
+stay 0 56 13
+calm, 0 56 13
+there 0 56 13
+is 0 56 13
+one 0 56 13
+person 0 56 13
+in 0 56 13
+charge 0 56 13
+— 0 56 13
+where 0 56 13
+I 0 56 13
+go, 0 56 13
+you 0 56 13
+follow, 0 56 13
+no 0 56 13
+matter 0 56 13
+what.” 0 56 13
+[…] 0 56 13
+About 0 56 13
+this 0 56 13
+time, 0 56 13
+there 0 56 13
+was 0 56 13
+starting 0 56 13
+to 0 56 13
+be 0 56 13
+a 0 56 13
+lot 0 56 13
+more 0 56 13
+activity 0 56 13
+through 0 56 13
+the 0 56 13
+casino 0 56 13
+and 0 56 13
+now 0 56 13
+the 0 56 13
+reports 0 56 13
+suggested 0 56 13
+there 0 56 13
+was 0 56 13
+active 0 56 13
+multiple 0 56 13
+terrorists 0 56 13
+moving 0 56 13
+through 0 56 13
+the 0 56 13
+hotel 0 56 13
+shooting 0 56 13
+guest. 0 56 13
 
-Then 0
-twitter 0
-started 0
-showing 0
-up 0
-with 0
-feeds 0
-suggesting 0
-multiple 0
-hotels 0
-being 0
-attacked, 0
-bomb 0
-threats, 0
-and 0
-more. 0
+Then 0 56 14
+twitter 0 56 14
+started 0 56 14
+showing 0 56 14
+up 0 56 14
+with 0 56 14
+feeds 0 56 14
+suggesting 0 56 14
+multiple 0 56 14
+hotels 0 56 14
+being 0 56 14
+attacked, 0 56 14
+bomb 0 56 14
+threats, 0 56 14
+and 0 56 14
+more. 0 56 14
 
-This 0
-new 0
-report 0
-documenting 0
-yet 0
-another 0
-instance 0
-of 0
-a 0
-possible 0
-second 0
-shooter 0
-comes 0
-on 0
-the 0
-heels 0
-of 0
-dozens 0
-of 0
-similar 0
-reports, 0
-with 0
-the 0
-most 0
-recent 0
-arriving 0
-in 0
-the 0
-form 0
-of 0
-air 0
-traffic 0
-control 0
-audio 0
-that 0
-directly 0
-stated 0
-that 0
-there 0
-were 0
-active 0
-shooters 0
-on 0
-the 0
-runway. 0
+This 0 56 15
+new 0 56 15
+report 0 56 15
+documenting 0 56 15
+yet 0 56 15
+another 0 56 15
+instance 0 56 15
+of 0 56 15
+a 0 56 15
+possible 0 56 15
+second 0 56 15
+shooter 0 56 15
+comes 0 56 15
+on 0 56 15
+the 0 56 15
+heels 0 56 15
+of 0 56 15
+dozens 0 56 15
+of 0 56 15
+similar 0 56 15
+reports, 0 56 15
+with 0 56 15
+the 0 56 15
+most 0 56 15
+recent 0 56 15
+arriving 0 56 15
+in 0 56 15
+the 0 56 15
+form 0 56 15
+of 0 56 15
+air 0 56 15
+traffic 0 56 15
+control 0 56 15
+audio 0 56 15
+that 0 56 15
+directly 0 56 15
+stated 0 56 15
+that 0 56 15
+there 0 56 15
+were 0 56 15
+active 0 56 15
+shooters 0 56 15
+on 0 56 15
+the 0 56 15
+runway. 0 56 15
 
-“During 0
-the 0
-air 0
-traffic 0
-control 0
-recordings, 0
-which 0
-were 0
-released 0
-by 0
-political 0
-strategist 0
-and 0
-co-founder 0
-of 0
-“The 0
-New 0
-Right” 0
-Mike 0
-Tokes, 0
-one 0
-of 0
-the 0
-dispatchers 0
-is 0
-heard 0
-telling 0
-an 0
-incoming 0
-plane 0
-that 0
-landing 0
-might 0
-not 0
-be 0
-a 0
-good 0
-idea 0
-because 0
-there 0
-were 0
-multiple 0
-active 0
-shooters 0
-on 0
-the 0
-airport 0
-property 0
-itself,” 0
-SHTFplan 0
-reported. 0
+“During 0 56 16
+the 0 56 16
+air 0 56 16
+traffic 0 56 16
+control 0 56 16
+recordings, 0 56 16
+which 0 56 16
+were 0 56 16
+released 0 56 16
+by 0 56 16
+political 0 56 16
+strategist 0 56 16
+and 0 56 16
+co-founder 0 56 16
+of 0 56 16
+“The 0 56 16
+New 0 56 16
+Right” 0 56 16
+Mike 0 56 16
+Tokes, 0 56 16
+one 0 56 16
+of 0 56 16
+the 0 56 16
+dispatchers 0 56 16
+is 0 56 16
+heard 0 56 16
+telling 0 56 16
+an 0 56 16
+incoming 0 56 16
+plane 0 56 16
+that 0 56 16
+landing 0 56 16
+might 0 56 16
+not 0 56 16
+be 0 56 16
+a 0 56 16
+good 0 56 16
+idea 0 56 16
+because 0 56 16
+there 0 56 16
+were 0 56 16
+multiple 0 56 16
+active 0 56 16
+shooters 0 56 16
+on 0 56 16
+the 0 56 16
+airport 0 56 16
+property 0 56 16
+itself,” 0 56 16
+SHTFplan 0 56 16
+reported. 0 56 16
 
-“Shutting 0
-down 0
-might 0
-not 0
-be 0
-a 0
-good 0
-idea, 0
-there’s 0
-active 0
-shooters 0
-on 0
-the 0
-runway,” 0
-he 0
-declared. 0
+“Shutting 0 56 17
+down 0 56 17
+might 0 56 17
+not 0 56 17
+be 0 56 17
+a 0 56 17
+good 0 56 17
+idea, 0 56 17
+there’s 0 56 17
+active 0 56 17
+shooters 0 56 17
+on 0 56 17
+the 0 56 17
+runway,” 0 56 17
+he 0 56 17
+declared. 0 56 17
 
-“The 0
-19s 0
-are 0
-closed, 0
-we 0
-are 0
-in 0
-the 0
-process 0
-of 0
-trying 0
-to 0
-round 0
-them 0
-up, 0
-they 0
-are 0
-on 0
-the 0
-airport 0
-property.” 0
+“The 0 56 18
+19s 0 56 18
+are 0 56 18
+closed, 0 56 18
+we 0 56 18
+are 0 56 18
+in 0 56 18
+the 0 56 18
+process 0 56 18
+of 0 56 18
+trying 0 56 18
+to 0 56 18
+round 0 56 18
+them 0 56 18
+up, 0 56 18
+they 0 56 18
+are 0 56 18
+on 0 56 18
+the 0 56 18
+airport 0 56 18
+property.” 0 56 18
 
-Air 0
-traffic 0
-control 0
-tapes 0
-on 0
-the 0
-night 0
-of 0
-the 0
-Las 0
-Vegas 0
-shooting: 0
-“There’s 0
-active 0
-shooters 0
-on 0
-the 0
-runway. 0
+Air 0 56 19
+traffic 0 56 19
+control 0 56 19
+tapes 0 56 19
+on 0 56 19
+the 0 56 19
+night 0 56 19
+of 0 56 19
+the 0 56 19
+Las 0 56 19
+Vegas 0 56 19
+shooting: 0 56 19
+“There’s 0 56 19
+active 0 56 19
+shooters 0 56 19
+on 0 56 19
+the 0 56 19
+runway. 0 56 19
 
-They’re 0
-on 0
-the 0
-airport 0
-property” 0
-pic.twitter.com/HZf3LBeAgk 0
-— 0
-Mike 0
-Tokes 0
-(@MikeTokes) 0
-October 0
-29, 0
-2017 0
+They’re 0 56 20
+on 0 56 20
+the 0 56 20
+airport 0 56 20
+property” 0 56 20
+pic.twitter.com/HZf3LBeAgk 0 56 20
+— 0 56 20
+Mike 0 56 20
+Tokes 0 56 20
+(@MikeTokes) 0 56 20
+October 0 56 20
+29, 0 56 20
+2017 0 56 20
 
-Slowly 1
-but 1
-surely 1
-we 1
-are 1
-beginning 1
-to 1
-see 1
-the 1
-truth 1
-about 1
-the 1
-horrific 1
-attack 1
-come 1
-to 1
-light 1
-despite 1
-authorities 1
-desperately 1
-trying 1
-to 1
-prevent 1
-it 1
-from 1
-reaching 1
-the 1
-American 1
-people. 1
+Slowly 1 56 21
+but 1 56 21
+surely 1 56 21
+we 1 56 21
+are 1 56 21
+beginning 1 56 21
+to 1 56 21
+see 1 56 21
+the 1 56 21
+truth 1 56 21
+about 1 56 21
+the 1 56 21
+horrific 1 56 21
+attack 1 56 21
+come 1 56 21
+to 1 56 21
+light 1 56 21
+despite 1 56 21
+authorities 1 56 21
+desperately 1 56 21
+trying 1 56 21
+to 1 56 21
+prevent 1 56 21
+it 1 56 21
+from 1 56 21
+reaching 1 56 21
+the 1 56 21
+American 1 56 21
+people. 1 56 21
 
-Sadly, 1
-the 1
-picture 1
-emerging 1
-is 1
-one 1
-that 1
-includes 1
-a 1
-shocking 1
-amount 1
-of 1
-evidence 1
-pointing 1
-towards 1
-a 1
-classic 1
-deep 1
-state 1
-false 1
-flag 1
-operation. 1
+Sadly, 1 56 21
+
+the 1 56 21
+
+picture 1 56 21
+
+emerging 1 56 21
+
+is 1 56 21
+
+one 1 56 21
+
+that 1 56 21
+
+includes 1 56 21
+
+a 1 56 21
+
+shocking 1 56 21
+
+amount 1 56 21
+
+of 1 56 21
+
+evidence 1 56 21
+
+pointing 1 56 21
+
+towards 1 56 21
+
+a 1 56 21
+
+classic 1 56 21
+
+deep 1 56 21
+
+state 1 56 21
+
+false 1 56 21
+
+flag 1 56 21
+
+operation. 1 56 21

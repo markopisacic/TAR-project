@@ -1,679 +1,695 @@
-Trump 0
-fires 0
-Tillerson, 0
-replaces 0
-with 0
-former 1
-top 1
-spook 1
+Trump 0 192 0
+fires 0 192 0
+Tillerson, 0 192 0
+replaces 0 192 0
+with 0 192 0
+former 1 192 0
+top 1 192 0
+spook 1 192 0
 
-Following 0
-what 0
-has 0
-appeared 0
-for 0
-months 0
-to 0
-be 0
-a 0
-strained 0
-relationship 0
-between 0
-President 0
-Donald 0
-Trump 0
-and 0
-Secretary 0
-of 0
-State 0
-Rex 0
-Tillerson, 0
-the 0
-top 0
-diplomat 0
-is 0
-being 0
-replaced. 0
+Following 0 192 1
+what 0 192 1
+has 0 192 1
+appeared 0 192 1
+for 0 192 1
+months 0 192 1
+to 0 192 1
+be 0 192 1
+a 0 192 1
+strained 0 192 1
+relationship 0 192 1
+between 0 192 1
+President 0 192 1
+Donald 0 192 1
+Trump 0 192 1
+and 0 192 1
+Secretary 0 192 1
+of 0 192 1
+State 0 192 1
+Rex 0 192 1
+Tillerson, 0 192 1
+the 0 192 1
+top 0 192 1
+diplomat 0 192 1
+is 0 192 1
+being 0 192 1
+replaced. 0 192 1
 
-Trump 0
-announced 0
-Tillerson’s 0
-ouster 0
-via 0
-Twitter 0
-Tuesday, 0
-saying: 0
-“Mike 0
-Pompeo, 0
-Director 0
-of 0
-the 0
-CIA, 0
-will 0
-become 0
-our 0
-new 0
-Secretary 0
-of 0
-State. 0
+Trump 0 192 2
+announced 0 192 2
+Tillerson’s 0 192 2
+ouster 0 192 2
+via 0 192 2
+Twitter 0 192 2
+Tuesday, 0 192 2
+saying: 0 192 2
+“Mike 0 192 2
+Pompeo, 0 192 2
+Director 0 192 2
+of 0 192 2
+the 0 192 2
+CIA, 0 192 2
+will 0 192 2
+become 0 192 2
+our 0 192 2
+new 0 192 2
+Secretary 0 192 2
+of 0 192 2
+State. 0 192 2
 
-He 1
-will 1
-do 1
-a 1
-fantastic 1
-job! 1
+He 1 192 3
+will 1 192 3
+do 1 192 3
+a 1 192 3
+fantastic 1 192 3
+job! 1 192 3
 
-Thank 0
-you 0
-to 0
-Rex 0
-Tillerson 0
-for 0
-his 0
-service! 0
+Thank 0 192 4
+you 0 192 4
+to 0 192 4
+Rex 0 192 4
+Tillerson 0 192 4
+for 0 192 4
+his 0 192 4
+service! 0 192 4
 
-Gina 0
-Haspel 0
-will 0
-become 0
-the 0
-new 0
-Director 0
-of 0
-the 0
-CIA, 0
-and 0
-the 0
-first 0
-woman 0
-so 0
-chosen. 0
+Gina 0 192 5
+Haspel 0 192 5
+will 0 192 5
+become 0 192 5
+the 0 192 5
+new 0 192 5
+Director 0 192 5
+of 0 192 5
+the 0 192 5
+CIA, 0 192 5
+and 0 192 5
+the 0 192 5
+first 0 192 5
+woman 0 192 5
+so 0 192 5
+chosen. 0 192 5
 
-Congratulations 0
-to 0
-all!” 0
+Congratulations 0 192 6
+to 0 192 6
+all!” 0 192 6
 
-This 0
-is 0
-yet 0
-another 0
-big 0
-shake-up 0
-for 0
-Trump’s 0
-still-young 0
-administration 0
-— 0
-and 1
-it 1
-may 1
-be 1
-the 1
-most 1
-important 1
-one 1
-to 1
-date. 1
+This 0 192 7
+is 0 192 7
+yet 0 192 7
+another 0 192 7
+big 0 192 7
+shake-up 0 192 7
+for 0 192 7
+Trump’s 0 192 7
+still-young 0 192 7
+administration 0 192 7
+— 0 192 7
+and 1 192 7
+it 1 192 7
+may 1 192 7
+be 1 192 7
+the 1 192 7
+most 1 192 7
+important 1 192 7
+one 1 192 7
+to 1 192 7
+date. 1 192 7
 
-The 1
-move 1
-creates 1
-some 1
-big 1
-questions 1
-about 1
-both 1
-the 1
-administration’s 1
-foreign 1
-policy 1
-ambitions 1
-as 1
-well 1
-as 1
-the 1
-president’s 1
-relationship 1
-with 1
-the 1
-deep 1
-state. 1
+The 1 192 8
+move 1 192 8
+creates 1 192 8
+some 1 192 8
+big 1 192 8
+questions 1 192 8
+about 1 192 8
+both 1 192 8
+the 1 192 8
+administration’s 1 192 8
+foreign 1 192 8
+policy 1 192 8
+ambitions 1 192 8
+as 1 192 8
+well 1 192 8
+as 1 192 8
+the 1 192 8
+president’s 1 192 8
+relationship 1 192 8
+with 1 192 8
+the 1 192 8
+deep 1 192 8
+state. 1 192 8
 
-If 1
-you 1
-enjoyed 1
-Hillary 1
-Clinton’s 1
-tenure 1
-as 1
-Secretary 1
-of 1
-State, 1
-you’ll 1
-like 1
-Pompeo’s. 1
+If 1 192 9
+you 1 192 9
+enjoyed 1 192 9
+Hillary 1 192 9
+Clinton’s 1 192 9
+tenure 1 192 9
+as 1 192 9
+Secretary 1 192 9
+of 1 192 9
+State, 1 192 9
+you’ll 1 192 9
+like 1 192 9
+Pompeo’s. 1 192 9
 
-Like 0
-Clinton 0
-and 0
-her 0
-Democrat 0
-allies, 0
-Pompeo 0
-has 0
-long 0
-subscribed 0
-to 0
-the 0
-belief 0
-that 0
-Russia 0
-is 1
-perpetually 1
-meddling 1
-in 0
-U.S. 0
-affairs. 0
+Like 0 192 10
+Clinton 0 192 10
+and 0 192 10
+her 0 192 10
+Democrat 0 192 10
+allies, 0 192 10
+Pompeo 0 192 10
+has 0 192 10
+long 0 192 10
+subscribed 0 192 10
+to 0 192 10
+the 0 192 10
+belief 0 192 10
+that 0 192 10
+Russia 0 192 10
+is 1 192 10
+perpetually 1 192 10
+meddling 1 192 10
+in 0 192 10
+U.S. 0 192 10
+affairs. 0 192 10
 
-In 0
-fact, 0
-he 1
-believes 1
-Barack 1
-Obama 1
-got 1
-Russian 1
-help 1
-too. 1
+In 0 192 11
+fact, 0 192 11
+he 1 192 11
+believes 1 192 11
+Barack 1 192 11
+Obama 1 192 11
+got 1 192 11
+Russian 1 192 11
+help 1 192 11
+too. 1 192 11
 
-While 0
-he 0
-was 0
-being 0
-confirmed 0
-as 0
-CIA 0
-chief, 0
-the 0
-former 0
-lawmaker 0
-lashed 1
-out 1
-at 1
-Russia 1
-for 0
-reasserting 1
-” 1
-itself 1
-aggressively, 1
-invading 1
-and 1
-occupying 1
-Ukraine, 1
-threatening 1
-Europe, 1
-and 1
-doing 1
-nearly 1
-nothing 1
-to 1
-aid 1
-in 1
-the 1
-destruction 1
-and 1
-defeat 1
-of 1
-ISIS.” 1
+While 0 192 12
+he 0 192 12
+was 0 192 12
+being 0 192 12
+confirmed 0 192 12
+as 0 192 12
+CIA 0 192 12
+chief, 0 192 12
+the 0 192 12
+former 0 192 12
+lawmaker 0 192 12
+lashed 1 192 12
+out 1 192 12
+at 1 192 12
+Russia 1 192 12
+for 0 192 12
+reasserting 1 192 12
+” 1 192 12
+itself 1 192 12
+aggressively, 1 192 12
+invading 1 192 12
+and 1 192 12
+occupying 1 192 12
+Ukraine, 1 192 12
+threatening 1 192 12
+Europe, 1 192 12
+and 1 192 12
+doing 1 192 12
+nearly 1 192 12
+nothing 1 192 12
+to 1 192 12
+aid 1 192 12
+in 1 192 12
+the 1 192 12
+destruction 1 192 12
+and 1 192 12
+defeat 1 192 12
+of 1 192 12
+ISIS.” 1 192 12
 
-Again, 0
-if 0
-you 0
-liked 0
-Obama-era, 0
-world-on-fire, 0
-Russians 0
-everywhere 0
-State 1
-Department 1
-shenanigans, 1
-this 1
-is 1
-your 1
-guy. 1
+Again, 0 192 13
+if 0 192 13
+you 0 192 13
+liked 0 192 13
+Obama-era, 0 192 13
+world-on-fire, 0 192 13
+Russians 0 192 13
+everywhere 0 192 13
+State 1 192 13
+Department 1 192 13
+shenanigans, 1 192 13
+this 1 192 13
+is 1 192 13
+your 1 192 13
+guy. 1 192 13
 
-Pompeo 1
-also 1
-isn’t 1
-a 1
-huge 1
-fan 1
-of 1
-calling 1
-the 1
-federal 1
-government 1
-out 1
-when 1
-it 1
-is 1
-clearly 1
-violating 1
-the 1
-rights 1
-of 1
-Americans, 1
-as 0
-shown 0
-by 0
-his 0
-statements 0
-last 0
-year 0
-regarding 0
-WikiLeaks. 0
+Pompeo 1 192 14
+also 1 192 14
+isn’t 1 192 14
+a 1 192 14
+huge 1 192 14
+fan 1 192 14
+of 1 192 14
+calling 1 192 14
+the 1 192 14
+federal 1 192 14
+government 1 192 14
+out 1 192 14
+when 1 192 14
+it 1 192 14
+is 1 192 14
+clearly 1 192 14
+violating 1 192 14
+the 1 192 14
+rights 1 192 14
+of 1 192 14
+Americans, 1 192 14
+as 0 192 14
+shown 0 192 14
+by 0 192 14
+his 0 192 14
+statements 0 192 14
+last 0 192 14
+year 0 192 14
+regarding 0 192 14
+WikiLeaks. 0 192 14
 
-“It 0
-is 0
-time 0
-to 0
-call 0
-out 0
-WikiLeaks 0
-for 0
-what 0
-it 0
-really 0
-is 0
-– 0
-a 1
-non-state 1
-hostile 1
-intelligence 1
-service 1
-often 0
-abetted 0
-by 0
-state 0
-actors 0
-like 0
-Russia. 0
+“It 0 192 15
+is 0 192 15
+time 0 192 15
+to 0 192 15
+call 0 192 15
+out 0 192 15
+WikiLeaks 0 192 15
+for 0 192 15
+what 0 192 15
+it 0 192 15
+really 0 192 15
+is 0 192 15
+– 0 192 15
+a 1 192 15
+non-state 1 192 15
+hostile 1 192 15
+intelligence 1 192 15
+service 1 192 15
+often 0 192 15
+abetted 0 192 15
+by 0 192 15
+state 0 192 15
+actors 0 192 15
+like 0 192 15
+Russia. 0 192 15
 
-In 0
-January 0
-of 0
-this 0
-year, 0
-our 0
-Intelligence 0
-Community 0
-determined 0
-that 0
-Russian 0
-military 0
-intelligence 0
-— 0
-the 0
-GRU 0
-— 0
-had 0
-used 0
-WikiLeaks 0
-to 0
-release 0
-data 0
-of 0
-U.S. 0
-victims 0
-that 0
-the 0
-GRU 0
-had 0
-obtained 0
-through 0
-cyber 0
-operations 0
-against 0
-the 0
-Democratic 0
-National 0
-Committee. 0
+In 0 192 16
+January 0 192 16
+of 0 192 16
+this 0 192 16
+year, 0 192 16
+our 0 192 16
+Intelligence 0 192 16
+Community 0 192 16
+determined 0 192 16
+that 0 192 16
+Russian 0 192 16
+military 0 192 16
+intelligence 0 192 16
+— 0 192 16
+the 0 192 16
+GRU 0 192 16
+— 0 192 16
+had 0 192 16
+used 0 192 16
+WikiLeaks 0 192 16
+to 0 192 16
+release 0 192 16
+data 0 192 16
+of 0 192 16
+U.S. 0 192 16
+victims 0 192 16
+that 0 192 16
+the 0 192 16
+GRU 0 192 16
+had 0 192 16
+obtained 0 192 16
+through 0 192 16
+cyber 0 192 16
+operations 0 192 16
+against 0 192 16
+the 0 192 16
+Democratic 0 192 16
+National 0 192 16
+Committee. 0 192 16
 
-And 0
-the 0
-report 0
-also 0
-found 0
-that 0
-Russia’s 0
-primary 0
-propaganda 0
-outlet, 0
-RT, 0
-has 0
-actively 0
-collaborated 0
-with 0
-WikiLeaks,” 0
-he 0
-said. 0
+And 0 192 17
+the 0 192 17
+report 0 192 17
+also 0 192 17
+found 0 192 17
+that 0 192 17
+Russia’s 0 192 17
+primary 0 192 17
+propaganda 0 192 17
+outlet, 0 192 17
+RT, 0 192 17
+has 0 192 17
+actively 0 192 17
+collaborated 0 192 17
+with 0 192 17
+WikiLeaks,” 0 192 17
+he 0 192 17
+said. 0 192 17
 
-Pompeo 0
-favors 0
-increased 0
-U.S. 0
-involvement 0
-in 0
-Syria 0
-(hello, 1
-Russian 1
-proxy 1
-war), 1
-ratcheting 1
-pressure 0
-on 0
-Iran 0
-and 0
-regime 0
-change 0
-in 0
-North 0
-Korea. 0
+Pompeo 0 192 18
+favors 0 192 18
+increased 0 192 18
+U.S. 0 192 18
+involvement 0 192 18
+in 0 192 18
+Syria 0 192 18
+(hello, 1 192 18
+Russian 1 192 18
+proxy 1 192 18
+war), 1 192 18
+ratcheting 1 192 18
+pressure 0 192 18
+on 0 192 18
+Iran 0 192 18
+and 0 192 18
+regime 0 192 18
+change 0 192 18
+in 0 192 18
+North 0 192 18
+Korea. 0 192 18
 
-Clinton 0
-City… 0
+Clinton 0 192 19
+City… 0 192 19
 
-Moving 0
-on 0
-to 0
-Haspel, 0
-who 0
-will 0
-now 0
-be 0
-heading 0
-the 0
-CIA, 0
-nothing’s 1
-looking 1
-any 1
-brighter. 1
+Moving 0 192 20
+on 0 192 20
+to 0 192 20
+Haspel, 0 192 20
+who 0 192 20
+will 0 192 20
+now 0 192 20
+be 0 192 20
+heading 0 192 20
+the 0 192 20
+CIA, 0 192 20
+nothing’s 1 192 20
+looking 1 192 20
+any 1 192 20
+brighter. 1 192 20
 
-She’s 1
-a 1
-big 1
-fan 1
-of 1
-torture, 1
-according 0
-to 0
-a 0
-2013 0
-Washington 0
-Post 0
-article 0
-pointed 0
-out 0
-this 0
-morning 0
-by 0
-The 0
-Intercept: 0
+She’s 1 192 21
+a 1 192 21
+big 1 192 21
+fan 1 192 21
+of 1 192 21
+torture, 1 192 21
+according 0 192 21
+to 0 192 21
+a 0 192 21
+2013 0 192 21
+Washington 0 192 21
+Post 0 192 21
+article 0 192 21
+pointed 0 192 21
+out 0 192 21
+this 0 192 21
+morning 0 192 21
+by 0 192 21
+The 0 192 21
+Intercept: 0 192 21
 
-IN 0
-MAY 0
-2013, 0
-the 0
-Washington 0
-Post’s 0
-Greg 0
-Miller 0
-reported 0
-that 0
-the 0
-head 0
-of 0
-the 0
-CIA’s 0
-clandestine 0
-service 0
-was 0
-being 0
-shifted 0
-out 0
-of 0
-that 0
-position 0
-as 0
-a 0
-result 0
-of 0
-“a 0
-management 0
-shake-up” 0
-by 0
-then-Director 0
-John 0
-Brennan. 0
+IN 0 192 22
+MAY 0 192 22
+2013, 0 192 22
+the 0 192 22
+Washington 0 192 22
+Post’s 0 192 22
+Greg 0 192 22
+Miller 0 192 22
+reported 0 192 22
+that 0 192 22
+the 0 192 22
+head 0 192 22
+of 0 192 22
+the 0 192 22
+CIA’s 0 192 22
+clandestine 0 192 22
+service 0 192 22
+was 0 192 22
+being 0 192 22
+shifted 0 192 22
+out 0 192 22
+of 0 192 22
+that 0 192 22
+position 0 192 22
+as 0 192 22
+a 0 192 22
+result 0 192 22
+of 0 192 22
+“a 0 192 22
+management 0 192 22
+shake-up” 0 192 22
+by 0 192 22
+then-Director 0 192 22
+John 0 192 22
+Brennan. 0 192 22
 
-As 0
-Miller 0
-documented, 0
-this 0
-official 0
-— 0
-whom 0
-the 0
-paper 0
-did 0
-not 0
-name 0
-because 0
-she 0
-was 0
-a 0
-covert 0
-agent 0
-at 0
-the 0
-time 0
-— 0
-was 0
-centrally 0
-involved 0
-in 0
-the 1
-worst 1
-abuses 1
-of 1
-the 1
-CIA’s 1
-Bush-era 1
-torture 1
-regime. 1
+As 0 192 23
+Miller 0 192 23
+documented, 0 192 23
+this 0 192 23
+official 0 192 23
+— 0 192 23
+whom 0 192 23
+the 0 192 23
+paper 0 192 23
+did 0 192 23
+not 0 192 23
+name 0 192 23
+because 0 192 23
+she 0 192 23
+was 0 192 23
+a 0 192 23
+covert 0 192 23
+agent 0 192 23
+at 0 192 23
+the 0 192 23
+time 0 192 23
+— 0 192 23
+was 0 192 23
+centrally 0 192 23
+involved 0 192 23
+in 0 192 23
+the 1 192 23
+worst 1 192 23
+abuses 1 192 23
+of 1 192 23
+the 1 192 23
+CIA’s 1 192 23
+Bush-era 1 192 23
+torture 1 192 23
+regime. 1 192 23
 
-As 0
-Miller 0
-put 0
-it, 0
-she 0
-was 0
-“directly 0
-involved 0
-in 0
-its 0
-controversial 0
-interrogation 0
-program” 0
-and 0
-had 0
-an 0
-“extensive 0
-role” 0
-in 0
-torturing 0
-detainees. 0
+As 0 192 24
+Miller 0 192 24
+put 0 192 24
+it, 0 192 24
+she 0 192 24
+was 0 192 24
+“directly 0 192 24
+involved 0 192 24
+in 0 192 24
+its 0 192 24
+controversial 0 192 24
+interrogation 0 192 24
+program” 0 192 24
+and 0 192 24
+had 0 192 24
+an 0 192 24
+“extensive 0 192 24
+role” 0 192 24
+in 0 192 24
+torturing 0 192 24
+detainees. 0 192 24
 
-Even 0
-more 0
-troubling, 0
-she 0
-“had 0
-run 0
-a 0
-secret 0
-prison 0
-in 0
-Thailand” 0
-— 0
-part 0
-of 0
-the 0
-CIA’s 0
-network 0
-of 0
-“black 0
-sites” 0
-— 0
-“where 0
-two 0
-detainees 0
-were 0
-subjected 0
-to 0
-waterboarding 0
-and 0
-other 0
-harsh 1
-techniques.” 1
-The 0
-Senate 0
-Intelligence 0
-Committee’s 0
-report 0
-on 0
-torture 0
-also 0
-detailed 0
-the 0
-central 0
-role 0
-she 0
-played 0
-in 0
-the 0
-particularly 1
-gruesome 1
-torture 1
-of 0
-detainee 0
-Abu 0
-Zubaydah. 0
+Even 0 192 25
+more 0 192 25
+troubling, 0 192 25
+she 0 192 25
+“had 0 192 25
+run 0 192 25
+a 0 192 25
+secret 0 192 25
+prison 0 192 25
+in 0 192 25
+Thailand” 0 192 25
+— 0 192 25
+part 0 192 25
+of 0 192 25
+the 0 192 25
+CIA’s 0 192 25
+network 0 192 25
+of 0 192 25
+“black 0 192 25
+sites” 0 192 25
+— 0 192 25
+“where 0 192 25
+two 0 192 25
+detainees 0 192 25
+were 0 192 25
+subjected 0 192 25
+to 0 192 25
+waterboarding 0 192 25
+and 0 192 25
+other 0 192 25
+harsh 1 192 25
+techniques.” 1 192 25
+The 0 192 25
+Senate 0 192 25
+Intelligence 0 192 25
+Committee’s 0 192 25
+report 0 192 25
+on 0 192 25
+torture 0 192 25
+also 0 192 25
+detailed 0 192 25
+the 0 192 25
+central 0 192 25
+role 0 192 25
+she 0 192 25
+played 0 192 25
+in 0 192 25
+the 0 192 25
+particularly 1 192 25
+gruesome 1 192 25
+torture 1 192 25
+of 0 192 25
+detainee 0 192 25
+Abu 0 192 25
+Zubaydah. 0 192 25
 
-Beyond 0
-all 0
-that, 0
-she 0
-played 0
-a 0
-vital 0
-role 0
-in 0
-the 0
-destruction 0
-of 0
-interrogation 0
-videotapes 0
-that 0
-showed 0
-the 0
-torture 0
-of 0
-detainees 0
-both 0
-at 0
-the 0
-black 0
-site 0
-she 0
-ran 0
-and 0
-other 0
-secret 0
-agency 0
-locations. 0
+Beyond 0 192 26
+all 0 192 26
+that, 0 192 26
+she 0 192 26
+played 0 192 26
+a 0 192 26
+vital 0 192 26
+role 0 192 26
+in 0 192 26
+the 0 192 26
+destruction 0 192 26
+of 0 192 26
+interrogation 0 192 26
+videotapes 0 192 26
+that 0 192 26
+showed 0 192 26
+the 0 192 26
+torture 0 192 26
+of 0 192 26
+detainees 0 192 26
+both 0 192 26
+at 0 192 26
+the 0 192 26
+black 0 192 26
+site 0 192 26
+she 0 192 26
+ran 0 192 26
+and 0 192 26
+other 0 192 26
+secret 0 192 26
+agency 0 192 26
+locations. 0 192 26
 
-The 0
-concealment 0
-of 0
-those 0
-interrogation 0
-tapes, 0
-which 0
-violated 0
-multiple 0
-court 0
-orders 0
-as 0
-well 0
-as 0
-the 0
-demands 0
-of 0
-the 0
-9/11 0
-commission 0
-and 0
-the 0
-advice 0
-of 0
-White 0
-House 0
-lawyers, 0
-was 0
-condemned 0
-as 0
-“obstruction” 0
-by 0
-commission 0
-chairs 0
-Lee 0
-Hamilton 0
-and 0
-Thomas 0
-Keane. 0
+The 0 192 27
+concealment 0 192 27
+of 0 192 27
+those 0 192 27
+interrogation 0 192 27
+tapes, 0 192 27
+which 0 192 27
+violated 0 192 27
+multiple 0 192 27
+court 0 192 27
+orders 0 192 27
+as 0 192 27
+well 0 192 27
+as 0 192 27
+the 0 192 27
+demands 0 192 27
+of 0 192 27
+the 0 192 27
+9/11 0 192 27
+commission 0 192 27
+and 0 192 27
+the 0 192 27
+advice 0 192 27
+of 0 192 27
+White 0 192 27
+House 0 192 27
+lawyers, 0 192 27
+was 0 192 27
+condemned 0 192 27
+as 0 192 27
+“obstruction” 0 192 27
+by 0 192 27
+commission 0 192 27
+chairs 0 192 27
+Lee 0 192 27
+Hamilton 0 192 27
+and 0 192 27
+Thomas 0 192 27
+Keane. 0 192 27
 
-A 0
-special 0
-prosecutor 0
-and 0
-grand 0
-jury 0
-investigated 0
-those 0
-actions 0
-but 0
-ultimately 0
-chose 0
-not 0
-to 0
-prosecute. 0
+A 0 192 28
+special 0 192 28
+prosecutor 0 192 28
+and 0 192 28
+grand 0 192 28
+jury 0 192 28
+investigated 0 192 28
+those 0 192 28
+actions 0 192 28
+but 0 192 28
+ultimately 0 192 28
+chose 0 192 28
+not 0 192 28
+to 0 192 28
+prosecute. 0 192 28
 
-Bottom 0
-line, 0
-George 0
-W. 0
-Bush/Barack 0
-Obama 0
-era 0
-foreign 0
-policy 0
-and 0
-intelligence 0
-doctrines 0
-aren’t 0
-going 0
-anywhere 0
-under 0
-Trump. 0
+Bottom 0 192 28
+
+line, 0 192 28
+
+George 0 192 28
+
+W. 0 192 28
+
+Bush/Barack 0 192 28
+
+Obama 0 192 28
+
+era 0 192 28
+
+foreign 0 192 28
+
+policy 0 192 28
+
+and 0 192 28
+
+intelligence 0 192 28
+
+doctrines 0 192 28
+
+aren’t 0 192 28
+
+going 0 192 28
+
+anywhere 0 192 28
+
+under 0 192 28
+
+Trump. 0 192 28

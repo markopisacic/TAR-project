@@ -1,650 +1,656 @@
-Sore 0
-Loser: 0
-Stacey 0
-Abrams 0
-Ends 0
-Challenges 0
-In 0
-Georgia 0
-Gubernatorial 0
-Race 0
-- 0
-Won't 0
-Concede 0
-- 0
-Set 0
-To 0
-File 0
-Lawsuit 0
+Sore 0 431 0
+Loser: 0 431 0
+Stacey 0 431 0
+Abrams 0 431 0
+Ends 0 431 0
+Challenges 0 431 0
+In 0 431 0
+Georgia 0 431 0
+Gubernatorial 0 431 0
+Race 0 431 0
+- 0 431 0
+Won't 0 431 0
+Concede 0 431 0
+- 0 431 0
+Set 0 431 0
+To 0 431 0
+File 0 431 0
+Lawsuit 0 431 0
 
-Defeated 1
-Georgia 1
-gubernatorial 1
-candidate 1
-Stacey 0
-Abrams 0
-finally 0
-ended 0
-her 0
-challenges 0
-on 0
-Friday 0
-and 0
-ended 0
-her 0
-challenges 0
-against 0
-Republican 0
-opponent 0
-Brian 0
-Kemp. 0
+Defeated 1 431 1
+Georgia 1 431 1
+gubernatorial 1 431 1
+candidate 1 431 1
+Stacey 0 431 1
+Abrams 0 431 1
+finally 0 431 1
+ended 0 431 1
+her 0 431 1
+challenges 0 431 1
+on 0 431 1
+Friday 0 431 1
+and 0 431 1
+ended 0 431 1
+her 0 431 1
+challenges 0 431 1
+against 0 431 1
+Republican 0 431 1
+opponent 0 431 1
+Brian 0 431 1
+Kemp. 0 431 1
 
-However, 0
-in 0
-the 0
-same 0
-breath 0
-that 0
-she 0
-ended 0
-the 0
-challenges, 0
-she 0
-also 0
-declared 0
-she 0
-would 0
-be 0
-filing 0
-a 0
-federal 0
-lawsuit 0
-over 0
-what 0
-she 0
-called 0
-"gross 1
-mismanagement" 1
-of 0
-elections. 0
+However, 0 431 2
+in 0 431 2
+the 0 431 2
+same 0 431 2
+breath 0 431 2
+that 0 431 2
+she 0 431 2
+ended 0 431 2
+the 0 431 2
+challenges, 0 431 2
+she 0 431 2
+also 0 431 2
+declared 0 431 2
+she 0 431 2
+would 0 431 2
+be 0 431 2
+filing 0 431 2
+a 0 431 2
+federal 0 431 2
+lawsuit 0 431 2
+over 0 431 2
+what 0 431 2
+she 0 431 2
+called 0 431 2
+"gross 1 431 2
+mismanagement" 1 431 2
+of 0 431 2
+elections. 0 431 2
 
-If 1
-you 1
-ask 1
-me, 1
-all 1
-she's 1
-looking 1
-for 1
-here 1
-will 1
-only 1
-hurt 1
-herself 1
-and 1
-her 1
-own 1
-party. 1
+If 1 431 3
+you 1 431 3
+ask 1 431 3
+me, 1 431 3
+all 1 431 3
+she's 1 431 3
+looking 1 431 3
+for 1 431 3
+here 1 431 3
+will 1 431 3
+only 1 431 3
+hurt 1 431 3
+herself 1 431 3
+and 1 431 3
+her 1 431 3
+own 1 431 3
+party. 1 431 3
 
-This 0
-woman 0
-wouldn't 0
-even 0
-concede! 0
+This 0 431 4
+woman 0 431 4
+wouldn't 0 431 4
+even 0 431 4
+concede! 0 431 4
 
-Talk 1
-about 1
-a 1
-poor 1
-sport, 1
-but 0
-Democrats 0
-are 0
-often 0
-like 0
-that 0
-in 0
-these 0
-races. 0
+Talk 1 431 5
+about 1 431 5
+a 1 431 5
+poor 1 431 5
+sport, 1 431 5
+but 0 431 5
+Democrats 0 431 5
+are 0 431 5
+often 0 431 5
+like 0 431 5
+that 0 431 5
+in 0 431 5
+these 0 431 5
+races. 0 431 5
 
-The 0
-Atlanta 0
-Journal-Constitution 0
-reported: 0
+The 0 431 6
+Atlanta 0 431 6
+Journal-Constitution 0 431 6
+reported: 0 431 6
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+take 0 431 7
+our 0 431 7
+poll 0 431 7
+- 0 431 7
+story 0 431 7
+continues 0 431 7
+below 0 431 7
+Should 0 431 7
+Jim 0 431 7
+Acosta 0 431 7
+have 0 431 7
+gotten 0 431 7
+his 0 431 7
+press 0 431 7
+pass 0 431 7
+back? 0 431 7
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 431 8
+Jim 0 431 8
+Acosta 0 431 8
+have 0 431 8
+gotten 0 431 8
+his 0 431 8
+press 0 431 8
+pass 0 431 8
+back? 0 431 8
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 431 9
+Jim 0 431 9
+Acosta 0 431 9
+have 0 431 9
+gotten 0 431 9
+his 0 431 9
+press 0 431 9
+pass 0 431 9
+back? 0 431 9
 
-* 0
-Yes, 0
-he 0
-should 0
-have 0
-gotten 0
-it 0
-back. 0
+* 0 431 10
+Yes, 0 431 10
+he 0 431 10
+should 0 431 10
+have 0 431 10
+gotten 0 431 10
+it 0 431 10
+back. 0 431 10
 
-No, 0
-you 0
-can't 0
-act 0
-like 0
-a 0
-child 0
-and 0
-keep 0
-your 0
-pass. 0
+No, 0 431 11
+you 0 431 11
+can't 0 431 11
+act 0 431 11
+like 0 431 11
+a 0 431 11
+child 0 431 11
+and 0 431 11
+keep 0 431 11
+your 0 431 11
+pass. 0 431 11
 
-Maybe? 0
+Maybe? 0 431 12
 
-I'm 0
-not 0
-sure 0
-if 0
-he 0
-should 0
-have. 0
+I'm 0 431 13
+not 0 431 13
+sure 0 431 13
+if 0 431 13
+he 0 431 13
+should 0 431 13
+have. 0 431 13
 
-Email 0
-* 0
+Email 0 431 14
+* 0 431 14
 
-Comments 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Comments 0 431 15
+This 0 431 15
+field 0 431 15
+is 0 431 15
+for 0 431 15
+validation 0 431 15
+purposes 0 431 15
+and 0 431 15
+should 0 431 15
+be 0 431 15
+left 0 431 15
+unchanged. 0 431 15
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 431 16
+this 0 431 16
+poll 0 431 16
+grants 0 431 16
+you 0 431 16
+access 0 431 16
+to 0 431 16
+Freedom 0 431 16
+Outpost 0 431 16
+updates 0 431 16
+free 0 431 16
+of 0 431 16
+charge. 0 431 16
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 431 17
+may 0 431 17
+opt 0 431 17
+out 0 431 17
+at 0 431 17
+anytime. 0 431 17
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 431 18
+also 0 431 18
+agree 0 431 18
+to 0 431 18
+this 0 431 18
+site's 0 431 18
+Privacy 0 431 18
+Policy 0 431 18
+and 0 431 18
+Terms 0 431 18
+of 0 431 18
+Use. 0 431 18
 
-Stacey 0
-Abrams 0
-ended 0
-her 0
-run 0
-for 0
-Georgia 0
-governor 0
-on 0
-Friday, 0
-but 0
-the 0
-Democrat 0
-said 0
-she 0
-would 0
-not 0
-concede 0
-the 0
-contest 0
-to 0
-Republican 0
-Brian 0
-Kemp 0
-and 0
-planned 0
-to 0
-launch 0
-a 0
-voting 0
-rights 0
-group 0
-to 0
-file 0
-“major” 0
-litigation 0
-challenging 0
-election 0
-policies. 0
+Stacey 0 431 19
+Abrams 0 431 19
+ended 0 431 19
+her 0 431 19
+run 0 431 19
+for 0 431 19
+Georgia 0 431 19
+governor 0 431 19
+on 0 431 19
+Friday, 0 431 19
+but 0 431 19
+the 0 431 19
+Democrat 0 431 19
+said 0 431 19
+she 0 431 19
+would 0 431 19
+not 0 431 19
+concede 0 431 19
+the 0 431 19
+contest 0 431 19
+to 0 431 19
+Republican 0 431 19
+Brian 0 431 19
+Kemp 0 431 19
+and 0 431 19
+planned 0 431 19
+to 0 431 19
+launch 0 431 19
+a 0 431 19
+voting 0 431 19
+rights 0 431 19
+group 0 431 19
+to 0 431 19
+file 0 431 19
+“major” 0 431 19
+litigation 0 431 19
+challenging 0 431 19
+election 0 431 19
+policies. 0 431 19
 
-As 0
-state 0
-officials 0
-prepare 0
-to 0
-certify 0
-the 0
-vote, 0
-Abrams 0
-acknowledged 0
-the 0
-law 0
-“allows 0
-no 0
-further 0
-viable 0
-remedy” 0
-to 0
-extend 0
-her 0
-quest 0
-to 0
-be 0
-the 0
-nation’s 0
-first 0
-black 0
-female 0
-governor. 0
+As 0 431 20
+state 0 431 20
+officials 0 431 20
+prepare 0 431 20
+to 0 431 20
+certify 0 431 20
+the 0 431 20
+vote, 0 431 20
+Abrams 0 431 20
+acknowledged 0 431 20
+the 0 431 20
+law 0 431 20
+“allows 0 431 20
+no 0 431 20
+further 0 431 20
+viable 0 431 20
+remedy” 0 431 20
+to 0 431 20
+extend 0 431 20
+her 0 431 20
+quest 0 431 20
+to 0 431 20
+be 0 431 20
+the 0 431 20
+nation’s 0 431 20
+first 0 431 20
+black 0 431 20
+female 0 431 20
+governor. 0 431 20
 
-But 0
-she 0
-laced 0
-her 0
-speech 0
-with 0
-biting 0
-criticism 0
-of 0
-Kemp, 0
-who 0
-she 0
-accused 0
-of 0
-leveraging 0
-his 0
-role 0
-as 0
-the 0
-state’s 0
-top 0
-elections 0
-official 0
-to 0
-suppress 0
-voters. 0
+But 0 431 21
+she 0 431 21
+laced 0 431 21
+her 0 431 21
+speech 0 431 21
+with 0 431 21
+biting 0 431 21
+criticism 0 431 21
+of 0 431 21
+Kemp, 0 431 21
+who 0 431 21
+she 0 431 21
+accused 0 431 21
+of 0 431 21
+leveraging 0 431 21
+his 0 431 21
+role 0 431 21
+as 0 431 21
+the 0 431 21
+state’s 0 431 21
+top 0 431 21
+elections 0 431 21
+official 0 431 21
+to 0 431 21
+suppress 0 431 21
+voters. 0 431 21
 
-“I 0
-will 0
-not 0
-concede,” 0
-she 0
-added, 0
-“because 0
-the 0
-erosion 0
-of 0
-our 0
-democracy 0
-is 0
-not 0
-right.” 0
+“I 0 431 22
+will 0 431 22
+not 0 431 22
+concede,” 0 431 22
+she 0 431 22
+added, 0 431 22
+“because 0 431 22
+the 0 431 22
+erosion 0 431 22
+of 0 431 22
+our 0 431 22
+democracy 0 431 22
+is 0 431 22
+not 0 431 22
+right.” 0 431 22
 
-You 1
-mean 1
-like 1
-having 1
-a 1
-sister 1
-waiting 1
-in 1
-the 1
-wings 1
-of 1
-any 1
-campaign 1
-lawsuits, 1
-Ms. 1
-Abrams? 1
+You 1 431 23
+mean 1 431 23
+like 1 431 23
+having 1 431 23
+a 1 431 23
+sister 1 431 23
+waiting 1 431 23
+in 1 431 23
+the 1 431 23
+wings 1 431 23
+of 1 431 23
+any 1 431 23
+campaign 1 431 23
+lawsuits, 1 431 23
+Ms. 1 431 23
+Abrams? 1 431 23
 
-What 1
-about 1
-invalid 1
-provisional 1
-ballots 1
-getting 1
-mixed 1
-in 1
-with 1
-valid 1
-ones? 1
+What 1 431 24
+about 1 431 24
+invalid 1 431 24
+provisional 1 431 24
+ballots 1 431 24
+getting 1 431 24
+mixed 1 431 24
+in 1 431 24
+with 1 431 24
+valid 1 431 24
+ones? 1 431 24
 
-Maybe 1
-a 1
-little 1
-electronic 1
-voter 1
-manipulation, 1
-Ms. 1
-Abrams? 1
+Maybe 1 431 25
+a 1 431 25
+little 1 431 25
+electronic 1 431 25
+voter 1 431 25
+manipulation, 1 431 25
+Ms. 1 431 25
+Abrams? 1 431 25
 
-How 1
-about 1
-non-citizens 1
-and 1
-illegal 1
-aliens 1
-voting, 1
-Ms. 1
-Abrams? 1
+How 1 431 26
+about 1 431 26
+non-citizens 1 431 26
+and 1 431 26
+illegal 1 431 26
+aliens 1 431 26
+voting, 1 431 26
+Ms. 1 431 26
+Abrams? 1 431 26
 
-Are 0
-these 0
-evidence 0
-of 0
-the 0
-erosion 0
-of 0
-the 0
-democratic 0
-process? 0
+Are 0 431 27
+these 0 431 27
+evidence 0 431 27
+of 0 431 27
+the 0 431 27
+erosion 0 431 27
+of 0 431 27
+the 0 431 27
+democratic 0 431 27
+process? 0 431 27
 
-Sure 0
-they 0
-are 0
-and 0
-they 0
-appear 0
-to 0
-all 0
-be 0
-coming 0
-from 0
-the 0
-party 0
-that 0
-Stacey 0
-Abrams 0
-represents, 0
-but 0
-she's 0
-not 0
-going 0
-to 0
-talk 0
-about 0
-that. 0
+Sure 0 431 28
+they 0 431 28
+are 0 431 28
+and 0 431 28
+they 0 431 28
+appear 0 431 28
+to 0 431 28
+all 0 431 28
+be 0 431 28
+coming 0 431 28
+from 0 431 28
+the 0 431 28
+party 0 431 28
+that 0 431 28
+Stacey 0 431 28
+Abrams 0 431 28
+represents, 0 431 28
+but 0 431 28
+she's 0 431 28
+not 0 431 28
+going 0 431 28
+to 0 431 28
+talk 0 431 28
+about 0 431 28
+that. 0 431 28
 
-But 0
-she 0
-wasn't 0
-going 0
-to 0
-concede. 0
+But 0 431 29
+she 0 431 29
+wasn't 0 431 29
+going 0 431 29
+to 0 431 29
+concede. 0 431 29
 
-Nope, 0
-that 0
-arrogant 0
-wanna-be 0
-first 0
-female 0
-governor 0
-of 0
-Georgia 0
-simply 0
-would 0
-not 0
-bow 0
-out 0
-gracefully. 0
+Nope, 0 431 30
+that 0 431 30
+arrogant 0 431 30
+wanna-be 0 431 30
+first 0 431 30
+female 0 431 30
+governor 0 431 30
+of 0 431 30
+Georgia 0 431 30
+simply 0 431 30
+would 0 431 30
+not 0 431 30
+bow 0 431 30
+out 0 431 30
+gracefully. 0 431 30
 
-“To 0
-watch 0
-an 0
-elected 0
-official 0
-who 0
-claims 0
-to 0
-represent 0
-the 0
-people 0
-in 0
-this 0
-state 0
-baldly 1
-pin 1
-his 1
-hopes 1
-for 0
-election 0
-on 0
-the 0
-suppression 0
-of 0
-the 0
-people’s 0
-democratic 0
-right 0
-to 0
-vote 0
-has 0
-been 0
-truly 0
-appalling,” 0
-Abrams 0
-said. 0
+“To 0 431 31
+watch 0 431 31
+an 0 431 31
+elected 0 431 31
+official 0 431 31
+who 0 431 31
+claims 0 431 31
+to 0 431 31
+represent 0 431 31
+the 0 431 31
+people 0 431 31
+in 0 431 31
+this 0 431 31
+state 0 431 31
+baldly 1 431 31
+pin 1 431 31
+his 1 431 31
+hopes 1 431 31
+for 0 431 31
+election 0 431 31
+on 0 431 31
+the 0 431 31
+suppression 0 431 31
+of 0 431 31
+the 0 431 31
+people’s 0 431 31
+democratic 0 431 31
+right 0 431 31
+to 0 431 31
+vote 0 431 31
+has 0 431 31
+been 0 431 31
+truly 0 431 31
+appalling,” 0 431 31
+Abrams 0 431 31
+said. 0 431 31
 
-“So, 0
-let’s 0
-be 0
-clear," 0
-she 0
-continued. 0
+“So, 0 431 32
+let’s 0 431 32
+be 0 431 32
+clear," 0 431 32
+she 0 431 32
+continued. 0 431 32
 
-"This 0
-is 0
-not 0
-a 0
-speech 0
-of 0
-concession. 0
+"This 0 431 33
+is 0 431 33
+not 0 431 33
+a 0 431 33
+speech 0 431 33
+of 0 431 33
+concession. 0 431 33
 
-Because 0
-concession 0
-means 0
-to 0
-acknowledge 0
-an 0
-action 0
-is 0
-right, 0
-true 0
-or 0
-proper. 0
+Because 0 431 34
+concession 0 431 34
+means 0 431 34
+to 0 431 34
+acknowledge 0 431 34
+an 0 431 34
+action 0 431 34
+is 0 431 34
+right, 0 431 34
+true 0 431 34
+or 0 431 34
+proper. 0 431 34
 
-As 0
-a 0
-woman 0
-of 0
-conscience 0
-and 0
-faith, 0
-I 0
-cannot 0
-concede 0
-that. 0
+As 0 431 35
+a 0 431 35
+woman 0 431 35
+of 0 431 35
+conscience 0 431 35
+and 0 431 35
+faith, 0 431 35
+I 0 431 35
+cannot 0 431 35
+concede 0 431 35
+that. 0 431 35
 
-But 0
-my 0
-assessment 0
-is 0
-the 0
-law 0
-currently 0
-allows 0
-no 0
-further 0
-viable 0
-remedy.” 0
+But 0 431 36
+my 0 431 36
+assessment 0 431 36
+is 0 431 36
+the 0 431 36
+law 0 431 36
+currently 0 431 36
+allows 0 431 36
+no 0 431 36
+further 0 431 36
+viable 0 431 36
+remedy.” 0 431 36
 
-No, 0
-concession 0
-means 0
-"a 0
-thing 0
-that 0
-is 0
-granted, 0
-especially 0
-in 0
-response 0
-to 0
-demands; 0
-a 0
-thing 0
-conceded." 0
+No, 0 431 37
+concession 0 431 37
+means 0 431 37
+"a 0 431 37
+thing 0 431 37
+that 0 431 37
+is 0 431 37
+granted, 0 431 37
+especially 0 431 37
+in 0 431 37
+response 0 431 37
+to 0 431 37
+demands; 0 431 37
+a 0 431 37
+thing 0 431 37
+conceded." 0 431 37
 
-Abrams 0
-was 0
-easily 0
-defeated 0
-in 0
-terms 0
-of 0
-votes. 0
+Abrams 0 431 38
+was 0 431 38
+easily 0 431 38
+defeated 0 431 38
+in 0 431 38
+terms 0 431 38
+of 0 431 38
+votes. 0 431 38
 
-She 0
-was 0
-the 0
-one 0
-trying 0
-to 0
-"find" 0
-and 0
-count 0
-votes 0
-remember? 0
+She 0 431 39
+was 0 431 39
+the 0 431 39
+one 0 431 39
+trying 0 431 39
+to 0 431 39
+"find" 0 431 39
+and 0 431 39
+count 0 431 39
+votes 0 431 39
+remember? 0 431 39
 
-She 0
-is 0
-the 0
-one 0
-claiming 0
-there 0
-was 0
-cancellation 0
-of 0
-hundreds 0
-of 0
-thousands 0
-of 0
-voter 0
-registrations. 0
+She 0 431 40
+is 0 431 40
+the 0 431 40
+one 0 431 40
+claiming 0 431 40
+there 0 431 40
+was 0 431 40
+cancellation 0 431 40
+of 0 431 40
+hundreds 0 431 40
+of 0 431 40
+thousands 0 431 40
+of 0 431 40
+voter 0 431 40
+registrations. 0 431 40
 
-Where 0
-is 0
-her 0
-evidence? 0
+Where 0 431 41
+is 0 431 41
+her 0 431 41
+evidence? 0 431 41
 
-She 0
-has 0
-none. 0
+She 0 431 42
+has 0 431 42
+none. 0 431 42
 
-Stacey 0
-Abrams 0
-is 0
-a 0
-sore 0
-loser 0
-just 0
-like 0
-Hillary 0
-Clinton 0
-and 0
-this 0
-little 0
-temper 0
-tantrum 0
-she 0
-put 0
-on 0
-display 0
-will 0
-probably 0
-sink 1
-any 1
-chances 1
-she 0
-may 0
-have 0
-had 0
-in 0
-the 0
-future 0
-to 0
-run 0
-again. 0
+Stacey 0 431 43
+Abrams 0 431 43
+is 0 431 43
+a 0 431 43
+sore 0 431 43
+loser 0 431 43
+just 0 431 43
+like 0 431 43
+Hillary 0 431 43
+Clinton 0 431 43
+and 0 431 43
+this 0 431 43
+little 0 431 43
+temper 0 431 43
+tantrum 0 431 43
+she 0 431 43
+put 0 431 43
+on 0 431 43
+display 0 431 43
+will 0 431 43
+probably 0 431 43
+sink 1 431 43
+any 1 431 43
+chances 1 431 43
+she 0 431 43
+may 0 431 43
+have 0 431 43
+had 0 431 43
+in 0 431 43
+the 0 431 43
+future 0 431 43
+to 0 431 43
+run 0 431 43
+again. 0 431 43
 
-Good! 1
+Good! 1 431 44
 
-Thank 1
-God, 1
-Georgia 1
-didn't 1
-elect 1
-this 1
-peach. 1
+Thank 1 431 44
+
+God, 1 431 44
+
+Georgia 1 431 44
+
+didn't 1 431 44
+
+elect 1 431 44
+
+this 1 431 44
+
+peach. 1 431 44

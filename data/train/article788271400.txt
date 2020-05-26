@@ -1,944 +1,947 @@
-Are 0
-You 0
-Kidding 0
-Me, 0
-Ted 0
-Cruz? 0
-Don't 0
-"Blame 0
-The 0
-Police 0
-Officer" 0
-Who 0
-Admitted 0
-Killing 0
-Botham 0
-Jean? 0
+Are 0 356 0
+You 0 356 0
+Kidding 0 356 0
+Me, 0 356 0
+Ted 0 356 0
+Cruz? 0 356 0
 
-Dallas, 0
+Don't 0 356 1
+"Blame 0 356 1
+The 0 356 1
+Police 0 356 1
+Officer" 0 356 1
+Who 0 356 1
+Admitted 0 356 1
+Killing 0 356 1
+Botham 0 356 1
+Jean? 0 356 1
 
-TX 0
-— 0
-In 0
-a 0
-repugnant 1
-and 0
-outright 0
-disrespectful 1
-move, 0
-Texas 0
-Senator 0
-Ted 0
-Cruz 0
-went 0
-to 0
-bat 0
-for 0
-Amber 0
-Guyger, 0
-the 0
-cop 0
-who 0
-admitted 0
-to 0
-taking 0
-the 0
-life 0
-of 0
-the 0
-innocent 1
-26-year-old 0
-pillar 1
-of 1
-society, 1
-Botham 0
-Jean. 0
+Dallas, 0 356 2
+TX 0 356 2
+— 0 356 2
+In 0 356 2
+a 0 356 2
+repugnant 1 356 2
+and 0 356 2
+outright 0 356 2
+disrespectful 1 356 2
+move, 0 356 2
+Texas 0 356 2
+Senator 0 356 2
+Ted 0 356 2
+Cruz 0 356 2
+went 0 356 2
+to 0 356 2
+bat 0 356 2
+for 0 356 2
+Amber 0 356 2
+Guyger, 0 356 2
+the 0 356 2
+cop 0 356 2
+who 0 356 2
+admitted 0 356 2
+to 0 356 2
+taking 0 356 2
+the 0 356 2
+life 0 356 2
+of 0 356 2
+the 0 356 2
+innocent 1 356 2
+26-year-old 0 356 2
+pillar 1 356 2
+of 1 356 2
+society, 1 356 2
+Botham 0 356 2
+Jean. 0 356 2
 
-During 0
-an 0
-interview 0
-over 0
-the 0
-weekend, 0
-Cruz 0
-sat 0
-down 0
-with 0
-FOX 0
-26 0
-who 0
-started 0
-with 0
-the 0
-question 0
-of 0
-what 0
-he 0
-thought 0
-about 0
-the 0
-tragic 1
-killing 0
-of 0
-Jean 0
-by 0
-Guyger. 0
+During 0 356 3
+an 0 356 3
+interview 0 356 3
+over 0 356 3
+the 0 356 3
+weekend, 0 356 3
+Cruz 0 356 3
+sat 0 356 3
+down 0 356 3
+with 0 356 3
+FOX 0 356 3
+26 0 356 3
+who 0 356 3
+started 0 356 3
+with 0 356 3
+the 0 356 3
+question 0 356 3
+of 0 356 3
+what 0 356 3
+he 0 356 3
+thought 0 356 3
+about 0 356 3
+the 0 356 3
+tragic 1 356 3
+killing 0 356 3
+of 0 356 3
+Jean 0 356 3
+by 0 356 3
+Guyger. 0 356 3
 
-FOX 0
-26 0
-asked 0
-Cruz 0
-to 0
-respond 0
-to 0
-his 0
-Democratic 0
-midterm 0
-rival, 0
-Beto 0
-O’Rourke, 0
-who 0
-called 0
-for 0
-officer 0
-Guyger 0
-to 0
-be 0
-fired. 0
+FOX 0 356 4
+26 0 356 4
+asked 0 356 4
+Cruz 0 356 4
+to 0 356 4
+respond 0 356 4
+to 0 356 4
+his 0 356 4
+Democratic 0 356 4
+midterm 0 356 4
+rival, 0 356 4
+Beto 0 356 4
+O’Rourke, 0 356 4
+who 0 356 4
+called 0 356 4
+for 0 356 4
+officer 0 356 4
+Guyger 0 356 4
+to 0 356 4
+be 0 356 4
+fired. 0 356 4
 
-“I 0
-think 0
-we 0
-are 0
-all 0
-counting 0
-on 0
-the 0
-district 0
-attorney, 0
-on 0
-those 0
-in 0
-positions 0
-of 0
-trust 0
-and 0
-power 0
-right 0
-now, 0
-to 0
-do 0
-the 0
-right 0
-thing,” 0
-O’Rourke 0
-said, 0
-implying 0
-that, 0
-at 0
-the 0
-very 0
-minimum, 0
-Amber 0
-Guyger 0
-should 0
-be 0
-fired. 0
+“I 0 356 5
+think 0 356 5
+we 0 356 5
+are 0 356 5
+all 0 356 5
+counting 0 356 5
+on 0 356 5
+the 0 356 5
+district 0 356 5
+attorney, 0 356 5
+on 0 356 5
+those 0 356 5
+in 0 356 5
+positions 0 356 5
+of 0 356 5
+trust 0 356 5
+and 0 356 5
+power 0 356 5
+right 0 356 5
+now, 0 356 5
+to 0 356 5
+do 0 356 5
+the 0 356 5
+right 0 356 5
+thing,” 0 356 5
+O’Rourke 0 356 5
+said, 0 356 5
+implying 0 356 5
+that, 0 356 5
+at 0 356 5
+the 0 356 5
+very 0 356 5
+minimum, 0 356 5
+Amber 0 356 5
+Guyger 0 356 5
+should 0 356 5
+be 0 356 5
+fired. 0 356 5
 
-“There 0
-has 0
-to 0
-be 0
-a 0
-full 0
-accounting 0
-for 0
-how 0
-young 0
-black 0
-men 0
-continue 0
-to 0
-be 0
-killed 0
-in 0
-this 0
-country 0
-without 1
-accountability, 0
-without 1
-justice, 0
-without 1
-these 0
-full 0
-investigations, 0
-without 1
-respecting 0
-their 0
-civil 0
-rights. 0
+“There 0 356 6
+has 0 356 6
+to 0 356 6
+be 0 356 6
+a 0 356 6
+full 0 356 6
+accounting 0 356 6
+for 0 356 6
+how 0 356 6
+young 0 356 6
+black 0 356 6
+men 0 356 6
+continue 0 356 6
+to 0 356 6
+be 0 356 6
+killed 0 356 6
+in 0 356 6
+this 0 356 6
+country 0 356 6
+without 1 356 6
+accountability, 0 356 6
+without 1 356 6
+justice, 0 356 6
+without 1 356 6
+these 0 356 6
+full 0 356 6
+investigations, 0 356 6
+without 1 356 6
+respecting 0 356 6
+their 0 356 6
+civil 0 356 6
+rights. 0 356 6
 
-This 0
-cannot 0
-continue.” 0
+This 0 356 7
+cannot 0 356 7
+continue.” 0 356 7
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 356 8
+our 0 356 8
+poll 0 356 8
+- 0 356 8
+story 0 356 8
+continues 0 356 8
+below 0 356 8
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 356 9
+should 0 356 9
+replace 0 356 9
+Nikki 0 356 9
+Haley 0 356 9
+as 0 356 9
+our 0 356 9
+ambassador 0 356 9
+to 0 356 9
+the 0 356 9
+U.N.? 0 356 9
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 356 10
+should 0 356 10
+replace 0 356 10
+Nikki 0 356 10
+Haley 0 356 10
+as 0 356 10
+our 0 356 10
+ambassador 0 356 10
+to 0 356 10
+the 0 356 10
+U.N.? 0 356 10
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 356 11
+should 0 356 11
+replace 0 356 11
+Nikki 0 356 11
+Haley 0 356 11
+as 0 356 11
+our 0 356 11
+ambassador 0 356 11
+to 0 356 11
+the 0 356 11
+U.N.? 0 356 11
 
-* 0
-John 0
-Bolton 0
-Richard 0
-Grenell 0
-Dina 0
-Powell 0
-Heather 0
-Nauert 0
-Ivanka 0
-Trump 0
+* 0 356 12
+John 0 356 12
+Bolton 0 356 12
+Richard 0 356 12
+Grenell 0 356 12
+Dina 0 356 12
+Powell 0 356 12
+Heather 0 356 12
+Nauert 0 356 12
+Ivanka 0 356 12
+Trump 0 356 12
 
-Email 0
-* 0
+Email 0 356 13
+* 0 356 13
 
-Name 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Name 0 356 14
+This 0 356 14
+field 0 356 14
+is 0 356 14
+for 0 356 14
+validation 0 356 14
+purposes 0 356 14
+and 0 356 14
+should 0 356 14
+be 0 356 14
+left 0 356 14
+unchanged. 0 356 14
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 356 15
+this 0 356 15
+poll 0 356 15
+grants 0 356 15
+you 0 356 15
+access 0 356 15
+to 0 356 15
+Freedom 0 356 15
+Outpost 0 356 15
+updates 0 356 15
+free 0 356 15
+of 0 356 15
+charge. 0 356 15
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 356 16
+may 0 356 16
+opt 0 356 16
+out 0 356 16
+at 0 356 16
+anytime. 0 356 16
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 356 17
+also 0 356 17
+agree 0 356 17
+to 0 356 17
+this 0 356 17
+site's 0 356 17
+Privacy 0 356 17
+Policy 0 356 17
+and 0 356 17
+Terms 0 356 17
+of 0 356 17
+Use. 0 356 17
 
-In 0
-response, 0
-Cruz 0
-lashed 0
-out 0
-at 0
-O’Rourke, 0
-claiming 0
-that 0
-he 0
-is 0
-being 0
-too 0
-quick 0
-to 0
-judge. 0
+In 0 356 18
+response, 0 356 18
+Cruz 0 356 18
+lashed 0 356 18
+out 0 356 18
+at 0 356 18
+O’Rourke, 0 356 18
+claiming 0 356 18
+that 0 356 18
+he 0 356 18
+is 0 356 18
+being 0 356 18
+too 0 356 18
+quick 0 356 18
+to 0 356 18
+judge. 0 356 18
 
-“I 0
-wish 0
-Beto 0
-O’Rourke 0
-& 0
-Democrats 0
-weren’t 0
-so 0
-quick 0
-to 0
-always 0
-blame 0
-the 0
-police 0
-officer,” 0
-Cruz 0
-said 0
-Saturday 0
-during 0
-an 0
-interview 0
-with 0
-Houston’s 0
-KRIV. 0
+“I 0 356 19
+wish 0 356 19
+Beto 0 356 19
+O’Rourke 0 356 19
+& 0 356 19
+Democrats 0 356 19
+weren’t 0 356 19
+so 0 356 19
+quick 0 356 19
+to 0 356 19
+always 0 356 19
+blame 0 356 19
+the 0 356 19
+police 0 356 19
+officer,” 0 356 19
+Cruz 0 356 19
+said 0 356 19
+Saturday 0 356 19
+during 0 356 19
+an 0 356 19
+interview 0 356 19
+with 0 356 19
+Houston’s 0 356 19
+KRIV. 0 356 19
 
-“She 0
-may 0
-have 0
-been 0
-in 0
-the 0
-wrong 0
-… 0
-but 0
-I 0
-don’t 0
-think 0
-we 0
-should 0
-jump 0
-to 0
-conclusions.” 0
+“She 0 356 20
+may 0 356 20
+have 0 356 20
+been 0 356 20
+in 0 356 20
+the 0 356 20
+wrong 0 356 20
+… 0 356 20
+but 0 356 20
+I 0 356 20
+don’t 0 356 20
+think 0 356 20
+we 0 356 20
+should 0 356 20
+jump 0 356 20
+to 0 356 20
+conclusions.” 0 356 20
 
-Cruz 0
-responds 0
-to 0
-O'Rourke 0
-support 0
-for 0
-DPD 0
-firing 0
-Amber 0
-Guyger: 0
-"I 0
-wish 0
-Beto 0
-O’Rourke 0
-& 0
-Democrats 0
-weren’t 0
-so 0
-quick 0
-to 0
-always 0
-blame 0
-the 0
-police 0
-officer. 0
+Cruz 0 356 21
+responds 0 356 21
+to 0 356 21
+O'Rourke 0 356 21
+support 0 356 21
+for 0 356 21
+DPD 0 356 21
+firing 0 356 21
+Amber 0 356 21
+Guyger: 0 356 21
+"I 0 356 21
+wish 0 356 21
+Beto 0 356 21
+O’Rourke 0 356 21
+& 0 356 21
+Democrats 0 356 21
+weren’t 0 356 21
+so 0 356 21
+quick 0 356 21
+to 0 356 21
+always 0 356 21
+blame 0 356 21
+the 0 356 21
+police 0 356 21
+officer. 0 356 21
 
-... 0
-She 0
-may 0
-have 0
-been 0
-in 0
-the 0
-wrong 0
-... 0
-but 0
-I 0
-don’t 0
-think 0
-we 0
-should 0
-jump 0
-to 0
-conclusions" 0
-amid 0
-investigation 0
-https://t.co/68nHBodrOM 0
-— 0
-Patrick 0
-Svitek 0
-(@PatrickSvitek) 0
-September 0
-17, 0
-2018 0
+... 0 356 22
+She 0 356 22
+may 0 356 22
+have 0 356 22
+been 0 356 22
+in 0 356 22
+the 0 356 22
+wrong 0 356 22
+... 0 356 22
+but 0 356 22
+I 0 356 22
+don’t 0 356 22
+think 0 356 22
+we 0 356 22
+should 0 356 22
+jump 0 356 22
+to 0 356 22
+conclusions" 0 356 22
+amid 0 356 22
+investigation 0 356 22
+https://t.co/68nHBodrOM 0 356 22
+— 0 356 22
+Patrick 0 356 22
+Svitek 0 356 22
+(@PatrickSvitek) 0 356 22
+September 0 356 22
+17, 0 356 22
+2018 0 356 22
 
-Cruz 0
-then 0
-went 0
-on 0
-to 0
-call 0
-the 0
-situation 0
-a 0
-tragedy 0
-and 0
-said 0
-that 0
-if 0
-a 0
-jury 0
-of 0
-her 0
-peers 0
-finds 0
-she 0
-did 0
-something 0
-wrong 0
-then 0
-Guyger 0
-should 0
-suffer 0
-the 0
-consequences. 0
+Cruz 0 356 23
+then 0 356 23
+went 0 356 23
+on 0 356 23
+to 0 356 23
+call 0 356 23
+the 0 356 23
+situation 0 356 23
+a 0 356 23
+tragedy 0 356 23
+and 0 356 23
+said 0 356 23
+that 0 356 23
+if 0 356 23
+a 0 356 23
+jury 0 356 23
+of 0 356 23
+her 0 356 23
+peers 0 356 23
+finds 0 356 23
+she 0 356 23
+did 0 356 23
+something 0 356 23
+wrong 0 356 23
+then 0 356 23
+Guyger 0 356 23
+should 0 356 23
+suffer 0 356 23
+the 0 356 23
+consequences. 0 356 23
 
-To 0
-be 0
-clear, 0
-Amber 0
-Guyger 0
-admitted 0
-to 0
-doing 0
-something 0
-wrong. 0
+To 0 356 24
+be 0 356 24
+clear, 0 356 24
+Amber 0 356 24
+Guyger 0 356 24
+admitted 0 356 24
+to 0 356 24
+doing 0 356 24
+something 0 356 24
+wrong. 0 356 24
 
-While 0
-controversy 0
-swarms 0
-the 0
-case 0
-of 0
-why 0
-she 0
-may 0
-have 0
-killed 0
-Jean, 0
-there 0
-is 0
-no 0
-doubt 0
-that 0
-she 0
-did 0
-kill 0
-him. 0
+While 0 356 25
+controversy 0 356 25
+swarms 0 356 25
+the 0 356 25
+case 0 356 25
+of 0 356 25
+why 0 356 25
+she 0 356 25
+may 0 356 25
+have 0 356 25
+killed 0 356 25
+Jean, 0 356 25
+there 0 356 25
+is 0 356 25
+no 0 356 25
+doubt 0 356 25
+that 0 356 25
+she 0 356 25
+did 0 356 25
+kill 0 356 25
+him. 0 356 25
 
-This 0
-is 0
-a 0
-fact. 0
+This 0 356 26
+is 0 356 26
+a 0 356 26
+fact. 0 356 26
 
-This 0
-public 0
-servant 0
-walked 0
-into 0
-an 0
-innocent 1
-man’s 0
-home 0
-and 0
-shot 0
-him 0
-dead. 0
+This 0 356 27
+public 0 356 27
+servant 0 356 27
+walked 0 356 27
+into 0 356 27
+an 0 356 27
+innocent 1 356 27
+man’s 0 356 27
+home 0 356 27
+and 0 356 27
+shot 0 356 27
+him 0 356 27
+dead. 0 356 27
 
-Because 0
-of 0
-her 0
-actions, 0
-this 0
-man 0
-no 0
-longer 0
-lives. 0
+Because 0 356 28
+of 0 356 28
+her 0 356 28
+actions, 0 356 28
+this 0 356 28
+man 0 356 28
+no 0 356 28
+longer 0 356 28
+lives. 0 356 28
 
-That, 0
-Senator 0
-Ted 0
-Cruz, 0
-is 0
-wrong. 0
+That, 0 356 29
+Senator 0 356 29
+Ted 0 356 29
+Cruz, 0 356 29
+is 0 356 29
+wrong. 0 356 29
 
-Mistake 0
-or 0
-not, 0
-she 0
-killed 0
-an 0
-innocent 1
-man. 0
+Mistake 0 356 30
+or 0 356 30
+not, 0 356 30
+she 0 356 30
+killed 0 356 30
+an 0 356 30
+innocent 1 356 30
+man. 0 356 30
 
-She 0
-is 0
-the 0
-only 0
-one 0
-to 0
-blame 0
-and 0
-yet 0
-she 0
-is 0
-still 0
-collecting 0
-a 0
-paycheck 0
-from 0
-taxpayers. 0
+She 0 356 31
+is 0 356 31
+the 0 356 31
+only 0 356 31
+one 0 356 31
+to 0 356 31
+blame 0 356 31
+and 0 356 31
+yet 0 356 31
+she 0 356 31
+is 0 356 31
+still 0 356 31
+collecting 0 356 31
+a 0 356 31
+paycheck 0 356 31
+from 0 356 31
+taxpayers. 0 356 31
 
-Calling 0
-for 0
-Gugyer 0
-to 0
-be 0
-fired 0
-is 0
-not 0
-the 0
-same 0
-as 0
-calling 0
-for 0
-people 0
-to 0
-be 0
-fired 0
-for 0
-making 0
-stupid 0
-Instagram 0
-posts 0
-or 0
-saying 0
-stupid 0
-things—she 0
-killed 0
-an 0
-innocent 1
-man. 0
+Calling 0 356 32
+for 0 356 32
+Gugyer 0 356 32
+to 0 356 32
+be 0 356 32
+fired 0 356 32
+is 0 356 32
+not 0 356 32
+the 0 356 32
+same 0 356 32
+as 0 356 32
+calling 0 356 32
+for 0 356 32
+people 0 356 32
+to 0 356 32
+be 0 356 32
+fired 0 356 32
+for 0 356 32
+making 0 356 32
+stupid 0 356 32
+Instagram 0 356 32
+posts 0 356 32
+or 0 356 32
+saying 0 356 32
+stupid 0 356 32
+things—she 0 356 32
+killed 0 356 32
+an 0 356 32
+innocent 1 356 32
+man. 0 356 32
 
-At 0
-the 0
-very 0
-least, 0
-she 0
-should 0
-be 0
-fired 0
-from 0
-her 0
-job 0
-which 0
-gave 0
-her 0
-the 0
-gun 0
-to 0
-do 0
-it. 0
+At 0 356 33
+the 0 356 33
+very 0 356 33
+least, 0 356 33
+she 0 356 33
+should 0 356 33
+be 0 356 33
+fired 0 356 33
+from 0 356 33
+her 0 356 33
+job 0 356 33
+which 0 356 33
+gave 0 356 33
+her 0 356 33
+the 0 356 33
+gun 0 356 33
+to 0 356 33
+do 0 356 33
+it. 0 356 33
 
-What 0
-Ted 0
-Cruz 0
-is 0
-doing 0
-is 0
-the 0
-same 0
-thing 0
-the 0
-police 0
-and 0
-their 0
-apologists 0
-are 0
-doing. 0
+What 0 356 34
+Ted 0 356 34
+Cruz 0 356 34
+is 0 356 34
+doing 0 356 34
+is 0 356 34
+the 0 356 34
+same 0 356 34
+thing 0 356 34
+the 0 356 34
+police 0 356 34
+and 0 356 34
+their 0 356 34
+apologists 0 356 34
+are 0 356 34
+doing. 0 356 34
 
-They 0
-are 0
-treating 0
-Guyger 0
-differently 0
-because 0
-she 0
-is 0
-part 0
-of 0
-the 0
-system. 0
+They 0 356 35
+are 0 356 35
+treating 0 356 35
+Guyger 0 356 35
+differently 0 356 35
+because 0 356 35
+she 0 356 35
+is 0 356 35
+part 0 356 35
+of 0 356 35
+the 0 356 35
+system. 0 356 35
 
-In 0
-Cruz’s 0
-eyes, 0
-Guyger 0
-going 0
-into 0
-an 0
-apartment 0
-that 0
-wasn’t 0
-her’s 0
-and 0
-killing 0
-an 0
-innocent 1
-man 0
-was 0
-simply 0
-a 0
-case 0
-of 0
-being 0
-in 0
-the 0
-wrong 0
-place 0
-at 0
-the 0
-wrong 0
-time—a 0
-tragic 0
-mistake 0
-that 0
-ruined 0
-two 0
-lives, 0
-according 0
-to 0
-Cruz. 0
+In 0 356 36
+Cruz’s 0 356 36
+eyes, 0 356 36
+Guyger 0 356 36
+going 0 356 36
+into 0 356 36
+an 0 356 36
+apartment 0 356 36
+that 0 356 36
+wasn’t 0 356 36
+her’s 0 356 36
+and 0 356 36
+killing 0 356 36
+an 0 356 36
+innocent 1 356 36
+man 0 356 36
+was 0 356 36
+simply 0 356 36
+a 0 356 36
+case 0 356 36
+of 0 356 36
+being 0 356 36
+in 0 356 36
+the 0 356 36
+wrong 0 356 36
+place 0 356 36
+at 0 356 36
+the 0 356 36
+wrong 0 356 36
+time—a 0 356 36
+tragic 0 356 36
+mistake 0 356 36
+that 0 356 36
+ruined 0 356 36
+two 0 356 36
+lives, 0 356 36
+according 0 356 36
+to 0 356 36
+Cruz. 0 356 36
 
-But 0
-that 0
-is 0
-not 0
-the 0
-case 0
-at 0
-all. 0
+But 0 356 37
+that 0 356 37
+is 0 356 37
+not 0 356 37
+the 0 356 37
+case 0 356 37
+at 0 356 37
+all. 0 356 37
 
-Would 0
-Ted 0
-Cruz 0
-and 0
-police 0
-officers 0
-be 0
-following 0
-this 0
-same 0
-narrative 0
-if 0
-the 0
-roles 0
-were 0
-reversed? 0
+Would 0 356 38
+Ted 0 356 38
+Cruz 0 356 38
+and 0 356 38
+police 0 356 38
+officers 0 356 38
+be 0 356 38
+following 0 356 38
+this 0 356 38
+same 0 356 38
+narrative 0 356 38
+if 0 356 38
+the 0 356 38
+roles 0 356 38
+were 0 356 38
+reversed? 0 356 38
 
-If 0
-it 0
-was 0
-Botham 0
-Jean, 0
-a 1
-black 1
-man, 1
-walking 0
-into 0
-the 0
-apartment 0
-of 0
-Amber 0
-Guyger, 0
-a 0
-white 1
-female 1
-cop, 1
-and 0
-killing 0
-her—would 0
-police 0
-and 0
-Ted 0
-Cruz 0
-simply 0
-write 0
-it 0
-off 0
-as 0
-a 0
-tragic 0
-accident? 0
+If 0 356 39
+it 0 356 39
+was 0 356 39
+Botham 0 356 39
+Jean, 0 356 39
+a 1 356 39
+black 1 356 39
+man, 1 356 39
+walking 0 356 39
+into 0 356 39
+the 0 356 39
+apartment 0 356 39
+of 0 356 39
+Amber 0 356 39
+Guyger, 0 356 39
+a 0 356 39
+white 1 356 39
+female 1 356 39
+cop, 1 356 39
+and 0 356 39
+killing 0 356 39
+her—would 0 356 39
+police 0 356 39
+and 0 356 39
+Ted 0 356 39
+Cruz 0 356 39
+simply 0 356 39
+write 0 356 39
+it 0 356 39
+off 0 356 39
+as 0 356 39
+a 0 356 39
+tragic 0 356 39
+accident? 0 356 39
 
-Of 0
-course, 0
-we 0
-know 0
-the 0
-answer 0
-to 0
-that 0
-question 0
-and 0
-it 0
-is 0
-a 0
-resounding, 0
-NO. 0
+Of 0 356 40
+course, 0 356 40
+we 0 356 40
+know 0 356 40
+the 0 356 40
+answer 0 356 40
+to 0 356 40
+that 0 356 40
+question 0 356 40
+and 0 356 40
+it 0 356 40
+is 0 356 40
+a 0 356 40
+resounding, 0 356 40
+NO. 0 356 40
 
-To 0
-shut 0
-down 0
-the 0
-peanut 0
-gallery 0
-before 0
-it 0
-begins, 0
-this 0
-is 0
-not 0
-some 0
-case 0
-of 0
-Democrat 0
-versus 0
-Republican 0
-or 0
-right 0
-versus 0
-left. 0
+To 0 356 41
+shut 0 356 41
+down 0 356 41
+the 0 356 41
+peanut 0 356 41
+gallery 0 356 41
+before 0 356 41
+it 0 356 41
+begins, 0 356 41
+this 0 356 41
+is 0 356 41
+not 0 356 41
+some 0 356 41
+case 0 356 41
+of 0 356 41
+Democrat 0 356 41
+versus 0 356 41
+Republican 0 356 41
+or 0 356 41
+right 0 356 41
+versus 0 356 41
+left. 0 356 41
 
-This 0
-is 0
-a 0
-case 0
-of 0
-right 0
-versus 0
-wrong, 0
-and 0
-what 0
-Amber 0
-Guyger 0
-did 0
-to 0
-Botham 0
-Jean 0
-was 0
-wrong. 0
+This 0 356 42
+is 0 356 42
+a 0 356 42
+case 0 356 42
+of 0 356 42
+right 0 356 42
+versus 0 356 42
+wrong, 0 356 42
+and 0 356 42
+what 0 356 42
+Amber 0 356 42
+Guyger 0 356 42
+did 0 356 42
+to 0 356 42
+Botham 0 356 42
+Jean 0 356 42
+was 0 356 42
+wrong. 0 356 42
 
-There 0
-is 0
-no 0
-other 0
-way 0
-around 0
-it, 0
-“mistake” 0
-or 0
-not. 0
+There 0 356 43
+is 0 356 43
+no 0 356 43
+other 0 356 43
+way 0 356 43
+around 0 356 43
+it, 0 356 43
+“mistake” 0 356 43
+or 0 356 43
+not. 0 356 43
 
-From 0
-the 0
-start 0
-of 0
-this 0
-case, 0
-law 0
-enforcement 0
-have 0
-set 0
-out 0
-to 0
-protect 0
-Guyger 0
-because 0
-she 0
-is 0
-part 0
-of 0
-their 0
-blue 0
-line. 0
+From 0 356 44
+the 0 356 44
+start 0 356 44
+of 0 356 44
+this 0 356 44
+case, 0 356 44
+law 0 356 44
+enforcement 0 356 44
+have 0 356 44
+set 0 356 44
+out 0 356 44
+to 0 356 44
+protect 0 356 44
+Guyger 0 356 44
+because 0 356 44
+she 0 356 44
+is 0 356 44
+part 0 356 44
+of 0 356 44
+their 0 356 44
+blue 0 356 44
+line. 0 356 44
 
-Amber 0
-Guyger’s 0
-home 0
-was 0
-never 0
-searched 0
-while 0
-Jean’s 0
-apartment 0
-was 0
-searched 0
-that 0
-night. 0
+Amber 0 356 45
+Guyger’s 0 356 45
+home 0 356 45
+was 0 356 45
+never 0 356 45
+searched 0 356 45
+while 0 356 45
+Jean’s 0 356 45
+apartment 0 356 45
+was 0 356 45
+searched 0 356 45
+that 0 356 45
+night. 0 356 45
 
-The 0
-results 0
-of 0
-the 0
-blood 0
-test 0
-to 0
-test 0
-for 0
-alcohol 0
-or 0
-drugs 0
-in 0
-her 0
-system 0
-were 0
-never 0
-released, 0
-yet 0
-police 0
-— 0
-on 0
-the 0
-day 0
-his 0
-mother 0
-buried 0
-her 0
-son 0
-— 0
-claimed 0
-they 0
-found 0
-marijuana 0
-in 0
-his 0
-house. 0
+The 0 356 46
+results 0 356 46
+of 0 356 46
+the 0 356 46
+blood 0 356 46
+test 0 356 46
+to 0 356 46
+test 0 356 46
+for 0 356 46
+alcohol 0 356 46
+or 0 356 46
+drugs 0 356 46
+in 0 356 46
+her 0 356 46
+system 0 356 46
+were 0 356 46
+never 0 356 46
+released, 0 356 46
+yet 0 356 46
+police 0 356 46
+— 0 356 46
+on 0 356 46
+the 0 356 46
+day 0 356 46
+his 0 356 46
+mother 0 356 46
+buried 0 356 46
+her 0 356 46
+son 0 356 46
+— 0 356 46
+claimed 0 356 46
+they 0 356 46
+found 0 356 46
+marijuana 0 356 46
+in 0 356 46
+his 0 356 46
+house. 0 356 46
 
-It’s 0
-been 0
-a 0
-smear 0
-campaign 0
-from 0
-the 0
-beginning 0
-and 0
-it 0
-is 0
-this 0
-way 0
-by 0
-design. 0
+It’s 0 356 47
+been 0 356 47
+a 0 356 47
+smear 0 356 47
+campaign 0 356 47
+from 0 356 47
+the 0 356 47
+beginning 0 356 47
+and 0 356 47
+it 0 356 47
+is 0 356 47
+this 0 356 47
+way 0 356 47
+by 0 356 47
+design. 0 356 47
 
-Amber 0
-Guyger 0
-took 0
-an 0
-innocent 1
-person’s 0
-life, 0
-and 0
-because 0
-people 0
-are 0
-so 0
-blinded 0
-by 0
-the 0
-badge, 0
-she 0
-is 0
-being 0
-portrayed 0
-as 0
-the 0
-victim. 0
+Amber 0 356 48
+Guyger 0 356 48
+took 0 356 48
+an 0 356 48
+innocent 1 356 48
+person’s 0 356 48
+life, 0 356 48
+and 0 356 48
+because 0 356 48
+people 0 356 48
+are 0 356 48
+so 0 356 48
+blinded 0 356 48
+by 0 356 48
+the 0 356 48
+badge, 0 356 48
+she 0 356 48
+is 0 356 48
+being 0 356 48
+portrayed 0 356 48
+as 0 356 48
+the 0 356 48
+victim. 0 356 48
 
-To 0
-those 0
-who 0
-attempt 0
-to 0
-claim 0
-there 0
-is 0
-no 0
-bias 0
-in 0
-this 0
-horrifically 1
-flawed 0
-system, 0
-if 0
-ever 0
-there 0
-was 0
-a 0
-case 0
-to 0
-prove 0
-you 0
-wrong—this 0
-is 0
-it. 0
+To 0 356 49
+those 0 356 49
+who 0 356 49
+attempt 0 356 49
+to 0 356 49
+claim 0 356 49
+there 0 356 49
+is 0 356 49
+no 0 356 49
+bias 0 356 49
+in 0 356 49
+this 0 356 49
+horrifically 1 356 49
+flawed 0 356 49
+system, 0 356 49
+if 0 356 49
+ever 0 356 49
+there 0 356 49
+was 0 356 49
+a 0 356 49
+case 0 356 49
+to 0 356 49
+prove 0 356 49
+you 0 356 49
+wrong—this 0 356 49
+is 0 356 49
+it. 0 356 49
 
-A 0
-tragedy 0
-indeed. 0
+A 0 356 50
+tragedy 0 356 50
+indeed. 0 356 50
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-The 0
-Free 0
-Thought 0
-Project. 0
+Article 0 356 51
+posted 0 356 51
+with 0 356 51
+permission 0 356 51
+from 0 356 51
+The 0 356 51
+Free 0 356 51
+Thought 0 356 51
+Project. 0 356 51
 
-Article 0
-by 0
-Matt 0
-Agorist 0
+Article 0 356 51
+
+by 0 356 51
+
+Matt 0 356 51
+
+Agorist 0 356 51

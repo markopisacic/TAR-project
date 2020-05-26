@@ -1,458 +1,482 @@
-Texas 0
-Mom: 0
-My 0
-Son 0
-Was 0
-Attacked 0
-For 0
-Wearing 0
-A 0
-MAGA 1
-Hat 0
-At 0
-Whataburger 0
+Texas 0 278 0
+Mom: 0 278 0
+My 0 278 0
+Son 0 278 0
+Was 0 278 0
+Attacked 0 278 0
+For 0 278 0
+Wearing 0 278 0
+A 0 278 0
+MAGA 1 278 0
+Hat 0 278 0
+At 0 278 0
+Whataburger 0 278 0
 
-A 0
-Texas 0
-mother’s 0
-teenage 0
-son 0
-was 0
-allegedly 0
-attacked 0
-at 0
-a 0
-Whataburger 0
-for 0
-wearing 0
-a 0
-MAGA 1
-(Make 1
-America 1
-Great 1
-Again) 1
-hat. 0
+A 0 278 1
+Texas 0 278 1
+mother’s 0 278 1
+teenage 0 278 1
+son 0 278 1
+was 0 278 1
+allegedly 0 278 1
+attacked 0 278 1
+at 0 278 1
+a 0 278 1
+Whataburger 0 278 1
+for 0 278 1
+wearing 0 278 1
+a 0 278 1
+MAGA 1 278 1
+(Make 1 278 1
+America 1 278 1
+Great 1 278 1
+Again) 1 278 1
+hat. 0 278 1
 
-The 0
-mother 0
-posted 0
-the 0
-video 0
-of 0
-the 0
-incident 0
-on 0
-Facebook 0
-as 0
-evidence 0
-of 0
-her 0
-claims. 0
+The 0 278 2
+mother 0 278 2
+posted 0 278 2
+the 0 278 2
+video 0 278 2
+of 0 278 2
+the 0 278 2
+incident 0 278 2
+on 0 278 2
+Facebook 0 278 2
+as 0 278 2
+evidence 0 278 2
+of 0 278 2
+her 0 278 2
+claims. 0 278 2
 
-The 0
-woman 0
-claimed 0
-a 0
-man 0
-became 0
-extremely 1
-angry 0
-at 0
-her 0
-teenage 0
-son 0
-and 0
-his 0
-group 0
-of 0
-friends 0
-because 0
-one 0
-of 0
-them 0
-wore 0
-a 0
-“Make 1
-American 1
-Great 1
-Again” 1
-hat, 0
-KENS5 0
-reported. 0
+The 0 278 3
+woman 0 278 3
+claimed 0 278 3
+a 0 278 3
+man 0 278 3
+became 0 278 3
+extremely 1 278 3
+angry 0 278 3
+at 0 278 3
+her 0 278 3
+teenage 0 278 3
+son 0 278 3
+and 0 278 3
+his 0 278 3
+group 0 278 3
+of 0 278 3
+friends 0 278 3
+because 0 278 3
+one 0 278 3
+of 0 278 3
+them 0 278 3
+wore 0 278 3
+a 0 278 3
+“Make 1 278 3
+American 1 278 3
+Great 1 278 3
+Again” 1 278 3
+hat, 0 278 3
+KENS5 0 278 3
+reported. 0 278 3
 
-The 0
-hats 0
-have 0
-become 0
-noticeable 0
-and 0
-are 0
-often 0
-an 0
-outward 0
-expression 0
-of 0
-support 0
-of 0
-President 0
-Donald 0
-Trump. 0
+The 0 278 4
+hats 0 278 4
+have 0 278 4
+become 0 278 4
+noticeable 0 278 4
+and 0 278 4
+are 0 278 4
+often 0 278 4
+an 0 278 4
+outward 0 278 4
+expression 0 278 4
+of 0 278 4
+support 0 278 4
+of 0 278 4
+President 0 278 4
+Donald 0 278 4
+Trump. 0 278 4
 
-The 0
-video 0
-shows 0
-the 0
-man 0
-throwing 0
-his 0
-fountain 0
-drink 0
-at 0
-the 0
-table 0
-and 0
-shouting 0
-a 0
-racial 1
-slur. 1
+The 0 278 5
+video 0 278 5
+shows 0 278 5
+the 0 278 5
+man 0 278 5
+throwing 0 278 5
+his 0 278 5
+fountain 0 278 5
+drink 0 278 5
+at 0 278 5
+the 0 278 5
+table 0 278 5
+and 0 278 5
+shouting 0 278 5
+a 0 278 5
+racial 1 278 5
+slur. 1 278 5
 
-According 0
-to 0
-Breitbart, 0
-in 0
-the 0
-mother’s 0
-post 0
-on 0
-Facebook, 0
-which 0
-has 0
-since 0
-been 0
-taken 0
-down, 0
-Patricia 0
-Spittler 0
-asks 0
-for 0
-help 0
-in 0
-identifying 0
-the 0
-man 0
-she 0
-called 0
-“scum 1
-bag 1
-of 1
-the 1
-year.” 1
-The 0
-San 0
-Antonio 0
-CBS 0
-affiliate 0
-reported 0
-that 0
-Spittler 0
-wrote: 0
-“His 0
-friend 0
-was 0
-wearing 0
-a 0
-patriotic 1
-hat, 0
-and 0
-this 0
-happened! 0
+According 0 278 6
+to 0 278 6
+Breitbart, 0 278 6
+in 0 278 6
+the 0 278 6
+mother’s 0 278 6
+post 0 278 6
+on 0 278 6
+Facebook, 0 278 6
+which 0 278 6
+has 0 278 6
+since 0 278 6
+been 0 278 6
+taken 0 278 6
+down, 0 278 6
+Patricia 0 278 6
+Spittler 0 278 6
+asks 0 278 6
+for 0 278 6
+help 0 278 6
+in 0 278 6
+identifying 0 278 6
+the 0 278 6
+man 0 278 6
+she 0 278 6
+called 0 278 6
+“scum 1 278 6
+bag 1 278 6
+of 1 278 6
+the 1 278 6
+year.” 1 278 6
+The 0 278 6
+San 0 278 6
+Antonio 0 278 6
+CBS 0 278 6
+affiliate 0 278 6
+reported 0 278 6
+that 0 278 6
+Spittler 0 278 6
+wrote: 0 278 6
+“His 0 278 6
+friend 0 278 6
+was 0 278 6
+wearing 0 278 6
+a 0 278 6
+patriotic 1 278 6
+hat, 0 278 6
+and 0 278 6
+this 0 278 6
+happened! 0 278 6
 
-It 0
-would 0
-be 0
-nice 0
-to 0
-know 0
-who 0
-he 0
-is 0
-for 0
-someone 0
-to 0
-let 0
-him 0
-know 0
-his 0
-actions 0
-are 0
-not 0
-okay!” 0
-Spittler 0
-added: 0
-“Real 1
-tough 1
-guy… 1
-approaches 0
-a 0
-group 0
-of 0
-teenagers 0
-minding 0
-their 0
-own 0
-business 0
-just 0
-having 0
-a 0
-burger! 0
+It 0 278 7
+would 0 278 7
+be 0 278 7
+nice 0 278 7
+to 0 278 7
+know 0 278 7
+who 0 278 7
+he 0 278 7
+is 0 278 7
+for 0 278 7
+someone 0 278 7
+to 0 278 7
+let 0 278 7
+him 0 278 7
+know 0 278 7
+his 0 278 7
+actions 0 278 7
+are 0 278 7
+not 0 278 7
+okay!” 0 278 7
+Spittler 0 278 7
+added: 0 278 7
+“Real 1 278 7
+tough 1 278 7
+guy… 1 278 7
+approaches 0 278 7
+a 0 278 7
+group 0 278 7
+of 0 278 7
+teenagers 0 278 7
+minding 0 278 7
+their 0 278 7
+own 0 278 7
+business 0 278 7
+just 0 278 7
+having 0 278 7
+a 0 278 7
+burger! 0 278 7
 
-He 0
-kept 0
-his 0
-hat, 0
-too.” 0
+He 0 278 8
+kept 0 278 8
+his 0 278 8
+hat, 0 278 8
+too.” 0 278 8
 
-The 0
-video 0
-found 0
-it’s 0
-way 0
-to 0
-Twitter, 0
-and 0
-it 0
-is 0
-slightly 0
-violent, 0
-so 0
-err 0
-on 0
-the 0
-side 0
-of 0
-caution 0
-if 0
-watching 0
-near 0
-children. 0
+The 0 278 9
+video 0 278 9
+found 0 278 9
+it’s 0 278 9
+way 0 278 9
+to 0 278 9
+Twitter, 0 278 9
+and 0 278 9
+it 0 278 9
+is 0 278 9
+slightly 0 278 9
+violent, 0 278 9
+so 0 278 9
+err 0 278 9
+on 0 278 9
+the 0 278 9
+side 0 278 9
+of 0 278 9
+caution 0 278 9
+if 0 278 9
+watching 0 278 9
+near 0 278 9
+children. 0 278 9
 
-Also 0
-be 0
-aware 0
-that 0
-there 0
-a 0
-few 0
-racial 0
-slurs 0
-in 0
-the 0
-video. 0
+Also 0 278 10
+be 0 278 10
+aware 0 278 10
+that 0 278 10
+there 0 278 10
+a 0 278 10
+few 0 278 10
+racial 0 278 10
+slurs 0 278 10
+in 0 278 10
+the 0 278 10
+video. 0 278 10
 
-Disturbing 1
-video 0
-of 0
-young 0
-Trump 1
-Supporter 1
-having 0
-his 0
-MAGA 1
-hat 0
-stolen 0
-and 0
-a 0
-drink 0
-thrown 0
-in 0
-his 0
-face. 0
+Disturbing 1 278 11
+video 0 278 11
+of 0 278 11
+young 0 278 11
+Trump 1 278 11
+Supporter 1 278 11
+having 0 278 11
+his 0 278 11
+MAGA 1 278 11
+hat 0 278 11
+stolen 0 278 11
+and 0 278 11
+a 0 278 11
+drink 0 278 11
+thrown 0 278 11
+in 0 278 11
+his 0 278 11
+face. 0 278 11
 
-The 1
-civility 1
-of 1
-the 1
-Left 1
-on 1
-full 1
-display… 1
-pic.twitter.com/gUzBVRpP7X 0
-— 0
-The 0
-Columbia 0
-Bugle 0
-🇺🇸 0
-(@ColumbiaBugle) 0
-July 0
-5, 0
-2018 0
+The 1 278 12
+civility 1 278 12
+of 1 278 12
+the 1 278 12
+Left 1 278 12
+on 1 278 12
+full 1 278 12
+display… 1 278 12
+pic.twitter.com/gUzBVRpP7X 0 278 12
+— 0 278 12
+The 0 278 12
+Columbia 0 278 12
+Bugle 0 278 12
+🇺🇸 0 278 12
+(@ColumbiaBugle) 0 278 12
+July 0 278 12
+5, 0 278 12
+2018 0 278 12
 
-As 0
-the 0
-video 0
-begins, 0
-the 0
-man 0
-says, 0
-“… 0
-supporting 0
-the 0
-president. 0
+As 0 278 13
+the 0 278 13
+video 0 278 13
+begins, 0 278 13
+the 0 278 13
+man 0 278 13
+says, 0 278 13
+“… 0 278 13
+supporting 0 278 13
+the 0 278 13
+president. 0 278 13
 
-You 0
-ain’t 0
-supporting 0
-shit 1
-nigga,” 1
-and 0
-then 0
-throws 0
-the 0
-drink 0
-in 0
-the 0
-face 0
-of 0
-a 0
-16-year-old 0
-boy. 0
+You 0 278 14
+ain’t 0 278 14
+supporting 0 278 14
+shit 1 278 14
+nigga,” 1 278 14
+and 0 278 14
+then 0 278 14
+throws 0 278 14
+the 0 278 14
+drink 0 278 14
+in 0 278 14
+the 0 278 14
+face 0 278 14
+of 0 278 14
+a 0 278 14
+16-year-old 0 278 14
+boy. 0 278 14
 
-With 0
-MAGA 1
-hat 0
-in 0
-hand, 0
-the 0
-man 0
-walks 0
-away 0
-saying 0
-“Bitch 1
-ass 1
-motherf**ker.” 1
+With 0 278 15
+MAGA 1 278 15
+hat 0 278 15
+in 0 278 15
+hand, 0 278 15
+the 0 278 15
+man 0 278 15
+walks 0 278 15
+away 0 278 15
+saying 0 278 15
+“Bitch 1 278 15
+ass 1 278 15
+motherf**ker.” 1 278 15
 
-The 0
-boy, 0
-Hunter 0
-Richard, 0
-said 0
-the 0
-man 0
-also 0
-pulled 0
-his 0
-hair 0
-while 0
-taking 0
-the 0
-hat, 0
-according 0
-to 0
-reports 0
-by 0
-News4SA. 0
+The 0 278 16
+boy, 0 278 16
+Hunter 0 278 16
+Richard, 0 278 16
+said 0 278 16
+the 0 278 16
+man 0 278 16
+also 0 278 16
+pulled 0 278 16
+his 0 278 16
+hair 0 278 16
+while 0 278 16
+taking 0 278 16
+the 0 278 16
+hat, 0 278 16
+according 0 278 16
+to 0 278 16
+reports 0 278 16
+by 0 278 16
+News4SA. 0 278 16
 
-“I 0
-support 1
-my 1
-President 1
-and 0
-if 0
-you 0
-don’t, 0
-let’s 0
-have 0
-a 0
-conversation 0
-about 0
-it 0
-instead 0
-of 0
-ripping 0
-my 0
-hat 0
-off. 0
+“I 0 278 17
+support 1 278 17
+my 1 278 17
+President 1 278 17
+and 0 278 17
+if 0 278 17
+you 0 278 17
+don’t, 0 278 17
+let’s 0 278 17
+have 0 278 17
+a 0 278 17
+conversation 0 278 17
+about 0 278 17
+it 0 278 17
+instead 0 278 17
+of 0 278 17
+ripping 0 278 17
+my 0 278 17
+hat 0 278 17
+off. 0 278 17
 
-I 0
-just 0
-think 0
-a 0
-conversation 0
-about 0
-politics 0
-is 0
-more 0
-productive 0
-for 0
-the 0
-entire 0
-whole 0
-rather 0
-than 0
-taking 0
-my 0
-hat 0
-and 0
-yelling 0
-subjective 0
-words 0
-to 0
-me,” 0
-he 0
-told 0
-the 0
-local 0
-NBC 0
-affiliate. 0
+I 0 278 18
+just 0 278 18
+think 0 278 18
+a 0 278 18
+conversation 0 278 18
+about 0 278 18
+politics 0 278 18
+is 0 278 18
+more 0 278 18
+productive 0 278 18
+for 0 278 18
+the 0 278 18
+entire 0 278 18
+whole 0 278 18
+rather 0 278 18
+than 0 278 18
+taking 0 278 18
+my 0 278 18
+hat 0 278 18
+and 0 278 18
+yelling 0 278 18
+subjective 0 278 18
+words 0 278 18
+to 0 278 18
+me,” 0 278 18
+he 0 278 18
+told 0 278 18
+the 0 278 18
+local 0 278 18
+NBC 0 278 18
+affiliate. 0 278 18
 
-A 0
-police 0
-report 0
-was 0
-filed 0
-and 0
-a 0
-man 0
-was 0
-fired 0
-for 0
-stealing 0
-the 0
-hat 0
-and 0
-the 0
-assault 0
-(throwing 0
-a 0
-drink 0
-in 0
-a 0
-Trump 1
-supporter’s 1
-face.) 0
+A 0 278 19
+police 0 278 19
+report 0 278 19
+was 0 278 19
+filed 0 278 19
+and 0 278 19
+a 0 278 19
+man 0 278 19
+was 0 278 19
+fired 0 278 19
+for 0 278 19
+stealing 0 278 19
+the 0 278 19
+hat 0 278 19
+and 0 278 19
+the 0 278 19
+assault 0 278 19
+(throwing 0 278 19
+a 0 278 19
+drink 0 278 19
+in 0 278 19
+a 0 278 19
+Trump 1 278 19
+supporter’s 1 278 19
+face.) 0 278 19
 
-The 0
-post 0
-below, 0
-claiming 0
-a 0
-person 0
-was 0
-fired 0
-for 0
-the 0
-actions 0
-against 0
-Richard, 0
-had 0
-been 0
-removed 0
-or 0
-made 0
-private, 0
-meaning 0
-some 0
-may 0
-not 0
-see 0
-it. 0
+The 0 278 19
+
+post 0 278 19
+
+below, 0 278 19
+
+claiming 0 278 19
+
+a 0 278 19
+
+person 0 278 19
+
+was 0 278 19
+
+fired 0 278 19
+
+for 0 278 19
+
+the 0 278 19
+
+actions 0 278 19
+
+against 0 278 19
+
+Richard, 0 278 19
+
+had 0 278 19
+
+been 0 278 19
+
+removed 0 278 19
+
+or 0 278 19
+
+made 0 278 19
+
+private, 0 278 19
+
+meaning 0 278 19
+
+some 0 278 19
+
+may 0 278 19
+
+not 0 278 19
+
+see 0 278 19
+
+it. 0 278 19

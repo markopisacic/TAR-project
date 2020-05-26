@@ -1,1128 +1,1148 @@
-Federal 0
-Judge 0
-Overrides 0
-DOJ 0
-& 0
-Violates 0
-First 0
-Amendment: 0
-Blocks 0
-3D-Printed 0
-Gun 0
-Plans 0
+Federal 0 305 0
+Judge 0 305 0
+Overrides 0 305 0
+DOJ 0 305 0
+& 0 305 0
+Violates 0 305 0
+First 0 305 0
+Amendment: 0 305 0
+Blocks 0 305 0
+3D-Printed 0 305 0
+Gun 0 305 0
+Plans 0 305 0
 
-In 0
-July, 0
-I 0
-reported 0
-that 0
-the 0
-Department 0
-of 0
-Justice 0
-finally 0
-settled 0
-with 0
-Cody 0
-Wilson 0
-and 0
-Defense 0
-Distributed 0
-over 0
-his 0
-3D-print 0
-gun 0
-plans 0
-being 0
-lawful. 0
+In 0 305 1
+July, 0 305 1
+I 0 305 1
+reported 0 305 1
+that 0 305 1
+the 0 305 1
+Department 0 305 1
+of 0 305 1
+Justice 0 305 1
+finally 0 305 1
+settled 0 305 1
+with 0 305 1
+Cody 0 305 1
+Wilson 0 305 1
+and 0 305 1
+Defense 0 305 1
+Distributed 0 305 1
+over 0 305 1
+his 0 305 1
+3D-print 0 305 1
+gun 0 305 1
+plans 0 305 1
+being 0 305 1
+lawful. 0 305 1
 
-The 0
-DOJ 0
-surrendered 0
-in 0
-the 0
-matter 0
-and 0
-accepted 0
-the 0
-fact 0
-that 0
-the 0
-plans 0
-are 0
-protected 0
-under 0
-the 0
-First 0
-Amendment. 0
+The 0 305 2
+DOJ 0 305 2
+surrendered 0 305 2
+in 0 305 2
+the 0 305 2
+matter 0 305 2
+and 0 305 2
+accepted 0 305 2
+the 0 305 2
+fact 0 305 2
+that 0 305 2
+the 0 305 2
+plans 0 305 2
+are 0 305 2
+protected 0 305 2
+under 0 305 2
+the 0 305 2
+First 0 305 2
+Amendment. 0 305 2
 
-However, 0
-a 0
-federal 0
-judge, 0
-in 0
-a 0
-lawsuit 0
-brought 0
-by 0
-eight 0
-states 0
-and 0
-the 0
-District 0
-of 0
-Columbia, 0
-has 0
-blocked 0
-the 0
-plans 0
-from 0
-being 0
-released. 0
+However, 0 305 3
+a 0 305 3
+federal 0 305 3
+judge, 0 305 3
+in 0 305 3
+a 0 305 3
+lawsuit 0 305 3
+brought 0 305 3
+by 0 305 3
+eight 0 305 3
+states 0 305 3
+and 0 305 3
+the 0 305 3
+District 0 305 3
+of 0 305 3
+Columbia, 0 305 3
+has 0 305 3
+blocked 0 305 3
+the 0 305 3
+plans 0 305 3
+from 0 305 3
+being 0 305 3
+released. 0 305 3
 
-The 0
-judge 0
-should 0
-understand 0
-that 0
-these 0
-plans 0
-are 0
-protected 0
-under 0
-the 0
-First 0
-Amendment 0
-in 0
-the 0
-same 0
-way 0
-that 0
-any 0
-other 0
-printed 0
-material 0
-is, 0
-and 0
-that 0
-there 0
-is 0
-no 0
-crime 0
-that 0
-has 0
-been 0
-committed 0
-by 0
-making 0
-them 0
-available 0
-to 0
-people 0
-online. 0
+The 0 305 4
+judge 0 305 4
+should 0 305 4
+understand 0 305 4
+that 0 305 4
+these 0 305 4
+plans 0 305 4
+are 0 305 4
+protected 0 305 4
+under 0 305 4
+the 0 305 4
+First 0 305 4
+Amendment 0 305 4
+in 0 305 4
+the 0 305 4
+same 0 305 4
+way 0 305 4
+that 0 305 4
+any 0 305 4
+other 0 305 4
+printed 0 305 4
+material 0 305 4
+is, 0 305 4
+and 0 305 4
+that 0 305 4
+there 0 305 4
+is 0 305 4
+no 0 305 4
+crime 0 305 4
+that 0 305 4
+has 0 305 4
+been 0 305 4
+committed 0 305 4
+by 0 305 4
+making 0 305 4
+them 0 305 4
+available 0 305 4
+to 0 305 4
+people 0 305 4
+online. 0 305 4
 
-Second, 0
-if 0
-that 0
-were 0
-not 0
-enough, 0
-we 0
-already 0
-know 0
-that 0
-the 0
-Second 0
-Amendment 0
-protects 0
-actual 0
-arms 0
-from 0
-restriction 0
-and 0
-the 0
-right 0
-to 0
-keep 0
-and 0
-bear 0
-them 0
-from 0
-infringement. 0
+Second, 0 305 5
+if 0 305 5
+that 0 305 5
+were 0 305 5
+not 0 305 5
+enough, 0 305 5
+we 0 305 5
+already 0 305 5
+know 0 305 5
+that 0 305 5
+the 0 305 5
+Second 0 305 5
+Amendment 0 305 5
+protects 0 305 5
+actual 0 305 5
+arms 0 305 5
+from 0 305 5
+restriction 0 305 5
+and 0 305 5
+the 0 305 5
+right 0 305 5
+to 0 305 5
+keep 0 305 5
+and 0 305 5
+bear 0 305 5
+them 0 305 5
+from 0 305 5
+infringement. 0 305 5
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 305 6
+our 0 305 6
+poll 0 305 6
+- 0 305 6
+story 0 305 6
+continues 0 305 6
+below 0 305 6
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 305 7
+Brett 0 305 7
+Kavanaugh 0 305 7
+be 0 305 7
+confirmed 0 305 7
+to 0 305 7
+the 0 305 7
+Supreme 0 305 7
+Court? 0 305 7
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 305 8
+Brett 0 305 8
+Kavanaugh 0 305 8
+be 0 305 8
+confirmed 0 305 8
+to 0 305 8
+the 0 305 8
+Supreme 0 305 8
+Court? 0 305 8
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 305 9
+Brett 0 305 9
+Kavanaugh 0 305 9
+be 0 305 9
+confirmed 0 305 9
+to 0 305 9
+the 0 305 9
+Supreme 0 305 9
+Court? 0 305 9
 
-* 0
-Yes, 0
-he 0
-will 0
-be 0
-confirmed. 0
+* 0 305 10
+Yes, 0 305 10
+he 0 305 10
+will 0 305 10
+be 0 305 10
+confirmed. 0 305 10
 
-No, 0
-he 0
-will 0
-not 0
-be 0
-confirmed. 0
+No, 0 305 11
+he 0 305 11
+will 0 305 11
+not 0 305 11
+be 0 305 11
+confirmed. 0 305 11
 
-Email 0
-* 0
+Email 0 305 12
+* 0 305 12
 
-Comments 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Comments 0 305 13
+This 0 305 13
+field 0 305 13
+is 0 305 13
+for 0 305 13
+validation 0 305 13
+purposes 0 305 13
+and 0 305 13
+should 0 305 13
+be 0 305 13
+left 0 305 13
+unchanged. 0 305 13
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 305 14
+this 0 305 14
+poll 0 305 14
+grants 0 305 14
+you 0 305 14
+access 0 305 14
+to 0 305 14
+Freedom 0 305 14
+Outpost 0 305 14
+updates 0 305 14
+free 0 305 14
+of 0 305 14
+charge. 0 305 14
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 305 15
+may 0 305 15
+opt 0 305 15
+out 0 305 15
+at 0 305 15
+anytime. 0 305 15
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 305 16
+also 0 305 16
+agree 0 305 16
+to 0 305 16
+this 0 305 16
+site's 0 305 16
+Privacy 0 305 16
+Policy 0 305 16
+and 0 305 16
+Terms 0 305 16
+of 0 305 16
+Use. 0 305 16
 
-Fox 0
-News 0
-has 0
-the 0
-story: 0
+Fox 0 305 17
+News 0 305 17
+has 0 305 17
+the 0 305 17
+story: 0 305 17
 
-U.S. 0
-District 0
-Judge 0
-Robert 0
-Lasnik 0
-issued 0
-the 0
-order 0
-a 0
-day 0
-after 0
-eight 0
-states 0
-sued 0
-the 0
-government 0
-to 0
-block 0
-a 0
-settlement 0
-reached 0
-by 0
-the 0
-Trump 0
-administration 0
-last 0
-month 0
-allowing 0
-a 0
-Texas-based 0
-company, 0
-Defense 0
-Distributed, 0
-to 0
-resume 0
-online-sharing 0
-of 0
-blueprints 0
-for 0
-the 0
-3D 0
-firearms. 0
+U.S. 0 305 18
+District 0 305 18
+Judge 0 305 18
+Robert 0 305 18
+Lasnik 0 305 18
+issued 0 305 18
+the 0 305 18
+order 0 305 18
+a 0 305 18
+day 0 305 18
+after 0 305 18
+eight 0 305 18
+states 0 305 18
+sued 0 305 18
+the 0 305 18
+government 0 305 18
+to 0 305 18
+block 0 305 18
+a 0 305 18
+settlement 0 305 18
+reached 0 305 18
+by 0 305 18
+the 0 305 18
+Trump 0 305 18
+administration 0 305 18
+last 0 305 18
+month 0 305 18
+allowing 0 305 18
+a 0 305 18
+Texas-based 0 305 18
+company, 0 305 18
+Defense 0 305 18
+Distributed, 0 305 18
+to 0 305 18
+resume 0 305 18
+online-sharing 0 305 18
+of 0 305 18
+blueprints 0 305 18
+for 0 305 18
+the 0 305 18
+3D 0 305 18
+firearms. 0 305 18
 
-The 0
-company 0
-was 0
-set 0
-to 0
-allow 0
-downloads 0
-on 0
-Wednesday, 0
-although 0
-blueprints 0
-have 0
-been 0
-posted 0
-since 0
-Friday. 0
+The 0 305 19
+company 0 305 19
+was 0 305 19
+set 0 305 19
+to 0 305 19
+allow 0 305 19
+downloads 0 305 19
+on 0 305 19
+Wednesday, 0 305 19
+although 0 305 19
+blueprints 0 305 19
+have 0 305 19
+been 0 305 19
+posted 0 305 19
+since 0 305 19
+Friday. 0 305 19
 
-The 0
-temporary 0
-restraining 0
-order 0
-blocks 0
-the 0
-release 0
-until 0
-the 0
-next 0
-scheduled 0
-hearing 0
-on 0
-August 0
-10. 0
+The 0 305 20
+temporary 0 305 20
+restraining 0 305 20
+order 0 305 20
+blocks 0 305 20
+the 0 305 20
+release 0 305 20
+until 0 305 20
+the 0 305 20
+next 0 305 20
+scheduled 0 305 20
+hearing 0 305 20
+on 0 305 20
+August 0 305 20
+10. 0 305 20
 
-In 0
-the 0
-meantime, 0
-Congressional 0
-Democrats 0
-have 0
-urged 0
-President 0
-Trump 0
-to 0
-reverse 0
-the 0
-decision 0
-letting 0
-Defense 0
-Distributed 0
-publish 0
-the 0
-plans. 0
+In 0 305 21
+the 0 305 21
+meantime, 0 305 21
+Congressional 0 305 21
+Democrats 0 305 21
+have 0 305 21
+urged 0 305 21
+President 0 305 21
+Trump 0 305 21
+to 0 305 21
+reverse 0 305 21
+the 0 305 21
+decision 0 305 21
+letting 0 305 21
+Defense 0 305 21
+Distributed 0 305 21
+publish 0 305 21
+the 0 305 21
+plans. 0 305 21
 
-Trump 0
-said 0
-Tuesday 0
-that 0
-he's 0
-"looking 0
-into" 0
-the 0
-idea, 0
-saying 0
-making 0
-3D 0
-plastic 0
-guns 0
-available 0
-to 0
-the 0
-public 0
-"doesn't 0
-seem 0
-to 0
-make 0
-much 0
-sense!" 0
+Trump 0 305 22
+said 0 305 22
+Tuesday 0 305 22
+that 0 305 22
+he's 0 305 22
+"looking 0 305 22
+into" 0 305 22
+the 0 305 22
+idea, 0 305 22
+saying 0 305 22
+making 0 305 22
+3D 0 305 22
+plastic 0 305 22
+guns 0 305 22
+available 0 305 22
+to 0 305 22
+the 0 305 22
+public 0 305 22
+"doesn't 0 305 22
+seem 0 305 22
+to 0 305 22
+make 0 305 22
+much 0 305 22
+sense!" 0 305 22
 
-Doesn't 1
-make 1
-much 1
-sense? 1
+Doesn't 1 305 23
+make 1 305 23
+much 1 305 23
+sense? 1 305 23
 
-Are 1
-you 1
-people 1
-serious? 1
+Are 1 305 24
+you 1 305 24
+people 1 305 24
+serious? 1 305 24
 
-Why, 0
-yes, 0
-yes 0
-they 0
-are 0
-serious. 0
+Why, 0 305 25
+yes, 0 305 25
+yes 0 305 25
+they 0 305 25
+are 0 305 25
+serious. 0 305 25
 
-Deadly 1
-serious. 0
+Deadly 1 305 26
+serious. 0 305 26
 
-It 0
-makes 0
-perfect 0
-sense 0
-when 0
-you 0
-have 0
-the 0
-same 0
-people 0
-who 0
-have 1
-absolutely 1
-no 1
-problem 1
-with 0
-mothers 0
-hiring 0
-hitmen 0
-to 0
-murder 1
-their 0
-babies 0
-in 0
-their 0
-wombs 0
-in 0
-the 0
-most 1
-brutal 1
-and 1
-barbaric 1
-fashion, 0
-and 0
-then 0
-sell 0
-off 0
-their 0
-body 0
-parts 0
-for 0
-profit, 0
-if 0
-they 0
-don't 0
-throw 0
-them 0
-in 0
-the 0
-trash 0
-or 0
-flush 0
-them 0
-down 0
-a 0
-toilet, 0
-calling 0
-for 0
-computer 0
-files 0
-to 0
-be 0
-kept 0
-by 0
-the 0
-government 0
-and 0
-not 0
-be 0
-allowed 0
-to 0
-be 0
-released 0
-to 0
-the 0
-public. 0
+It 0 305 27
+makes 0 305 27
+perfect 0 305 27
+sense 0 305 27
+when 0 305 27
+you 0 305 27
+have 0 305 27
+the 0 305 27
+same 0 305 27
+people 0 305 27
+who 0 305 27
+have 1 305 27
+absolutely 1 305 27
+no 1 305 27
+problem 1 305 27
+with 0 305 27
+mothers 0 305 27
+hiring 0 305 27
+hitmen 0 305 27
+to 0 305 27
+murder 1 305 27
+their 0 305 27
+babies 0 305 27
+in 0 305 27
+their 0 305 27
+wombs 0 305 27
+in 0 305 27
+the 0 305 27
+most 1 305 27
+brutal 1 305 27
+and 1 305 27
+barbaric 1 305 27
+fashion, 0 305 27
+and 0 305 27
+then 0 305 27
+sell 0 305 27
+off 0 305 27
+their 0 305 27
+body 0 305 27
+parts 0 305 27
+for 0 305 27
+profit, 0 305 27
+if 0 305 27
+they 0 305 27
+don't 0 305 27
+throw 0 305 27
+them 0 305 27
+in 0 305 27
+the 0 305 27
+trash 0 305 27
+or 0 305 27
+flush 0 305 27
+them 0 305 27
+down 0 305 27
+a 0 305 27
+toilet, 0 305 27
+calling 0 305 27
+for 0 305 27
+computer 0 305 27
+files 0 305 27
+to 0 305 27
+be 0 305 27
+kept 0 305 27
+by 0 305 27
+the 0 305 27
+government 0 305 27
+and 0 305 27
+not 0 305 27
+be 0 305 27
+allowed 0 305 27
+to 0 305 27
+be 0 305 27
+released 0 305 27
+to 0 305 27
+the 0 305 27
+public. 0 305 27
 
-The 0
-eight 0
-states 0
-are 0
-the 0
-usual 0
-suspects, 0
-along 0
-with 0
-the 0
-District 0
-of 0
-Columbia, 0
-and 0
-we 0
-should 0
-note 0
-which 0
-ones 0
-they 0
-are. 0
+The 0 305 28
+eight 0 305 28
+states 0 305 28
+are 0 305 28
+the 0 305 28
+usual 0 305 28
+suspects, 0 305 28
+along 0 305 28
+with 0 305 28
+the 0 305 28
+District 0 305 28
+of 0 305 28
+Columbia, 0 305 28
+and 0 305 28
+we 0 305 28
+should 0 305 28
+note 0 305 28
+which 0 305 28
+ones 0 305 28
+they 0 305 28
+are. 0 305 28
 
-Washington 0
+Washington 0 305 29
 
-Connecticut 0
+Connecticut 0 305 30
 
-Maryland 0
+Maryland 0 305 31
 
-New 0
-Jersey 0
+New 0 305 32
+Jersey 0 305 32
 
-New 0
-York 0
+New 0 305 33
+York 0 305 33
 
-Oregon 0
+Oregon 0 305 34
 
-Massachusetts 0
+Massachusetts 0 305 35
 
-Pennsylvania 0
+Pennsylvania 0 305 36
 
-Washington's 0
-Attorney 0
-General 0
-Bob 0
-Ferguson's 0
-office 0
-claims 0
-the 0
-settlement 0
-is: 0
+Washington's 0 305 37
+Attorney 0 305 37
+General 0 305 37
+Bob 0 305 37
+Ferguson's 0 305 37
+office 0 305 37
+claims 0 305 37
+the 0 305 37
+settlement 0 305 37
+is: 0 305 37
 
-...in 0
-violation 0
-of 0
-the 0
-Administrative 0
-Procedure 0
-Act....there 0
-is 0
-no 0
-indication 0
-in 0
-the 0
-settlement 0
-agreement 0
-or 0
-elsewhere 0
-that 0
-any 0
-analysis, 0
-study 0
-or 0
-determination 0
-was 0
-made 0
-by 0
-the 0
-government 0
-defendants 0
-in 0
-consultation 0
-with 0
-other 0
-agencies, 0
-before 0
-the 0
-federal 0
-government 0
-agreed 0
-to 0
-lift 0
-export 0
-controls 0
-on 0
-the 0
-downloadable 0
-guns. 0
+...in 0 305 38
+violation 0 305 38
+of 0 305 38
+the 0 305 38
+Administrative 0 305 38
+Procedure 0 305 38
+Act....there 0 305 38
+is 0 305 38
+no 0 305 38
+indication 0 305 38
+in 0 305 38
+the 0 305 38
+settlement 0 305 38
+agreement 0 305 38
+or 0 305 38
+elsewhere 0 305 38
+that 0 305 38
+any 0 305 38
+analysis, 0 305 38
+study 0 305 38
+or 0 305 38
+determination 0 305 38
+was 0 305 38
+made 0 305 38
+by 0 305 38
+the 0 305 38
+government 0 305 38
+defendants 0 305 38
+in 0 305 38
+consultation 0 305 38
+with 0 305 38
+other 0 305 38
+agencies, 0 305 38
+before 0 305 38
+the 0 305 38
+federal 0 305 38
+government 0 305 38
+agreed 0 305 38
+to 0 305 38
+lift 0 305 38
+export 0 305 38
+controls 0 305 38
+on 0 305 38
+the 0 305 38
+downloadable 0 305 38
+guns. 0 305 38
 
-In 0
-fact, 0
-the 0
-agreement 0
-states 0
-that 0
-it 0
-"does 0
-not 0
-reflect 0
-any 0
-agreed-upon 0
-purpose 0
-other 0
-than 0
-the 0
-desire 0
-of 0
-the 0
-Parties 0
-to 0
-reach 0
-a 0
-full 0
-and 0
-final 0
-conclusion 0
-of 0
-the 0
-Action, 0
-and 0
-to 0
-resolve 0
-the 0
-Action 0
-without 0
-the 0
-time 0
-and 0
-expense 0
-of 0
-further 0
-litigation." 0
+In 0 305 39
+fact, 0 305 39
+the 0 305 39
+agreement 0 305 39
+states 0 305 39
+that 0 305 39
+it 0 305 39
+"does 0 305 39
+not 0 305 39
+reflect 0 305 39
+any 0 305 39
+agreed-upon 0 305 39
+purpose 0 305 39
+other 0 305 39
+than 0 305 39
+the 0 305 39
+desire 0 305 39
+of 0 305 39
+the 0 305 39
+Parties 0 305 39
+to 0 305 39
+reach 0 305 39
+a 0 305 39
+full 0 305 39
+and 0 305 39
+final 0 305 39
+conclusion 0 305 39
+of 0 305 39
+the 0 305 39
+Action, 0 305 39
+and 0 305 39
+to 0 305 39
+resolve 0 305 39
+the 0 305 39
+Action 0 305 39
+without 0 305 39
+the 0 305 39
+time 0 305 39
+and 0 305 39
+expense 0 305 39
+of 0 305 39
+further 0 305 39
+litigation." 0 305 39
 
-The 0
-lawsuit 0
-also 0
-argues 0
-the 0
-settlement 0
-violates 0
-the 0
-Tenth 0
-Amendment 0
-by 0
-infringing 0
-on 0
-states' 0
-rights 0
-to 0
-regulate 0
-firearms. 0
+The 0 305 40
+lawsuit 0 305 40
+also 0 305 40
+argues 0 305 40
+the 0 305 40
+settlement 0 305 40
+violates 0 305 40
+the 0 305 40
+Tenth 0 305 40
+Amendment 0 305 40
+by 0 305 40
+infringing 0 305 40
+on 0 305 40
+states' 0 305 40
+rights 0 305 40
+to 0 305 40
+regulate 0 305 40
+firearms. 0 305 40
 
-Washington 0
-has 0
-a 0
-robust 0
-regulatory 0
-system 0
-meant 0
-to 0
-keep 0
-firearms 0
-out 0
-of 0
-the 0
-hands 0
-of 0
-dangerous 0
-individuals. 0
+Washington 0 305 41
+has 0 305 41
+a 0 305 41
+robust 0 305 41
+regulatory 0 305 41
+system 0 305 41
+meant 0 305 41
+to 0 305 41
+keep 0 305 41
+firearms 0 305 41
+out 0 305 41
+of 0 305 41
+the 0 305 41
+hands 0 305 41
+of 0 305 41
+dangerous 0 305 41
+individuals. 0 305 41
 
-That 0
-system 0
-is 0
-jeopardized 0
-by 0
-the 0
-Trump 0
-Administration's 0
-action 0
-and 0
-will 0
-be 0
-undermined 0
-by 0
-the 0
-distribution 0
-of 0
-Defense 0
-Distributed's 0
-downloadable 0
-guns. 0
+That 0 305 42
+system 0 305 42
+is 0 305 42
+jeopardized 0 305 42
+by 0 305 42
+the 0 305 42
+Trump 0 305 42
+Administration's 0 305 42
+action 0 305 42
+and 0 305 42
+will 0 305 42
+be 0 305 42
+undermined 0 305 42
+by 0 305 42
+the 0 305 42
+distribution 0 305 42
+of 0 305 42
+Defense 0 305 42
+Distributed's 0 305 42
+downloadable 0 305 42
+guns. 0 305 42
 
-Note 0
-that 0
-Ferguson 0
-forgets 0
-that 0
-the 0
-Tenth 0
-Amendment 0
-states 0
-plainly: 0
+Note 0 305 43
+that 0 305 43
+Ferguson 0 305 43
+forgets 0 305 43
+that 0 305 43
+the 0 305 43
+Tenth 0 305 43
+Amendment 0 305 43
+states 0 305 43
+plainly: 0 305 43
 
-The 0
-powers 0
-not 0
-delegated 0
-to 0
-the 0
-United 0
-States 0
-by 0
-the 0
-Constitution, 0
-nor 0
-prohibited 0
-by 0
-it 0
-to 0
-the 0
-States, 0
-are 0
-reserved 0
-to 0
-the 0
-States 0
-respectively, 0
-or 0
-to 0
-the 0
-people. 0
+The 0 305 44
+powers 0 305 44
+not 0 305 44
+delegated 0 305 44
+to 0 305 44
+the 0 305 44
+United 0 305 44
+States 0 305 44
+by 0 305 44
+the 0 305 44
+Constitution, 0 305 44
+nor 0 305 44
+prohibited 0 305 44
+by 0 305 44
+it 0 305 44
+to 0 305 44
+the 0 305 44
+States, 0 305 44
+are 0 305 44
+reserved 0 305 44
+to 0 305 44
+the 0 305 44
+States 0 305 44
+respectively, 0 305 44
+or 0 305 44
+to 0 305 44
+the 0 305 44
+people. 0 305 44
 
-(emphasis 0
-mine) 0
+(emphasis 0 305 45
+mine) 0 305 45
 
-Since 0
-our 0
-founders 0
-clearly 0
-said 0
-that 0
-our 0
-rights 0
-come 0
-from 0
-our 0
-Creator, 0
-and 0
-the 0
-Second 0
-Amendment 0
-acknowledges 0
-that 0
-the 0
-"right 0
-of 0
-the 0
-people 0
-to 0
-keep 0
-and 0
-bear 0
-arms 0
-shall 0
-not 0
-be 0
-infringed," 0
-I 0
-truly 0
-wonder 0
-where 0
-he 0
-gets 0
-this 0
-idea 0
-the 0
-state 0
-has 0
-a 0
-right 0
-to 0
-do 0
-just 0
-that, 0
-infringe 1
-on 1
-the 1
-rights 1
-of 1
-the 1
-people 1
-by 1
-regulating 1
-firearms. 1
+Since 0 305 46
+our 0 305 46
+founders 0 305 46
+clearly 0 305 46
+said 0 305 46
+that 0 305 46
+our 0 305 46
+rights 0 305 46
+come 0 305 46
+from 0 305 46
+our 0 305 46
+Creator, 0 305 46
+and 0 305 46
+the 0 305 46
+Second 0 305 46
+Amendment 0 305 46
+acknowledges 0 305 46
+that 0 305 46
+the 0 305 46
+"right 0 305 46
+of 0 305 46
+the 0 305 46
+people 0 305 46
+to 0 305 46
+keep 0 305 46
+and 0 305 46
+bear 0 305 46
+arms 0 305 46
+shall 0 305 46
+not 0 305 46
+be 0 305 46
+infringed," 0 305 46
+I 0 305 46
+truly 0 305 46
+wonder 0 305 46
+where 0 305 46
+he 0 305 46
+gets 0 305 46
+this 0 305 46
+idea 0 305 46
+the 0 305 46
+state 0 305 46
+has 0 305 46
+a 0 305 46
+right 0 305 46
+to 0 305 46
+do 0 305 46
+just 0 305 46
+that, 0 305 46
+infringe 1 305 46
+on 1 305 46
+the 1 305 46
+rights 1 305 46
+of 1 305 46
+the 1 305 46
+people 1 305 46
+by 1 305 46
+regulating 1 305 46
+firearms. 1 305 46
 
-he 0
-is 0
-reading 0
-something 0
-into 0
-it 0
-that 0
-is 0
-simply 0
-not 0
-there, 0
-but 0
-that's 0
-a 0
-Communist 1
-ideology 0
-you 0
-are 0
-seeing 0
-there, 0
-not 0
-an 0
-American 1
-one. 0
+he 0 305 47
+is 0 305 47
+reading 0 305 47
+something 0 305 47
+into 0 305 47
+it 0 305 47
+that 0 305 47
+is 0 305 47
+simply 0 305 47
+not 0 305 47
+there, 0 305 47
+but 0 305 47
+that's 0 305 47
+a 0 305 47
+Communist 1 305 47
+ideology 0 305 47
+you 0 305 47
+are 0 305 47
+seeing 0 305 47
+there, 0 305 47
+not 0 305 47
+an 0 305 47
+American 1 305 47
+one. 0 305 47
 
-Reason 0
-reports 0
-on 0
-the 0
-response 0
-of 0
-Defense 0
-Distributed: 0
+Reason 0 305 48
+reports 0 305 48
+on 0 305 48
+the 0 305 48
+response 0 305 48
+of 0 305 48
+Defense 0 305 48
+Distributed: 0 305 48
 
-Josh 0
-Blackman, 0
-one 0
-of 0
-Defense 0
-Distributed's 0
-lawyers, 0
-said 0
-in 0
-an 0
-email 0
-today 0
-that 0
-"The 0
-District 0
-Court 0
-in 0
-Washington 0
-already 0
-approved 0
-the 0
-settlement. 0
+Josh 0 305 49
+Blackman, 0 305 49
+one 0 305 49
+of 0 305 49
+Defense 0 305 49
+Distributed's 0 305 49
+lawyers, 0 305 49
+said 0 305 49
+in 0 305 49
+an 0 305 49
+email 0 305 49
+today 0 305 49
+that 0 305 49
+"The 0 305 49
+District 0 305 49
+Court 0 305 49
+in 0 305 49
+Washington 0 305 49
+already 0 305 49
+approved 0 305 49
+the 0 305 49
+settlement. 0 305 49
 
-This 0
-latest 0
-suit 0
-is 0
-another 0
-collateral 0
-attack 0
-on 0
-a 0
-rule-making 0
-process 0
-that 0
-began 0
-in 0
-the 0
-Obama 0
-Administration." 0
+This 0 305 50
+latest 0 305 50
+suit 0 305 50
+is 0 305 50
+another 0 305 50
+collateral 0 305 50
+attack 0 305 50
+on 0 305 50
+a 0 305 50
+rule-making 0 305 50
+process 0 305 50
+that 0 305 50
+began 0 305 50
+in 0 305 50
+the 0 305 50
+Obama 0 305 50
+Administration." 0 305 50
 
-As 0
-reported 0
-yesterday, 0
-Defense 0
-Distributed 0
-is 0
-already 0
-embroiled 0
-in 0
-its 0
-own 0
-lawsuit 0
-against 0
-New 0
-Jersey 0
-and 0
-Los 0
-Angeles 0
-over 0
-those 0
-authorities' 0
-threats, 0
-and 0
-simultaneously 0
-is 0
-fighting 0
-Pennsylvania's 0
-request 0
-for 0
-a 0
-temporary 0
-restraining 0
-order 0
-against 0
-them. 0
+As 0 305 51
+reported 0 305 51
+yesterday, 0 305 51
+Defense 0 305 51
+Distributed 0 305 51
+is 0 305 51
+already 0 305 51
+embroiled 0 305 51
+in 0 305 51
+its 0 305 51
+own 0 305 51
+lawsuit 0 305 51
+against 0 305 51
+New 0 305 51
+Jersey 0 305 51
+and 0 305 51
+Los 0 305 51
+Angeles 0 305 51
+over 0 305 51
+those 0 305 51
+authorities' 0 305 51
+threats, 0 305 51
+and 0 305 51
+simultaneously 0 305 51
+is 0 305 51
+fighting 0 305 51
+Pennsylvania's 0 305 51
+request 0 305 51
+for 0 305 51
+a 0 305 51
+temporary 0 305 51
+restraining 0 305 51
+order 0 305 51
+against 0 305 51
+them. 0 305 51
 
-(Both 0
-those 0
-states 0
-are 0
-also 0
-part 0
-of 0
-today's 0
-federal 0
-lawsuit 0
-filed 0
-in 0
-the 0
-Western 0
-District 0
-of 0
-Washington.) 0
+(Both 0 305 52
+those 0 305 52
+states 0 305 52
+are 0 305 52
+also 0 305 52
+part 0 305 52
+of 0 305 52
+today's 0 305 52
+federal 0 305 52
+lawsuit 0 305 52
+filed 0 305 52
+in 0 305 52
+the 0 305 52
+Western 0 305 52
+District 0 305 52
+of 0 305 52
+Washington.) 0 305 52
 
-While 0
-the 0
-various 0
-court 0
-filings 0
-about 0
-this 0
-continue 0
-to 0
-suggest 0
-that 0
-August 0
-1 0
-is 0
-the 0
-date 0
-on 0
-which 0
-Defense 0
-Distributed 0
-will 0
-begin 0
-distributing 0
-the 0
-files—which, 0
-again, 0
-the 0
-settlement 0
-legally 0
-permits 0
-them 0
-to 0
-do—the 0
-distribution 0
-is 0
-already 0
-happening. 0
+While 0 305 53
+the 0 305 53
+various 0 305 53
+court 0 305 53
+filings 0 305 53
+about 0 305 53
+this 0 305 53
+continue 0 305 53
+to 0 305 53
+suggest 0 305 53
+that 0 305 53
+August 0 305 53
+1 0 305 53
+is 0 305 53
+the 0 305 53
+date 0 305 53
+on 0 305 53
+which 0 305 53
+Defense 0 305 53
+Distributed 0 305 53
+will 0 305 53
+begin 0 305 53
+distributing 0 305 53
+the 0 305 53
+files—which, 0 305 53
+again, 0 305 53
+the 0 305 53
+settlement 0 305 53
+legally 0 305 53
+permits 0 305 53
+them 0 305 53
+to 0 305 53
+do—the 0 305 53
+distribution 0 305 53
+is 0 305 53
+already 0 305 53
+happening. 0 305 53
 
-Cody 0
-Wilson 0
-of 0
-Defense 0
-Distributed 0
-is 0
-already 0
-fundraising 0
-off 0
-the 0
-suit 0
-via 0
-Twitter. 0
+Cody 0 305 54
+Wilson 0 305 54
+of 0 305 54
+Defense 0 305 54
+Distributed 0 305 54
+is 0 305 54
+already 0 305 54
+fundraising 0 305 54
+off 0 305 54
+the 0 305 54
+suit 0 305 54
+via 0 305 54
+Twitter. 0 305 54
 
-He 0
-told 0
-me 0
-five 0
-years 0
-ago, 0
-when 0
-I 0
-was 0
-writing 0
-a 0
-feature 0
-story 0
-on 0
-the 0
-beginnings 0
-of 0
-his 0
-fight 0
-with 0
-the 0
-government 0
-over 0
-gun-making 0
-files, 0
-that 0
-"This 0
-has 0
-been 0
-a 0
-continuous 0
-process 0
-of 0
-different 0
-levels 0
-of 0
-authority 0
-figures 0
-trying 0
-to 0
-stop 0
-it 0
-from 0
-happening 0
-and 0
-thus 0
-allowing 0
-it 0
-to 0
-happen...Of 0
-course 0
-we 0
-are 0
-going 0
-to 0
-succeed—because 0
-you 0
-all 0
-are 0
-trying 0
-to 0
-stop 0
-me. 0
+He 0 305 55
+told 0 305 55
+me 0 305 55
+five 0 305 55
+years 0 305 55
+ago, 0 305 55
+when 0 305 55
+I 0 305 55
+was 0 305 55
+writing 0 305 55
+a 0 305 55
+feature 0 305 55
+story 0 305 55
+on 0 305 55
+the 0 305 55
+beginnings 0 305 55
+of 0 305 55
+his 0 305 55
+fight 0 305 55
+with 0 305 55
+the 0 305 55
+government 0 305 55
+over 0 305 55
+gun-making 0 305 55
+files, 0 305 55
+that 0 305 55
+"This 0 305 55
+has 0 305 55
+been 0 305 55
+a 0 305 55
+continuous 0 305 55
+process 0 305 55
+of 0 305 55
+different 0 305 55
+levels 0 305 55
+of 0 305 55
+authority 0 305 55
+figures 0 305 55
+trying 0 305 55
+to 0 305 55
+stop 0 305 55
+it 0 305 55
+from 0 305 55
+happening 0 305 55
+and 0 305 55
+thus 0 305 55
+allowing 0 305 55
+it 0 305 55
+to 0 305 55
+happen...Of 0 305 55
+course 0 305 55
+we 0 305 55
+are 0 305 55
+going 0 305 55
+to 0 305 55
+succeed—because 0 305 55
+you 0 305 55
+all 0 305 55
+are 0 305 55
+trying 0 305 55
+to 0 305 55
+stop 0 305 55
+me. 0 305 55
 
-That 0
-seemed 0
-natural 0
-and 0
-ended 0
-up 0
-being 0
-true." 0
+That 0 305 56
+seemed 0 305 56
+natural 0 305 56
+and 0 305 56
+ended 0 305 56
+up 0 305 56
+being 0 305 56
+true." 0 305 56
 
-So 0
-far, 0
-that 0
-has 0
-continued 0
-to 0
-be 0
-true. 0
+So 0 305 57
+far, 0 305 57
+that 0 305 57
+has 0 305 57
+continued 0 305 57
+to 0 305 57
+be 0 305 57
+true. 0 305 57
 
-This 1
-federal 1
-judge 1
-should 1
-know 1
-what 1
-the 1
-Constitution 1
-actually 1
-says 1
-and 0
-should 0
-have 0
-tossed 0
-this 0
-frivolous 1
-lawsuit 0
-in 0
-the 0
-trash 0
-where 0
-it 0
-belongs. 0
+This 1 305 58
+federal 1 305 58
+judge 1 305 58
+should 1 305 58
+know 1 305 58
+what 1 305 58
+the 1 305 58
+Constitution 1 305 58
+actually 1 305 58
+says 1 305 58
+and 0 305 58
+should 0 305 58
+have 0 305 58
+tossed 0 305 58
+this 0 305 58
+frivolous 1 305 58
+lawsuit 0 305 58
+in 0 305 58
+the 0 305 58
+trash 0 305 58
+where 0 305 58
+it 0 305 58
+belongs. 0 305 58
 
-Instead, 0
-he 0
-is 0
-demonstrating 0
-he 0
-is 0
-not 1
-even 1
-fit 1
-to 1
-sit 1
-on 1
-the 1
-bench, 1
-and 0
-the 0
-attorney 0
-generals 0
-of 0
-each 0
-of 0
-these 0
-states 0
-are 0
-demonstrating 0
-they 0
-are 0
-not 1
-fit 1
-to 1
-be 1
-in 1
-the 1
-office 1
-they 0
-are 0
-in. 0
+Instead, 0 305 59
+he 0 305 59
+is 0 305 59
+demonstrating 0 305 59
+he 0 305 59
+is 0 305 59
+not 1 305 59
+even 1 305 59
+fit 1 305 59
+to 1 305 59
+sit 1 305 59
+on 1 305 59
+the 1 305 59
+bench, 1 305 59
+and 0 305 59
+the 0 305 59
+attorney 0 305 59
+generals 0 305 59
+of 0 305 59
+each 0 305 59
+of 0 305 59
+these 0 305 59
+states 0 305 59
+are 0 305 59
+demonstrating 0 305 59
+they 0 305 59
+are 0 305 59
+not 1 305 59
+fit 1 305 59
+to 1 305 59
+be 1 305 59
+in 1 305 59
+the 1 305 59
+office 1 305 59
+they 0 305 59
+are 0 305 59
+in. 0 305 59
 
-Speaking 0
-of 0
-Defense 0
-Distributed 0
-and 0
-Cody 0
-Wilson, 0
-enter 0
-to 0
-win 0
-this 0
-Ghost 0
-Gunner 0
-2 0
-and 0
-make 0
-your 0
-own 0
-guns 0
-at 0
-home! 0
+Speaking 0 305 59
+
+of 0 305 59
+
+Defense 0 305 59
+
+Distributed 0 305 59
+
+and 0 305 59
+
+Cody 0 305 59
+
+Wilson, 0 305 59
+
+enter 0 305 59
+
+to 0 305 59
+
+win 0 305 59
+
+this 0 305 59
+
+Ghost 0 305 59
+
+Gunner 0 305 59
+
+2 0 305 59
+
+and 0 305 59
+
+make 0 305 59
+
+your 0 305 59
+
+own 0 305 59
+
+guns 0 305 59
+
+at 0 305 59
+
+home! 0 305 59

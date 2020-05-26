@@ -1,506 +1,514 @@
-President 0
-Donald 0
-Trump 0
-Proposes 0
-"Simple 0
-Immigration 0
-Plan": 0
-Illegals 1
-Have 1
-To 1
-Go! 1
+President 0 275 0
+Donald 0 275 0
+Trump 0 275 0
+Proposes 0 275 0
+"Simple 0 275 0
+Immigration 0 275 0
+Plan": 0 275 0
+Illegals 1 275 0
+Have 1 275 0
+To 1 275 0
+Go! 1 275 0
 
-On 0
-Monday, 0
-President 0
-Donald 0
-Trump 0
-proposed 0
-what 0
-he 0
-sees 0
-as 0
-an 0
-ideal 0
-immigration 0
-plan 0
-during 0
-a 0
-meeting 0
-with 0
-the 0
-King 0
-and 0
-Queen 0
-of 0
-Jordan 0
-at 0
-the 0
-White 0
-House. 0
+On 0 275 1
+Monday, 0 275 1
+President 0 275 1
+Donald 0 275 1
+Trump 0 275 1
+proposed 0 275 1
+what 0 275 1
+he 0 275 1
+sees 0 275 1
+as 0 275 1
+an 0 275 1
+ideal 0 275 1
+immigration 0 275 1
+plan 0 275 1
+during 0 275 1
+a 0 275 1
+meeting 0 275 1
+with 0 275 1
+the 0 275 1
+King 0 275 1
+and 0 275 1
+Queen 0 275 1
+of 0 275 1
+Jordan 0 275 1
+at 0 275 1
+the 0 275 1
+White 0 275 1
+House. 0 275 1
 
-“We 0
-want 0
-a 0
-system 0
-where 0
-when 0
-people 0
-come 0
-in 0
-illegally, 0
-they 0
-have 0
-to 0
-go 0
-out,” 0
-Trump 0
-told 0
-reporters. 0
+“We 0 275 2
+want 0 275 2
+a 0 275 2
+system 0 275 2
+where 0 275 2
+when 0 275 2
+people 0 275 2
+come 0 275 2
+in 0 275 2
+illegally, 0 275 2
+they 0 275 2
+have 0 275 2
+to 0 275 2
+go 0 275 2
+out,” 0 275 2
+Trump 0 275 2
+told 0 275 2
+reporters. 0 275 2
 
-“A 0
-nice 0
-simple 0
-system 0
-that 0
-works.” 0
+“A 0 275 3
+nice 0 275 3
+simple 0 275 3
+system 0 275 3
+that 0 275 3
+works.” 0 275 3
 
-Trump 0
-said 0
-that 0
-the 0
-system 0
-that 0
-Mexico 0
-uses 0
-to 0
-deal 0
-with 0
-illegals 0
-by 0
-holding 0
-them 0
-a 0
-few 0
-hours 0
-and 0
-then 0
-sending 0
-them 0
-away 0
-is 0
-preferable 0
-to 0
-how 0
-the 0
-long, 0
-drawn 0
-out 0
-process 0
-in 0
-the 0
-united 0
-States 0
-is 0
-conducted. 0
+Trump 0 275 4
+said 0 275 4
+that 0 275 4
+the 0 275 4
+system 0 275 4
+that 0 275 4
+Mexico 0 275 4
+uses 0 275 4
+to 0 275 4
+deal 0 275 4
+with 0 275 4
+illegals 0 275 4
+by 0 275 4
+holding 0 275 4
+them 0 275 4
+a 0 275 4
+few 0 275 4
+hours 0 275 4
+and 0 275 4
+then 0 275 4
+sending 0 275 4
+them 0 275 4
+away 0 275 4
+is 0 275 4
+preferable 0 275 4
+to 0 275 4
+how 0 275 4
+the 0 275 4
+long, 0 275 4
+drawn 0 275 4
+out 0 275 4
+process 0 275 4
+in 0 275 4
+the 0 275 4
+united 0 275 4
+States 0 275 4
+is 0 275 4
+conducted. 0 275 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 275 5
+our 0 275 5
+poll 0 275 5
+- 0 275 5
+story 0 275 5
+continues 0 275 5
+below 0 275 5
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 275 6
+do 0 275 6
+you 0 275 6
+consider 0 275 6
+to 0 275 6
+be 0 275 6
+the 0 275 6
+most 0 275 6
+corrupt 0 275 6
+Democrat 0 275 6
+Politician? 0 275 6
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 275 7
+do 0 275 7
+you 0 275 7
+consider 0 275 7
+to 0 275 7
+be 0 275 7
+the 0 275 7
+most 0 275 7
+corrupt 0 275 7
+Democrat 0 275 7
+Politician? 0 275 7
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 275 8
+do 0 275 8
+you 0 275 8
+consider 0 275 8
+to 0 275 8
+be 0 275 8
+the 0 275 8
+most 0 275 8
+corrupt 0 275 8
+Democrat 0 275 8
+Politician? 0 275 8
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 275 9
+Dianne 0 275 9
+Feinstein 0 275 9
+Maxine 0 275 9
+Waters 0 275 9
+Adam 0 275 9
+Schiff 0 275 9
+Chuck 0 275 9
+Schumer 0 275 9
+Kamala 0 275 9
+Harris 0 275 9
+Kirsten 0 275 9
+Gillibrand 0 275 9
+Keith 0 275 9
+Ellison 0 275 9
+Cory 0 275 9
+Booker 0 275 9
 
-Email 0
-* 0
+Email 0 275 10
+* 0 275 10
 
-Phone 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Phone 0 275 11
+This 0 275 11
+field 0 275 11
+is 0 275 11
+for 0 275 11
+validation 0 275 11
+purposes 0 275 11
+and 0 275 11
+should 0 275 11
+be 0 275 11
+left 0 275 11
+unchanged. 0 275 11
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 275 12
+this 0 275 12
+poll 0 275 12
+grants 0 275 12
+you 0 275 12
+access 0 275 12
+to 0 275 12
+Freedom 0 275 12
+Outpost 0 275 12
+updates 0 275 12
+free 0 275 12
+of 0 275 12
+charge. 0 275 12
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 275 13
+may 0 275 13
+opt 0 275 13
+out 0 275 13
+at 0 275 13
+anytime. 0 275 13
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 275 14
+also 0 275 14
+agree 0 275 14
+to 0 275 14
+this 0 275 14
+site's 0 275 14
+Privacy 0 275 14
+Policy 0 275 14
+and 0 275 14
+Terms 0 275 14
+of 0 275 14
+Use. 0 275 14
 
-I 0
-completely 0
-agree. 0
+I 0 275 15
+completely 0 275 15
+agree. 0 275 15
 
-In 0
-fact, 0
-I've 0
-often 0
-said 0
-if 0
-we 0
-catch 0
-people 0
-close 0
-to 0
-the 0
-border, 0
-we 0
-should 0
-not 0
-even 0
-bring 0
-them 0
-into 0
-the 0
-system 0
-if 0
-they 0
-are 0
-not 0
-citizens, 0
-but 0
-walk 0
-them 0
-back 0
-over 0
-the 0
-border 0
-and 0
-make 0
-sure 0
-they 0
-keep 0
-walking. 0
+In 0 275 16
+fact, 0 275 16
+I've 0 275 16
+often 0 275 16
+said 0 275 16
+if 0 275 16
+we 0 275 16
+catch 0 275 16
+people 0 275 16
+close 0 275 16
+to 0 275 16
+the 0 275 16
+border, 0 275 16
+we 0 275 16
+should 0 275 16
+not 0 275 16
+even 0 275 16
+bring 0 275 16
+them 0 275 16
+into 0 275 16
+the 0 275 16
+system 0 275 16
+if 0 275 16
+they 0 275 16
+are 0 275 16
+not 0 275 16
+citizens, 0 275 16
+but 0 275 16
+walk 0 275 16
+them 0 275 16
+back 0 275 16
+over 0 275 16
+the 0 275 16
+border 0 275 16
+and 0 275 16
+make 0 275 16
+sure 0 275 16
+they 0 275 16
+keep 0 275 16
+walking. 0 275 16
 
-Often, 0
-by 0
-putting 0
-illegals 0
-into 0
-the 0
-system, 0
-it 0
-takes 0
-years 0
-to 0
-deport 0
-them, 0
-which 0
-costs 0
-the 0
-American 1
-people 1
-lots 0
-of 0
-money. 0
+Often, 0 275 17
+by 0 275 17
+putting 0 275 17
+illegals 0 275 17
+into 0 275 17
+the 0 275 17
+system, 0 275 17
+it 0 275 17
+takes 0 275 17
+years 0 275 17
+to 0 275 17
+deport 0 275 17
+them, 0 275 17
+which 0 275 17
+costs 0 275 17
+the 0 275 17
+American 1 275 17
+people 1 275 17
+lots 0 275 17
+of 0 275 17
+money. 0 275 17
 
-That 0
-system 0
-would 0
-require 0
-more 0
-judges 0
-to 0
-handle 0
-more 0
-illegals 0
-and 0
-Trump 0
-ripped 0
-the 0
-calls 0
-for 0
-more 0
-judges 0
-in 0
-favor 0
-of 0
-a 0
-more 0
-"simple 0
-immigration 0
-plan." 0
+That 0 275 18
+system 0 275 18
+would 0 275 18
+require 0 275 18
+more 0 275 18
+judges 0 275 18
+to 0 275 18
+handle 0 275 18
+more 0 275 18
+illegals 0 275 18
+and 0 275 18
+Trump 0 275 18
+ripped 0 275 18
+the 0 275 18
+calls 0 275 18
+for 0 275 18
+more 0 275 18
+judges 0 275 18
+in 0 275 18
+favor 0 275 18
+of 0 275 18
+a 0 275 18
+more 0 275 18
+"simple 0 275 18
+immigration 0 275 18
+plan." 0 275 18
 
-“We 0
-want 0
-strong 0
-borders 0
-and 0
-we 0
-want 0
-no 0
-crime,” 0
-Trump 0
-said. 0
+“We 0 275 19
+want 0 275 19
+strong 0 275 19
+borders 0 275 19
+and 0 275 19
+we 0 275 19
+want 0 275 19
+no 0 275 19
+crime,” 0 275 19
+Trump 0 275 19
+said. 0 275 19
 
-“The 1
-Democrats 1
-want 1
-open 1
-borders 1
-and 1
-they 1
-don’t 1
-care 1
-about 1
-crime.” 1
+“The 1 275 20
+Democrats 1 275 20
+want 1 275 20
+open 1 275 20
+borders 1 275 20
+and 1 275 20
+they 1 275 20
+don’t 1 275 20
+care 1 275 20
+about 1 275 20
+crime.” 1 275 20
 
-Trump 0
-then 0
-called 0
-on 0
-Congress 0
-to 0
-correct 0
-the 0
-problems 0
-created 0
-by 0
-legislation 0
-with 0
-more 0
-legislation. 0
+Trump 0 275 21
+then 0 275 21
+called 0 275 21
+on 0 275 21
+Congress 0 275 21
+to 0 275 21
+correct 0 275 21
+the 0 275 21
+problems 0 275 21
+created 0 275 21
+by 0 275 21
+legislation 0 275 21
+with 0 275 21
+more 0 275 21
+legislation. 0 275 21
 
-“The 0
-laws 0
-are 0
-obsolete, 0
-the 0
-laws 0
-are 0
-horrible, 1
-having 0
-to 0
-do 0
-with 0
-the 0
-border, 0
-both 0
-in 0
-terms 0
-of 0
-security 0
-and 0
-in 0
-terms 0
-of 0
-taking 0
-care 0
-of 0
-people,” 0
-he 0
-said. 0
+“The 0 275 22
+laws 0 275 22
+are 0 275 22
+obsolete, 0 275 22
+the 0 275 22
+laws 0 275 22
+are 0 275 22
+horrible, 1 275 22
+having 0 275 22
+to 0 275 22
+do 0 275 22
+with 0 275 22
+the 0 275 22
+border, 0 275 22
+both 0 275 22
+in 0 275 22
+terms 0 275 22
+of 0 275 22
+security 0 275 22
+and 0 275 22
+in 0 275 22
+terms 0 275 22
+of 0 275 22
+taking 0 275 22
+care 0 275 22
+of 0 275 22
+people,” 0 275 22
+he 0 275 22
+said. 0 275 22
 
-“We 1
-want 1
-children 1
-staying 1
-together,” 1
-Trump 0
-said, 0
-blasting 0
-the 0
-New 0
-York 0
-Times 0
-report 0
-that 0
-said 0
-he 0
-didn't 0
-really 0
-want 0
-to 0
-sign 0
-his 0
-executive 0
-order 0
-last 0
-week 0
-that 0
-would 0
-keep 0
-families 0
-together 0
-in 0
-detention 0
-while 0
-they 0
-awaited 0
-the 0
-judicial 0
-process. 0
+“We 1 275 23
+want 1 275 23
+children 1 275 23
+staying 1 275 23
+together,” 1 275 23
+Trump 0 275 23
+said, 0 275 23
+blasting 0 275 23
+the 0 275 23
+New 0 275 23
+York 0 275 23
+Times 0 275 23
+report 0 275 23
+that 0 275 23
+said 0 275 23
+he 0 275 23
+didn't 0 275 23
+really 0 275 23
+want 0 275 23
+to 0 275 23
+sign 0 275 23
+his 0 275 23
+executive 0 275 23
+order 0 275 23
+last 0 275 23
+week 0 275 23
+that 0 275 23
+would 0 275 23
+keep 0 275 23
+families 0 275 23
+together 0 275 23
+in 0 275 23
+detention 0 275 23
+while 0 275 23
+they 0 275 23
+awaited 0 275 23
+the 0 275 23
+judicial 0 275 23
+process. 0 275 23
 
-Of 0
-course, 0
-Trump 0
-has 0
-inherited 0
-a 0
-problem 0
-that 0
-has 0
-existed 0
-for 0
-several 0
-administrations, 0
-both 0
-Republican 0
-and 0
-Democrat, 0
-for 0
-decades. 0
+Of 0 275 24
+course, 0 275 24
+Trump 0 275 24
+has 0 275 24
+inherited 0 275 24
+a 0 275 24
+problem 0 275 24
+that 0 275 24
+has 0 275 24
+existed 0 275 24
+for 0 275 24
+several 0 275 24
+administrations, 0 275 24
+both 0 275 24
+Republican 0 275 24
+and 0 275 24
+Democrat, 0 275 24
+for 0 275 24
+decades. 0 275 24
 
-It 0
-is 0
-time 0
-that 0
-Congress 0
-sure 0
-up 0
-things 0
-so 0
-that 0
-America's 1
-tax 1
-dollars 1
-are 0
-not 0
-bound 0
-up 0
-in 0
-a 0
-worthless 1
-judicial 0
-process 0
-when 0
-people 0
-are 0
-clearly 0
-in 0
-the 0
-country 0
-illegally. 0
+It 0 275 25
+is 0 275 25
+time 0 275 25
+that 0 275 25
+Congress 0 275 25
+sure 0 275 25
+up 0 275 25
+things 0 275 25
+so 0 275 25
+that 0 275 25
+America's 1 275 25
+tax 1 275 25
+dollars 1 275 25
+are 0 275 25
+not 0 275 25
+bound 0 275 25
+up 0 275 25
+in 0 275 25
+a 0 275 25
+worthless 1 275 25
+judicial 0 275 25
+process 0 275 25
+when 0 275 25
+people 0 275 25
+are 0 275 25
+clearly 0 275 25
+in 0 275 25
+the 0 275 25
+country 0 275 25
+illegally. 0 275 25
 
-Sadly, 0
-too 0
-many 0
-people 0
-want 0
-more 0
-amnesty 0
-which 0
-begs 0
-the 0
-question 0
-if 0
-any 0
-of 0
-them 0
-take 0
-the 0
-law 0
-seriously 0
-in 0
-the 0
-first 0
-place. 0
+Sadly, 0 275 26
+too 0 275 26
+many 0 275 26
+people 0 275 26
+want 0 275 26
+more 0 275 26
+amnesty 0 275 26
+which 0 275 26
+begs 0 275 26
+the 0 275 26
+question 0 275 26
+if 0 275 26
+any 0 275 26
+of 0 275 26
+them 0 275 26
+take 0 275 26
+the 0 275 26
+law 0 275 26
+seriously 0 275 26
+in 0 275 26
+the 0 275 26
+first 0 275 26
+place. 0 275 26
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-Sons 0
-Of 0
-Liberty 0
-Media 0
+Article 0 275 26
+
+posted 0 275 26
+
+with 0 275 26
+
+permission 0 275 26
+
+from 0 275 26
+
+Sons 0 275 26
+
+Of 0 275 26
+
+Liberty 0 275 26
+
+Media 0 275 26

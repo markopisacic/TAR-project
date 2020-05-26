@@ -1,321 +1,342 @@
-Farrakhan 0
-Speech: 0
-'Jews 1
-Are 1
-My 1
-Enemy,' 1
-'White 1
-Folks 1
-Are 0
-Going 0
-Down' 0
+Farrakhan 0 185 0
+Speech: 0 185 0
+'Jews 1 185 0
+Are 1 185 0
+My 1 185 0
+Enemy,' 1 185 0
+'White 1 185 0
+Folks 1 185 0
+Are 0 185 0
+Going 0 185 0
+Down' 0 185 0
 
-With 0
-the 0
-leftist 1
-media 1
-entirely 0
-focused 0
-on 0
-the 0
-push 0
-to 0
-ban 0
-AR-15s 0
-and 0
-repeal 0
-the 0
-Second 0
-Amendment, 0
-practically 0
-no 0
-one 0
-noticed 0
-Louis 0
-Farrakhan's 0
-Saviours’ 0
-Day 0
-2018 0
-Address 0
-in 0
-which 0
-he 0
-told 0
-an 0
-approving 0
-audience 0
-that 0
-"powerful 1
-Jews 1
-are 1
-my 1
-enemy," 1
-and 0
-"white 1
-folks 1
-are 0
-going 0
-down," 0
-according 0
-to 0
-The 0
-Washington 0
-Examiner. 0
+With 0 185 1
+the 0 185 1
+leftist 1 185 1
+media 1 185 1
+entirely 0 185 1
+focused 0 185 1
+on 0 185 1
+the 0 185 1
+push 0 185 1
+to 0 185 1
+ban 0 185 1
+AR-15s 0 185 1
+and 0 185 1
+repeal 0 185 1
+the 0 185 1
+Second 0 185 1
+Amendment, 0 185 1
+practically 0 185 1
+no 0 185 1
+one 0 185 1
+noticed 0 185 1
+Louis 0 185 1
+Farrakhan's 0 185 1
+Saviours’ 0 185 1
+Day 0 185 1
+2018 0 185 1
+Address 0 185 1
+in 0 185 1
+which 0 185 1
+he 0 185 1
+told 0 185 1
+an 0 185 1
+approving 0 185 1
+audience 0 185 1
+that 0 185 1
+"powerful 1 185 1
+Jews 1 185 1
+are 1 185 1
+my 1 185 1
+enemy," 1 185 1
+and 0 185 1
+"white 1 185 1
+folks 1 185 1
+are 0 185 1
+going 0 185 1
+down," 0 185 1
+according 0 185 1
+to 0 185 1
+The 0 185 1
+Washington 0 185 1
+Examiner. 0 185 1
 
-Farrakhan, 0
-of 0
-course, 0
-is 0
-the 0
-raging 1
-anti-Semite 1
-and 1
-race-monger 1
-who 0
-leads 0
-the 0
-Nation 0
-of 0
-Islam, 0
-the 0
-loony, 1
-militant, 1
-black 1
-nationalist 1
-organization 1
-whose 0
-mission 0
-is 0
-to 0
-throw 0
-off 0
-the 0
-yoke 0
-of 0
-the 1
-inferior 1
-white 1
-devil. 1
+Farrakhan, 0 185 2
+of 0 185 2
+course, 0 185 2
+is 0 185 2
+the 0 185 2
+raging 1 185 2
+anti-Semite 1 185 2
+and 1 185 2
+race-monger 1 185 2
+who 0 185 2
+leads 0 185 2
+the 0 185 2
+Nation 0 185 2
+of 0 185 2
+Islam, 0 185 2
+the 0 185 2
+loony, 1 185 2
+militant, 1 185 2
+black 1 185 2
+nationalist 1 185 2
+organization 1 185 2
+whose 0 185 2
+mission 0 185 2
+is 0 185 2
+to 0 185 2
+throw 0 185 2
+off 0 185 2
+the 0 185 2
+yoke 0 185 2
+of 0 185 2
+the 1 185 2
+inferior 1 185 2
+white 1 185 2
+devil. 1 185 2
 
-This 0
-is 0
-the 0
-same 0
-Farrakhan 0
-with 0
-whom 0
-then-Sen. 0
-Barack 0
-Obama 0
-took 0
-a 0
-photo 0
-at 0
-a 0
-2005 0
-Congressional 0
-Black 0
-Caucus 0
-meeting, 0
-a 1
-photo 1
-that 1
-was 1
-subsequently 1
-suppressed 1
-in 1
-order 1
-to 1
-protect 1
-Obama's 1
-political 1
-future. 1
+This 0 185 3
+is 0 185 3
+the 0 185 3
+same 0 185 3
+Farrakhan 0 185 3
+with 0 185 3
+whom 0 185 3
+then-Sen. 0 185 3
+Barack 0 185 3
+Obama 0 185 3
+took 0 185 3
+a 0 185 3
+photo 0 185 3
+at 0 185 3
+a 0 185 3
+2005 0 185 3
+Congressional 0 185 3
+Black 0 185 3
+Caucus 0 185 3
+meeting, 0 185 3
+a 1 185 3
+photo 1 185 3
+that 1 185 3
+was 1 185 3
+subsequently 1 185 3
+suppressed 1 185 3
+in 1 185 3
+order 1 185 3
+to 1 185 3
+protect 1 185 3
+Obama's 1 185 3
+political 1 185 3
+future. 1 185 3
 
-“Jews 0
-were 0
-responsible 0
-for 0
-all 0
-of 0
-this 0
-filth 1
-and 1
-degenerate 1
-behavior 1
-that 0
-Hollywood 0
-is 0
-putting 0
-out, 0
-turning 0
-men 0
-into 0
-women 0
-and 0
-women 0
-into 0
-men,” 0
-Farrakhan 0
-said 0
-in 0
-his 0
-keynote 0
-speech. 0
+“Jews 0 185 4
+were 0 185 4
+responsible 0 185 4
+for 0 185 4
+all 0 185 4
+of 0 185 4
+this 0 185 4
+filth 1 185 4
+and 1 185 4
+degenerate 1 185 4
+behavior 1 185 4
+that 0 185 4
+Hollywood 0 185 4
+is 0 185 4
+putting 0 185 4
+out, 0 185 4
+turning 0 185 4
+men 0 185 4
+into 0 185 4
+women 0 185 4
+and 0 185 4
+women 0 185 4
+into 0 185 4
+men,” 0 185 4
+Farrakhan 0 185 4
+said 0 185 4
+in 0 185 4
+his 0 185 4
+keynote 0 185 4
+speech. 0 185 4
 
-“White 1
-folks 1
-are 1
-going 1
-down. 1
+“White 1 185 5
+folks 1 185 5
+are 1 185 5
+going 1 185 5
+down. 1 185 5
 
-And 1
-Satan 1
-is 1
-going 1
-down. 1
+And 1 185 6
+Satan 1 185 6
+is 1 185 6
+going 1 185 6
+down. 1 185 6
 
-And 0
-Farrakhan, 0
-by 0
-God’s 0
-grace, 0
-has 0
-pulled 0
-a 0
-cover 0
-off 0
-of 0
-that 0
-Satanic 1
-Jew, 1
-and 0
-I’m 0
-here 0
-to 0
-say 0
-your 1
-time 1
-is 1
-up, 1
-your 1
-world 1
-is 1
-through." 1
+And 0 185 7
+Farrakhan, 0 185 7
+by 0 185 7
+God’s 0 185 7
+grace, 0 185 7
+has 0 185 7
+pulled 0 185 7
+a 0 185 7
+cover 0 185 7
+off 0 185 7
+of 0 185 7
+that 0 185 7
+Satanic 1 185 7
+Jew, 1 185 7
+and 0 185 7
+I’m 0 185 7
+here 0 185 7
+to 0 185 7
+say 0 185 7
+your 1 185 7
+time 1 185 7
+is 1 185 7
+up, 1 185 7
+your 1 185 7
+world 1 185 7
+is 1 185 7
+through." 1 185 7
 
-After 0
-Farrakhan's 0
-speech 0
-Sunday, 0
-CNN 0
-anchor 0
-Jake 0
-Tapper, 0
-among 0
-a 0
-few 0
-others, 0
-began 0
-tweeting 0
-out 0
-a 0
-few 0
-quotes 0
-from 0
-it, 0
-and 0
-declared 0
-that 0
-Farrakhan 0
-was 0
-more 0
-dangerous 0
-than 0
-other 0
-"alt-reich" 1
-leaders 1
-because 0
-he 1
-“has 1
-a 1
-much 1
-larger 1
-following 1
-and 1
-elected 1
-officials 1
-meet 1
-with 1
-him 1
-openly.” 1
-His 0
-Twitter 0
-thread 0
-begins 0
-here: 0
+After 0 185 8
+Farrakhan's 0 185 8
+speech 0 185 8
+Sunday, 0 185 8
+CNN 0 185 8
+anchor 0 185 8
+Jake 0 185 8
+Tapper, 0 185 8
+among 0 185 8
+a 0 185 8
+few 0 185 8
+others, 0 185 8
+began 0 185 8
+tweeting 0 185 8
+out 0 185 8
+a 0 185 8
+few 0 185 8
+quotes 0 185 8
+from 0 185 8
+it, 0 185 8
+and 0 185 8
+declared 0 185 8
+that 0 185 8
+Farrakhan 0 185 8
+was 0 185 8
+more 0 185 8
+dangerous 0 185 8
+than 0 185 8
+other 0 185 8
+"alt-reich" 1 185 8
+leaders 1 185 8
+because 0 185 8
+he 1 185 8
+“has 1 185 8
+a 1 185 8
+much 1 185 8
+larger 1 185 8
+following 1 185 8
+and 1 185 8
+elected 1 185 8
+officials 1 185 8
+meet 1 185 8
+with 1 185 8
+him 1 185 8
+openly.” 1 185 8
+His 0 185 8
+Twitter 0 185 8
+thread 0 185 8
+begins 0 185 8
+here: 0 185 8
 
-Somehow 0
-the 0
-openly 1
-racist 1
-and 1
-anti-Semitic 1
-Farrakhan 1
-and 0
-his 0
-hateful 1
-organization 1
-have 0
-managed 0
-for 0
-decades 0
-to 0
-avoid 0
-being 0
-harshly 1
-denounced 1
-as 0
-such 0
-by 0
-the 0
-news 0
-media, 0
-which 1
-instead 1
-has 1
-spent 1
-the 1
-last 1
-two 1
-years 1
-attempting 1
-to 1
-smear 1
-Donald 1
-Trump 1
-as 1
-the 1
-new 1
-Hitler. 1
+Somehow 0 185 9
+the 0 185 9
+openly 1 185 9
+racist 1 185 9
+and 1 185 9
+anti-Semitic 1 185 9
+Farrakhan 1 185 9
+and 0 185 9
+his 0 185 9
+hateful 1 185 9
+organization 1 185 9
+have 0 185 9
+managed 0 185 9
+for 0 185 9
+decades 0 185 9
+to 0 185 9
+avoid 0 185 9
+being 0 185 9
+harshly 1 185 9
+denounced 1 185 9
+as 0 185 9
+such 0 185 9
+by 0 185 9
+the 0 185 9
+news 0 185 9
+media, 0 185 9
+which 1 185 9
+instead 1 185 9
+has 1 185 9
+spent 1 185 9
+the 1 185 9
+last 1 185 9
+two 1 185 9
+years 1 185 9
+attempting 1 185 9
+to 1 185 9
+smear 1 185 9
+Donald 1 185 9
+Trump 1 185 9
+as 1 185 9
+the 1 185 9
+new 1 185 9
+Hitler. 1 185 9
 
-For 0
-more 0
-on 0
-Farrakhan, 0
-check 0
-out 0
-his 0
-profile 0
-here 0
-at 0
-Discover 0
-the 0
-Networks, 0
-the 0
-Horowitz 0
-Freedom 0
-Center's 0
-resource 0
-site 0
-of 0
-the 0
-left. 0
+For 0 185 9
+
+more 0 185 9
+
+on 0 185 9
+
+Farrakhan, 0 185 9
+
+check 0 185 9
+
+out 0 185 9
+
+his 0 185 9
+
+profile 0 185 9
+
+here 0 185 9
+
+at 0 185 9
+
+Discover 0 185 9
+
+the 0 185 9
+
+Networks, 0 185 9
+
+the 0 185 9
+
+Horowitz 0 185 9
+
+Freedom 0 185 9
+
+Center's 0 185 9
+
+resource 0 185 9
+
+site 0 185 9
+
+of 0 185 9
+
+the 0 185 9
+
+left. 0 185 9

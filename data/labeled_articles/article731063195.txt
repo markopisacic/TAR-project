@@ -1,690 +1,693 @@
-One 0
-Trillion 0
-Stars 0
+One 0 170 0
+Trillion 0 170 0
+Stars 0 170 0
 
-The 0
-nearest 0
-neighboring 0
-major 0
-galaxy 0
-to 0
-the 0
-Milky 0
-Way 0
-is 0
-the 0
-Andromeda 0
-Galaxy. 0
+The 0 170 1
+nearest 0 170 1
+neighboring 0 170 1
+major 0 170 1
+galaxy 0 170 1
+to 0 170 1
+the 0 170 1
+Milky 0 170 1
+Way 0 170 1
+is 0 170 1
+the 0 170 1
+Andromeda 0 170 1
+Galaxy. 0 170 1
 
-The 0
-large 0
-galaxy 0
-is 0
-stunning 1
-in 0
-size 0
-and 0
-has 0
-around 0
-three 0
-times 0
-as 0
-many 0
-stars 0
-as 0
-the 0
-Milky 0
-Way 0
-does. 0
+The 0 170 2
+large 0 170 2
+galaxy 0 170 2
+is 0 170 2
+stunning 1 170 2
+in 0 170 2
+size 0 170 2
+and 0 170 2
+has 0 170 2
+around 0 170 2
+three 0 170 2
+times 0 170 2
+as 0 170 2
+many 0 170 2
+stars 0 170 2
+as 0 170 2
+the 0 170 2
+Milky 0 170 2
+Way 0 170 2
+does. 0 170 2
 
-It 0
-can 0
-easily 0
-be 0
-seen 0
-with 0
-the 0
-naked 0
-eye 0
-from 0
-Earth, 0
-and 0
-it 0
-is 0
-found 0
-in 0
-the 0
-constellation 0
-of 0
-Andromeda, 0
-from 0
-which 0
-its 0
-name 0
-originates. 0
+It 0 170 3
+can 0 170 3
+easily 0 170 3
+be 0 170 3
+seen 0 170 3
+with 0 170 3
+the 0 170 3
+naked 0 170 3
+eye 0 170 3
+from 0 170 3
+Earth, 0 170 3
+and 0 170 3
+it 0 170 3
+is 0 170 3
+found 0 170 3
+in 0 170 3
+the 0 170 3
+constellation 0 170 3
+of 0 170 3
+Andromeda, 0 170 3
+from 0 170 3
+which 0 170 3
+its 0 170 3
+name 0 170 3
+originates. 0 170 3
 
-Far 0
-from 0
-being 0
-just 0
-a 0
-pretty 0
-sight 0
-in 0
-the 0
-sky, 0
-the 0
-Andromeda 0
-Galaxy 0
-is 0
-an 0
-impressive, 0
-turbulent 0
-patch 0
-of 0
-the 0
-cosmos. 0
+Far 0 170 4
+from 0 170 4
+being 0 170 4
+just 0 170 4
+a 0 170 4
+pretty 0 170 4
+sight 0 170 4
+in 0 170 4
+the 0 170 4
+sky, 0 170 4
+the 0 170 4
+Andromeda 0 170 4
+Galaxy 0 170 4
+is 0 170 4
+an 0 170 4
+impressive, 0 170 4
+turbulent 0 170 4
+patch 0 170 4
+of 0 170 4
+the 0 170 4
+cosmos. 0 170 4
 
-It 0
-is 0
-even 0
-expected 0
-to 0
-collide 0
-with 0
-the 0
-Milky 0
-Way 0
-years 0
-down 0
-the 0
-road. 0
+It 0 170 5
+is 0 170 5
+even 0 170 5
+expected 0 170 5
+to 0 170 5
+collide 0 170 5
+with 0 170 5
+the 0 170 5
+Milky 0 170 5
+Way 0 170 5
+years 0 170 5
+down 0 170 5
+the 0 170 5
+road. 0 170 5
 
-If 0
-you 0
-find 0
-that 0
-fascinating, 0
-then 0
-you 0
-are 0
-going 0
-to 0
-enjoy 0
-these 0
-ten 0
-amazing 1
-facts 0
-about 0
-the 0
-Andromeda 0
-Galaxy. 0
+If 0 170 6
+you 0 170 6
+find 0 170 6
+that 0 170 6
+fascinating, 0 170 6
+then 0 170 6
+you 0 170 6
+are 0 170 6
+going 0 170 6
+to 0 170 6
+enjoy 0 170 6
+these 0 170 6
+ten 0 170 6
+amazing 1 170 6
+facts 0 170 6
+about 0 170 6
+the 0 170 6
+Andromeda 0 170 6
+Galaxy. 0 170 6
 
-10 0
-Also 0
-Known 0
-As 0
-Messier 0
-31 0
+10 0 170 7
+Also 0 170 7
+Known 0 170 7
+As 0 170 7
+Messier 0 170 7
+31 0 170 7
 
-Celestron 0
-NexStar 0
-90SL... 0
-Buy 0
-New 0
-$309.95 0
-(as 0
-of 0
-04:50 0
-EDT 0
-- 0
-Details) 0
+Celestron 0 170 8
+NexStar 0 170 8
+90SL... 0 170 8
+Buy 0 170 8
+New 0 170 8
+$309.95 0 170 8
+(as 0 170 8
+of 0 170 8
+04:50 0 170 8
+EDT 0 170 8
+- 0 170 8
+Details) 0 170 8
 
-Our 0
-closest 0
-neighboring 0
-galaxy 0
-is 0
-also 0
-known 0
-as 0
-Messier 0
-31 0
-or 0
-M31. 0
+Our 0 170 9
+closest 0 170 9
+neighboring 0 170 9
+galaxy 0 170 9
+is 0 170 9
+also 0 170 9
+known 0 170 9
+as 0 170 9
+Messier 0 170 9
+31 0 170 9
+or 0 170 9
+M31. 0 170 9
 
-The 0
-name 0
-came 0
-from 0
-Charles 0
-Messier, 0
-the 0
-French 0
-astronomer 0
-who 0
-catalogued 0
-the 0
-large 0
-galaxy. 0
+The 0 170 10
+name 0 170 10
+came 0 170 10
+from 0 170 10
+Charles 0 170 10
+Messier, 0 170 10
+the 0 170 10
+French 0 170 10
+astronomer 0 170 10
+who 0 170 10
+catalogued 0 170 10
+the 0 170 10
+large 0 170 10
+galaxy. 0 170 10
 
-Messier 0
-documented 0
-many 0
-objects 0
-in 0
-the 0
-skies 0
-of 0
-the 0
-Northern 0
-Hemisphere, 0
-and 0
-they 0
-are 0
-collectively 0
-known 0
-as 0
-the 0
-Messier 0
-objects 0
-or 0
-the 0
-Messier 0
-Catalog. 0
+Messier 0 170 11
+documented 0 170 11
+many 0 170 11
+objects 0 170 11
+in 0 170 11
+the 0 170 11
+skies 0 170 11
+of 0 170 11
+the 0 170 11
+Northern 0 170 11
+Hemisphere, 0 170 11
+and 0 170 11
+they 0 170 11
+are 0 170 11
+collectively 0 170 11
+known 0 170 11
+as 0 170 11
+the 0 170 11
+Messier 0 170 11
+objects 0 170 11
+or 0 170 11
+the 0 170 11
+Messier 0 170 11
+Catalog. 0 170 11
 
-(Note 0
-that 0
-Messier 0
-wasn’t 0
-always 0
-the 0
-first 0
-to 0
-observe 0
-the 0
-objects 0
-in 0
-his 0
-catalog.) 0
+(Note 0 170 12
+that 0 170 12
+Messier 0 170 12
+wasn’t 0 170 12
+always 0 170 12
+the 0 170 12
+first 0 170 12
+to 0 170 12
+observe 0 170 12
+the 0 170 12
+objects 0 170 12
+in 0 170 12
+his 0 170 12
+catalog.) 0 170 12
 
-In 0
-1757, 0
-he 0
-had 0
-begun 0
-searching 0
-for 0
-Halley’s 0
-Comet, 0
-but 0
-the 0
-calculations 0
-given 0
-to 0
-him 0
-had 0
-sent 0
-him 0
-to 0
-a 0
-different 0
-section 0
-of 0
-the 0
-sky. 0
+In 0 170 13
+1757, 0 170 13
+he 0 170 13
+had 0 170 13
+begun 0 170 13
+searching 0 170 13
+for 0 170 13
+Halley’s 0 170 13
+Comet, 0 170 13
+but 0 170 13
+the 0 170 13
+calculations 0 170 13
+given 0 170 13
+to 0 170 13
+him 0 170 13
+had 0 170 13
+sent 0 170 13
+him 0 170 13
+to 0 170 13
+a 0 170 13
+different 0 170 13
+section 0 170 13
+of 0 170 13
+the 0 170 13
+sky. 0 170 13
 
-That 0
-wrong 0
-section 0
-of 0
-the 0
-sky 0
-is 0
-where 0
-he 0
-observed 0
-a 0
-nebula 0
-that 0
-became 0
-the 0
-first 0
-entry 0
-in 0
-the 0
-catalog: 0
-M1, 0
-also 0
-known 0
-as 0
-the 0
-Crab 0
-Nebula. 0
+That 0 170 14
+wrong 0 170 14
+section 0 170 14
+of 0 170 14
+the 0 170 14
+sky 0 170 14
+is 0 170 14
+where 0 170 14
+he 0 170 14
+observed 0 170 14
+a 0 170 14
+nebula 0 170 14
+that 0 170 14
+became 0 170 14
+the 0 170 14
+first 0 170 14
+entry 0 170 14
+in 0 170 14
+the 0 170 14
+catalog: 0 170 14
+M1, 0 170 14
+also 0 170 14
+known 0 170 14
+as 0 170 14
+the 0 170 14
+Crab 0 170 14
+Nebula. 0 170 14
 
-In 0
-1764, 0
-Charles 0
-Messier 0
-added 0
-M31 0
-to 0
-his 0
-catalog. 0
+In 0 170 15
+1764, 0 170 15
+Charles 0 170 15
+Messier 0 170 15
+added 0 170 15
+M31 0 170 15
+to 0 170 15
+his 0 170 15
+catalog. 0 170 15
 
-By 0
-the 0
-end 0
-of 0
-the 0
-year, 0
-he 0
-had 0
-added 0
-a 0
-total 0
-of 0
-38 0
-objects. 0
+By 0 170 16
+the 0 170 16
+end 0 170 16
+of 0 170 16
+the 0 170 16
+year, 0 170 16
+he 0 170 16
+had 0 170 16
+added 0 170 16
+a 0 170 16
+total 0 170 16
+of 0 170 16
+38 0 170 16
+objects. 0 170 16
 
-By 0
-1781, 0
-he 0
-had 0
-logged 0
-a 0
-total 0
-of 0
-103 0
-objects 0
-into 0
-his 0
-catalog, 0
-40 0
-of 0
-which 0
-had 0
-been 0
-found 0
-by 0
-Messier 0
-himself. 0
+By 0 170 17
+1781, 0 170 17
+he 0 170 17
+had 0 170 17
+logged 0 170 17
+a 0 170 17
+total 0 170 17
+of 0 170 17
+103 0 170 17
+objects 0 170 17
+into 0 170 17
+his 0 170 17
+catalog, 0 170 17
+40 0 170 17
+of 0 170 17
+which 0 170 17
+had 0 170 17
+been 0 170 17
+found 0 170 17
+by 0 170 17
+Messier 0 170 17
+himself. 0 170 17
 
-[1] 0
+[1] 0 170 18
 
-9 0
-Named 0
-After 0
-The 0
-Andromeda 0
-Constellation 0
+9 0 170 19
+Named 0 170 19
+After 0 170 19
+The 0 170 19
+Andromeda 0 170 19
+Constellation 0 170 19
 
-Photo 0
-credit: 0
-Keilana, 0
-Roberta 0
-Mura 0
+Photo 0 170 20
+credit: 0 170 20
+Keilana, 0 170 20
+Roberta 0 170 20
+Mura 0 170 20
 
-If 0
-you 0
-look 0
-up 0
-into 0
-the 0
-northern 0
-night 0
-sky 0
-between 0
-Cassiopeia’s 0
-“W” 0
-asterism 0
-and 0
-the 0
-Great 0
-Square 0
-of 0
-Pegasus, 0
-you 0
-will 0
-find 0
-the 0
-constellation 0
-Andromeda. 0
+If 0 170 21
+you 0 170 21
+look 0 170 21
+up 0 170 21
+into 0 170 21
+the 0 170 21
+northern 0 170 21
+night 0 170 21
+sky 0 170 21
+between 0 170 21
+Cassiopeia’s 0 170 21
+“W” 0 170 21
+asterism 0 170 21
+and 0 170 21
+the 0 170 21
+Great 0 170 21
+Square 0 170 21
+of 0 170 21
+Pegasus, 0 170 21
+you 0 170 21
+will 0 170 21
+find 0 170 21
+the 0 170 21
+constellation 0 170 21
+Andromeda. 0 170 21
 
-The 0
-star 0
-pattern 0
-was 0
-named 0
-after 0
-the 0
-mythical 0
-princess 0
-Andromeda, 0
-the 0
-wife 0
-of 0
-the 0
-Greek 0
-hero 0
-Perseus. 0
+The 0 170 22
+star 0 170 22
+pattern 0 170 22
+was 0 170 22
+named 0 170 22
+after 0 170 22
+the 0 170 22
+mythical 0 170 22
+princess 0 170 22
+Andromeda, 0 170 22
+the 0 170 22
+wife 0 170 22
+of 0 170 22
+the 0 170 22
+Greek 0 170 22
+hero 0 170 22
+Perseus. 0 170 22
 
-The 0
-constellation 0
-was 0
-first 0
-cataloged 0
-by 0
-the 0
-Greek 0
-astronomer 0
-Ptolemy 0
-in 0
-the 0
-second 0
-century, 0
-and 0
-it 0
-is 0
-also 0
-known 0
-by 0
-the 0
-names 0
-of 0
-Chained 0
-Maiden, 0
-Persea, 0
-or 0
-Cepheis. 0
+The 0 170 23
+constellation 0 170 23
+was 0 170 23
+first 0 170 23
+cataloged 0 170 23
+by 0 170 23
+the 0 170 23
+Greek 0 170 23
+astronomer 0 170 23
+Ptolemy 0 170 23
+in 0 170 23
+the 0 170 23
+second 0 170 23
+century, 0 170 23
+and 0 170 23
+it 0 170 23
+is 0 170 23
+also 0 170 23
+known 0 170 23
+by 0 170 23
+the 0 170 23
+names 0 170 23
+of 0 170 23
+Chained 0 170 23
+Maiden, 0 170 23
+Persea, 0 170 23
+or 0 170 23
+Cepheis. 0 170 23
 
-Celestron 0
-Sky 0
-Maps 0
-Celstron 0
-Best 0
-Price: 0
-$15.97 0
-Buy 0
-New 0
-$18.95 0
-(as 0
-of 0
-04:55 0
-EDT 0
-- 0
-Details) 0
+Celestron 0 170 24
+Sky 0 170 24
+Maps 0 170 24
+Celstron 0 170 24
+Best 0 170 24
+Price: 0 170 24
+$15.97 0 170 24
+Buy 0 170 24
+New 0 170 24
+$18.95 0 170 24
+(as 0 170 24
+of 0 170 24
+04:55 0 170 24
+EDT 0 170 24
+- 0 170 24
+Details) 0 170 24
 
-The 0
-Andromeda 0
-constellation 0
-is 0
-also 0
-home 0
-to 0
-various 0
-other 0
-deep 0
-sky 0
-objects. 0
+The 0 170 25
+Andromeda 0 170 25
+constellation 0 170 25
+is 0 170 25
+also 0 170 25
+home 0 170 25
+to 0 170 25
+various 0 170 25
+other 0 170 25
+deep 0 170 25
+sky 0 170 25
+objects. 0 170 25
 
-Andromeda 0
-is 0
-located 0
-outside 0
-the 0
-galactic 0
-plane, 0
-and 0
-it 0
-does 0
-not 0
-contain 0
-any 0
-clusters 0
-or 0
-nebulae 0
-of 0
-the 0
-Milky 0
-Way; 0
-it 0
-does 0
-contain 0
-other 0
-visible 0
-galaxies, 0
-though. 0
+Andromeda 0 170 26
+is 0 170 26
+located 0 170 26
+outside 0 170 26
+the 0 170 26
+galactic 0 170 26
+plane, 0 170 26
+and 0 170 26
+it 0 170 26
+does 0 170 26
+not 0 170 26
+contain 0 170 26
+any 0 170 26
+clusters 0 170 26
+or 0 170 26
+nebulae 0 170 26
+of 0 170 26
+the 0 170 26
+Milky 0 170 26
+Way; 0 170 26
+it 0 170 26
+does 0 170 26
+contain 0 170 26
+other 0 170 26
+visible 0 170 26
+galaxies, 0 170 26
+though. 0 170 26
 
-The 0
-most 0
-famous 0
-of 0
-these 0
-galaxies 0
-is, 0
-of 0
-course, 0
-the 0
-Andromeda 0
-Galaxy, 0
-which 0
-gets 0
-its 0
-name 0
-from 0
-the 0
-large 0
-constellation. 0
+The 0 170 27
+most 0 170 27
+famous 0 170 27
+of 0 170 27
+these 0 170 27
+galaxies 0 170 27
+is, 0 170 27
+of 0 170 27
+course, 0 170 27
+the 0 170 27
+Andromeda 0 170 27
+Galaxy, 0 170 27
+which 0 170 27
+gets 0 170 27
+its 0 170 27
+name 0 170 27
+from 0 170 27
+the 0 170 27
+large 0 170 27
+constellation. 0 170 27
 
-The 0
-constellation 0
-is 0
-best-known 0
-for 0
-the 0
-Andromeda 0
-Galaxy, 0
-which 0
-is 0
-one 0
-of 0
-the 0
-most 0
-famous 0
-objects 0
-in 0
-the 0
-sky 0
-that 0
-can 0
-be 0
-seen 0
-with 0
-the 0
-naked 0
-eye. 0
+The 0 170 28
+constellation 0 170 28
+is 0 170 28
+best-known 0 170 28
+for 0 170 28
+the 0 170 28
+Andromeda 0 170 28
+Galaxy, 0 170 28
+which 0 170 28
+is 0 170 28
+one 0 170 28
+of 0 170 28
+the 0 170 28
+most 0 170 28
+famous 0 170 28
+objects 0 170 28
+in 0 170 28
+the 0 170 28
+sky 0 170 28
+that 0 170 28
+can 0 170 28
+be 0 170 28
+seen 0 170 28
+with 0 170 28
+the 0 170 28
+naked 0 170 28
+eye. 0 170 28
 
-[2] 0
+[2] 0 170 29
 
-8 0
-Larger 0
-Than 0
-The 0
-Milky 0
-Way 0
+8 0 170 30
+Larger 0 170 30
+Than 0 170 30
+The 0 170 30
+Milky 0 170 30
+Way 0 170 30
 
-In 0
-astronomy, 0
-a 0
-light-year 0
-is 0
-a 0
-commonly 0
-used 0
-unit 0
-to 0
-measure 0
-distance, 0
-but 0
-some 0
-astronomers 0
-prefer 0
-to 0
-use 0
-a 0
-unit 0
-called 0
-the 0
-parsec. 0
+In 0 170 31
+astronomy, 0 170 31
+a 0 170 31
+light-year 0 170 31
+is 0 170 31
+a 0 170 31
+commonly 0 170 31
+used 0 170 31
+unit 0 170 31
+to 0 170 31
+measure 0 170 31
+distance, 0 170 31
+but 0 170 31
+some 0 170 31
+astronomers 0 170 31
+prefer 0 170 31
+to 0 170 31
+use 0 170 31
+a 0 170 31
+unit 0 170 31
+called 0 170 31
+the 0 170 31
+parsec. 0 170 31
 
-When 0
-referring 0
-to 0
-something 0
-larger, 0
-they 0
-use 0
-kiloparsecs, 0
-which 0
-are 0
-equal 0
-to 0
-1,000 0
-parsecs, 0
-and 0
-megaparsecs, 0
-equal 0
-to 0
-one 0
-million 0
-parsecs. 0
+When 0 170 32
+referring 0 170 32
+to 0 170 32
+something 0 170 32
+larger, 0 170 32
+they 0 170 32
+use 0 170 32
+kiloparsecs, 0 170 32
+which 0 170 32
+are 0 170 32
+equal 0 170 32
+to 0 170 32
+1,000 0 170 32
+parsecs, 0 170 32
+and 0 170 32
+megaparsecs, 0 170 32
+equal 0 170 32
+to 0 170 32
+one 0 170 32
+million 0 170 32
+parsecs. 0 170 32
 
-The 0
-Milky 0
-Way 0
-measures 0
-about 0
-100,000 0
-light-years 0
-or 0
-30 0
-kiloparsecs 0
-across. 0
+The 0 170 33
+Milky 0 170 33
+Way 0 170 33
+measures 0 170 33
+about 0 170 33
+100,000 0 170 33
+light-years 0 170 33
+or 0 170 33
+30 0 170 33
+kiloparsecs 0 170 33
+across. 0 170 33
 
-This 0
-may 0
-seem 0
-large, 0
-but 0
-it 0
-is 0
-rather 0
-small 0
-when 0
-compared 0
-to 0
-other 0
-galaxies. 0
+This 0 170 34
+may 0 170 34
+seem 0 170 34
+large, 0 170 34
+but 0 170 34
+it 0 170 34
+is 0 170 34
+rather 0 170 34
+small 0 170 34
+when 0 170 34
+compared 0 170 34
+to 0 170 34
+other 0 170 34
+galaxies. 0 170 34
 
-The 0
-Andromeda 0
-Galaxy 0
-has 0
-an 0
-approximate 0
-diameter 0
-of 0
-220,000 0
-light 0
-years, 0
-which 0
-is 0
-more 0
-than 0
-double 0
-of 0
-that 0
-of 0
-the 0
-Milky 0
-Way. 0
+The 0 170 35
+Andromeda 0 170 35
+Galaxy 0 170 35
+has 0 170 35
+an 0 170 35
+approximate 0 170 35
+diameter 0 170 35
+of 0 170 35
+220,000 0 170 35
+light 0 170 35
+years, 0 170 35
+which 0 170 35
+is 0 170 35
+more 0 170 35
+than 0 170 35
+double 0 170 35
+of 0 170 35
+that 0 170 35
+of 0 170 35
+the 0 170 35
+Milky 0 170 35
+Way. 0 170 35
 
-It 0
-is 0
-the 0
-largest 0
-galaxy 0
-in 0
-the 0
-Local 0
-Cluster. 0
+It 0 170 36
+is 0 170 36
+the 0 170 36
+largest 0 170 36
+galaxy 0 170 36
+in 0 170 36
+the 0 170 36
+Local 0 170 36
+Cluster. 0 170 36
 
-If 0
-it 0
-were 0
-bright 0
-enough, 0
-the 0
-Andromeda 0
-Galaxy 0
-would 0
-appear 0
-larger 0
-than 0
-the 0
-Moon 0
-in 0
-the 0
-sky 0
-(as 0
-depicted 0
-above), 0
-even 0
-with 0
-it 0
-being 0
-much 0
-farther 0
-away. 0
+If 0 170 37
+it 0 170 37
+were 0 170 37
+bright 0 170 37
+enough, 0 170 37
+the 0 170 37
+Andromeda 0 170 37
+Galaxy 0 170 37
+would 0 170 37
+appear 0 170 37
+larger 0 170 37
+than 0 170 37
+the 0 170 37
+Moon 0 170 37
+in 0 170 37
+the 0 170 37
+sky 0 170 37
+(as 0 170 37
+depicted 0 170 37
+above), 0 170 37
+even 0 170 37
+with 0 170 37
+it 0 170 37
+being 0 170 37
+much 0 170 37
+farther 0 170 37
+away. 0 170 37
 
-The 0
-galaxy 0
-is 0
-9.5 0
-trillion 0
-kilometers 0
-away 0
-from 0
-Earth, 0
-whereas 0
-the 0
-Moon 0
-is 0
-only 0
-384,400 0
-kilometers 0
-(238,900 0
-mi) 0
-away—that 0
-should 0
-give 0
-you 0
-a 0
-better 0
-understanding 0
-of 0
-just 0
-how 0
-big 0
-the 0
-galaxy 0
-really 0
-is. 0
+The 0 170 38
+galaxy 0 170 38
+is 0 170 38
+9.5 0 170 38
+trillion 0 170 38
+kilometers 0 170 38
+away 0 170 38
+from 0 170 38
+Earth, 0 170 38
+whereas 0 170 38
+the 0 170 38
+Moon 0 170 38
+is 0 170 38
+only 0 170 38
+384,400 0 170 38
+kilometers 0 170 38
+(238,900 0 170 38
+mi) 0 170 38
+away—that 0 170 38
+should 0 170 38
+give 0 170 38
+you 0 170 38
+a 0 170 38
+better 0 170 38
+understanding 0 170 38
+of 0 170 38
+just 0 170 38
+how 0 170 38
+big 0 170 38
+the 0 170 38
+galaxy 0 170 38
+really 0 170 38
+is. 0 170 38
 
-[3] 0
+[3] 0 170 39
 
-Read 0
-the 0
-Whole 0
-Article 0
+Read 0 170 39
+
+the 0 170 39
+
+Whole 0 170 39
+
+Article 0 170 39

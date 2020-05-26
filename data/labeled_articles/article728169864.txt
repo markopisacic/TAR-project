@@ -1,1080 +1,1090 @@
-Anti-Gay 1
-Imam 0
-Featured 0
-Yet 0
-Again 0
-at 0
-Florida 0
-Democrat 0
-Gala 0
+Anti-Gay 1 139 0
+Imam 0 139 0
+Featured 0 139 0
+Yet 0 139 0
+Again 0 139 0
+at 0 139 0
+Florida 0 139 0
+Democrat 0 139 0
+Gala 0 139 0
 
-The 0
-Democratic 0
-Party 0
-promotes 0
-itself 0
-as 0
-an 0
-advocacy 0
-group 0
-for 0
-all 0
-matters 0
-concerning 0
-homosexuals 0
-and 0
-labels 0
-politicians, 0
-who 0
-take 0
-stances 0
-opposite 0
-theirs 0
-on 0
-politically 0
-charged 0
-issues 0
-such 0
-as 0
-same-sex 0
-marriage, 0
-as 0
-bigots. 0
+The 0 139 1
+Democratic 0 139 1
+Party 0 139 1
+promotes 0 139 1
+itself 0 139 1
+as 0 139 1
+an 0 139 1
+advocacy 0 139 1
+group 0 139 1
+for 0 139 1
+all 0 139 1
+matters 0 139 1
+concerning 0 139 1
+homosexuals 0 139 1
+and 0 139 1
+labels 0 139 1
+politicians, 0 139 1
+who 0 139 1
+take 0 139 1
+stances 0 139 1
+opposite 0 139 1
+theirs 0 139 1
+on 0 139 1
+politically 0 139 1
+charged 0 139 1
+issues 0 139 1
+such 0 139 1
+as 0 139 1
+same-sex 0 139 1
+marriage, 0 139 1
+as 0 139 1
+bigots. 0 139 1
 
-Yet, 0
-the 0
-party 0
-keeps 0
-on 0
-inviting 0
-an 0
-imam, 0
-who 0
-has 0
-a 0
-long 0
-record 0
-of 0
-hostility 0
-toward 0
-homosexuals, 0
-to 0
-participate 0
-at 0
-its 0
-annual 0
-functions. 0
+Yet, 0 139 2
+the 0 139 2
+party 0 139 2
+keeps 0 139 2
+on 0 139 2
+inviting 0 139 2
+an 0 139 2
+imam, 0 139 2
+who 0 139 2
+has 0 139 2
+a 0 139 2
+long 0 139 2
+record 0 139 2
+of 0 139 2
+hostility 0 139 2
+toward 0 139 2
+homosexuals, 0 139 2
+to 0 139 2
+participate 0 139 2
+at 0 139 2
+its 0 139 2
+annual 0 139 2
+functions. 0 139 2
 
-This 0
-blatant 1
-hypocrisy 1
-shows 0
-the 0
-political 0
-bankruptcy 0
-of 0
-their 0
-leadership’s 0
-claims 0
-to 0
-be 0
-pro-gay 0
-and 0
-anti-bigotry 0
-and 0
-reveals 0
-their 0
-intention 0
-to 0
-pander 0
-to 0
-those 0
-in 0
-the 0
-Muslim 0
-community 0
-who 0
-spew 0
-intolerance 0
-and 0
-would 0
-wish 0
-others 0
-harm. 0
+This 0 139 3
+blatant 1 139 3
+hypocrisy 1 139 3
+shows 0 139 3
+the 0 139 3
+political 0 139 3
+bankruptcy 0 139 3
+of 0 139 3
+their 0 139 3
+leadership’s 0 139 3
+claims 0 139 3
+to 0 139 3
+be 0 139 3
+pro-gay 0 139 3
+and 0 139 3
+anti-bigotry 0 139 3
+and 0 139 3
+reveals 0 139 3
+their 0 139 3
+intention 0 139 3
+to 0 139 3
+pander 0 139 3
+to 0 139 3
+those 0 139 3
+in 0 139 3
+the 0 139 3
+Muslim 0 139 3
+community 0 139 3
+who 0 139 3
+spew 0 139 3
+intolerance 0 139 3
+and 0 139 3
+would 0 139 3
+wish 0 139 3
+others 0 139 3
+harm. 0 139 3
 
-On 0
-Saturday, 0
-October 0
-7, 0
-2017, 0
-the 0
-Palm 0
-Beach 0
-Democratic 0
-Party 0
-held 0
-its 0
-2017 0
-Truman 0
-Kennedy 0
-Johnson 0
-(TKJ) 0
-Dinner 0
-at 0
-the 0
-West 0
-Palm 0
-Beach 0
-Marriott 0
-Hotel, 0
-in 0
-West 0
-Palm 0
-Beach, 0
-Florida. 0
+On 0 139 4
+Saturday, 0 139 4
+October 0 139 4
+7, 0 139 4
+2017, 0 139 4
+the 0 139 4
+Palm 0 139 4
+Beach 0 139 4
+Democratic 0 139 4
+Party 0 139 4
+held 0 139 4
+its 0 139 4
+2017 0 139 4
+Truman 0 139 4
+Kennedy 0 139 4
+Johnson 0 139 4
+(TKJ) 0 139 4
+Dinner 0 139 4
+at 0 139 4
+the 0 139 4
+West 0 139 4
+Palm 0 139 4
+Beach 0 139 4
+Marriott 0 139 4
+Hotel, 0 139 4
+in 0 139 4
+West 0 139 4
+Palm 0 139 4
+Beach, 0 139 4
+Florida. 0 139 4
 
-The 0
-Keynote 0
-Speaker 0
-at 0
-the 0
-event 0
-was 0
-Governor 0
-of 0
-Virginia 0
-Terry 0
-McAuliffe. 0
+The 0 139 5
+Keynote 0 139 5
+Speaker 0 139 5
+at 0 139 5
+the 0 139 5
+event 0 139 5
+was 0 139 5
+Governor 0 139 5
+of 0 139 5
+Virginia 0 139 5
+Terry 0 139 5
+McAuliffe. 0 139 5
 
-Other 0
-speakers 0
-included: 0
-United 0
-States 0
-Representative 0
-Alcee 0
-Hastings; 0
-then-Florida 0
-Democratic 0
-Party 0
-Chairman 0
-Stephen 0
-Bittel, 0
-who 0
-resigned 0
-in 0
-November 0
-over 0
-allegations 0
-of 0
-sexually 0
-inappropriate 0
-behavior; 0
-and 0
-then-Palm 0
-Beach 0
-County 0
-Party 0
-Chairwoman 0
-Terrie 0
-Rizzo, 0
-who 0
-was 0
-elected 0
-in 0
-December 0
-to 0
-take 0
-over 0
-for 0
-Bittel 0
-as 0
-Chair 0
-of 0
-the 0
-Florida 0
-Democratic 0
-Party. 0
+Other 0 139 6
+speakers 0 139 6
+included: 0 139 6
+United 0 139 6
+States 0 139 6
+Representative 0 139 6
+Alcee 0 139 6
+Hastings; 0 139 6
+then-Florida 0 139 6
+Democratic 0 139 6
+Party 0 139 6
+Chairman 0 139 6
+Stephen 0 139 6
+Bittel, 0 139 6
+who 0 139 6
+resigned 0 139 6
+in 0 139 6
+November 0 139 6
+over 0 139 6
+allegations 0 139 6
+of 0 139 6
+sexually 0 139 6
+inappropriate 0 139 6
+behavior; 0 139 6
+and 0 139 6
+then-Palm 0 139 6
+Beach 0 139 6
+County 0 139 6
+Party 0 139 6
+Chairwoman 0 139 6
+Terrie 0 139 6
+Rizzo, 0 139 6
+who 0 139 6
+was 0 139 6
+elected 0 139 6
+in 0 139 6
+December 0 139 6
+to 0 139 6
+take 0 139 6
+over 0 139 6
+for 0 139 6
+Bittel 0 139 6
+as 0 139 6
+Chair 0 139 6
+of 0 139 6
+the 0 139 6
+Florida 0 139 6
+Democratic 0 139 6
+Party. 0 139 6
 
-Prior 0
-to 0
-the 0
-speakers, 0
-there 0
-was 0
-a 0
-joint 0
-invocation 0
-performed 0
-by 0
-a 0
-rabbi, 0
-two 0
-pastors 0
-and 0
-an 0
-imam. 0
+Prior 0 139 7
+to 0 139 7
+the 0 139 7
+speakers, 0 139 7
+there 0 139 7
+was 0 139 7
+a 0 139 7
+joint 0 139 7
+invocation 0 139 7
+performed 0 139 7
+by 0 139 7
+a 0 139 7
+rabbi, 0 139 7
+two 0 139 7
+pastors 0 139 7
+and 0 139 7
+an 0 139 7
+imam. 0 139 7
 
-The 0
-imam, 0
-Maulana 0
-Shafayat 0
-Mohamed, 0
-is 0
-notorious 0
-for 0
-his 0
-unapologetic 0
-vilification 0
-of 0
-homosexuals. 0
+The 0 139 8
+imam, 0 139 8
+Maulana 0 139 8
+Shafayat 0 139 8
+Mohamed, 0 139 8
+is 0 139 8
+notorious 0 139 8
+for 0 139 8
+his 0 139 8
+unapologetic 0 139 8
+vilification 0 139 8
+of 0 139 8
+homosexuals. 0 139 8
 
-Shafayat 0
-Mohamed 0
-is 0
-the 0
-imam 0
-of 0
-the 0
-Darul 0
-Uloom 0
-Institute, 0
-located 0
-in 0
-Pembroke 0
-Pines, 0
-Florida. 0
+Shafayat 0 139 9
+Mohamed 0 139 9
+is 0 139 9
+the 0 139 9
+imam 0 139 9
+of 0 139 9
+the 0 139 9
+Darul 0 139 9
+Uloom 0 139 9
+Institute, 0 139 9
+located 0 139 9
+in 0 139 9
+Pembroke 0 139 9
+Pines, 0 139 9
+Florida. 0 139 9
 
-The 0
-mosque 0
-has 0
-been 0
-a 0
-haven 0
-for 0
-terror-related 0
-individuals 0
-and 0
-activity. 0
+The 0 139 10
+mosque 0 139 10
+has 0 139 10
+been 0 139 10
+a 0 139 10
+haven 0 139 10
+for 0 139 10
+terror-related 0 139 10
+individuals 0 139 10
+and 0 139 10
+activity. 0 139 10
 
-“Dirty 1
-Bomber” 1
-Jose 0
-Padilla 0
-was 0
-a 0
-student 0
-of 0
-Shafayat 0
-Mohamed’s 0
-at 0
-Darul 0
-Uloom. 0
+“Dirty 1 139 11
+Bomber” 1 139 11
+Jose 0 139 11
+Padilla 0 139 11
+was 0 139 11
+a 0 139 11
+student 0 139 11
+of 0 139 11
+Shafayat 0 139 11
+Mohamed’s 0 139 11
+at 0 139 11
+Darul 0 139 11
+Uloom. 0 139 11
 
-Now-deceased 0
-al-Qaeda 0
-Global 0
-Operations 0
-Chief, 0
-Adnan 0
-el-Shukrijumah, 0
-was 0
-a 0
-prayer 0
-leader 0
-at 0
-Darul 0
-Uloom. 0
+Now-deceased 0 139 12
+al-Qaeda 0 139 12
+Global 0 139 12
+Operations 0 139 12
+Chief, 0 139 12
+Adnan 0 139 12
+el-Shukrijumah, 0 139 12
+was 0 139 12
+a 0 139 12
+prayer 0 139 12
+leader 0 139 12
+at 0 139 12
+Darul 0 139 12
+Uloom. 0 139 12
 
-And 0
-Darul 0
-Uloom 0
-Arabic 0
-teacher 0
-Imran 0
-Mandhai, 0
-along 0
-with 0
-mosque 0
-goers 0
-Hakki 0
-Aksoy 0
-and 0
-Shueyb 0
-Mossa 0
-Jokhan, 0
-hatched 0
-a 0
-plot 0
-at 0
-the 0
-mosque 0
-to 0
-blow 0
-up 0
-different 0
-South 0
-Florida 0
-structures, 0
-including 0
-area 0
-power 0
-stations, 0
-Jewish 0
-businesses, 0
-and 0
-a 0
-National 0
-Guard 0
-armory. 0
+And 0 139 13
+Darul 0 139 13
+Uloom 0 139 13
+Arabic 0 139 13
+teacher 0 139 13
+Imran 0 139 13
+Mandhai, 0 139 13
+along 0 139 13
+with 0 139 13
+mosque 0 139 13
+goers 0 139 13
+Hakki 0 139 13
+Aksoy 0 139 13
+and 0 139 13
+Shueyb 0 139 13
+Mossa 0 139 13
+Jokhan, 0 139 13
+hatched 0 139 13
+a 0 139 13
+plot 0 139 13
+at 0 139 13
+the 0 139 13
+mosque 0 139 13
+to 0 139 13
+blow 0 139 13
+up 0 139 13
+different 0 139 13
+South 0 139 13
+Florida 0 139 13
+structures, 0 139 13
+including 0 139 13
+area 0 139 13
+power 0 139 13
+stations, 0 139 13
+Jewish 0 139 13
+businesses, 0 139 13
+and 0 139 13
+a 0 139 13
+National 0 139 13
+Guard 0 139 13
+armory. 0 139 13
 
-While 0
-terrorism 0
-plays 0
-a 0
-huge 0
-role 0
-in 0
-his 0
-mosque’s 0
-history 0
-– 0
-and 0
-he 0
-has 0
-been 0
-around 0
-for 0
-all 0
-of 0
-it 0
-– 0
-Shafayat 0
-Mohamed’s 0
-personal 0
-history 0
-deals 0
-much 0
-more 0
-in 0
-bigotry 0
-than 0
-terror. 0
+While 0 139 14
+terrorism 0 139 14
+plays 0 139 14
+a 0 139 14
+huge 0 139 14
+role 0 139 14
+in 0 139 14
+his 0 139 14
+mosque’s 0 139 14
+history 0 139 14
+– 0 139 14
+and 0 139 14
+he 0 139 14
+has 0 139 14
+been 0 139 14
+around 0 139 14
+for 0 139 14
+all 0 139 14
+of 0 139 14
+it 0 139 14
+– 0 139 14
+Shafayat 0 139 14
+Mohamed’s 0 139 14
+personal 0 139 14
+history 0 139 14
+deals 0 139 14
+much 0 139 14
+more 0 139 14
+in 0 139 14
+bigotry 0 139 14
+than 0 139 14
+terror. 0 139 14
 
-One 0
-stop 0
-on 0
-Shafayat 0
-Mohamed’s 0
-Facebook 0
-page 0
-and 0
-one 0
-can 0
-view 0
-his 0
-profile 0
-photo 0
-of 0
-him 0
-holding 0
-a 0
-dark 0
-green 0
-book 0
-with 0
-gold 0
-border 0
-and 0
-letters 0
-on 0
-the 0
-cover. 0
+One 0 139 15
+stop 0 139 15
+on 0 139 15
+Shafayat 0 139 15
+Mohamed’s 0 139 15
+Facebook 0 139 15
+page 0 139 15
+and 0 139 15
+one 0 139 15
+can 0 139 15
+view 0 139 15
+his 0 139 15
+profile 0 139 15
+photo 0 139 15
+of 0 139 15
+him 0 139 15
+holding 0 139 15
+a 0 139 15
+dark 0 139 15
+green 0 139 15
+book 0 139 15
+with 0 139 15
+gold 0 139 15
+border 0 139 15
+and 0 139 15
+letters 0 139 15
+on 0 139 15
+the 0 139 15
+cover. 0 139 15
 
-The 0
-book 0
-is 0
-“The 0
-Meaning 0
-of 0
-THE 0
-HOLY 0
-QUR’AN,” 0
-a 0
-version 0
-of 0
-the 0
-Quran 0
-that 0
-was 0
-banned 0
-by 0
-the 0
-Los 0
-Angeles 0
-public 0
-school 0
-system, 0
-in 0
-February 0
-2002, 0
-for 0
-containing 0
-numerous 0
-anti-Semitic 0
-commentaries. 0
+The 0 139 16
+book 0 139 16
+is 0 139 16
+“The 0 139 16
+Meaning 0 139 16
+of 0 139 16
+THE 0 139 16
+HOLY 0 139 16
+QUR’AN,” 0 139 16
+a 0 139 16
+version 0 139 16
+of 0 139 16
+the 0 139 16
+Quran 0 139 16
+that 0 139 16
+was 0 139 16
+banned 0 139 16
+by 0 139 16
+the 0 139 16
+Los 0 139 16
+Angeles 0 139 16
+public 0 139 16
+school 0 139 16
+system, 0 139 16
+in 0 139 16
+February 0 139 16
+2002, 0 139 16
+for 0 139 16
+containing 0 139 16
+numerous 0 139 16
+anti-Semitic 0 139 16
+commentaries. 0 139 16
 
-In 0
-it, 0
-Jews 0
-are 0
-described 0
-as: 0
-“arrogant,” 1
-“jealous,” 1
-“selfish,” 1
-“spiteful,” 1
-“greedy,” 1
-“cursed,” 1
-“apes 1
-and 1
-swine,” 1
-and 0
-“under 1
-divine 1
-displeasure.” 1
+In 0 139 17
+it, 0 139 17
+Jews 0 139 17
+are 0 139 17
+described 0 139 17
+as: 0 139 17
+“arrogant,” 1 139 17
+“jealous,” 1 139 17
+“selfish,” 1 139 17
+“spiteful,” 1 139 17
+“greedy,” 1 139 17
+“cursed,” 1 139 17
+“apes 1 139 17
+and 1 139 17
+swine,” 1 139 17
+and 0 139 17
+“under 1 139 17
+divine 1 139 17
+displeasure.” 1 139 17
 
-This 1
-may 1
-seem 1
-an 1
-innocent 1
-mistake 1
-on 1
-the 1
-imam’s 1
-part, 1
-but 1
-his 1
-actions 1
-against 1
-the 1
-gay 1
-community 1
-and 1
-sinister 1
-views 1
-are 1
-anything 1
-but. 1
+This 1 139 18
+may 1 139 18
+seem 1 139 18
+an 1 139 18
+innocent 1 139 18
+mistake 1 139 18
+on 1 139 18
+the 1 139 18
+imam’s 1 139 18
+part, 1 139 18
+but 1 139 18
+his 1 139 18
+actions 1 139 18
+against 1 139 18
+the 1 139 18
+gay 1 139 18
+community 1 139 18
+and 1 139 18
+sinister 1 139 18
+views 1 139 18
+are 1 139 18
+anything 1 139 18
+but. 1 139 18
 
-In 0
-February 0
-2005, 0
-an 0
-article 0
-written 0
-by 0
-Shafayat 0
-Mohamed 0
-was 0
-published 0
-on 0
-the 0
-Darul 0
-Uloom 0
-website, 0
-entitled 0
-‘Tsunami: 0
-Wrath 0
-of 0
-God.’ 0
-In 0
-it, 0
-he 0
-claims 0
-that 0
-gay 0
-sex 0
-caused 0
-the 0
-2004 0
-Indonesian 0
-tsunami 0
-and 0
-that 0
-most 0
-Jews 0
-and 0
-Christians, 0
-whom 0
-he 0
-refers 0
-to 0
-as 0
-“People 0
-of 0
-the 0
-Book,” 0
-are 0
-“perverted 1
-transgressors.” 1
+In 0 139 19
+February 0 139 19
+2005, 0 139 19
+an 0 139 19
+article 0 139 19
+written 0 139 19
+by 0 139 19
+Shafayat 0 139 19
+Mohamed 0 139 19
+was 0 139 19
+published 0 139 19
+on 0 139 19
+the 0 139 19
+Darul 0 139 19
+Uloom 0 139 19
+website, 0 139 19
+entitled 0 139 19
+‘Tsunami: 0 139 19
+Wrath 0 139 19
+of 0 139 19
+God.’ 0 139 19
+In 0 139 19
+it, 0 139 19
+he 0 139 19
+claims 0 139 19
+that 0 139 19
+gay 0 139 19
+sex 0 139 19
+caused 0 139 19
+the 0 139 19
+2004 0 139 19
+Indonesian 0 139 19
+tsunami 0 139 19
+and 0 139 19
+that 0 139 19
+most 0 139 19
+Jews 0 139 19
+and 0 139 19
+Christians, 0 139 19
+whom 0 139 19
+he 0 139 19
+refers 0 139 19
+to 0 139 19
+as 0 139 19
+“People 0 139 19
+of 0 139 19
+the 0 139 19
+Book,” 0 139 19
+are 0 139 19
+“perverted 1 139 19
+transgressors.” 1 139 19
 
-It 0
-is 0
-writings 0
-such 0
-as 0
-these 0
-that 0
-have 0
-gotten 0
-Shafayat 0
-Mohamed 0
-thrown 0
-off 0
-a 0
-number 0
-of 0
-Broward 0
-County 0
-boards. 0
+It 0 139 20
+is 0 139 20
+writings 0 139 20
+such 0 139 20
+as 0 139 20
+these 0 139 20
+that 0 139 20
+have 0 139 20
+gotten 0 139 20
+Shafayat 0 139 20
+Mohamed 0 139 20
+thrown 0 139 20
+off 0 139 20
+a 0 139 20
+number 0 139 20
+of 0 139 20
+Broward 0 139 20
+County 0 139 20
+boards. 0 139 20
 
-Even 0
-so, 0
-the 0
-imam 0
-has 0
-been 0
-unrepentant. 0
+Even 0 139 21
+so, 0 139 21
+the 0 139 21
+imam 0 139 21
+has 0 139 21
+been 0 139 21
+unrepentant. 0 139 21
 
-In 0
-a 0
-speech 0
-he 0
-gave 0
-at 0
-Darul 0
-Uloom, 0
-in 0
-August 0
-2015, 0
-titled 0
-‘Quraan 0
-Torah 0
-Bible 0
-Forbid 0
-Man 0
-Marrying 0
-Man,’ 0
-he 0
-admitted 0
-that 0
-he 0
-“got 0
-sacked 0
-from 0
-many 0
-[county] 0
-boards, 0
-because 0
-there 0
-were 0
-a 0
-lot 0
-of 0
-gay 0
-people 0
-who 0
-said, 0
-‘We 0
-don’t 0
-want 0
-him 0
-on 0
-that 0
-board.’” 0
-He 0
-said 0
-he 0
-had 0
-a 0
-choice, 0
-to 0
-“sit 0
-in 0
-Paradise 0
-or… 0
-sit 0
-on 0
-the 0
-board 0
-and 0
-go 0
-to 0
-Hell.” 0
+In 0 139 22
+a 0 139 22
+speech 0 139 22
+he 0 139 22
+gave 0 139 22
+at 0 139 22
+Darul 0 139 22
+Uloom, 0 139 22
+in 0 139 22
+August 0 139 22
+2015, 0 139 22
+titled 0 139 22
+‘Quraan 0 139 22
+Torah 0 139 22
+Bible 0 139 22
+Forbid 0 139 22
+Man 0 139 22
+Marrying 0 139 22
+Man,’ 0 139 22
+he 0 139 22
+admitted 0 139 22
+that 0 139 22
+he 0 139 22
+“got 0 139 22
+sacked 0 139 22
+from 0 139 22
+many 0 139 22
+[county] 0 139 22
+boards, 0 139 22
+because 0 139 22
+there 0 139 22
+were 0 139 22
+a 0 139 22
+lot 0 139 22
+of 0 139 22
+gay 0 139 22
+people 0 139 22
+who 0 139 22
+said, 0 139 22
+‘We 0 139 22
+don’t 0 139 22
+want 0 139 22
+him 0 139 22
+on 0 139 22
+that 0 139 22
+board.’” 0 139 22
+He 0 139 22
+said 0 139 22
+he 0 139 22
+had 0 139 22
+a 0 139 22
+choice, 0 139 22
+to 0 139 22
+“sit 0 139 22
+in 0 139 22
+Paradise 0 139 22
+or… 0 139 22
+sit 0 139 22
+on 0 139 22
+the 0 139 22
+board 0 139 22
+and 0 139 22
+go 0 139 22
+to 0 139 22
+Hell.” 0 139 22
 
-He 0
-began 0
-his 0
-speech 0
-by 0
-attacking 0
-President 0
-Barack 0
-Obama 0
-for 0
-supporting 0
-same-sex 0
-marriage. 0
+He 0 139 23
+began 0 139 23
+his 0 139 23
+speech 0 139 23
+by 0 139 23
+attacking 0 139 23
+President 0 139 23
+Barack 0 139 23
+Obama 0 139 23
+for 0 139 23
+supporting 0 139 23
+same-sex 0 139 23
+marriage. 0 139 23
 
-He 0
-asked 0
-the 0
-following, 0
-“Did 0
-you 0
-hear 0
-what 0
-President 0
-Obama 0
-said?… 0
-Do 0
-you 0
-know 0
-what 0
-a 0
-sad 0
-situation 0
-we 0
-are 0
-in 0
-this 0
-country?... 0
+He 0 139 24
+asked 0 139 24
+the 0 139 24
+following, 0 139 24
+“Did 0 139 24
+you 0 139 24
+hear 0 139 24
+what 0 139 24
+President 0 139 24
+Obama 0 139 24
+said?… 0 139 24
+Do 0 139 24
+you 0 139 24
+know 0 139 24
+what 0 139 24
+a 0 139 24
+sad 0 139 24
+situation 0 139 24
+we 0 139 24
+are 0 139 24
+in 0 139 24
+this 0 139 24
+country?... 0 139 24
 
-Here 0
-you 0
-have 0
-the 0
-President 0
-of 0
-the 0
-United 0
-States 0
-of 0
-America 0
-saying 0
-that 0
-a 0
-man 0
-could 0
-marry 0
-a 0
-man?… 0
-Are 0
-we 0
-sleeping? 0
+Here 0 139 25
+you 0 139 25
+have 0 139 25
+the 0 139 25
+President 0 139 25
+of 0 139 25
+the 0 139 25
+United 0 139 25
+States 0 139 25
+of 0 139 25
+America 0 139 25
+saying 0 139 25
+that 0 139 25
+a 0 139 25
+man 0 139 25
+could 0 139 25
+marry 0 139 25
+a 0 139 25
+man?… 0 139 25
+Are 0 139 25
+we 0 139 25
+sleeping? 0 139 25
 
-Do 0
-you 0
-believe 0
-in 0
-the 0
-Quran? 0
+Do 0 139 26
+you 0 139 26
+believe 0 139 26
+in 0 139 26
+the 0 139 26
+Quran? 0 139 26
 
-Are 0
-we 0
-gonna 0
-sit 0
-and 0
-have 0
-the 0
-Quran 0
-be 0
-ridiculed?” 0
-He 0
-then 0
-cited 0
-the 0
-Christian 0
-and 0
-Jewish 0
-Bible, 0
-barking 1
-loudly, 0
-“The 0
-Bible 0
-says 0
-that 0
-if 0
-a 0
-man 0
-sleeps 0
-with 0
-a 0
-man, 0
-he 0
-should 0
-be 0
-killed!” 0
+Are 0 139 27
+we 0 139 27
+gonna 0 139 27
+sit 0 139 27
+and 0 139 27
+have 0 139 27
+the 0 139 27
+Quran 0 139 27
+be 0 139 27
+ridiculed?” 0 139 27
+He 0 139 27
+then 0 139 27
+cited 0 139 27
+the 0 139 27
+Christian 0 139 27
+and 0 139 27
+Jewish 0 139 27
+Bible, 0 139 27
+barking 1 139 27
+loudly, 0 139 27
+“The 0 139 27
+Bible 0 139 27
+says 0 139 27
+that 0 139 27
+if 0 139 27
+a 0 139 27
+man 0 139 27
+sleeps 0 139 27
+with 0 139 27
+a 0 139 27
+man, 0 139 27
+he 0 139 27
+should 0 139 27
+be 0 139 27
+killed!” 0 139 27
 
-Shafayat 0
-Mohamed 0
-later 0
-lamented 0
-the 0
-existence 0
-of 0
-Muslim 0
-homosexuals. 0
+Shafayat 0 139 28
+Mohamed 0 139 28
+later 0 139 28
+lamented 0 139 28
+the 0 139 28
+existence 0 139 28
+of 0 139 28
+Muslim 0 139 28
+homosexuals. 0 139 28
 
-He 0
-decried, 0
-“Listen. 0
+He 0 139 29
+decried, 0 139 29
+“Listen. 0 139 29
 
-Don’t 0
-deny 0
-it. 0
+Don’t 0 139 30
+deny 0 139 30
+it. 0 139 30
 
-They 0
-already 0
-got 0
-Muslim 0
-gay 0
-communities.” 0
-He 0
-as 0
-well 0
-spoke 0
-of 0
-his 0
-support 0
-for 0
-polygamy, 0
-an 0
-act 0
-that 0
-is 0
-illegal 0
-in 0
-the 0
-United 0
-States. 0
+They 0 139 31
+already 0 139 31
+got 0 139 31
+Muslim 0 139 31
+gay 0 139 31
+communities.” 0 139 31
+He 0 139 31
+as 0 139 31
+well 0 139 31
+spoke 0 139 31
+of 0 139 31
+his 0 139 31
+support 0 139 31
+for 0 139 31
+polygamy, 0 139 31
+an 0 139 31
+act 0 139 31
+that 0 139 31
+is 0 139 31
+illegal 0 139 31
+in 0 139 31
+the 0 139 31
+United 0 139 31
+States. 0 139 31
 
-He 0
-exclaimed, 0
-“Here 0
-the 0
-President 0
-says 0
-a 0
-man 0
-can 0
-marry 0
-a 0
-man, 0
-but 0
-you 0
-can’t 0
-say 0
-a 0
-man 0
-can 0
-have 0
-four 0
-wives…!” 0
+He 0 139 32
+exclaimed, 0 139 32
+“Here 0 139 32
+the 0 139 32
+President 0 139 32
+says 0 139 32
+a 0 139 32
+man 0 139 32
+can 0 139 32
+marry 0 139 32
+a 0 139 32
+man, 0 139 32
+but 0 139 32
+you 0 139 32
+can’t 0 139 32
+say 0 139 32
+a 0 139 32
+man 0 139 32
+can 0 139 32
+have 0 139 32
+four 0 139 32
+wives…!” 0 139 32
 
-The 0
-October 0
-TKJ 0
-Dinner 0
-was 0
-not 0
-the 0
-first 0
-Democrat 0
-event 0
-Shafayat 0
-Mohamed 0
-has 0
-participated 0
-in. 0
+The 0 139 33
+October 0 139 33
+TKJ 0 139 33
+Dinner 0 139 33
+was 0 139 33
+not 0 139 33
+the 0 139 33
+first 0 139 33
+Democrat 0 139 33
+event 0 139 33
+Shafayat 0 139 33
+Mohamed 0 139 33
+has 0 139 33
+participated 0 139 33
+in. 0 139 33
 
-In 0
-fact, 0
-he 0
-has 0
-been 0
-involved 0
-in 0
-many, 0
-including 0
-giving 0
-the 0
-invocations 0
-at 0
-the 0
-Florida 0
-Democratic 0
-Party’s 0
-annual 0
-Leadership 0
-Blue 0
-Gala 0
-in 0
-2014 0
-(featuring 0
-Bill 0
-Clinton), 0
-2015 0
-and 0
-2016. 0
+In 0 139 34
+fact, 0 139 34
+he 0 139 34
+has 0 139 34
+been 0 139 34
+involved 0 139 34
+in 0 139 34
+many, 0 139 34
+including 0 139 34
+giving 0 139 34
+the 0 139 34
+invocations 0 139 34
+at 0 139 34
+the 0 139 34
+Florida 0 139 34
+Democratic 0 139 34
+Party’s 0 139 34
+annual 0 139 34
+Leadership 0 139 34
+Blue 0 139 34
+Gala 0 139 34
+in 0 139 34
+2014 0 139 34
+(featuring 0 139 34
+Bill 0 139 34
+Clinton), 0 139 34
+2015 0 139 34
+and 0 139 34
+2016. 0 139 34
 
-And 0
-given 0
-that 0
-this 0
-author 0
-has 0
-written 0
-about 0
-this 0
-before, 0
-the 0
-October 0
-event 0
-will 0
-probably 0
-not 0
-be 0
-the 0
-last 0
-occasion 0
-that 0
-he 0
-is 0
-embraced 0
-by 0
-the 0
-Democratic 0
-Party. 0
+And 0 139 35
+given 0 139 35
+that 0 139 35
+this 0 139 35
+author 0 139 35
+has 0 139 35
+written 0 139 35
+about 0 139 35
+this 0 139 35
+before, 0 139 35
+the 0 139 35
+October 0 139 35
+event 0 139 35
+will 0 139 35
+probably 0 139 35
+not 0 139 35
+be 0 139 35
+the 0 139 35
+last 0 139 35
+occasion 0 139 35
+that 0 139 35
+he 0 139 35
+is 0 139 35
+embraced 0 139 35
+by 0 139 35
+the 0 139 35
+Democratic 0 139 35
+Party. 0 139 35
 
-Shafayat 0
-Mohamed 0
-is 0
-not 0
-the 0
-only 0
-Muslim 0
-extremist 0
-that 0
-has 0
-participated 0
-in 0
-the 0
-Democratic 0
-Party’s 0
-TKJ 0
-Dinner. 0
+Shafayat 0 139 36
+Mohamed 0 139 36
+is 0 139 36
+not 0 139 36
+the 0 139 36
+only 0 139 36
+Muslim 0 139 36
+extremist 0 139 36
+that 0 139 36
+has 0 139 36
+participated 0 139 36
+in 0 139 36
+the 0 139 36
+Democratic 0 139 36
+Party’s 0 139 36
+TKJ 0 139 36
+Dinner. 0 139 36
 
-In 0
-October 0
-2015, 0
-the 0
-dinner 0
-invocation 0
-was 0
-performed 0
-by 0
-Wilfredo 0
-Amr 0
-Ruiz, 0
-the 0
-legal 0
-adviser 0
-of 0
-the 0
-American 0
-Muslim 0
-Association 0
-of 0
-North 0
-America 0
-(AMANA), 0
-a 0
-group 0
-that 0
-actively 0
-promotes 0
-former 0
-KKK 0
-leader 0
-and 0
-white 1
-supremacist 1
-David 0
-Duke. 0
+In 0 139 37
+October 0 139 37
+2015, 0 139 37
+the 0 139 37
+dinner 0 139 37
+invocation 0 139 37
+was 0 139 37
+performed 0 139 37
+by 0 139 37
+Wilfredo 0 139 37
+Amr 0 139 37
+Ruiz, 0 139 37
+the 0 139 37
+legal 0 139 37
+adviser 0 139 37
+of 0 139 37
+the 0 139 37
+American 0 139 37
+Muslim 0 139 37
+Association 0 139 37
+of 0 139 37
+North 0 139 37
+America 0 139 37
+(AMANA), 0 139 37
+a 0 139 37
+group 0 139 37
+that 0 139 37
+actively 0 139 37
+promotes 0 139 37
+former 0 139 37
+KKK 0 139 37
+leader 0 139 37
+and 0 139 37
+white 1 139 37
+supremacist 1 139 37
+David 0 139 37
+Duke. 0 139 37
 
-Ruiz, 0
-as 0
-well, 0
-founded 0
-AMANA’s 0
-Connecticut 0
-and 0
-Puerto 0
-Rico 0
-chapters. 0
+Ruiz, 0 139 38
+as 0 139 38
+well, 0 139 38
+founded 0 139 38
+AMANA’s 0 139 38
+Connecticut 0 139 38
+and 0 139 38
+Puerto 0 139 38
+Rico 0 139 38
+chapters. 0 139 38
 
-In 0
-July 0
-2010, 0
-the 0
-Anti-Defamation 0
-League 0
-(ADL) 0
-condemned 0
-Ruiz’s 0
-AMANA 0
-for 0
-posting 0
-what 0
-the 0
-ADL 0
-called 0
-a 0
-“venomous” 1
-anti-Semitic 0
-Duke 0
-video 0
-onto 0
-the 0
-group’s 0
-official 0
-website. 0
+In 0 139 39
+July 0 139 39
+2010, 0 139 39
+the 0 139 39
+Anti-Defamation 0 139 39
+League 0 139 39
+(ADL) 0 139 39
+condemned 0 139 39
+Ruiz’s 0 139 39
+AMANA 0 139 39
+for 0 139 39
+posting 0 139 39
+what 0 139 39
+the 0 139 39
+ADL 0 139 39
+called 0 139 39
+a 0 139 39
+“venomous” 1 139 39
+anti-Semitic 0 139 39
+Duke 0 139 39
+video 0 139 39
+onto 0 139 39
+the 0 139 39
+group’s 0 139 39
+official 0 139 39
+website. 0 139 39
 
-AMANA 0
-is 0
-currently 0
-promoting 0
-another 0
-anti-Semitic 0
-Duke-produced 0
-video, 0
-on 0
-the 0
-AMANA 0
-site. 0
+AMANA 0 139 40
+is 0 139 40
+currently 0 139 40
+promoting 0 139 40
+another 0 139 40
+anti-Semitic 0 139 40
+Duke-produced 0 139 40
+video, 0 139 40
+on 0 139 40
+the 0 139 40
+AMANA 0 139 40
+site. 0 139 40
 
-The 0
-President 0
-of 0
-AMANA, 0
-Sofian 0
-Zakkout, 0
-has 0
-referred 0
-to 0
-Duke 0
-as 0
-“David 0
-Duke, 0
-a 1
-man 1
-to 1
-believe 1
-in!” 1
+The 0 139 41
+President 0 139 41
+of 0 139 41
+AMANA, 0 139 41
+Sofian 0 139 41
+Zakkout, 0 139 41
+has 0 139 41
+referred 0 139 41
+to 0 139 41
+Duke 0 139 41
+as 0 139 41
+“David 0 139 41
+Duke, 0 139 41
+a 1 139 41
+man 1 139 41
+to 1 139 41
+believe 1 139 41
+in!” 1 139 41
 
-By 0
-inviting 0
-people 0
-like 0
-Shafayat 0
-Mohamed, 0
-an 0
-avowed 0
-enemy 0
-of 0
-the 0
-gay 0
-community, 0
-and 0
-Wilfredo 0
-Ruiz, 0
-whose 0
-group 0
-promotes 0
-white 0
-supremacists, 0
-to 0
-participate 0
-in 0
-its 0
-functions, 0
-the 0
-Democratic 0
-Party 0
-has 0
-effectively 0
-revealed 0
-its 0
-disregard 0
-for 0
-the 0
-concerns 0
-of 0
-those 0
-it 0
-disingenuously 0
-claims 0
-to 0
-advocate 0
-for 0
-and 0
-protect. 0
+By 0 139 42
+inviting 0 139 42
+people 0 139 42
+like 0 139 42
+Shafayat 0 139 42
+Mohamed, 0 139 42
+an 0 139 42
+avowed 0 139 42
+enemy 0 139 42
+of 0 139 42
+the 0 139 42
+gay 0 139 42
+community, 0 139 42
+and 0 139 42
+Wilfredo 0 139 42
+Ruiz, 0 139 42
+whose 0 139 42
+group 0 139 42
+promotes 0 139 42
+white 0 139 42
+supremacists, 0 139 42
+to 0 139 42
+participate 0 139 42
+in 0 139 42
+its 0 139 42
+functions, 0 139 42
+the 0 139 42
+Democratic 0 139 42
+Party 0 139 42
+has 0 139 42
+effectively 0 139 42
+revealed 0 139 42
+its 0 139 42
+disregard 0 139 42
+for 0 139 42
+the 0 139 42
+concerns 0 139 42
+of 0 139 42
+those 0 139 42
+it 0 139 42
+disingenuously 0 139 42
+claims 0 139 42
+to 0 139 42
+advocate 0 139 42
+for 0 139 42
+and 0 139 42
+protect. 0 139 42
 
-It 0
-is 0
-time 0
-for 0
-Democrats 0
-to 0
-reject 0
-the 0
-bigotry 0
-of 0
-these 0
-radicals 0
-and 0
-see 0
-them 0
-for 0
-the 0
-liability 0
-they 0
-present. 0
+It 0 139 43
+is 0 139 43
+time 0 139 43
+for 0 139 43
+Democrats 0 139 43
+to 0 139 43
+reject 0 139 43
+the 0 139 43
+bigotry 0 139 43
+of 0 139 43
+these 0 139 43
+radicals 0 139 43
+and 0 139 43
+see 0 139 43
+them 0 139 43
+for 0 139 43
+the 0 139 43
+liability 0 139 43
+they 0 139 43
+present. 0 139 43
 
-Failure 1
-to 1
-do 1
-so 1
-exposes 1
-the 1
-party’s 1
-liberal 1
-agenda 1
-as 1
-a 1
-sham. 1
+Failure 1 139 44
+to 1 139 44
+do 1 139 44
+so 1 139 44
+exposes 1 139 44
+the 1 139 44
+party’s 1 139 44
+liberal 1 139 44
+agenda 1 139 44
+as 1 139 44
+a 1 139 44
+sham. 1 139 44
 
-Beila 0
-Rabinowitz, 0
-Director 0
-of 0
-Militant 0
-Islam 0
-Monitor, 0
-contributed 0
-to 0
-this 0
-report. 0
+Beila 0 139 44
+
+Rabinowitz, 0 139 44
+
+Director 0 139 44
+
+of 0 139 44
+
+Militant 0 139 44
+
+Islam 0 139 44
+
+Monitor, 0 139 44
+
+contributed 0 139 44
+
+to 0 139 44
+
+this 0 139 44
+
+report. 0 139 44

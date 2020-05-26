@@ -1,385 +1,412 @@
-Number 0
-Of 0
-Puerto 0
-Rico 0
-Residents 0
-Without 0
-Clean 0
-Water 0
-And 0
-Electricity 0
-Keeps 0
-Rising 0
+Number 0 25 0
+Of 0 25 0
+Puerto 0 25 0
+Rico 0 25 0
+Residents 0 25 0
+Without 0 25 0
+Clean 0 25 0
+Water 0 25 0
+And 0 25 0
+Electricity 0 25 0
+Keeps 0 25 0
+Rising 0 25 0
 
-In 0
-the 0
-wake 0
-of 0
-Hurricane 0
-Maria’s 0
-wrath, 1
-Puerto 0
-Rico 0
-remains 0
-devastated. 1
+In 0 25 1
+the 0 25 1
+wake 0 25 1
+of 0 25 1
+Hurricane 0 25 1
+Maria’s 0 25 1
+wrath, 1 25 1
+Puerto 0 25 1
+Rico 0 25 1
+remains 0 25 1
+devastated. 1 25 1
 
-Newest 0
-reports 0
-from 0
-the 0
-island 0
-territory 0
-now 0
-show 0
-that 0
-the 0
-number 0
-of 0
-residents 0
-without 0
-clean 0
-drinking 0
-water 0
-and 0
-electricity 0
-continues 0
-to 0
-rise, 0
-despite 0
-humanitarian 0
-efforts. 0
+Newest 0 25 2
+reports 0 25 2
+from 0 25 2
+the 0 25 2
+island 0 25 2
+territory 0 25 2
+now 0 25 2
+show 0 25 2
+that 0 25 2
+the 0 25 2
+number 0 25 2
+of 0 25 2
+residents 0 25 2
+without 0 25 2
+clean 0 25 2
+drinking 0 25 2
+water 0 25 2
+and 0 25 2
+electricity 0 25 2
+continues 0 25 2
+to 0 25 2
+rise, 0 25 2
+despite 0 25 2
+humanitarian 0 25 2
+efforts. 0 25 2
 
-Puerto 0
-Rico’s 0
-government 0
-has 0
-reported 0
-that 0
-roughly 0
-10 0
-percent 0
-of 0
-the 0
-islands 0
-3.4 0
-million 0
-United 0
-States 0
-citizens 0
-are 0
-without 0
-electricity 0
-Tuesday 0
-morning, 0
-an 0
-increase 0
-of 0
-about 0
-six 0
-percent 0
-from 0
-Monday. 0
+Puerto 0 25 3
+Rico’s 0 25 3
+government 0 25 3
+has 0 25 3
+reported 0 25 3
+that 0 25 3
+roughly 0 25 3
+10 0 25 3
+percent 0 25 3
+of 0 25 3
+the 0 25 3
+islands 0 25 3
+3.4 0 25 3
+million 0 25 3
+United 0 25 3
+States 0 25 3
+citizens 0 25 3
+are 0 25 3
+without 0 25 3
+electricity 0 25 3
+Tuesday 0 25 3
+morning, 0 25 3
+an 0 25 3
+increase 0 25 3
+of 0 25 3
+about 0 25 3
+six 0 25 3
+percent 0 25 3
+from 0 25 3
+Monday. 0 25 3
 
-Yesterday, 0
-84% 0
-of 0
-people 0
-in 0
-Puerto 0
-Rico 0
-had 0
-no 0
-power 0
-(per 0
-govt 0
-stats 0
-on 0
-status.pr). 0
+Yesterday, 0 25 4
+84% 0 25 4
+of 0 25 4
+people 0 25 4
+in 0 25 4
+Puerto 0 25 4
+Rico 0 25 4
+had 0 25 4
+no 0 25 4
+power 0 25 4
+(per 0 25 4
+govt 0 25 4
+stats 0 25 4
+on 0 25 4
+status.pr). 0 25 4
 
-Today, 0
-it's 0
-gone 0
-up, 0
-to 0
-90% 0
-without 0
-power. 0
+Today, 0 25 5
+it's 0 25 5
+gone 0 25 5
+up, 0 25 5
+to 0 25 5
+90% 0 25 5
+without 0 25 5
+power. 0 25 5
 
-pic.twitter.com/5WnCA8mrhf 0
-— 0
-Jennifer 0
-Bendery 0
-(@jbendery) 0
-October 0
-11, 0
-2017 0
+pic.twitter.com/5WnCA8mrhf 0 25 6
+— 0 25 6
+Jennifer 0 25 6
+Bendery 0 25 6
+(@jbendery) 0 25 6
+October 0 25 6
+11, 0 25 6
+2017 0 25 6
 
-The 0
-island’s 0
-electrical 0
-grid 0
-was 0
-all 0
-but 0
-completely 0
-destroyed 0
-during 0
-Hurricane 0
-Maria, 0
-and 0
-many 0
-are 0
-still 0
-struggling 0
-without 0
-the 0
-most 0
-basic 0
-of 0
-necessities. 0
+The 0 25 7
+island’s 0 25 7
+electrical 0 25 7
+grid 0 25 7
+was 0 25 7
+all 0 25 7
+but 0 25 7
+completely 0 25 7
+destroyed 0 25 7
+during 0 25 7
+Hurricane 0 25 7
+Maria, 0 25 7
+and 0 25 7
+many 0 25 7
+are 0 25 7
+still 0 25 7
+struggling 0 25 7
+without 0 25 7
+the 0 25 7
+most 0 25 7
+basic 0 25 7
+of 0 25 7
+necessities. 0 25 7
 
-This 0
-news 0
-comes 0
-just 0
-one 0
-day 0
-after 0
-Puerto 0
-Rico’s 0
-Governor 0
-Ricardo 0
-Rossello 0
-asked 0
-the 0
-federal 0
-government 0
-for 0
-an 0
-additional 0
-$4.6 0
-billion 0
-in 0
-funding 0
-beyond 0
-the 0
-Trump 0
-administration’s 0
-request 0
-last 0
-week 0
-for 0
-$29 0
-billion 0
-from 0
-Congress 0
-for 0
-relief 0
-efforts. 0
+This 0 25 8
+news 0 25 8
+comes 0 25 8
+just 0 25 8
+one 0 25 8
+day 0 25 8
+after 0 25 8
+Puerto 0 25 8
+Rico’s 0 25 8
+Governor 0 25 8
+Ricardo 0 25 8
+Rossello 0 25 8
+asked 0 25 8
+the 0 25 8
+federal 0 25 8
+government 0 25 8
+for 0 25 8
+an 0 25 8
+additional 0 25 8
+$4.6 0 25 8
+billion 0 25 8
+in 0 25 8
+funding 0 25 8
+beyond 0 25 8
+the 0 25 8
+Trump 0 25 8
+administration’s 0 25 8
+request 0 25 8
+last 0 25 8
+week 0 25 8
+for 0 25 8
+$29 0 25 8
+billion 0 25 8
+from 0 25 8
+Congress 0 25 8
+for 0 25 8
+relief 0 25 8
+efforts. 0 25 8
 
-“Puerto 0
-Rico 0
-has 0
-experienced 0
-a 1
-natural 1
-disaster 1
-of 1
-a 1
-magnitude 1
-not 1
-seen 1
-in 1
-over 1
-a 1
-century, 1
-and 0
-we 1
-are 1
-doing 1
-everything 1
-possible 1
-to 1
-address 1
-the 1
-needs 1
-of 1
-the 1
-American 1
-citizens 1
-of 1
-Puerto 1
-Rico 1
-during 1
-this 1
-time 1
-of 1
-crisis,” 1
-Rosselló 0
-wrote. 0
+“Puerto 0 25 9
+Rico 0 25 9
+has 0 25 9
+experienced 0 25 9
+a 1 25 9
+natural 1 25 9
+disaster 1 25 9
+of 1 25 9
+a 1 25 9
+magnitude 1 25 9
+not 1 25 9
+seen 1 25 9
+in 1 25 9
+over 1 25 9
+a 1 25 9
+century, 1 25 9
+and 0 25 9
+we 1 25 9
+are 1 25 9
+doing 1 25 9
+everything 1 25 9
+possible 1 25 9
+to 1 25 9
+address 1 25 9
+the 1 25 9
+needs 1 25 9
+of 1 25 9
+the 1 25 9
+American 1 25 9
+citizens 1 25 9
+of 1 25 9
+Puerto 1 25 9
+Rico 1 25 9
+during 1 25 9
+this 1 25 9
+time 1 25 9
+of 1 25 9
+crisis,” 1 25 9
+Rosselló 0 25 9
+wrote. 0 25 9
 
-“However, 0
-the 1
-unprecedented 1
-level 1
-of 1
-destruction, 1
-coupled 0
-with 0
-the 0
-almost 0
-complete 0
-shut-down 0
-of 0
-business 0
-in 0
-Puerto 0
-Rico, 0
-have 0
-made 0
-it 0
-impossible 0
-for 0
-us 0
-to 0
-meet 0
-the 0
-considerable 0
-human 0
-needs 0
-without 0
-the 0
-measures 0
-proposed 0
-above,” 0
-he 0
-added. 0
+“However, 0 25 10
+the 1 25 10
+unprecedented 1 25 10
+level 1 25 10
+of 1 25 10
+destruction, 1 25 10
+coupled 0 25 10
+with 0 25 10
+the 0 25 10
+almost 0 25 10
+complete 0 25 10
+shut-down 0 25 10
+of 0 25 10
+business 0 25 10
+in 0 25 10
+Puerto 0 25 10
+Rico, 0 25 10
+have 0 25 10
+made 0 25 10
+it 0 25 10
+impossible 0 25 10
+for 0 25 10
+us 0 25 10
+to 0 25 10
+meet 0 25 10
+the 0 25 10
+considerable 0 25 10
+human 0 25 10
+needs 0 25 10
+without 0 25 10
+the 0 25 10
+measures 0 25 10
+proposed 0 25 10
+above,” 0 25 10
+he 0 25 10
+added. 0 25 10
 
-The 0
-White 0
-House 0
-also 0
-announced 0
-Monday 0
-that 0
-it 0
-would 0
-allow 0
-a 0
-10-day 0
-waiver 0
-temporarily 0
-blocking 0
-the 0
-Jones 0
-Act 0
-to 0
-expire. 0
+The 0 25 11
+White 0 25 11
+House 0 25 11
+also 0 25 11
+announced 0 25 11
+Monday 0 25 11
+that 0 25 11
+it 0 25 11
+would 0 25 11
+allow 0 25 11
+a 0 25 11
+10-day 0 25 11
+waiver 0 25 11
+temporarily 0 25 11
+blocking 0 25 11
+the 0 25 11
+Jones 0 25 11
+Act 0 25 11
+to 0 25 11
+expire. 0 25 11
 
-This 0
-is 0
-devastating 0
-news 0
-for 0
-those 0
-living 0
-in 0
-Puerto 0
-Rico, 0
-as 0
-foreign 0
-ships 0
-can 0
-no 0
-longer 0
-bring 0
-aid 0
-to 0
-the 1
-hurricane-ravaged 1
-island 1
-from 0
-U.S. 0
-ports. 0
+This 0 25 12
+is 0 25 12
+devastating 0 25 12
+news 0 25 12
+for 0 25 12
+those 0 25 12
+living 0 25 12
+in 0 25 12
+Puerto 0 25 12
+Rico, 0 25 12
+as 0 25 12
+foreign 0 25 12
+ships 0 25 12
+can 0 25 12
+no 0 25 12
+longer 0 25 12
+bring 0 25 12
+aid 0 25 12
+to 0 25 12
+the 1 25 12
+hurricane-ravaged 1 25 12
+island 1 25 12
+from 0 25 12
+U.S. 0 25 12
+ports. 0 25 12
 
-Officials 0
-still 0
-expect 0
-it 0
-to 0
-be 0
-six 0
-more 0
-months 0
-before 0
-electricity 0
-can 0
-be 0
-fully 0
-restored 0
-to 0
-Puerto 0
-Rico. 0
+Officials 0 25 13
+still 0 25 13
+expect 0 25 13
+it 0 25 13
+to 0 25 13
+be 0 25 13
+six 0 25 13
+more 0 25 13
+months 0 25 13
+before 0 25 13
+electricity 0 25 13
+can 0 25 13
+be 0 25 13
+fully 0 25 13
+restored 0 25 13
+to 0 25 13
+Puerto 0 25 13
+Rico. 0 25 13
 
-As 1
-the 1
-days 1
-have 1
-become 1
-weeks, 1
-the 1
-weeks 1
-will 1
-become 1
-months, 1
-and 1
-survival 1
-will 1
-get 1
-more 1
-difficult. 1
+As 1 25 14
+the 1 25 14
+days 1 25 14
+have 1 25 14
+become 1 25 14
+weeks, 1 25 14
+the 1 25 14
+weeks 1 25 14
+will 1 25 14
+become 1 25 14
+months, 1 25 14
+and 1 25 14
+survival 1 25 14
+will 1 25 14
+get 1 25 14
+more 1 25 14
+difficult. 1 25 14
 
-Many 0
-are 0
-now 0
-fleeing 0
-to 0
-the 0
-mainland 0
-United 0
-States 0
-just 0
-so 0
-that 0
-they 0
-can 0
-survive. 0
+Many 0 25 15
+are 0 25 15
+now 0 25 15
+fleeing 0 25 15
+to 0 25 15
+the 0 25 15
+mainland 0 25 15
+United 0 25 15
+States 0 25 15
+just 0 25 15
+so 0 25 15
+that 0 25 15
+they 0 25 15
+can 0 25 15
+survive. 0 25 15
 
-The 0
-economy 0
-in 0
-Puerto 0
-Rico 0
-is 0
-at 0
-a 0
-standstill, 0
-and 0
-without 0
-clean 0
-drinking 0
-water, 0
-many 0
-are 0
-finding 0
-life 0
-too 0
-difficult 0
-should 0
-they 0
-remain 0
-on 0
-the 0
-island 0
-and 0
-isolated. 0
+The 0 25 15
+
+economy 0 25 15
+
+in 0 25 15
+
+Puerto 0 25 15
+
+Rico 0 25 15
+
+is 0 25 15
+
+at 0 25 15
+
+a 0 25 15
+
+standstill, 0 25 15
+
+and 0 25 15
+
+without 0 25 15
+
+clean 0 25 15
+
+drinking 0 25 15
+
+water, 0 25 15
+
+many 0 25 15
+
+are 0 25 15
+
+finding 0 25 15
+
+life 0 25 15
+
+too 0 25 15
+
+difficult 0 25 15
+
+should 0 25 15
+
+they 0 25 15
+
+remain 0 25 15
+
+on 0 25 15
+
+the 0 25 15
+
+island 0 25 15
+
+and 0 25 15
+
+isolated. 0 25 15

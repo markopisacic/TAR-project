@@ -1,472 +1,501 @@
-Shock: 0
-Black 1
-Death 1
-Patients 0
-Are 0
-ESCAPING 1
-The 0
-Hospital 0
-Over 0
-Fear 0
-Of 0
-Needles 0
-As 0
-Officials 1
-Worry 1
-Plague 1
-Could 1
-Spread 1
+Shock: 0 93 0
+Black 1 93 0
+Death 1 93 0
+Patients 0 93 0
+Are 0 93 0
+ESCAPING 1 93 0
+The 0 93 0
+Hospital 0 93 0
+Over 0 93 0
+Fear 0 93 0
+Of 0 93 0
+Needles 0 93 0
+As 0 93 0
+Officials 1 93 0
+Worry 1 93 0
+Plague 1 93 0
+Could 1 93 0
+Spread 1 93 0
 
-Patients 1
-in 1
-Madagascar 1
-who 1
-are 1
-currently 1
-suffering 1
-from 1
-the 1
-plague 1
-have 1
-“escaped” 1
-multiple 1
-hospitals 1
-in 0
-the 0
-area 0
-over 1
-fears 1
-of 1
-needles 1
-and 0
-hospital 0
-treatment 0
-as 0
-a 0
-whole, 0
-according 0
-to 0
-a 0
-shocking 1
-report 0
-in 0
-The 0
-Sun 0
-newspaper. 0
+Patients 1 93 1
+in 1 93 1
+Madagascar 1 93 1
+who 1 93 1
+are 1 93 1
+currently 1 93 1
+suffering 1 93 1
+from 1 93 1
+the 1 93 1
+plague 1 93 1
+have 1 93 1
+“escaped” 1 93 1
+multiple 1 93 1
+hospitals 1 93 1
+in 0 93 1
+the 0 93 1
+area 0 93 1
+over 1 93 1
+fears 1 93 1
+of 1 93 1
+needles 1 93 1
+and 0 93 1
+hospital 0 93 1
+treatment 0 93 1
+as 0 93 1
+a 0 93 1
+whole, 0 93 1
+according 0 93 1
+to 0 93 1
+a 0 93 1
+shocking 1 93 1
+report 0 93 1
+in 0 93 1
+The 0 93 1
+Sun 0 93 1
+newspaper. 0 93 1
 
-Security 0
-guards 0
-with 0
-at 0
-least 0
-one 0
-hospital 0
-have 0
-been 0
-tasked 0
-with 0
-forcefully 0
-keeping 0
-black 1
-death 1
-patients 0
-in 0
-the 0
-hospital 0
-as 0
-well 0
-as 0
-following 0
-the 0
-strict 0
-safety 0
-procedures 0
-set 0
-up 0
-in 0
-an 0
-attempt 0
-to 0
-quell 0
-the 0
-outbreak. 0
+Security 0 93 2
+guards 0 93 2
+with 0 93 2
+at 0 93 2
+least 0 93 2
+one 0 93 2
+hospital 0 93 2
+have 0 93 2
+been 0 93 2
+tasked 0 93 2
+with 0 93 2
+forcefully 0 93 2
+keeping 0 93 2
+black 1 93 2
+death 1 93 2
+patients 0 93 2
+in 0 93 2
+the 0 93 2
+hospital 0 93 2
+as 0 93 2
+well 0 93 2
+as 0 93 2
+following 0 93 2
+the 0 93 2
+strict 0 93 2
+safety 0 93 2
+procedures 0 93 2
+set 0 93 2
+up 0 93 2
+in 0 93 2
+an 0 93 2
+attempt 0 93 2
+to 0 93 2
+quell 0 93 2
+the 0 93 2
+outbreak. 0 93 2
 
-The 0
-Sun 0
-reported: 0
+The 0 93 3
+Sun 0 93 3
+reported: 0 93 3
 
-Officials 0
-at 0
-the 0
-hospital 0
-say 0
-the 0
-main 0
-reason 0
-why 0
-patients 0
-run 0
-away 0
-is 0
-that 0
-they 1
-are 1
-scared 1
-of 1
-needles 1
-and 0
-don’t 0
-have 0
-much 0
-experience 0
-of 0
-hospitals. 0
+Officials 0 93 4
+at 0 93 4
+the 0 93 4
+hospital 0 93 4
+say 0 93 4
+the 0 93 4
+main 0 93 4
+reason 0 93 4
+why 0 93 4
+patients 0 93 4
+run 0 93 4
+away 0 93 4
+is 0 93 4
+that 0 93 4
+they 1 93 4
+are 1 93 4
+scared 1 93 4
+of 1 93 4
+needles 1 93 4
+and 0 93 4
+don’t 0 93 4
+have 0 93 4
+much 0 93 4
+experience 0 93 4
+of 0 93 4
+hospitals. 0 93 4
 
-Jean 0
-Benoit 0
-Manhes, 0
-the 0
-deputy 0
-representative 0
-of 0
-Unicef, 0
-told 0
-the 0
-Irish 0
-Times: 0
-“Some 0
-escaped 1
-because 1
-they’re 1
-afraid 1
-of 1
-needles. 1
+Jean 0 93 5
+Benoit 0 93 5
+Manhes, 0 93 5
+the 0 93 5
+deputy 0 93 5
+representative 0 93 5
+of 0 93 5
+Unicef, 0 93 5
+told 0 93 5
+the 0 93 5
+Irish 0 93 5
+Times: 0 93 5
+“Some 0 93 5
+escaped 1 93 5
+because 1 93 5
+they’re 1 93 5
+afraid 1 93 5
+of 1 93 5
+needles. 1 93 5
 
-People 0
-here 0
-are 0
-not 0
-used 0
-to 0
-the 0
-hospital. 0
+People 0 93 6
+here 0 93 6
+are 0 93 6
+not 0 93 6
+used 0 93 6
+to 0 93 6
+the 0 93 6
+hospital. 0 93 6
 
-“The 0
-problem 0
-of 0
-plague 0
-is 0
-not 0
-just 0
-a 0
-medical 0
-response. 0
+“The 0 93 7
+problem 0 93 7
+of 0 93 7
+plague 0 93 7
+is 0 93 7
+not 0 93 7
+just 0 93 7
+a 0 93 7
+medical 0 93 7
+response. 0 93 7
 
-You 0
-can 0
-have 0
-hospitals 0
-but 0
-if 0
-people 0
-don’t 0
-come 0
-it 0
-isn’t 0
-enough.” 0
-Such 0
-incidents 0
-have 0
-prompted 0
-fears 0
-that 0
-the 0
-plague 1
-could 1
-spread 1
-even 1
-further 1
-with 1
-each 1
-confirmed 1
-case 1
-requiring 0
-20 0
-people 0
-have 0
-been 0
-in 0
-contact 0
-with 0
-to 0
-be 0
-treated 0
-as 0
-a 0
-precaution. 0
+You 0 93 8
+can 0 93 8
+have 0 93 8
+hospitals 0 93 8
+but 0 93 8
+if 0 93 8
+people 0 93 8
+don’t 0 93 8
+come 0 93 8
+it 0 93 8
+isn’t 0 93 8
+enough.” 0 93 8
+Such 0 93 8
+incidents 0 93 8
+have 0 93 8
+prompted 0 93 8
+fears 0 93 8
+that 0 93 8
+the 0 93 8
+plague 1 93 8
+could 1 93 8
+spread 1 93 8
+even 1 93 8
+further 1 93 8
+with 1 93 8
+each 1 93 8
+confirmed 1 93 8
+case 1 93 8
+requiring 0 93 8
+20 0 93 8
+people 0 93 8
+have 0 93 8
+been 0 93 8
+in 0 93 8
+contact 0 93 8
+with 0 93 8
+to 0 93 8
+be 0 93 8
+treated 0 93 8
+as 0 93 8
+a 0 93 8
+precaution. 0 93 8
 
-Malagasy 0
-people 0
-have 0
-also 0
-been 0
-told 0
-not 0
-to 0
-carry 0
-out 0
-their 0
-traditional 0
-burial 0
-tradition 0
-of 0
-Famidihana 0
-which 0
-involves 0
-digging 0
-up 0
-their 0
-dead 0
-relatives 0
-every 0
-seven 0
-years. 0
+Malagasy 0 93 9
+people 0 93 9
+have 0 93 9
+also 0 93 9
+been 0 93 9
+told 0 93 9
+not 0 93 9
+to 0 93 9
+carry 0 93 9
+out 0 93 9
+their 0 93 9
+traditional 0 93 9
+burial 0 93 9
+tradition 0 93 9
+of 0 93 9
+Famidihana 0 93 9
+which 0 93 9
+involves 0 93 9
+digging 0 93 9
+up 0 93 9
+their 0 93 9
+dead 0 93 9
+relatives 0 93 9
+every 0 93 9
+seven 0 93 9
+years. 0 93 9
 
-It 0
-means 0
-‘turning 0
-the 0
-bones’ 0
-and 0
-sees 0
-families 0
-cleaning 0
-the 0
-remains, 0
-rewrapping 0
-them 0
-and 0
-reburying 0
-them 0
-while 0
-other 0
-family 0
-members 0
-perform 0
-a 0
-special 0
-dance. 0
+It 0 93 10
+means 0 93 10
+‘turning 0 93 10
+the 0 93 10
+bones’ 0 93 10
+and 0 93 10
+sees 0 93 10
+families 0 93 10
+cleaning 0 93 10
+the 0 93 10
+remains, 0 93 10
+rewrapping 0 93 10
+them 0 93 10
+and 0 93 10
+reburying 0 93 10
+them 0 93 10
+while 0 93 10
+other 0 93 10
+family 0 93 10
+members 0 93 10
+perform 0 93 10
+a 0 93 10
+special 0 93 10
+dance. 0 93 10
 
-The 0
-African 0
-island’s 0
-government 0
-has 0
-told 0
-citizens 0
-to 0
-pause 0
-the 0
-tradition 0
-for 0
-fear 0
-the 0
-plague 0
-bacteria 0
-is 0
-still 0
-active 0
-in 0
-the 0
-corpses 0
-and 0
-can 0
-be 0
-spread 0
-to 0
-the 0
-living. 0
+The 0 93 11
+African 0 93 11
+island’s 0 93 11
+government 0 93 11
+has 0 93 11
+told 0 93 11
+citizens 0 93 11
+to 0 93 11
+pause 0 93 11
+the 0 93 11
+tradition 0 93 11
+for 0 93 11
+fear 0 93 11
+the 0 93 11
+plague 0 93 11
+bacteria 0 93 11
+is 0 93 11
+still 0 93 11
+active 0 93 11
+in 0 93 11
+the 0 93 11
+corpses 0 93 11
+and 0 93 11
+can 0 93 11
+be 0 93 11
+spread 0 93 11
+to 0 93 11
+the 0 93 11
+living. 0 93 11
 
-News 0
-of 0
-infected 0
-patients 0
-running 0
-away 0
-from 0
-hospitals 0
-comes 0
-on 0
-the 0
-heels 0
-of 0
-reports 0
-that 0
-it 1
-is 1
-only 1
-a 1
-matter 1
-of 1
-time 1
-before 1
-the 1
-plague 1
-becomes 1
-resistant 1
-to 1
-the 1
-antibiotics 1
-that 0
-are 0
-currently 0
-being 0
-used 0
-to 0
-treat 0
-the 0
-outbreak. 0
+News 0 93 12
+of 0 93 12
+infected 0 93 12
+patients 0 93 12
+running 0 93 12
+away 0 93 12
+from 0 93 12
+hospitals 0 93 12
+comes 0 93 12
+on 0 93 12
+the 0 93 12
+heels 0 93 12
+of 0 93 12
+reports 0 93 12
+that 0 93 12
+it 1 93 12
+is 1 93 12
+only 1 93 12
+a 1 93 12
+matter 1 93 12
+of 1 93 12
+time 1 93 12
+before 1 93 12
+the 1 93 12
+plague 1 93 12
+becomes 1 93 12
+resistant 1 93 12
+to 1 93 12
+the 1 93 12
+antibiotics 1 93 12
+that 0 93 12
+are 0 93 12
+currently 0 93 12
+being 0 93 12
+used 0 93 12
+to 0 93 12
+treat 0 93 12
+the 0 93 12
+outbreak. 0 93 12
 
-Mac 0
-Slavo 0
-recently 0
-reported 0
-for 0
-SHTFplan: 0
+Mac 0 93 13
+Slavo 0 93 13
+recently 0 93 13
+reported 0 93 13
+for 0 93 13
+SHTFplan: 0 93 13
 
-The 0
-newest 0
-warning 0
-about 0
-the 0
-outbreak 0
-of 0
-the 0
-airborne 0
-pneumonic 0
-plague, 0
-or 0
-black 1
-death, 1
-in 0
-Madagascar 0
-has 0
-been 0
-released. 0
+The 0 93 14
+newest 0 93 14
+warning 0 93 14
+about 0 93 14
+the 0 93 14
+outbreak 0 93 14
+of 0 93 14
+the 0 93 14
+airborne 0 93 14
+pneumonic 0 93 14
+plague, 0 93 14
+or 0 93 14
+black 1 93 14
+death, 1 93 14
+in 0 93 14
+Madagascar 0 93 14
+has 0 93 14
+been 0 93 14
+released. 0 93 14
 
-Officials 0
-warn 0
-that 0
-it’s 0
-inevitable 0
-that 0
-this 0
-bacterial 0
-infection 0
-that’s 0
-infected 0
-over 0
-2000 0
-people 1
-will 1
-become 1
-resistant 1
-to 1
-antibiotics. 1
+Officials 0 93 15
+warn 0 93 15
+that 0 93 15
+it’s 0 93 15
+inevitable 0 93 15
+that 0 93 15
+this 0 93 15
+bacterial 0 93 15
+infection 0 93 15
+that’s 0 93 15
+infected 0 93 15
+over 0 93 15
+2000 0 93 15
+people 1 93 15
+will 1 93 15
+become 1 93 15
+resistant 1 93 15
+to 1 93 15
+antibiotics. 1 93 15
 
-The 0
-only 0
-way 0
-to 0
-treat 0
-a 0
-person 0
-who 0
-has 0
-contracted 0
-the 0
-plague 0
-is 0
-with 0
-antibiotics. 0
+The 0 93 16
+only 0 93 16
+way 0 93 16
+to 0 93 16
+treat 0 93 16
+a 0 93 16
+person 0 93 16
+who 0 93 16
+has 0 93 16
+contracted 0 93 16
+the 0 93 16
+plague 0 93 16
+is 0 93 16
+with 0 93 16
+antibiotics. 0 93 16
 
-But 0
-experts 0
-now 0
-warn 0
-that 0
-because 0
-they 0
-are 0
-being 0
-used 0
-so 0
-much 0
-to 0
-treat 0
-the 0
-infection, 0
-antibiotics 1
-resistance 1
-is 1
-inevitable 1
-and 0
-making 0
-this 0
-disease 0
-much 0
-more 0
-terrifying. 0
+But 0 93 17
+experts 0 93 17
+now 0 93 17
+warn 0 93 17
+that 0 93 17
+because 0 93 17
+they 0 93 17
+are 0 93 17
+being 0 93 17
+used 0 93 17
+so 0 93 17
+much 0 93 17
+to 0 93 17
+treat 0 93 17
+the 0 93 17
+infection, 0 93 17
+antibiotics 1 93 17
+resistance 1 93 17
+is 1 93 17
+inevitable 1 93 17
+and 0 93 17
+making 0 93 17
+this 0 93 17
+disease 0 93 17
+much 0 93 17
+more 0 93 17
+terrifying. 0 93 17
 
-Once 1
-the 1
-bacteria 1
-is 1
-resistant, 1
-the 0
-Madagascar 0
-healthcare 0
-system 0
-will 0
-be 0
-overwhelmed, 0
-and 0
-the 0
-disease 0
-will 0
-have 0
-control 0
-of 0
-the 0
-nation. 0
+Once 1 93 18
+the 1 93 18
+bacteria 1 93 18
+is 1 93 18
+resistant, 1 93 18
+the 0 93 18
+Madagascar 0 93 18
+healthcare 0 93 18
+system 0 93 18
+will 0 93 18
+be 0 93 18
+overwhelmed, 0 93 18
+and 0 93 18
+the 0 93 18
+disease 0 93 18
+will 0 93 18
+have 0 93 18
+control 0 93 18
+of 0 93 18
+the 0 93 18
+nation. 0 93 18
 
-As 0
-Slavo 0
-noted, 0
-should 0
-the 0
-disease 0
-spread 0
-to 0
-the 0
-African 0
-mainland, 0
-one 0
-can 0
-assume 0
-that 0
-it 0
-will 0
-be 0
-all 0
-but 0
-impossible 0
-to 0
-control, 0
-thus 0
-increasing 1
-the 1
-likelihood 1
-of 1
-global 1
-pandemic. 1
+As 0 93 18
+
+Slavo 0 93 18
+
+noted, 0 93 18
+
+should 0 93 18
+
+the 0 93 18
+
+disease 0 93 18
+
+spread 0 93 18
+
+to 0 93 18
+
+the 0 93 18
+
+African 0 93 18
+
+mainland, 0 93 18
+
+one 0 93 18
+
+can 0 93 18
+
+assume 0 93 18
+
+that 0 93 18
+
+it 0 93 18
+
+will 0 93 18
+
+be 0 93 18
+
+all 0 93 18
+
+but 0 93 18
+
+impossible 0 93 18
+
+to 0 93 18
+
+control, 0 93 18
+
+thus 0 93 18
+
+increasing 1 93 18
+
+the 1 93 18
+
+likelihood 1 93 18
+
+of 1 93 18
+
+global 1 93 18
+
+pandemic. 1 93 18

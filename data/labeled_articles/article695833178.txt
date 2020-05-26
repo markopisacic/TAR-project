@@ -1,517 +1,560 @@
-Confirmed: 0
-Authorities 0
-LIED 0
-About 0
-Las 0
-Vegas 0
-Shooter’s 0
-Hotel 0
-Check-In 0
-Date 0
-– 0
-What 1
-Else 1
-Are 1
-They 1
-Hiding? 1
+Confirmed: 0 20 0
+Authorities 0 20 0
+LIED 0 20 0
+About 0 20 0
+Las 0 20 0
+Vegas 0 20 0
+Shooter’s 0 20 0
+Hotel 0 20 0
+Check-In 0 20 0
+Date 0 20 0
+– 0 20 0
+What 1 20 0
+Else 1 20 0
+Are 1 20 0
+They 1 20 0
+Hiding? 1 20 0
 
-Over 0
-the 0
-last 0
-few 0
-days 0
-the 0
-alternative 0
-media 0
-has 0
-spent 0
-countless 0
-hours 0
-conducting 0
-their 0
-own 0
-investigations 0
-into 0
-what 0
-actually 0
-happened 0
-during 0
-the 0
-mass 0
-shooting 0
-in 0
-Las 0
-Vegas 0
-that 0
-left 0
-59 0
-dead 0
-and 0
-over 0
-500 0
-injured. 0
+Over 0 20 1
+the 0 20 1
+last 0 20 1
+few 0 20 1
+days 0 20 1
+the 0 20 1
+alternative 0 20 1
+media 0 20 1
+has 0 20 1
+spent 0 20 1
+countless 0 20 1
+hours 0 20 1
+conducting 0 20 1
+their 0 20 1
+own 0 20 1
+investigations 0 20 1
+into 0 20 1
+what 0 20 1
+actually 0 20 1
+happened 0 20 1
+during 0 20 1
+the 0 20 1
+mass 0 20 1
+shooting 0 20 1
+in 0 20 1
+Las 0 20 1
+Vegas 0 20 1
+that 0 20 1
+left 0 20 1
+59 0 20 1
+dead 0 20 1
+and 0 20 1
+over 0 20 1
+500 0 20 1
+injured. 0 20 1
 
-From 0
-reports 0
-of 0
-multiple 0
-shooters 0
-to 0
-officials 0
-seemingly 1
-covering 1
-up 1
-the 1
-ISIS 1
-connection, 1
-many 0
-different 0
-theories 0
-have 0
-been 0
-put 0
-forth 0
-that 0
-counter 0
-the 0
-mainstream 0
-narrative. 0
+From 0 20 2
+reports 0 20 2
+of 0 20 2
+multiple 0 20 2
+shooters 0 20 2
+to 0 20 2
+officials 0 20 2
+seemingly 1 20 2
+covering 1 20 2
+up 1 20 2
+the 1 20 2
+ISIS 1 20 2
+connection, 1 20 2
+many 0 20 2
+different 0 20 2
+theories 0 20 2
+have 0 20 2
+been 0 20 2
+put 0 20 2
+forth 0 20 2
+that 0 20 2
+counter 0 20 2
+the 0 20 2
+mainstream 0 20 2
+narrative. 0 20 2
 
-Now, 0
-new 0
-information 0
-released 0
-by 0
-investigative 0
-reporter 0
-Laura 1
-Loomer 1
-proves 1
-that 1
-authorities 1
-have 1
-directly 1
-lied 1
-to 1
-the 1
-American 1
-people 1
-about 0
-the 0
-case 0
-at 0
-least 0
-once 0
-by 0
-claiming 0
-that 0
-supposed 0
-shooter 0
-Stephen 0
-Paddock 0
-checked 0
-into 0
-the 0
-Mandalay 0
-Bay 0
-Hotel 0
-on 0
-September 0
-28th 0
-when 0
-valet 0
-records 0
-(with 0
-photos) 0
-prove 0
-he 0
-actually 0
-arrived 0
-three 0
-days 0
-earlier. 0
+Now, 0 20 3
+new 0 20 3
+information 0 20 3
+released 0 20 3
+by 0 20 3
+investigative 0 20 3
+reporter 0 20 3
+Laura 1 20 3
+Loomer 1 20 3
+proves 1 20 3
+that 1 20 3
+authorities 1 20 3
+have 1 20 3
+directly 1 20 3
+lied 1 20 3
+to 1 20 3
+the 1 20 3
+American 1 20 3
+people 1 20 3
+about 0 20 3
+the 0 20 3
+case 0 20 3
+at 0 20 3
+least 0 20 3
+once 0 20 3
+by 0 20 3
+claiming 0 20 3
+that 0 20 3
+supposed 0 20 3
+shooter 0 20 3
+Stephen 0 20 3
+Paddock 0 20 3
+checked 0 20 3
+into 0 20 3
+the 0 20 3
+Mandalay 0 20 3
+Bay 0 20 3
+Hotel 0 20 3
+on 0 20 3
+September 0 20 3
+28th 0 20 3
+when 0 20 3
+valet 0 20 3
+records 0 20 3
+(with 0 20 3
+photos) 0 20 3
+prove 0 20 3
+he 0 20 3
+actually 0 20 3
+arrived 0 20 3
+three 0 20 3
+days 0 20 3
+earlier. 0 20 3
 
-According 1
-to 1
-Loomer, 1
-she 1
-obtained 1
-the 1
-image 1
-from 1
-a 1
-source 1
-which 1
-shows 1
-that 1
-Paddock’s 1
-car 1
-first 1
-arrived 1
-September 1
-25th. 1
+According 1 20 4
+to 1 20 4
+Loomer, 1 20 4
+she 1 20 4
+obtained 1 20 4
+the 1 20 4
+image 1 20 4
+from 1 20 4
+a 1 20 4
+source 1 20 4
+which 1 20 4
+shows 1 20 4
+that 1 20 4
+Paddock’s 1 20 4
+car 1 20 4
+first 1 20 4
+arrived 1 20 4
+September 1 20 4
+25th. 1 20 4
 
-The 0
-photo 0
-even 0
-has 0
-a 0
-handwritten 0
-note 0
-that 0
-was 0
-reportedly 0
-written 0
-by 0
-an 0
-FBI 0
-agent 0
-– 0
-proving 1
-that 1
-the 1
-FBI 1
-specifically 1
-lied 1
-to 1
-the 1
-country. 1
+The 0 20 5
+photo 0 20 5
+even 0 20 5
+has 0 20 5
+a 0 20 5
+handwritten 0 20 5
+note 0 20 5
+that 0 20 5
+was 0 20 5
+reportedly 0 20 5
+written 0 20 5
+by 0 20 5
+an 0 20 5
+FBI 0 20 5
+agent 0 20 5
+– 0 20 5
+proving 1 20 5
+that 1 20 5
+the 1 20 5
+FBI 1 20 5
+specifically 1 20 5
+lied 1 20 5
+to 1 20 5
+the 1 20 5
+country. 1 20 5
 
-The 0
-picture 0
-“proves 0
-FBI 0
-misled 0
-public 0
-about 0
-#StephenPaddock’s 0
-check 0
-in 0
-date,” 0
-Loomer 0
-Tweeted. 0
+The 0 20 6
+picture 0 20 6
+“proves 0 20 6
+FBI 0 20 6
+misled 0 20 6
+public 0 20 6
+about 0 20 6
+#StephenPaddock’s 0 20 6
+check 0 20 6
+in 0 20 6
+date,” 0 20 6
+Loomer 0 20 6
+Tweeted. 0 20 6
 
-EXCLUSIVE 0
-PICS: 0
-LV 0
-Shooter’s 0
-car; 0
-@FBI 0
-note 0
-inside 0
-@MandalayBay 0
-valet 0
-center 0
-proves 0
-FBI 0
-misled 0
-public 0
-about 0
-#StephenPaddock‘s 0
-check 0
-in 0
-date. 0
+EXCLUSIVE 0 20 7
+PICS: 0 20 7
+LV 0 20 7
+Shooter’s 0 20 7
+car; 0 20 7
+@FBI 0 20 7
+note 0 20 7
+inside 0 20 7
+@MandalayBay 0 20 7
+valet 0 20 7
+center 0 20 7
+proves 0 20 7
+FBI 0 20 7
+misled 0 20 7
+public 0 20 7
+about 0 20 7
+#StephenPaddock‘s 0 20 7
+check 0 20 7
+in 0 20 7
+date. 0 20 7
 
-pic.twitter.com/sotjwX3o0i 0
-— 0
-Laura 0
-Loomer 0
-(@LauraLoomer) 0
-October 0
-6, 0
-2017 0
+pic.twitter.com/sotjwX3o0i 0 20 8
+— 0 20 8
+Laura 0 20 8
+Loomer 0 20 8
+(@LauraLoomer) 0 20 8
+October 0 20 8
+6, 0 20 8
+2017 0 20 8
 
-Shockingly, 0
-another 0
-Tweet 0
-by 0
-Loomer 0
-also 0
-revealed 0
-that 0
-the 0
-license 0
-plate 0
-numbers 0
-given 0
-out 0
-by 0
-police 0
-after 0
-the 0
-horrific 0
-shooting 0
-DO 0
-NOT 0
-match 0
-the 0
-actual 0
-license 0
-plate 0
-of 0
-Paddock’s 0
-vehicle. 0
+Shockingly, 0 20 9
+another 0 20 9
+Tweet 0 20 9
+by 0 20 9
+Loomer 0 20 9
+also 0 20 9
+revealed 0 20 9
+that 0 20 9
+the 0 20 9
+license 0 20 9
+plate 0 20 9
+numbers 0 20 9
+given 0 20 9
+out 0 20 9
+by 0 20 9
+police 0 20 9
+after 0 20 9
+the 0 20 9
+horrific 0 20 9
+shooting 0 20 9
+DO 0 20 9
+NOT 0 20 9
+match 0 20 9
+the 0 20 9
+actual 0 20 9
+license 0 20 9
+plate 0 20 9
+of 0 20 9
+Paddock’s 0 20 9
+vehicle. 0 20 9
 
-Law 0
-enforcement 0
-and 0
-@FBI 0
-misled 0
-the 0
-public 0
-about 0
-#Paddock‘s 0
-check 0
-in 0
-date 0
-and 0
-also 0
-provided 0
-public 0
-& 0
-media 0
-w/ 0
-wrong 0
-license 0
-plate 0
-number. 0
+Law 0 20 10
+enforcement 0 20 10
+and 0 20 10
+@FBI 0 20 10
+misled 0 20 10
+the 0 20 10
+public 0 20 10
+about 0 20 10
+#Paddock‘s 0 20 10
+check 0 20 10
+in 0 20 10
+date 0 20 10
+and 0 20 10
+also 0 20 10
+provided 0 20 10
+public 0 20 10
+& 0 20 10
+media 0 20 10
+w/ 0 20 10
+wrong 0 20 10
+license 0 20 10
+plate 0 20 10
+number. 0 20 10
 
-pic.twitter.com/y9hS6GqdKI 0
-— 0
-Laura 0
-Loomer 0
-(@LauraLoomer) 0
-October 0
-6, 0
-2017 0
+pic.twitter.com/y9hS6GqdKI 0 20 11
+— 0 20 11
+Laura 0 20 11
+Loomer 0 20 11
+(@LauraLoomer) 0 20 11
+October 0 20 11
+6, 0 20 11
+2017 0 20 11
 
-That’s 0
-right, 0
-photographic 0
-evidence 0
-from 0
-inside 0
-the 0
-hotel 0
-parking 0
-garage 0
-has 0
-confirmed 0
-that 0
-the 0
-FBI, 0
-along 0
-with 0
-state 0
-and 0
-local 0
-police, 0
-specifically 0
-lied 0
-about 0
-key 0
-details 0
-of 0
-the 0
-shooting. 0
+That’s 0 20 12
+right, 0 20 12
+photographic 0 20 12
+evidence 0 20 12
+from 0 20 12
+inside 0 20 12
+the 0 20 12
+hotel 0 20 12
+parking 0 20 12
+garage 0 20 12
+has 0 20 12
+confirmed 0 20 12
+that 0 20 12
+the 0 20 12
+FBI, 0 20 12
+along 0 20 12
+with 0 20 12
+state 0 20 12
+and 0 20 12
+local 0 20 12
+police, 0 20 12
+specifically 0 20 12
+lied 0 20 12
+about 0 20 12
+key 0 20 12
+details 0 20 12
+of 0 20 12
+the 0 20 12
+shooting. 0 20 12
 
-This 1
-throws 1
-their 1
-entire 1
-narrative 1
-into 1
-question 1
-and 1
-makes 1
-one 1
-wonder 1
-what 1
-else 1
-is 1
-being 1
-hidden 1
-from 1
-the 1
-public? 1
+This 1 20 13
+throws 1 20 13
+their 1 20 13
+entire 1 20 13
+narrative 1 20 13
+into 1 20 13
+question 1 20 13
+and 1 20 13
+makes 1 20 13
+one 1 20 13
+wonder 1 20 13
+what 1 20 13
+else 1 20 13
+is 1 20 13
+being 1 20 13
+hidden 1 20 13
+from 1 20 13
+the 1 20 13
+public? 1 20 13
 
-Keep 0
-in 0
-mind 0
-that 0
-at 0
-least 0
-four 0
-videos 0
-from 0
-the 0
-scene 0
-of 0
-the 0
-shooting 0
-have 0
-already 0
-been 0
-released 0
-that 0
-indicate 0
-there 0
-were 0
-multiple 0
-shooters. 0
+Keep 0 20 14
+in 0 20 14
+mind 0 20 14
+that 0 20 14
+at 0 20 14
+least 0 20 14
+four 0 20 14
+videos 0 20 14
+from 0 20 14
+the 0 20 14
+scene 0 20 14
+of 0 20 14
+the 0 20 14
+shooting 0 20 14
+have 0 20 14
+already 0 20 14
+been 0 20 14
+released 0 20 14
+that 0 20 14
+indicate 0 20 14
+there 0 20 14
+were 0 20 14
+multiple 0 20 14
+shooters. 0 20 14
 
-In 0
-fact, 0
-there 0
-are 0
-so 0
-many 0
-unanswered 0
-questions 0
-that 0
-the 0
-Drudge 0
-Report 0
-even 0
-linked 0
-to 0
-an 0
-article 0
-asking 0
-them 0
-directly. 0
+In 0 20 15
+fact, 0 20 15
+there 0 20 15
+are 0 20 15
+so 0 20 15
+many 0 20 15
+unanswered 0 20 15
+questions 0 20 15
+that 0 20 15
+the 0 20 15
+Drudge 0 20 15
+Report 0 20 15
+even 0 20 15
+linked 0 20 15
+to 0 20 15
+an 0 20 15
+article 0 20 15
+asking 0 20 15
+them 0 20 15
+directly. 0 20 15
 
-As 0
-noted 0
-above, 0
-at 0
-this 0
-point 0
-literally 0
-every 0
-piece 0
-of 0
-so-called 1
-evidence 1
-put 0
-forth 0
-by 0
-authorities 0
-and 0
-then 0
-regurgitated 0
-by 0
-the 0
-mainstream 0
-media 0
-cannot 1
-be 1
-trusted 1
-and 1
-should 1
-be 1
-considered 1
-as 1
-disinformation 1
-until 0
-proven 0
-otherwise. 0
+As 0 20 16
+noted 0 20 16
+above, 0 20 16
+at 0 20 16
+this 0 20 16
+point 0 20 16
+literally 0 20 16
+every 0 20 16
+piece 0 20 16
+of 0 20 16
+so-called 1 20 16
+evidence 1 20 16
+put 0 20 16
+forth 0 20 16
+by 0 20 16
+authorities 0 20 16
+and 0 20 16
+then 0 20 16
+regurgitated 0 20 16
+by 0 20 16
+the 0 20 16
+mainstream 0 20 16
+media 0 20 16
+cannot 1 20 16
+be 1 20 16
+trusted 1 20 16
+and 1 20 16
+should 1 20 16
+be 1 20 16
+considered 1 20 16
+as 1 20 16
+disinformation 1 20 16
+until 0 20 16
+proven 0 20 16
+otherwise. 0 20 16
 
-And 0
-if 0
-Paddock 0
-really 0
-did 0
-act 0
-alone 0
-and 0
-this 0
-evidence 0
-is 0
-some 0
-sort 0
-of 0
-mistake, 0
-there 0
-is 0
-surely 0
-video 0
-footage 0
-proving 0
-so. 0
+And 0 20 17
+if 0 20 17
+Paddock 0 20 17
+really 0 20 17
+did 0 20 17
+act 0 20 17
+alone 0 20 17
+and 0 20 17
+this 0 20 17
+evidence 0 20 17
+is 0 20 17
+some 0 20 17
+sort 0 20 17
+of 0 20 17
+mistake, 0 20 17
+there 0 20 17
+is 0 20 17
+surely 0 20 17
+video 0 20 17
+footage 0 20 17
+proving 0 20 17
+so. 0 20 17
 
-Notice 0
-#StephenPaddock‘s 0
-van 0
-was 0
-last 0
-parked 0
-right 0
-next 0
-to 0
-a 0
-security 0
-camera 0
-inside 0
-“Garage 0
-East” 0
-@MandalayBay. 0
+Notice 0 20 18
+#StephenPaddock‘s 0 20 18
+van 0 20 18
+was 0 20 18
+last 0 20 18
+parked 0 20 18
+right 0 20 18
+next 0 20 18
+to 0 20 18
+a 0 20 18
+security 0 20 18
+camera 0 20 18
+inside 0 20 18
+“Garage 0 20 18
+East” 0 20 18
+@MandalayBay. 0 20 18
 
-There 0
-is 0
-definitely 0
-footage. 0
+There 0 20 19
+is 0 20 19
+definitely 0 20 19
+footage. 0 20 19
 
-https://t.co/L1caGn6uqw 0
-— 0
-Laura 0
-Loomer 0
-(@LauraLoomer) 0
-October 0
-6, 0
-2017 0
+https://t.co/L1caGn6uqw 0 20 20
+— 0 20 20
+Laura 0 20 20
+Loomer 0 20 20
+(@LauraLoomer) 0 20 20
+October 0 20 20
+6, 0 20 20
+2017 0 20 20
 
-It 0
-is 0
-also 0
-important 0
-to 0
-note 0
-that 0
-Paddock’s 0
-brother 0
-Eric 0
-has 0
-conducted 0
-a 0
-series 0
-of 0
-bizarre 0
-interviews 0
-that 0
-have 0
-led 0
-to 0
-even 0
-more 0
-questions 0
-about 0
-what 0
-actually 0
-happened 0
-in 0
-Las 0
-Vegas 0
-and 0
-what 0
-Paddock’s 0
-role 0
-was 0
-in 0
-the 0
-worst 0
-mass 0
-shooting 0
-in 0
-American 0
-history. 0
+It 0 20 20
+
+is 0 20 20
+
+also 0 20 20
+
+important 0 20 20
+
+to 0 20 20
+
+note 0 20 20
+
+that 0 20 20
+
+Paddock’s 0 20 20
+
+brother 0 20 20
+
+Eric 0 20 20
+
+has 0 20 20
+
+conducted 0 20 20
+
+a 0 20 20
+
+series 0 20 20
+
+of 0 20 20
+
+bizarre 0 20 20
+
+interviews 0 20 20
+
+that 0 20 20
+
+have 0 20 20
+
+led 0 20 20
+
+to 0 20 20
+
+even 0 20 20
+
+more 0 20 20
+
+questions 0 20 20
+
+about 0 20 20
+
+what 0 20 20
+
+actually 0 20 20
+
+happened 0 20 20
+
+in 0 20 20
+
+Las 0 20 20
+
+Vegas 0 20 20
+
+and 0 20 20
+
+what 0 20 20
+
+Paddock’s 0 20 20
+
+role 0 20 20
+
+was 0 20 20
+
+in 0 20 20
+
+the 0 20 20
+
+worst 0 20 20
+
+mass 0 20 20
+
+shooting 0 20 20
+
+in 0 20 20
+
+American 0 20 20
+
+history. 0 20 20

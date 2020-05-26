@@ -1,334 +1,337 @@
-Gina 0
-Haspel, 0
-New 0
-CIA 0
-Director 0
+Gina 0 195 0
+Haspel, 0 195 0
+New 0 195 0
+CIA 0 195 0
+Director 0 195 0
 
-President 0
-Donald 0
-Trump 0
-nominated 0
-Gina 0
-Haspel 0
-as 0
-the 0
-new 0
-director 0
-of 0
-the 0
-CIA, 0
-announcing 0
-the 0
-news 0
-on 0
-Twitter. 0
+President 0 195 1
+Donald 0 195 1
+Trump 0 195 1
+nominated 0 195 1
+Gina 0 195 1
+Haspel 0 195 1
+as 0 195 1
+the 0 195 1
+new 0 195 1
+director 0 195 1
+of 0 195 1
+the 0 195 1
+CIA, 0 195 1
+announcing 0 195 1
+the 0 195 1
+news 0 195 1
+on 0 195 1
+Twitter. 0 195 1
 
-Mike 0
-Pompeo, 0
-the 0
-previous 0
-director, 0
-was 0
-nominated 0
-to 0
-run 0
-the 0
-State 0
-Department 0
-to 0
-replace 0
-the 0
-ousted 0
-Rex 0
-Tillerson. 0
+Mike 0 195 2
+Pompeo, 0 195 2
+the 0 195 2
+previous 0 195 2
+director, 0 195 2
+was 0 195 2
+nominated 0 195 2
+to 0 195 2
+run 0 195 2
+the 0 195 2
+State 0 195 2
+Department 0 195 2
+to 0 195 2
+replace 0 195 2
+the 0 195 2
+ousted 0 195 2
+Rex 0 195 2
+Tillerson. 0 195 2
 
-* 0
-* 0
-* 0
-* 0
-* 0
+* 0 195 3
+* 0 195 3
+* 0 195 3
+* 0 195 3
+* 0 195 3
 
-IN 0
-MAY 0
-2013, 0
-the 0
-Washington 0
-Post’s 0
-Greg 0
-Miller 0
-reported 0
-that 0
-the 0
-head 0
-of 0
-the 0
-CIA’s 0
-clandestine 0
-service 0
-was 0
-being 0
-shifted 0
-out 0
-of 0
-that 0
-position 0
-as 0
-a 0
-result 0
-of 0
-“a 0
-management 0
-shake-up” 0
-by 0
-then-Director 0
-John 0
-Brennan. 0
+IN 0 195 4
+MAY 0 195 4
+2013, 0 195 4
+the 0 195 4
+Washington 0 195 4
+Post’s 0 195 4
+Greg 0 195 4
+Miller 0 195 4
+reported 0 195 4
+that 0 195 4
+the 0 195 4
+head 0 195 4
+of 0 195 4
+the 0 195 4
+CIA’s 0 195 4
+clandestine 0 195 4
+service 0 195 4
+was 0 195 4
+being 0 195 4
+shifted 0 195 4
+out 0 195 4
+of 0 195 4
+that 0 195 4
+position 0 195 4
+as 0 195 4
+a 0 195 4
+result 0 195 4
+of 0 195 4
+“a 0 195 4
+management 0 195 4
+shake-up” 0 195 4
+by 0 195 4
+then-Director 0 195 4
+John 0 195 4
+Brennan. 0 195 4
 
-As 0
-Miller 0
-documented, 0
-this 0
-official 0
-— 0
-whom 0
-the 0
-paper 0
-did 0
-not 0
-name 0
-because 0
-she 0
-was 0
-a 0
-covert 0
-agent 0
-at 0
-the 0
-time 0
-— 0
-was 0
-centrally 0
-involved 0
-in 0
-the 1
-worst 1
-abuses 1
-of 1
-the 1
-CIA’s 1
-Bush-era 1
-torture 1
-regime. 1
+As 0 195 5
+Miller 0 195 5
+documented, 0 195 5
+this 0 195 5
+official 0 195 5
+— 0 195 5
+whom 0 195 5
+the 0 195 5
+paper 0 195 5
+did 0 195 5
+not 0 195 5
+name 0 195 5
+because 0 195 5
+she 0 195 5
+was 0 195 5
+a 0 195 5
+covert 0 195 5
+agent 0 195 5
+at 0 195 5
+the 0 195 5
+time 0 195 5
+— 0 195 5
+was 0 195 5
+centrally 0 195 5
+involved 0 195 5
+in 0 195 5
+the 1 195 5
+worst 1 195 5
+abuses 1 195 5
+of 1 195 5
+the 1 195 5
+CIA’s 1 195 5
+Bush-era 1 195 5
+torture 1 195 5
+regime. 1 195 5
 
-As 0
-Miller 0
-put 0
-it, 0
-she 0
-was 0
-“directly 0
-involved 0
-in 0
-its 0
-controversial 0
-interrogation 0
-program” 0
-and 0
-had 0
-an 0
-“extensive 0
-role” 0
-in 0
-torturing 0
-detainees. 0
+As 0 195 6
+Miller 0 195 6
+put 0 195 6
+it, 0 195 6
+she 0 195 6
+was 0 195 6
+“directly 0 195 6
+involved 0 195 6
+in 0 195 6
+its 0 195 6
+controversial 0 195 6
+interrogation 0 195 6
+program” 0 195 6
+and 0 195 6
+had 0 195 6
+an 0 195 6
+“extensive 0 195 6
+role” 0 195 6
+in 0 195 6
+torturing 0 195 6
+detainees. 0 195 6
 
-Even 0
-more 0
-troubling, 0
-she 0
-“had 0
-run 0
-a 0
-secret 0
-prison 0
-in 0
-Thailand” 0
-— 0
-part 0
-of 0
-the 0
-CIA’s 0
-network 0
-of 0
-“black 0
-sites” 0
-— 0
-“where 0
-two 0
-detainees 0
-were 0
-subjected 0
-to 0
-waterboarding 0
-and 0
-other 0
-harsh 1
-techniques.” 1
-The 0
-Senate 0
-Intelligence 0
-Committee’s 0
-report 0
-on 0
-torture 0
-also 0
-detailed 0
-the 0
-central 0
-role 0
-she 0
-played 0
-in 0
-the 0
-particularly 1
-gruesome 1
-torture 1
-of 0
-detainee 0
-Abu 0
-Zubaydah. 0
+Even 0 195 7
+more 0 195 7
+troubling, 0 195 7
+she 0 195 7
+“had 0 195 7
+run 0 195 7
+a 0 195 7
+secret 0 195 7
+prison 0 195 7
+in 0 195 7
+Thailand” 0 195 7
+— 0 195 7
+part 0 195 7
+of 0 195 7
+the 0 195 7
+CIA’s 0 195 7
+network 0 195 7
+of 0 195 7
+“black 0 195 7
+sites” 0 195 7
+— 0 195 7
+“where 0 195 7
+two 0 195 7
+detainees 0 195 7
+were 0 195 7
+subjected 0 195 7
+to 0 195 7
+waterboarding 0 195 7
+and 0 195 7
+other 0 195 7
+harsh 1 195 7
+techniques.” 1 195 7
+The 0 195 7
+Senate 0 195 7
+Intelligence 0 195 7
+Committee’s 0 195 7
+report 0 195 7
+on 0 195 7
+torture 0 195 7
+also 0 195 7
+detailed 0 195 7
+the 0 195 7
+central 0 195 7
+role 0 195 7
+she 0 195 7
+played 0 195 7
+in 0 195 7
+the 0 195 7
+particularly 1 195 7
+gruesome 1 195 7
+torture 1 195 7
+of 0 195 7
+detainee 0 195 7
+Abu 0 195 7
+Zubaydah. 0 195 7
 
-Beyond 0
-all 0
-that, 0
-she 0
-played 0
-a 0
-vital 0
-role 0
-in 0
-the 0
-destruction 0
-of 0
-interrogation 0
-videotapes 0
-that 0
-showed 0
-the 0
-torture 0
-of 0
-detainees 0
-both 0
-at 0
-the 0
-black 0
-site 0
-she 0
-ran 0
-and 0
-other 0
-secret 0
-agency 0
-locations. 0
+Beyond 0 195 8
+all 0 195 8
+that, 0 195 8
+she 0 195 8
+played 0 195 8
+a 0 195 8
+vital 0 195 8
+role 0 195 8
+in 0 195 8
+the 0 195 8
+destruction 0 195 8
+of 0 195 8
+interrogation 0 195 8
+videotapes 0 195 8
+that 0 195 8
+showed 0 195 8
+the 0 195 8
+torture 0 195 8
+of 0 195 8
+detainees 0 195 8
+both 0 195 8
+at 0 195 8
+the 0 195 8
+black 0 195 8
+site 0 195 8
+she 0 195 8
+ran 0 195 8
+and 0 195 8
+other 0 195 8
+secret 0 195 8
+agency 0 195 8
+locations. 0 195 8
 
-The 0
-concealment 0
-of 0
-those 0
-interrogation 0
-tapes, 0
-which 0
-violated 0
-multiple 0
-court 0
-orders 0
-as 0
-well 0
-as 0
-the 0
-demands 0
-of 0
-the 0
-9/11 0
-commission 0
-and 0
-the 0
-advice 0
-of 0
-White 0
-House 0
-lawyers, 0
-was 0
-condemned 0
-as 0
-“obstruction” 0
-by 0
-commission 0
-chairs 0
-Lee 0
-Hamilton 0
-and 0
-Thomas 0
-Keane. 0
+The 0 195 9
+concealment 0 195 9
+of 0 195 9
+those 0 195 9
+interrogation 0 195 9
+tapes, 0 195 9
+which 0 195 9
+violated 0 195 9
+multiple 0 195 9
+court 0 195 9
+orders 0 195 9
+as 0 195 9
+well 0 195 9
+as 0 195 9
+the 0 195 9
+demands 0 195 9
+of 0 195 9
+the 0 195 9
+9/11 0 195 9
+commission 0 195 9
+and 0 195 9
+the 0 195 9
+advice 0 195 9
+of 0 195 9
+White 0 195 9
+House 0 195 9
+lawyers, 0 195 9
+was 0 195 9
+condemned 0 195 9
+as 0 195 9
+“obstruction” 0 195 9
+by 0 195 9
+commission 0 195 9
+chairs 0 195 9
+Lee 0 195 9
+Hamilton 0 195 9
+and 0 195 9
+Thomas 0 195 9
+Keane. 0 195 9
 
-A 0
-special 0
-prosecutor 0
-and 0
-grand 0
-jury 0
-investigated 0
-those 0
-actions 0
-but 0
-ultimately 0
-chose 0
-not 0
-to 0
-prosecute. 0
+A 0 195 10
+special 0 195 10
+prosecutor 0 195 10
+and 0 195 10
+grand 0 195 10
+jury 0 195 10
+investigated 0 195 10
+those 0 195 10
+actions 0 195 10
+but 0 195 10
+ultimately 0 195 10
+chose 0 195 10
+not 0 195 10
+to 0 195 10
+prosecute. 0 195 10
 
-The 0
-name 0
-of 0
-that 0
-CIA 0
-official 0
-whose 0
-torture 0
-activities 0
-the 0
-Post 0
-described 0
-is 0
-Gina 0
-Haspel. 0
+The 0 195 11
+name 0 195 11
+of 0 195 11
+that 0 195 11
+CIA 0 195 11
+official 0 195 11
+whose 0 195 11
+torture 0 195 11
+activities 0 195 11
+the 0 195 11
+Post 0 195 11
+described 0 195 11
+is 0 195 11
+Gina 0 195 11
+Haspel. 0 195 11
 
-Today, 0
-as 0
-BuzzFeed’s 0
-Jason 0
-Leopold 0
-noted, 0
-CIA 0
-Director 0
-Mike 0
-Pompeo 0
-announced 0
-that 0
-Haspel 0
-was 0
-selected 0
-by 0
-Trump 0
-to 0
-be 0
-deputy 0
-director 0
-of 0
-the 0
-CIA. 0
+Today, 0 195 12
+as 0 195 12
+BuzzFeed’s 0 195 12
+Jason 0 195 12
+Leopold 0 195 12
+noted, 0 195 12
+CIA 0 195 12
+Director 0 195 12
+Mike 0 195 12
+Pompeo 0 195 12
+announced 0 195 12
+that 0 195 12
+Haspel 0 195 12
+was 0 195 12
+selected 0 195 12
+by 0 195 12
+Trump 0 195 12
+to 0 195 12
+be 0 195 12
+deputy 0 195 12
+director 0 195 12
+of 0 195 12
+the 0 195 12
+CIA. 0 195 12
 
-Read 0
-the 0
-Whole 0
-Article 0
+Read 0 195 12
+
+the 0 195 12
+
+Whole 0 195 12
+
+Article 0 195 12

@@ -1,682 +1,706 @@
-US 0
-embassy 0
-worker 0
-in 0
-China 0
-suffers 0
-'brain 0
-injury' 0
-amid 0
-'sonic 0
-attack' 0
-fears 0
+US 0 227 0
+embassy 0 227 0
+worker 0 227 0
+in 0 227 0
+China 0 227 0
+suffers 0 227 0
+'brain 0 227 0
+injury' 0 227 0
+amid 0 227 0
+'sonic 0 227 0
+attack' 0 227 0
+fears 0 227 0
 
-A 0
-US 0
-embassy 0
-worker 0
-in 0
-China 0
-has 0
-reported 0
-experiencing 0
-"abnormal 0
-sensations 0
-of 0
-sounds 0
-and 0
-pressure" 0
-amid 0
-fears 0
-of 0
-a 0
-"sonic 1
-attack". 1
+A 0 227 1
+US 0 227 1
+embassy 0 227 1
+worker 0 227 1
+in 0 227 1
+China 0 227 1
+has 0 227 1
+reported 0 227 1
+experiencing 0 227 1
+"abnormal 0 227 1
+sensations 0 227 1
+of 0 227 1
+sounds 0 227 1
+and 0 227 1
+pressure" 0 227 1
+amid 0 227 1
+fears 0 227 1
+of 0 227 1
+a 0 227 1
+"sonic 1 227 1
+attack". 1 227 1
 
-The 0
-state 0
-department 0
-has 0
-issued 0
-a 0
-health 0
-alert 0
-to 0
-its 0
-citizens 0
-in 0
-the 0
-country, 0
-adding 0
-that 0
-the 0
-unnamed 0
-staff 0
-member's 0
-symptoms 0
-indicate 0
-a 0
-"mild 0
-traumatic 0
-brain 0
-injury". 0
+The 0 227 2
+state 0 227 2
+department 0 227 2
+has 0 227 2
+issued 0 227 2
+a 0 227 2
+health 0 227 2
+alert 0 227 2
+to 0 227 2
+its 0 227 2
+citizens 0 227 2
+in 0 227 2
+the 0 227 2
+country, 0 227 2
+adding 0 227 2
+that 0 227 2
+the 0 227 2
+unnamed 0 227 2
+staff 0 227 2
+member's 0 227 2
+symptoms 0 227 2
+indicate 0 227 2
+a 0 227 2
+"mild 0 227 2
+traumatic 0 227 2
+brain 0 227 2
+injury". 0 227 2
 
-The 0
-findings 0
-echo 0
-similar 0
-reports 0
-that 0
-caused 0
-the 0
-US 0
-to 0
-recall 0
-non-essential 0
-embassy 0
-staff 0
-from 0
-Cuba 0
-in 0
-2017, 0
-after 0
-at 0
-least 0
-24 0
-US 0
-citizens 0
-suffered 0
-symptoms 0
-indicating 0
-they 0
-had 0
-been 0
-deliberately 0
-and 0
-covertly 0
-targeted. 0
+The 0 227 3
+findings 0 227 3
+echo 0 227 3
+similar 0 227 3
+reports 0 227 3
+that 0 227 3
+caused 0 227 3
+the 0 227 3
+US 0 227 3
+to 0 227 3
+recall 0 227 3
+non-essential 0 227 3
+embassy 0 227 3
+staff 0 227 3
+from 0 227 3
+Cuba 0 227 3
+in 0 227 3
+2017, 0 227 3
+after 0 227 3
+at 0 227 3
+least 0 227 3
+24 0 227 3
+US 0 227 3
+citizens 0 227 3
+suffered 0 227 3
+symptoms 0 227 3
+indicating 0 227 3
+they 0 227 3
+had 0 227 3
+been 0 227 3
+deliberately 0 227 3
+and 0 227 3
+covertly 0 227 3
+targeted. 0 227 3
 
-US 0
-investigators 0
-are 0
-looking 0
-into 0
-whether 0
-the 0
-employee 0
-in 0
-China 0
-has 0
-been 0
-affected 0
-by 0
-a 0
-"sonic 1
-attack", 1
-which 0
-was 0
-one 0
-of 0
-the 0
-theories 0
-behind 0
-the 0
-still-unexplained 0
-illnesses 0
-suffered 0
-in 0
-Havana. 0
+US 0 227 4
+investigators 0 227 4
+are 0 227 4
+looking 0 227 4
+into 0 227 4
+whether 0 227 4
+the 0 227 4
+employee 0 227 4
+in 0 227 4
+China 0 227 4
+has 0 227 4
+been 0 227 4
+affected 0 227 4
+by 0 227 4
+a 0 227 4
+"sonic 1 227 4
+attack", 1 227 4
+which 0 227 4
+was 0 227 4
+one 0 227 4
+of 0 227 4
+the 0 227 4
+theories 0 227 4
+behind 0 227 4
+the 0 227 4
+still-unexplained 0 227 4
+illnesses 0 227 4
+suffered 0 227 4
+in 0 227 4
+Havana. 0 227 4
 
-The 0
-unnamed 0
-government 0
-worker 0
-was 0
-based 0
-in 0
-the 0
-southeast 0
-port 0
-city 0
-of 0
-Guangzhou, 0
-where 0
-an 0
-American 0
-consulate 0
-is 0
-based. 0
+The 0 227 5
+unnamed 0 227 5
+government 0 227 5
+worker 0 227 5
+was 0 227 5
+based 0 227 5
+in 0 227 5
+the 0 227 5
+southeast 0 227 5
+port 0 227 5
+city 0 227 5
+of 0 227 5
+Guangzhou, 0 227 5
+where 0 227 5
+an 0 227 5
+American 0 227 5
+consulate 0 227 5
+is 0 227 5
+based. 0 227 5
 
-He 0
-has 0
-now 0
-been 0
-flown 0
-back 0
-to 0
-the 0
-US 0
-for 0
-assessment, 0
-according 0
-to 0
-reports. 0
+He 0 227 6
+has 0 227 6
+now 0 227 6
+been 0 227 6
+flown 0 227 6
+back 0 227 6
+to 0 227 6
+the 0 227 6
+US 0 227 6
+for 0 227 6
+assessment, 0 227 6
+according 0 227 6
+to 0 227 6
+reports. 0 227 6
 
-The 0
-state 0
-department 0
-has 0
-issued 0
-a 0
-health 1
-alert 1
-to 0
-its 0
-staff 0
-in 0
-China, 0
-which 0
-states: 0
-"While 0
-in 0
-China, 0
-if 0
-you 0
-experience 0
-any 0
-unusual 0
-acute 0
-auditory 0
-or 0
-sensory 0
-phenomena 0
-accompanied 0
-by 0
-unusual 0
-sounds 0
-or 0
-piercing 0
-noises, 0
-do 0
-not 0
-attempt 0
-to 0
-locate 0
-their 0
-source. 0
+The 0 227 7
+state 0 227 7
+department 0 227 7
+has 0 227 7
+issued 0 227 7
+a 0 227 7
+health 1 227 7
+alert 1 227 7
+to 0 227 7
+its 0 227 7
+staff 0 227 7
+in 0 227 7
+China, 0 227 7
+which 0 227 7
+states: 0 227 7
+"While 0 227 7
+in 0 227 7
+China, 0 227 7
+if 0 227 7
+you 0 227 7
+experience 0 227 7
+any 0 227 7
+unusual 0 227 7
+acute 0 227 7
+auditory 0 227 7
+or 0 227 7
+sensory 0 227 7
+phenomena 0 227 7
+accompanied 0 227 7
+by 0 227 7
+unusual 0 227 7
+sounds 0 227 7
+or 0 227 7
+piercing 0 227 7
+noises, 0 227 7
+do 0 227 7
+not 0 227 7
+attempt 0 227 7
+to 0 227 7
+locate 0 227 7
+their 0 227 7
+source. 0 227 7
 
-"Instead, 0
-move 0
-to 0
-a 0
-location 0
-where 0
-the 0
-sounds 0
-are 0
-not 0
-present." 0
+"Instead, 0 227 8
+move 0 227 8
+to 0 227 8
+a 0 227 8
+location 0 227 8
+where 0 227 8
+the 0 227 8
+sounds 0 227 8
+are 0 227 8
+not 0 227 8
+present." 0 227 8
 
-Image: 0
-US 0
-secretary 0
-of 0
-state 0
-Mike 0
-Pompeo 0
-is 0
-set 0
-to 0
-meet 0
-with 0
-Chinese 0
-foreign 0
-minister 0
-Wang 0
-Yi 0
-on 0
-Wednesday 0
+Image: 0 227 9
+US 0 227 9
+secretary 0 227 9
+of 0 227 9
+state 0 227 9
+Mike 0 227 9
+Pompeo 0 227 9
+is 0 227 9
+set 0 227 9
+to 0 227 9
+meet 0 227 9
+with 0 227 9
+Chinese 0 227 9
+foreign 0 227 9
+minister 0 227 9
+Wang 0 227 9
+Yi 0 227 9
+on 0 227 9
+Wednesday 0 227 9
 
-The 0
-embassy 0
-in 0
-Beijing 0
-said 0
-it 0
-could 0
-not 0
-link 0
-the 0
-case 0
-in 0
-China 0
-to 0
-the 0
-health 1
-issues 1
-suffered 0
-by 0
-its 0
-staff 0
-in 0
-Cuba. 0
+The 0 227 10
+embassy 0 227 10
+in 0 227 10
+Beijing 0 227 10
+said 0 227 10
+it 0 227 10
+could 0 227 10
+not 0 227 10
+link 0 227 10
+the 0 227 10
+case 0 227 10
+in 0 227 10
+China 0 227 10
+to 0 227 10
+the 0 227 10
+health 1 227 10
+issues 1 227 10
+suffered 0 227 10
+by 0 227 10
+its 0 227 10
+staff 0 227 10
+in 0 227 10
+Cuba. 0 227 10
 
-In 0
-an 0
-email 0
-to 0
-citizens 0
-in 0
-China, 0
-the 0
-state 0
-department 0
-said: 0
-"A 0
-US 0
-government 0
-employee 0
-in 0
-China 0
-recently 0
-reported 0
-subtle 0
-and 0
-vague, 0
-but 0
-abnormal, 0
-sensations 0
-of 0
-sound 0
-and 0
-pressure. 0
+In 0 227 11
+an 0 227 11
+email 0 227 11
+to 0 227 11
+citizens 0 227 11
+in 0 227 11
+China, 0 227 11
+the 0 227 11
+state 0 227 11
+department 0 227 11
+said: 0 227 11
+"A 0 227 11
+US 0 227 11
+government 0 227 11
+employee 0 227 11
+in 0 227 11
+China 0 227 11
+recently 0 227 11
+reported 0 227 11
+subtle 0 227 11
+and 0 227 11
+vague, 0 227 11
+but 0 227 11
+abnormal, 0 227 11
+sensations 0 227 11
+of 0 227 11
+sound 0 227 11
+and 0 227 11
+pressure. 0 227 11
 
-"The 0
-US 0
-government 0
-is 0
-taking 0
-these 0
-reports 0
-seriously 0
-and 0
-has 0
-informed 0
-its 0
-official 0
-staff 0
-in 0
-China 0
-of 0
-this 0
-event." 0
+"The 0 227 12
+US 0 227 12
+government 0 227 12
+is 0 227 12
+taking 0 227 12
+these 0 227 12
+reports 0 227 12
+seriously 0 227 12
+and 0 227 12
+has 0 227 12
+informed 0 227 12
+its 0 227 12
+official 0 227 12
+staff 0 227 12
+in 0 227 12
+China 0 227 12
+of 0 227 12
+this 0 227 12
+event." 0 227 12
 
-They 0
-added 0
-that 0
-they 0
-are 0
-not 0
-sure 0
-what 0
-has 0
-caused 0
-the 0
-employee's 0
-symptoms. 0
+They 0 227 13
+added 0 227 13
+that 0 227 13
+they 0 227 13
+are 0 227 13
+not 0 227 13
+sure 0 227 13
+what 0 227 13
+has 0 227 13
+caused 0 227 13
+the 0 227 13
+employee's 0 227 13
+symptoms. 0 227 13
 
-The 0
-US 0
-Secretary 0
-of 0
-Mike 0
-Pompeo 0
-has 0
-said 0
-he 0
-is 0
-concerned 0
-about 0
-the 0
-"serious 0
-health 0
-incident" 0
-that 0
-has 0
-affected 0
-an 0
-embassy 0
-worker 0
-in 0
-Guangzhou. 0
+The 0 227 14
+US 0 227 14
+Secretary 0 227 14
+of 0 227 14
+Mike 0 227 14
+Pompeo 0 227 14
+has 0 227 14
+said 0 227 14
+he 0 227 14
+is 0 227 14
+concerned 0 227 14
+about 0 227 14
+the 0 227 14
+"serious 0 227 14
+health 0 227 14
+incident" 0 227 14
+that 0 227 14
+has 0 227 14
+affected 0 227 14
+an 0 227 14
+embassy 0 227 14
+worker 0 227 14
+in 0 227 14
+Guangzhou. 0 227 14
 
-China's 0
-foreign 0
-ministry 0
-and 0
-national 0
-health 0
-commission 0
-did 0
-not 0
-immediately 0
-respond 0
-to 0
-questions 0
-about 0
-the 0
-findings, 0
-the 0
-Associated 0
-Press 0
-reported. 0
+China's 0 227 15
+foreign 0 227 15
+ministry 0 227 15
+and 0 227 15
+national 0 227 15
+health 0 227 15
+commission 0 227 15
+did 0 227 15
+not 0 227 15
+immediately 0 227 15
+respond 0 227 15
+to 0 227 15
+questions 0 227 15
+about 0 227 15
+the 0 227 15
+findings, 0 227 15
+the 0 227 15
+Associated 0 227 15
+Press 0 227 15
+reported. 0 227 15
 
-The 0
-US 0
-reduced 0
-its 0
-workforce 0
-in 0
-Havana, 0
-Cuba, 0
-in 0
-2017 0
-after 0
-its 0
-personnel 0
-and 0
-their 0
-families 0
-reported 0
-experiencing 0
-a 0
-range 0
-of 0
-health 1
-issues. 1
+The 0 227 16
+US 0 227 16
+reduced 0 227 16
+its 0 227 16
+workforce 0 227 16
+in 0 227 16
+Havana, 0 227 16
+Cuba, 0 227 16
+in 0 227 16
+2017 0 227 16
+after 0 227 16
+its 0 227 16
+personnel 0 227 16
+and 0 227 16
+their 0 227 16
+families 0 227 16
+reported 0 227 16
+experiencing 0 227 16
+a 0 227 16
+range 0 227 16
+of 0 227 16
+health 1 227 16
+issues. 1 227 16
 
-Investigators 0
-have 0
-drawn 0
-theories 0
-including 0
-that 0
-were 0
-targeted 0
-by 0
-sonic 1
-attacks, 1
-where 0
-the 0
-symptoms 0
-included 0
-dizziness, 0
-headaches 0
-and 0
-vomiting. 0
+Investigators 0 227 17
+have 0 227 17
+drawn 0 227 17
+theories 0 227 17
+including 0 227 17
+that 0 227 17
+were 0 227 17
+targeted 0 227 17
+by 0 227 17
+sonic 1 227 17
+attacks, 1 227 17
+where 0 227 17
+the 0 227 17
+symptoms 0 227 17
+included 0 227 17
+dizziness, 0 227 17
+headaches 0 227 17
+and 0 227 17
+vomiting. 0 227 17
 
-The 0
-attacks 1
-can 0
-sometimes 0
-be 0
-carried 0
-out 0
-by 0
-emitting 0
-"infrasounds", 0
-which 0
-are 0
-low 0
-frequency 0
-noises 0
-that 0
-can 0
-affect 0
-human 0
-hearing 0
-if 0
-they 0
-are 0
-loud 0
-enough. 0
+The 0 227 18
+attacks 1 227 18
+can 0 227 18
+sometimes 0 227 18
+be 0 227 18
+carried 0 227 18
+out 0 227 18
+by 0 227 18
+emitting 0 227 18
+"infrasounds", 0 227 18
+which 0 227 18
+are 0 227 18
+low 0 227 18
+frequency 0 227 18
+noises 0 227 18
+that 0 227 18
+can 0 227 18
+affect 0 227 18
+human 0 227 18
+hearing 0 227 18
+if 0 227 18
+they 0 227 18
+are 0 227 18
+loud 0 227 18
+enough. 0 227 18
 
-However, 0
-Dr 0
-Toby 0
-Heys 0
-told 0
-the 0
-New 0
-Scientist 0
-in 0
-2017 0
-that 0
-an 0
-infrasound 0
-attack 1
-wouldn't 0
-be 0
-"very 0
-covert" 0
-as 0
-a 0
-"large 0
-array 0
-of 0
-subwoofers" 0
-would 0
-be 0
-needed. 0
+However, 0 227 19
+Dr 0 227 19
+Toby 0 227 19
+Heys 0 227 19
+told 0 227 19
+the 0 227 19
+New 0 227 19
+Scientist 0 227 19
+in 0 227 19
+2017 0 227 19
+that 0 227 19
+an 0 227 19
+infrasound 0 227 19
+attack 1 227 19
+wouldn't 0 227 19
+be 0 227 19
+"very 0 227 19
+covert" 0 227 19
+as 0 227 19
+a 0 227 19
+"large 0 227 19
+array 0 227 19
+of 0 227 19
+subwoofers" 0 227 19
+would 0 227 19
+be 0 227 19
+needed. 0 227 19
 
-Image: 0
-The 0
-US 0
-recalled 0
-non-essential 0
-embassy 0
-staff 0
-from 0
-Havana, 0
-Cuba, 0
-after 0
-potential 0
-sonic 1
-attacks 1
-in 0
-2017 0
+Image: 0 227 20
+The 0 227 20
+US 0 227 20
+recalled 0 227 20
+non-essential 0 227 20
+embassy 0 227 20
+staff 0 227 20
+from 0 227 20
+Havana, 0 227 20
+Cuba, 0 227 20
+after 0 227 20
+potential 0 227 20
+sonic 1 227 20
+attacks 1 227 20
+in 0 227 20
+2017 0 227 20
 
-The 0
-other 0
-type 0
-is 0
-an 0
-"ultrasound" 0
-attack, 1
-whereby 0
-a 0
-high 0
-frequency 0
-noise 0
-inaudible 0
-to 0
-human 0
-ears 0
-can 0
-be 0
-targeted 0
-easily 0
-at 0
-potential 0
-victims. 0
+The 0 227 21
+other 0 227 21
+type 0 227 21
+is 0 227 21
+an 0 227 21
+"ultrasound" 0 227 21
+attack, 1 227 21
+whereby 0 227 21
+a 0 227 21
+high 0 227 21
+frequency 0 227 21
+noise 0 227 21
+inaudible 0 227 21
+to 0 227 21
+human 0 227 21
+ears 0 227 21
+can 0 227 21
+be 0 227 21
+targeted 0 227 21
+easily 0 227 21
+at 0 227 21
+potential 0 227 21
+victims. 0 227 21
 
-They 0
-can 0
-damage 0
-parts 0
-of 0
-the 0
-ear 0
-such 0
-as 0
-hairs 0
-that 0
-pick 0
-up 0
-sounds, 0
-but 0
-again 0
-it 0
-is 0
-reported 0
-that 0
-large 0
-equipment 0
-would 0
-be 0
-needed 0
-for 0
-such 0
-an 0
-attack. 1
+They 0 227 22
+can 0 227 22
+damage 0 227 22
+parts 0 227 22
+of 0 227 22
+the 0 227 22
+ear 0 227 22
+such 0 227 22
+as 0 227 22
+hairs 0 227 22
+that 0 227 22
+pick 0 227 22
+up 0 227 22
+sounds, 0 227 22
+but 0 227 22
+again 0 227 22
+it 0 227 22
+is 0 227 22
+reported 0 227 22
+that 0 227 22
+large 0 227 22
+equipment 0 227 22
+would 0 227 22
+be 0 227 22
+needed 0 227 22
+for 0 227 22
+such 0 227 22
+an 0 227 22
+attack. 1 227 22
 
-Other 0
-theories 0
-behind 0
-the 0
-health 1
-issues 1
-in 0
-Cuba 0
-include 0
-the 0
-use 0
-of 0
-electromagnetic 0
-weapons, 0
-which 0
-can 0
-target 0
-highly-focused 0
-energy 0
-at 0
-potential 0
-victims. 0
+Other 0 227 23
+theories 0 227 23
+behind 0 227 23
+the 0 227 23
+health 1 227 23
+issues 1 227 23
+in 0 227 23
+Cuba 0 227 23
+include 0 227 23
+the 0 227 23
+use 0 227 23
+of 0 227 23
+electromagnetic 0 227 23
+weapons, 0 227 23
+which 0 227 23
+can 0 227 23
+target 0 227 23
+highly-focused 0 227 23
+energy 0 227 23
+at 0 227 23
+potential 0 227 23
+victims. 0 227 23
 
-This 0
-can 0
-include 0
-a 0
-laser, 0
-microwaves, 0
-or 0
-particle 0
-beams. 0
+This 0 227 24
+can 0 227 24
+include 0 227 24
+a 0 227 24
+laser, 0 227 24
+microwaves, 0 227 24
+or 0 227 24
+particle 0 227 24
+beams. 0 227 24
 
-Investigators 0
-also 0
-speculated 0
-that 0
-a 0
-flawed 0
-spy 0
-device 0
-could 0
-be 0
-behind 0
-the 0
-victims' 0
-ailments 0
-in 0
-Cuba. 0
+Investigators 0 227 25
+also 0 227 25
+speculated 0 227 25
+that 0 227 25
+a 0 227 25
+flawed 0 227 25
+spy 0 227 25
+device 0 227 25
+could 0 227 25
+be 0 227 25
+behind 0 227 25
+the 0 227 25
+victims' 0 227 25
+ailments 0 227 25
+in 0 227 25
+Cuba. 0 227 25
 
-The 0
-US 0
-expelled 0
-15 0
-Cuban 0
-diplomats 0
-from 0
-the 0
-US 0
-after 0
-the 0
-alleged 0
-acoustic 1
-attacks. 1
+The 0 227 26
+US 0 227 26
+expelled 0 227 26
+15 0 227 26
+Cuban 0 227 26
+diplomats 0 227 26
+from 0 227 26
+the 0 227 26
+US 0 227 26
+after 0 227 26
+the 0 227 26
+alleged 0 227 26
+acoustic 1 227 26
+attacks. 1 227 26
 
-Secretary 0
-of 0
-state 0
-Mike 0
-Pompeo 0
-met 0
-with 0
-Chinese 0
-foreign 0
-minister 0
-Wang 0
-Yi 0
-in 0
-Washington 0
-on 0
-Wednesday. 0
+Secretary 0 227 27
+of 0 227 27
+state 0 227 27
+Mike 0 227 27
+Pompeo 0 227 27
+met 0 227 27
+with 0 227 27
+Chinese 0 227 27
+foreign 0 227 27
+minister 0 227 27
+Wang 0 227 27
+Yi 0 227 27
+in 0 227 27
+Washington 0 227 27
+on 0 227 27
+Wednesday. 0 227 27
 
-They 0
-were 0
-expected 0
-to 0
-discuss 0
-a 0
-planned 0
-meeting 0
-between 0
-President 0
-Donald 0
-Trump 0
-and 0
-the 0
-North 0
-Korea 0
-leader 0
-Kim 0
-Jong-Un, 0
-but 0
-concerns 0
-about 0
-the 0
-incident 0
-in 0
-Guangzhou 0
-are 0
-likely 0
-to 0
-have 0
-been 0
-raised. 0
+They 0 227 28
+were 0 227 28
+expected 0 227 28
+to 0 227 28
+discuss 0 227 28
+a 0 227 28
+planned 0 227 28
+meeting 0 227 28
+between 0 227 28
+President 0 227 28
+Donald 0 227 28
+Trump 0 227 28
+and 0 227 28
+the 0 227 28
+North 0 227 28
+Korea 0 227 28
+leader 0 227 28
+Kim 0 227 28
+Jong-Un, 0 227 28
+but 0 227 28
+concerns 0 227 28
+about 0 227 28
+the 0 227 28
+incident 0 227 28
+in 0 227 28
+Guangzhou 0 227 28
+are 0 227 28
+likely 0 227 28
+to 0 227 28
+have 0 227 28
+been 0 227 28
+raised. 0 227 28
 
-China 0
-and 0
-the 0
-US 0
-are 0
-considered 0
-strategic 0
-rivals 0
-for 0
-influence 0
-in 0
-Asia, 0
-but 0
-conduct 0
-hundreds 0
-of 0
-billions 0
-of 0
-dollars 0
-of 0
-annual 0
-trade 0
-with 0
-each 0
-other. 0
+China 0 227 28
+
+and 0 227 28
+
+the 0 227 28
+
+US 0 227 28
+
+are 0 227 28
+
+considered 0 227 28
+
+strategic 0 227 28
+
+rivals 0 227 28
+
+for 0 227 28
+
+influence 0 227 28
+
+in 0 227 28
+
+Asia, 0 227 28
+
+but 0 227 28
+
+conduct 0 227 28
+
+hundreds 0 227 28
+
+of 0 227 28
+
+billions 0 227 28
+
+of 0 227 28
+
+dollars 0 227 28
+
+of 0 227 28
+
+annual 0 227 28
+
+trade 0 227 28
+
+with 0 227 28
+
+each 0 227 28
+
+other. 0 227 28

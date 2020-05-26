@@ -1,356 +1,365 @@
-First 0
-American 0
-Citizen 0
-To 0
-Be 0
-Convicted 0
-Of 0
-Joining 0
-ISIS 0
-Gets 0
-20 0
-Years 0
+First 0 48 0
+American 0 48 0
+Citizen 0 48 0
+To 0 48 0
+Be 0 48 0
+Convicted 0 48 0
+Of 0 48 0
+Joining 0 48 0
+ISIS 0 48 0
+Gets 0 48 0
+20 0 48 0
+Years 0 48 0
 
-The 0
-first 0
-American 0
-citizen 0
-to 0
-be 0
-convicted 0
-of 0
-successfully 0
-joining 0
-the 0
-Islamic 0
-State 0
-has 0
-been 0
-sentenced 0
-to 0
-20 0
-years 0
-in 0
-prison. 0
+The 0 48 1
+first 0 48 1
+American 0 48 1
+citizen 0 48 1
+to 0 48 1
+be 0 48 1
+convicted 0 48 1
+of 0 48 1
+successfully 0 48 1
+joining 0 48 1
+the 0 48 1
+Islamic 0 48 1
+State 0 48 1
+has 0 48 1
+been 0 48 1
+sentenced 0 48 1
+to 0 48 1
+20 0 48 1
+years 0 48 1
+in 0 48 1
+prison. 0 48 1
 
-Mohamad 0
-Khweis, 0
-unlike 0
-the 0
-dozens 0
-of 0
-other 0
-people 0
-in 0
-the 0
-United 0
-States 0
-who 0
-failed 0
-to 0
-join 0
-ISIS 0
-and 0
-were 0
-subsequently 0
-charged, 0
-actually 0
-made 0
-it 0
-to 0
-Syria, 0
-but 0
-after 0
-just 0
-three 0
-months 0
-tried 0
-to 0
-escape 0
-and 0
-was 0
-captured 0
-by 0
-Kurdish 0
-forces, 0
-The 0
-Washington 0
-Post 0
-reports. 0
+Mohamad 0 48 2
+Khweis, 0 48 2
+unlike 0 48 2
+the 0 48 2
+dozens 0 48 2
+of 0 48 2
+other 0 48 2
+people 0 48 2
+in 0 48 2
+the 0 48 2
+United 0 48 2
+States 0 48 2
+who 0 48 2
+failed 0 48 2
+to 0 48 2
+join 0 48 2
+ISIS 0 48 2
+and 0 48 2
+were 0 48 2
+subsequently 0 48 2
+charged, 0 48 2
+actually 0 48 2
+made 0 48 2
+it 0 48 2
+to 0 48 2
+Syria, 0 48 2
+but 0 48 2
+after 0 48 2
+just 0 48 2
+three 0 48 2
+months 0 48 2
+tried 0 48 2
+to 0 48 2
+escape 0 48 2
+and 0 48 2
+was 0 48 2
+captured 0 48 2
+by 0 48 2
+Kurdish 0 48 2
+forces, 0 48 2
+The 0 48 2
+Washington 0 48 2
+Post 0 48 2
+reports. 0 48 2
 
-Khweis 0
-is 0
-an 0
-interesting 0
-case 0
-for 0
-numerous 0
-reasons. 0
+Khweis 0 48 3
+is 0 48 3
+an 0 48 3
+interesting 0 48 3
+case 0 48 3
+for 0 48 3
+numerous 0 48 3
+reasons. 0 48 3
 
-First, 0
-there 0
-was 0
-no 0
-particular 0
-event 0
-or 0
-friend 0
-who 0
-ignited 0
-his 0
-radicalization. 0
+First, 0 48 4
+there 0 48 4
+was 0 48 4
+no 0 48 4
+particular 0 48 4
+event 0 48 4
+or 0 48 4
+friend 0 48 4
+who 0 48 4
+ignited 0 48 4
+his 0 48 4
+radicalization. 0 48 4
 
-Second, 0
-he 0
-successfully 0
-made 0
-it 0
-to 0
-Syria 0
-via 0
-Turkey. 0
+Second, 0 48 5
+he 0 48 5
+successfully 0 48 5
+made 0 48 5
+it 0 48 5
+to 0 48 5
+Syria 0 48 5
+via 0 48 5
+Turkey. 0 48 5
 
-And 0
-third, 0
-he 0
-came 0
-from 0
-a 0
-secular 0
-home 0
-that 0
-was 0
-stable. 0
+And 0 48 6
+third, 0 48 6
+he 0 48 6
+came 0 48 6
+from 0 48 6
+a 0 48 6
+secular 0 48 6
+home 0 48 6
+that 0 48 6
+was 0 48 6
+stable. 0 48 6
 
-His 0
-life 0
-before 0
-joining 0
-the 0
-caliphate 0
-was 0
-unremarkable. 0
+His 0 48 7
+life 0 48 7
+before 0 48 7
+joining 0 48 7
+the 0 48 7
+caliphate 0 48 7
+was 0 48 7
+unremarkable. 0 48 7
 
-He 0
-obtained 0
-an 0
-associate’s 0
-degree 0
-in 0
-criminal 0
-justice 0
-and 0
-worked 0
-as 0
-a 0
-bus 0
-driver 0
-in 0
-Alexandria, 0
-Va. 0
+He 0 48 8
+obtained 0 48 8
+an 0 48 8
+associate’s 0 48 8
+degree 0 48 8
+in 0 48 8
+criminal 0 48 8
+justice 0 48 8
+and 0 48 8
+worked 0 48 8
+as 0 48 8
+a 0 48 8
+bus 0 48 8
+driver 0 48 8
+in 0 48 8
+Alexandria, 0 48 8
+Va. 0 48 8
 
-He 0
-also 0
-abused 0
-marijuana 0
-over 0
-the 0
-past 0
-few 0
-years. 0
+He 0 48 9
+also 0 48 9
+abused 0 48 9
+marijuana 0 48 9
+over 0 48 9
+the 0 48 9
+past 0 48 9
+few 0 48 9
+years. 0 48 9
 
-Khweis’ 0
-defense 0
-attorney 0
-said 0
-Friday 0
-that 0
-even 0
-he 0
-has 0
-no 0
-idea 0
-what 0
-caused 0
-Khweis 0
-to 0
-join 0
-ISIS. 0
+Khweis’ 0 48 10
+defense 0 48 10
+attorney 0 48 10
+said 0 48 10
+Friday 0 48 10
+that 0 48 10
+even 0 48 10
+he 0 48 10
+has 0 48 10
+no 0 48 10
+idea 0 48 10
+what 0 48 10
+caused 0 48 10
+Khweis 0 48 10
+to 0 48 10
+join 0 48 10
+ISIS. 0 48 10
 
-“It’s 0
-difficult 0
-to 0
-understand,” 0
-defense 0
-attorney 0
-John 0
-Zwerling 0
-said 0
-Friday. 0
+“It’s 0 48 11
+difficult 0 48 11
+to 0 48 11
+understand,” 0 48 11
+defense 0 48 11
+attorney 0 48 11
+John 0 48 11
+Zwerling 0 48 11
+said 0 48 11
+Friday. 0 48 11
 
-“We 0
-don’t 0
-really 0
-know 0
-what 0
-caused 0
-him 0
-to 0
-travel 0
-to 0
-Syria.” 0
+“We 0 48 12
+don’t 0 48 12
+really 0 48 12
+know 0 48 12
+what 0 48 12
+caused 0 48 12
+him 0 48 12
+to 0 48 12
+travel 0 48 12
+to 0 48 12
+Syria.” 0 48 12
 
-From 0
-the 0
-very 0
-start 0
-of 0
-his 0
-trial, 0
-Khweis 0
-said 0
-he 0
-regretted 0
-his 0
-actions 0
-and 0
-said 0
-his 0
-decision 0
-to 0
-join 0
-ISIS 0
-in 0
-December 0
-2015 0
-was 0
-a 0
-drunken 1
-one. 1
+From 0 48 13
+the 0 48 13
+very 0 48 13
+start 0 48 13
+of 0 48 13
+his 0 48 13
+trial, 0 48 13
+Khweis 0 48 13
+said 0 48 13
+he 0 48 13
+regretted 0 48 13
+his 0 48 13
+actions 0 48 13
+and 0 48 13
+said 0 48 13
+his 0 48 13
+decision 0 48 13
+to 0 48 13
+join 0 48 13
+ISIS 0 48 13
+in 0 48 13
+December 0 48 13
+2015 0 48 13
+was 0 48 13
+a 0 48 13
+drunken 1 48 13
+one. 1 48 13
 
-“I 0
-hated 0
-myself 0
-for 0
-making 0
-the 0
-worst 0
-decision 0
-I 0
-ever 0
-made,” 0
-Khweis 0
-wrote 0
-to 0
-the 0
-judge 0
-in 0
-a 0
-letter. 0
+“I 0 48 14
+hated 0 48 14
+myself 0 48 14
+for 0 48 14
+making 0 48 14
+the 0 48 14
+worst 0 48 14
+decision 0 48 14
+I 0 48 14
+ever 0 48 14
+made,” 0 48 14
+Khweis 0 48 14
+wrote 0 48 14
+to 0 48 14
+the 0 48 14
+judge 0 48 14
+in 0 48 14
+a 0 48 14
+letter. 0 48 14
 
-“I 0
-ruined 1
-my 1
-life 1
-and 1
-my 1
-family’s 1
-life.” 1
+“I 0 48 15
+ruined 1 48 15
+my 1 48 15
+life 1 48 15
+and 1 48 15
+my 1 48 15
+family’s 1 48 15
+life.” 1 48 15
 
-Prosecutors, 0
-who 0
-pushed 0
-for 0
-35 0
-years 0
-in 0
-prison, 0
-accused 0
-Khweis 0
-of 0
-lying 0
-repeatedly 0
-over 0
-the 0
-last 0
-15 0
-months 0
-of 0
-the 0
-trial. 0
+Prosecutors, 0 48 16
+who 0 48 16
+pushed 0 48 16
+for 0 48 16
+35 0 48 16
+years 0 48 16
+in 0 48 16
+prison, 0 48 16
+accused 0 48 16
+Khweis 0 48 16
+of 0 48 16
+lying 0 48 16
+repeatedly 0 48 16
+over 0 48 16
+the 0 48 16
+last 0 48 16
+15 0 48 16
+months 0 48 16
+of 0 48 16
+the 0 48 16
+trial. 0 48 16
 
-When 0
-Khweis 0
-was 0
-first 0
-captured 0
-in 0
-Iraq 0
-in 0
-March 0
-2016, 0
-he 0
-told 0
-the 0
-FBI 0
-that 0
-he 0
-was 0
-following 0
-a 0
-young 0
-woman. 0
+When 0 48 17
+Khweis 0 48 17
+was 0 48 17
+first 0 48 17
+captured 0 48 17
+in 0 48 17
+Iraq 0 48 17
+in 0 48 17
+March 0 48 17
+2016, 0 48 17
+he 0 48 17
+told 0 48 17
+the 0 48 17
+FBI 0 48 17
+that 0 48 17
+he 0 48 17
+was 0 48 17
+following 0 48 17
+a 0 48 17
+young 0 48 17
+woman. 0 48 17
 
-However, 0
-that 0
-young 0
-woman 0
-didn’t 0
-exist. 0
+However, 0 48 18
+that 0 48 18
+young 0 48 18
+woman 0 48 18
+didn’t 0 48 18
+exist. 0 48 18
 
-“This 0
-defendant 0
-executed 1
-his 1
-plan 1
-to 1
-perfection,” 1
-prosecutor 0
-Dennis 0
-Fitzpatrick 0
-said. 0
+“This 0 48 19
+defendant 0 48 19
+executed 1 48 19
+his 1 48 19
+plan 1 48 19
+to 1 48 19
+perfection,” 1 48 19
+prosecutor 0 48 19
+Dennis 0 48 19
+Fitzpatrick 0 48 19
+said. 0 48 19
 
-“He 0
-got 0
-into 0
-the 0
-Islamic 0
-State. 0
+“He 0 48 20
+got 0 48 20
+into 0 48 20
+the 0 48 20
+Islamic 0 48 20
+State. 0 48 20
 
-He 0
-was 0
-in 0
-their 0
-machinery. 0
+He 0 48 21
+was 0 48 21
+in 0 48 21
+their 0 48 21
+machinery. 0 48 21
 
-He 1
-was 1
-providing 1
-himself 1
-and 1
-his 1
-services 1
-to 1
-the 1
-organization.” 1
+He 1 48 22
+was 1 48 22
+providing 1 48 22
+himself 1 48 22
+and 1 48 22
+his 1 48 22
+services 1 48 22
+to 1 48 22
+the 1 48 22
+organization.” 1 48 22
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-The 0
-Daily 0
-Caller 0
-News 0
-Foundation 0
+Article 0 48 22
+
+posted 0 48 22
+
+with 0 48 22
+
+permission 0 48 22
+
+from 0 48 22
+
+The 0 48 22
+
+Daily 0 48 22
+
+Caller 0 48 22
+
+News 0 48 22
+
+Foundation 0 48 22

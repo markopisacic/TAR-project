@@ -1,325 +1,335 @@
-CNN 0
-Reacts 0
-to 0
-Mueller 0
-News: 0
-‘Huge 0
-Victory 0
-for 0
-the 0
-President,’ 0
-Trump 0
-‘Vindicated’ 1
+CNN 0 397 0
+Reacts 0 397 0
+to 0 397 0
+Mueller 0 397 0
+News: 0 397 0
+‘Huge 0 397 0
+Victory 0 397 0
+for 0 397 0
+the 0 397 0
+President,’ 0 397 0
+Trump 0 397 0
+‘Vindicated’ 1 397 0
 
-A 0
-panel 0
-on 0
-CNN’s 0
-Situation 0
-Room 0
-With 0
-Wolf 0
-Blitzer 0
-reacted 0
-live 0
-on 0
-air 0
-to 0
-news 0
-that 0
-the 0
-Mueller 0
-report 0
-has 0
-concluded 0
-and 0
-resulted 0
-in 0
-no 0
-new 0
-indictments 0
-by 0
-admitting 0
-that 0
-President 0
-Trump 0
-has 0
-won 0
-a 0
-“huge 1
-victory.” 1
+A 0 397 1
+panel 0 397 1
+on 0 397 1
+CNN’s 0 397 1
+Situation 0 397 1
+Room 0 397 1
+With 0 397 1
+Wolf 0 397 1
+Blitzer 0 397 1
+reacted 0 397 1
+live 0 397 1
+on 0 397 1
+air 0 397 1
+to 0 397 1
+news 0 397 1
+that 0 397 1
+the 0 397 1
+Mueller 0 397 1
+report 0 397 1
+has 0 397 1
+concluded 0 397 1
+and 0 397 1
+resulted 0 397 1
+in 0 397 1
+no 0 397 1
+new 0 397 1
+indictments 0 397 1
+by 0 397 1
+admitting 0 397 1
+that 0 397 1
+President 0 397 1
+Trump 0 397 1
+has 0 397 1
+won 0 397 1
+a 0 397 1
+“huge 1 397 1
+victory.” 1 397 1
 
-“He’s 1
-been 1
-vindicated 1
-by 0
-them,” 0
-Evan 0
-Pérez 0
-said 0
-of 0
-President 0
-Trump 0
-and 0
-the 0
-Mueller 0
-report. 0
+“He’s 1 397 2
+been 1 397 2
+vindicated 1 397 2
+by 0 397 2
+them,” 0 397 2
+Evan 0 397 2
+Pérez 0 397 2
+said 0 397 2
+of 0 397 2
+President 0 397 2
+Trump 0 397 2
+and 0 397 2
+the 0 397 2
+Mueller 0 397 2
+report. 0 397 2
 
-“And 0
-then 0
-he’s 0
-now 0
-vindicated, 1
-exactly,” 0
-Gloria 0
-Borger 0
-said. 0
+“And 0 397 3
+then 0 397 3
+he’s 0 397 3
+now 0 397 3
+vindicated, 1 397 3
+exactly,” 0 397 3
+Gloria 0 397 3
+Borger 0 397 3
+said. 0 397 3
 
-“You 0
-know–how 0
-do 0
-you 0
-manage 0
-that 0
-politically? 0
+“You 0 397 4
+know–how 0 397 4
+do 0 397 4
+you 0 397 4
+manage 0 397 4
+that 0 397 4
+politically? 0 397 4
 
-I 0
-mean, 0
-we 0
-obviously 0
-can’t 0
-jump 1
-the 1
-gun 1
-here. 0
+I 0 397 5
+mean, 0 397 5
+we 0 397 5
+obviously 0 397 5
+can’t 0 397 5
+jump 1 397 5
+the 1 397 5
+gun 1 397 5
+here. 0 397 5
 
-We 0
-have 0
-to 0
-see 0
-what 0
-comes 0
-out 0
-from 0
-Barr, 0
-and 0
-what’s 0
-in 0
-the 0
-report. 0
+We 0 397 6
+have 0 397 6
+to 0 397 6
+see 0 397 6
+what 0 397 6
+comes 0 397 6
+out 0 397 6
+from 0 397 6
+Barr, 0 397 6
+and 0 397 6
+what’s 0 397 6
+in 0 397 6
+the 0 397 6
+report. 0 397 6
 
-But 0
-if 0
-I’m 0
-at 0
-Mar-A-Lago 0
-with 0
-the 0
-president, 0
-as 0
-Pamela 0
-has 0
-been 0
-reporting, 0
-the 0
-lawyers 0
-are 0
-… 0
-that 0
-I 0
-would 0
-be 0
-very 0
-happy,” 0
-she 0
-added. 0
+But 0 397 7
+if 0 397 7
+I’m 0 397 7
+at 0 397 7
+Mar-A-Lago 0 397 7
+with 0 397 7
+the 0 397 7
+president, 0 397 7
+as 0 397 7
+Pamela 0 397 7
+has 0 397 7
+been 0 397 7
+reporting, 0 397 7
+the 0 397 7
+lawyers 0 397 7
+are 0 397 7
+… 0 397 7
+that 0 397 7
+I 0 397 7
+would 0 397 7
+be 0 397 7
+very 0 397 7
+happy,” 0 397 7
+she 0 397 7
+added. 0 397 7
 
-Later, 0
-a 0
-panel 0
-member 0
-concluded 0
-that 0
-the 0
-Mueller 0
-report 0
-was 0
-in 0
-fact 0
-a 0
-“huge 0
-victory” 0
-for 0
-President 0
-Trump. 0
+Later, 0 397 8
+a 0 397 8
+panel 0 397 8
+member 0 397 8
+concluded 0 397 8
+that 0 397 8
+the 0 397 8
+Mueller 0 397 8
+report 0 397 8
+was 0 397 8
+in 0 397 8
+fact 0 397 8
+a 0 397 8
+“huge 0 397 8
+victory” 0 397 8
+for 0 397 8
+President 0 397 8
+Trump. 0 397 8
 
-“A 0
-couple 0
-of 0
-victories 0
-here,” 0
-CNN’s 0
-Shimon 0
-Prokupecz 0
-said. 0
+“A 0 397 9
+couple 0 397 9
+of 0 397 9
+victories 0 397 9
+here,” 0 397 9
+CNN’s 0 397 9
+Shimon 0 397 9
+Prokupecz 0 397 9
+said. 0 397 9
 
-“The 0
-president 0
-did 0
-not 0
-have 0
-to 0
-sit 0
-down 0
-for 0
-an 0
-interview. 0
+“The 0 397 10
+president 0 397 10
+did 0 397 10
+not 0 397 10
+have 0 397 10
+to 0 397 10
+sit 0 397 10
+down 0 397 10
+for 0 397 10
+an 0 397 10
+interview. 0 397 10
 
-They 1
-were 1
-so 1
-concerned 1
-about 1
-that, 1
-because 1
-he’d 1
-get 1
-caught 1
-up 1
-in 1
-lies–and 1
-there’d 1
-be 1
-perjury 1
-traps. 1
+They 1 397 11
+were 1 397 11
+so 1 397 11
+concerned 1 397 11
+about 1 397 11
+that, 1 397 11
+because 1 397 11
+he’d 1 397 11
+get 1 397 11
+caught 1 397 11
+up 1 397 11
+in 1 397 11
+lies–and 1 397 11
+there’d 1 397 11
+be 1 397 11
+perjury 1 397 11
+traps. 1 397 11
 
-Okay, 0
-so 0
-that’s 0
-now 0
-over. 0
+Okay, 0 397 12
+so 0 397 12
+that’s 0 397 12
+now 0 397 12
+over. 0 397 12
 
-No 0
-more 0
-people 0
-being 0
-indicted. 0
+No 0 397 13
+more 0 397 13
+people 0 397 13
+being 0 397 13
+indicted. 0 397 13
 
-Sealed, 0
-unsealed–no 0
-more 0
-indictments. 0
+Sealed, 0 397 14
+unsealed–no 0 397 14
+more 0 397 14
+indictments. 0 397 14
 
-Mueller 0
-is 0
-done. 0
+Mueller 0 397 15
+is 0 397 15
+done. 0 397 15
 
-Huge 1
-victory 1
-for 0
-the 0
-president,” 0
-he 0
-said. 0
+Huge 1 397 16
+victory 1 397 16
+for 0 397 16
+the 0 397 16
+president,” 0 397 16
+he 0 397 16
+said. 0 397 16
 
-Special 0
-counsel 0
-Robert 0
-Mueller 0
-concluded 0
-the 0
-Russia 0
-investigation 0
-and 0
-turned 0
-over 0
-his 0
-report 0
-to 0
-Attorney 0
-General 0
-Willian 0
-Barr 0
-Friday 0
-afternoon. 0
+Special 0 397 17
+counsel 0 397 17
+Robert 0 397 17
+Mueller 0 397 17
+concluded 0 397 17
+the 0 397 17
+Russia 0 397 17
+investigation 0 397 17
+and 0 397 17
+turned 0 397 17
+over 0 397 17
+his 0 397 17
+report 0 397 17
+to 0 397 17
+Attorney 0 397 17
+General 0 397 17
+Willian 0 397 17
+Barr 0 397 17
+Friday 0 397 17
+afternoon. 0 397 17
 
-According 0
-to 0
-multiple 0
-reports, 0
-there 0
-will 0
-be 0
-no 0
-further 0
-indictments 0
-in 0
-the 0
-report, 0
-sealed 0
-or 0
-unsealed. 0
+According 0 397 18
+to 0 397 18
+multiple 0 397 18
+reports, 0 397 18
+there 0 397 18
+will 0 397 18
+be 0 397 18
+no 0 397 18
+further 0 397 18
+indictments 0 397 18
+in 0 397 18
+the 0 397 18
+report, 0 397 18
+sealed 0 397 18
+or 0 397 18
+unsealed. 0 397 18
 
-Important: 0
-No 0
-more 0
-sealed 0
-or 0
-unsealed 0
-indictments 0
-coming 0
-from 0
-Robert 0
-Mueller 0
-a 0
-DOJ 0
-officials 0
-tells 0
-@LauraAJarrett 0
-— 0
-Shimon 0
-Prokupecz 0
-(@ShimonPro) 0
-March 0
-22, 0
-2019 0
+Important: 0 397 19
+No 0 397 19
+more 0 397 19
+sealed 0 397 19
+or 0 397 19
+unsealed 0 397 19
+indictments 0 397 19
+coming 0 397 19
+from 0 397 19
+Robert 0 397 19
+Mueller 0 397 19
+a 0 397 19
+DOJ 0 397 19
+officials 0 397 19
+tells 0 397 19
+@LauraAJarrett 0 397 19
+— 0 397 19
+Shimon 0 397 19
+Prokupecz 0 397 19
+(@ShimonPro) 0 397 19
+March 0 397 19
+22, 0 397 19
+2019 0 397 19
 
-WASHINGTON 0
-(AP) 0
-— 0
-AP 0
-Source: 0
-Special 0
-counsel 0
-Robert 0
-Mueller 0
-is 0
-not 0
-recommending 0
-any 0
-further 0
-indictments 0
-in 0
-the 0
-Russia 0
-probe. 0
+WASHINGTON 0 397 20
+(AP) 0 397 20
+— 0 397 20
+AP 0 397 20
+Source: 0 397 20
+Special 0 397 20
+counsel 0 397 20
+Robert 0 397 20
+Mueller 0 397 20
+is 0 397 20
+not 0 397 20
+recommending 0 397 20
+any 0 397 20
+further 0 397 20
+indictments 0 397 20
+in 0 397 20
+the 0 397 20
+Russia 0 397 20
+probe. 0 397 20
 
-— 0
-Zeke 0
-Miller 0
-(@ZekeJMiller) 0
-March 0
-22, 0
-2019 0
+— 0 397 21
+Zeke 0 397 21
+Miller 0 397 21
+(@ZekeJMiller) 0 397 21
+March 0 397 21
+22, 0 397 21
+2019 0 397 21
 
-According 0
-to 0
-ABC 0
-News, 0
-President 0
-Trump 0
-is 0
-reportedly 0
-“glad 0
-it’s 0
-over.” 0
+According 0 397 21
+
+to 0 397 21
+
+ABC 0 397 21
+
+News, 0 397 21
+
+President 0 397 21
+
+Trump 0 397 21
+
+is 0 397 21
+
+reportedly 0 397 21
+
+“glad 0 397 21
+
+it’s 0 397 21
+
+over.” 0 397 21

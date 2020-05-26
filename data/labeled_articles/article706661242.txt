@@ -1,245 +1,283 @@
-America's 0
-Immigration 0
-Voice. 0
+America's 0 88 0
+Immigration 0 88 0
+Voice. 0 88 0
 
-Ever 0
-thought 0
-that 0
-the 0
-academic 0
-discipline 0
-of 0
-history 0
-has 0
-gone 0
-to 0
-the 1
-Diversity 1
-dogs? 1
+Ever 0 88 1
+thought 0 88 1
+that 0 88 1
+the 0 88 1
+academic 0 88 1
+discipline 0 88 1
+of 0 88 1
+history 0 88 1
+has 0 88 1
+gone 0 88 1
+to 0 88 1
+the 1 88 1
+Diversity 1 88 1
+dogs? 1 88 1
 
-Here’s 0
-proof, 0
-from 0
-Australia. 0
+Here’s 0 88 2
+proof, 0 88 2
+from 0 88 2
+Australia. 0 88 2
 
-The 0
-(generally 1
-libertarian) 1
-Institute 0
-of 0
-Public 0
-Affairs 0
-(IPA) 0
-last 0
-week 0
-released 0
-a 0
-major 0
-report, 0
-The 0
-Rise 0
-of 0
-Identity 0
-Politics: 0
-An 0
-Audit 0
-of 0
-History 0
-Teaching 0
-at 0
-Australian 0
-Universities 0
-in 0
-2017 0
-PDF 0
-] 0
-by 0
-Dr 0
-Bella 0
-d’Abrera 0
-[ 0
-Email 0
-her 0
-] 0
-(PhD 0
-in 0
-History, 0
-University 0
-of 0
-Cambridge,). 0
+The 0 88 3
+(generally 1 88 3
+libertarian) 1 88 3
+Institute 0 88 3
+of 0 88 3
+Public 0 88 3
+Affairs 0 88 3
+(IPA) 0 88 3
+last 0 88 3
+week 0 88 3
+released 0 88 3
+a 0 88 3
+major 0 88 3
+report, 0 88 3
+The 0 88 3
+Rise 0 88 3
+of 0 88 3
+Identity 0 88 3
+Politics: 0 88 3
+An 0 88 3
+Audit 0 88 3
+of 0 88 3
+History 0 88 3
+Teaching 0 88 3
+at 0 88 3
+Australian 0 88 3
+Universities 0 88 3
+in 0 88 3
+2017 0 88 3
+PDF 0 88 3
+] 0 88 3
+by 0 88 3
+Dr 0 88 3
+Bella 0 88 3
+d’Abrera 0 88 3
+[ 0 88 3
+Email 0 88 3
+her 0 88 3
+] 0 88 3
+(PhD 0 88 3
+in 0 88 3
+History, 0 88 3
+University 0 88 3
+of 0 88 3
+Cambridge,). 0 88 3
 
-All 0
-746 0
-undergraduate 0
-history 0
-courses 0
-taught 0
-at 0
-Australia’s 0
-35 0
-universities 0
-in 0
-2017 0
-were 0
-analyzed 0
-and 0
-it 0
-was 0
-found 0
-that, 0
-classified 0
-by 0
-thematic 0
-keyword 0
-in 0
-course 0
-titles 0
-and 0
-content 0
-descriptions, 0
-the 0
-most 0
-common 0
-themes 0
-were 0
-‘Indigenous’ 0
-issues 0
-(99 0
-references, 0
-13% 0
-of 0
-total 0
-courses), 0
-followed 0
-dutifully 0
-by 0
-‘Race’ 0
-(80), 0
-‘Gender’ 0
-(69), 0
-‘Identity’ 0
-(55), 0
-‘Women’ 0
-(46), 0
-‘Islam’ 0
-(39), 0
-‘Colonization’ 0
-(39), 0
-‘Sexuality’ 0
-(34) 0
-and 0
-‘Ethnicity’ 0
-(34). 0
+All 0 88 4
+746 0 88 4
+undergraduate 0 88 4
+history 0 88 4
+courses 0 88 4
+taught 0 88 4
+at 0 88 4
+Australia’s 0 88 4
+35 0 88 4
+universities 0 88 4
+in 0 88 4
+2017 0 88 4
+were 0 88 4
+analyzed 0 88 4
+and 0 88 4
+it 0 88 4
+was 0 88 4
+found 0 88 4
+that, 0 88 4
+classified 0 88 4
+by 0 88 4
+thematic 0 88 4
+keyword 0 88 4
+in 0 88 4
+course 0 88 4
+titles 0 88 4
+and 0 88 4
+content 0 88 4
+descriptions, 0 88 4
+the 0 88 4
+most 0 88 4
+common 0 88 4
+themes 0 88 4
+were 0 88 4
+‘Indigenous’ 0 88 4
+issues 0 88 4
+(99 0 88 4
+references, 0 88 4
+13% 0 88 4
+of 0 88 4
+total 0 88 4
+courses), 0 88 4
+followed 0 88 4
+dutifully 0 88 4
+by 0 88 4
+‘Race’ 0 88 4
+(80), 0 88 4
+‘Gender’ 0 88 4
+(69), 0 88 4
+‘Identity’ 0 88 4
+(55), 0 88 4
+‘Women’ 0 88 4
+(46), 0 88 4
+‘Islam’ 0 88 4
+(39), 0 88 4
+‘Colonization’ 0 88 4
+(39), 0 88 4
+‘Sexuality’ 0 88 4
+(34) 0 88 4
+and 0 88 4
+‘Ethnicity’ 0 88 4
+(34). 0 88 4
 
-Lagging 0
-well 0
-in 0
-the 0
-rear 0
-were 0
-such 0
-staples, 0
-now 0
-mere 0
-historiographical 0
-curiosities, 0
-as 0
-‘Liberalism’ 0
-(7), 0
-‘Capitalism’ 0
-(8), 0
-‘Industrial’ 0
-(11), 0
-‘Communism’ 0
-(15) 0
-and 0
-‘Democracy’ 0
-(21). 0
+Lagging 0 88 5
+well 0 88 5
+in 0 88 5
+the 0 88 5
+rear 0 88 5
+were 0 88 5
+such 0 88 5
+staples, 0 88 5
+now 0 88 5
+mere 0 88 5
+historiographical 0 88 5
+curiosities, 0 88 5
+as 0 88 5
+‘Liberalism’ 0 88 5
+(7), 0 88 5
+‘Capitalism’ 0 88 5
+(8), 0 88 5
+‘Industrial’ 0 88 5
+(11), 0 88 5
+‘Communism’ 0 88 5
+(15) 0 88 5
+and 0 88 5
+‘Democracy’ 0 88 5
+(21). 0 88 5
 
-More 0
-history 0
-courses 0
-study 0
-‘Sexuality' 0
-than 0
-either 0
-‘Enlightenment' 0
-(20) 0
-or 0
-‘Reformation' 0
-(12). 0
+More 0 88 6
+history 0 88 6
+courses 0 88 6
+study 0 88 6
+‘Sexuality' 0 88 6
+than 0 88 6
+either 0 88 6
+‘Enlightenment' 0 88 6
+(20) 0 88 6
+or 0 88 6
+‘Reformation' 0 88 6
+(12). 0 88 6
 
-More 0
-courses 0
-study 0
-‘Islam' 0
-than 0
-‘Christianity' 0
-(34). 0
+More 0 88 7
+courses 0 88 7
+study 0 88 7
+‘Islam' 0 88 7
+than 0 88 7
+‘Christianity' 0 88 7
+(34). 0 88 7
 
-The 0
-report’s 0
-visual 0
-representation 0
-of 0
-the 0
-results 0
-(right) 0
-shows 0
-how 0
-race, 0
-gender 0
-and 0
-ethnicity 0
-(or 0
-their 0
-variants) 0
-stand 0
-out 0
-as 0
-the 1
-history 1
-chart-toppers 1
-at 0
-Australian 0
-universities. 0
+The 0 88 8
+report’s 0 88 8
+visual 0 88 8
+representation 0 88 8
+of 0 88 8
+the 0 88 8
+results 0 88 8
+(right) 0 88 8
+shows 0 88 8
+how 0 88 8
+race, 0 88 8
+gender 0 88 8
+and 0 88 8
+ethnicity 0 88 8
+(or 0 88 8
+their 0 88 8
+variants) 0 88 8
+stand 0 88 8
+out 0 88 8
+as 0 88 8
+the 1 88 8
+history 1 88 8
+chart-toppers 1 88 8
+at 0 88 8
+Australian 0 88 8
+universities. 0 88 8
 
-Anyone 0
-who 0
-still 0
-thinks 0
-that 0
-political, 0
-intellectual, 0
-demographic 0
-and 0
-material 0
-factors 0
-are 0
-what 0
-really 0
-matter 0
-to 0
-history, 0
-and 0
-to 0
-society, 0
-ought 0
-to 0
-get 0
-with 0
-the 0
-multiculturalist/Identity 0
-Politics 0
-program 0
-– 0
-enroll 0
-in 0
-a 0
-history 0
-course 0
-at 0
-an 0
-Australian 0
-university 0
-today! 0
+Anyone 0 88 8
+
+who 0 88 8
+
+still 0 88 8
+
+thinks 0 88 8
+
+that 0 88 8
+
+political, 0 88 8
+
+intellectual, 0 88 8
+
+demographic 0 88 8
+
+and 0 88 8
+
+material 0 88 8
+
+factors 0 88 8
+
+are 0 88 8
+
+what 0 88 8
+
+really 0 88 8
+
+matter 0 88 8
+
+to 0 88 8
+
+history, 0 88 8
+
+and 0 88 8
+
+to 0 88 8
+
+society, 0 88 8
+
+ought 0 88 8
+
+to 0 88 8
+
+get 0 88 8
+
+with 0 88 8
+
+the 0 88 8
+
+multiculturalist/Identity 0 88 8
+
+Politics 0 88 8
+
+program 0 88 8
+
+– 0 88 8
+
+enroll 0 88 8
+
+in 0 88 8
+
+a 0 88 8
+
+history 0 88 8
+
+course 0 88 8
+
+at 0 88 8
+
+an 0 88 8
+
+Australian 0 88 8
+
+university 0 88 8
+
+today! 0 88 8

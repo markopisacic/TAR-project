@@ -1,923 +1,931 @@
-WATCH: 0
-John 0
-Bolton 0
-Promises 0
-Room 0
-Full 0
-of 0
-‘Former 0
-Terrorists’ 0
-the 0
-US 0
-Would 0
-‘Overthrow’ 0
-Iran 0
-by 0
-2019 0
+WATCH: 0 214 0
+John 0 214 0
+Bolton 0 214 0
+Promises 0 214 0
+Room 0 214 0
+Full 0 214 0
+of 0 214 0
+‘Former 0 214 0
+Terrorists’ 0 214 0
+the 0 214 0
+US 0 214 0
+Would 0 214 0
+‘Overthrow’ 0 214 0
+Iran 0 214 0
+by 0 214 0
+2019 0 214 0
 
-For 0
-those 0
-who 0
-may 0
-not 0
-be 0
-paying 0
-attention, 0
-the 0
-plan 0
-to 0
-overthrow 0
-Iran 0
-has 0
-long 0
-been 0
-in 0
-the 0
-works. 0
+For 0 214 1
+those 0 214 1
+who 0 214 1
+may 0 214 1
+not 0 214 1
+be 0 214 1
+paying 0 214 1
+attention, 0 214 1
+the 0 214 1
+plan 0 214 1
+to 0 214 1
+overthrow 0 214 1
+Iran 0 214 1
+has 0 214 1
+long 0 214 1
+been 0 214 1
+in 0 214 1
+the 0 214 1
+works. 0 214 1
 
-In 0
-fact, 0
-in 0
-April 0
-2012, 0
-Pulitzer 0
-Prize-winning 0
-journalist, 0
-Seymour 0
-Hersh 0
-reported 0
-that 0
-the 0
-U.S. 0
-Joint 0
-Special 0
-Operations 0
-Command 0
-had 0
-trained 0
-(Mojahedin-e 0
-Khalq) 0
-MEK 0
-operatives 0
-at 0
-a 0
-secret 0
-site 0
-in 0
-Nevada 0
-from 0
-2005 0
-to 0
-2009 0
-for 0
-this 0
-very 0
-purpose. 0
+In 0 214 2
+fact, 0 214 2
+in 0 214 2
+April 0 214 2
+2012, 0 214 2
+Pulitzer 0 214 2
+Prize-winning 0 214 2
+journalist, 0 214 2
+Seymour 0 214 2
+Hersh 0 214 2
+reported 0 214 2
+that 0 214 2
+the 0 214 2
+U.S. 0 214 2
+Joint 0 214 2
+Special 0 214 2
+Operations 0 214 2
+Command 0 214 2
+had 0 214 2
+trained 0 214 2
+(Mojahedin-e 0 214 2
+Khalq) 0 214 2
+MEK 0 214 2
+operatives 0 214 2
+at 0 214 2
+a 0 214 2
+secret 0 214 2
+site 0 214 2
+in 0 214 2
+Nevada 0 214 2
+from 0 214 2
+2005 0 214 2
+to 0 214 2
+2009 0 214 2
+for 0 214 2
+this 0 214 2
+very 0 214 2
+purpose. 0 214 2
 
-MEK 0
-is 0
-the 0
-Iranian 0
-political-militant 0
-organization 0
-that 0
-advocates 0
-for 0
-the 0
-violent 0
-overthrow 0
-of 0
-the 0
-current 0
-Iranian 0
-regime. 0
+MEK 0 214 3
+is 0 214 3
+the 0 214 3
+Iranian 0 214 3
+political-militant 0 214 3
+organization 0 214 3
+that 0 214 3
+advocates 0 214 3
+for 0 214 3
+the 0 214 3
+violent 0 214 3
+overthrow 0 214 3
+of 0 214 3
+the 0 214 3
+current 0 214 3
+Iranian 0 214 3
+regime. 0 214 3
 
-They 0
-are 0
-hardly 0
-quiet 0
-about 0
-it. 0
+They 0 214 4
+are 0 214 4
+hardly 0 214 4
+quiet 0 214 4
+about 0 214 4
+it. 0 214 4
 
-Coincidentally, 0
-MEK 0
-was 0
-classified 0
-as 0
-a 0
-terrorist 0
-organization 0
-by 0
-the 0
-United 0
-States 0
-and 0
-its 0
-allies—during 0
-this 0
-training 0
-period—until 0
-none 1
-other 1
-than 1
-Hillary 0
-Clinton 0
-suddenly 0
-removed 0
-them 0
-from 0
-the 0
-list 0
-in 0
-2012. 0
+Coincidentally, 0 214 5
+MEK 0 214 5
+was 0 214 5
+classified 0 214 5
+as 0 214 5
+a 0 214 5
+terrorist 0 214 5
+organization 0 214 5
+by 0 214 5
+the 0 214 5
+United 0 214 5
+States 0 214 5
+and 0 214 5
+its 0 214 5
+allies—during 0 214 5
+this 0 214 5
+training 0 214 5
+period—until 0 214 5
+none 1 214 5
+other 1 214 5
+than 1 214 5
+Hillary 0 214 5
+Clinton 0 214 5
+suddenly 0 214 5
+removed 0 214 5
+them 0 214 5
+from 0 214 5
+the 0 214 5
+list 0 214 5
+in 0 214 5
+2012. 0 214 5
 
-According 0
-to 0
-Hersh, 0
-MEK 0
-members 0
-were 0
-trained 0
-in 0
-intercepting 0
-communications, 0
-cryptography, 0
-weaponry 0
-and 0
-small 0
-unit 0
-tactics 0
-at 0
-the 0
-Nevada 0
-site 0
-until 0
-President 0
-Barack 0
-Obama 0
-took 0
-office 0
-in 0
-2009. 0
+According 0 214 6
+to 0 214 6
+Hersh, 0 214 6
+MEK 0 214 6
+members 0 214 6
+were 0 214 6
+trained 0 214 6
+in 0 214 6
+intercepting 0 214 6
+communications, 0 214 6
+cryptography, 0 214 6
+weaponry 0 214 6
+and 0 214 6
+small 0 214 6
+unit 0 214 6
+tactics 0 214 6
+at 0 214 6
+the 0 214 6
+Nevada 0 214 6
+site 0 214 6
+until 0 214 6
+President 0 214 6
+Barack 0 214 6
+Obama 0 214 6
+took 0 214 6
+office 0 214 6
+in 0 214 6
+2009. 0 214 6
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 214 7
+our 0 214 7
+poll 0 214 7
+- 0 214 7
+story 0 214 7
+continues 0 214 7
+below 0 214 7
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 214 8
+do 0 214 8
+you 0 214 8
+consider 0 214 8
+to 0 214 8
+be 0 214 8
+the 0 214 8
+most 0 214 8
+corrupt 0 214 8
+Democrat 0 214 8
+Politician? 0 214 8
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 214 9
+do 0 214 9
+you 0 214 9
+consider 0 214 9
+to 0 214 9
+be 0 214 9
+the 0 214 9
+most 0 214 9
+corrupt 0 214 9
+Democrat 0 214 9
+Politician? 0 214 9
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 214 10
+do 0 214 10
+you 0 214 10
+consider 0 214 10
+to 0 214 10
+be 0 214 10
+the 0 214 10
+most 0 214 10
+corrupt 0 214 10
+Democrat 0 214 10
+Politician? 0 214 10
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 214 11
+Dianne 0 214 11
+Feinstein 0 214 11
+Maxine 0 214 11
+Waters 0 214 11
+Adam 0 214 11
+Schiff 0 214 11
+Chuck 0 214 11
+Schumer 0 214 11
+Kamala 0 214 11
+Harris 0 214 11
+Kirsten 0 214 11
+Gillibrand 0 214 11
+Keith 0 214 11
+Ellison 0 214 11
+Cory 0 214 11
+Booker 0 214 11
 
-Email 0
-* 0
+Email 0 214 12
+* 0 214 12
 
-Comments 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Comments 0 214 13
+This 0 214 13
+field 0 214 13
+is 0 214 13
+for 0 214 13
+validation 0 214 13
+purposes 0 214 13
+and 0 214 13
+should 0 214 13
+be 0 214 13
+left 0 214 13
+unchanged. 0 214 13
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 214 14
+this 0 214 14
+poll 0 214 14
+grants 0 214 14
+you 0 214 14
+access 0 214 14
+to 0 214 14
+Freedom 0 214 14
+Outpost 0 214 14
+updates 0 214 14
+free 0 214 14
+of 0 214 14
+charge. 0 214 14
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 214 15
+may 0 214 15
+opt 0 214 15
+out 0 214 15
+at 0 214 15
+anytime. 0 214 15
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 214 16
+also 0 214 16
+agree 0 214 16
+to 0 214 16
+this 0 214 16
+site's 0 214 16
+Privacy 0 214 16
+Policy 0 214 16
+and 0 214 16
+Terms 0 214 16
+of 0 214 16
+Use. 0 214 16
 
-It 0
-was 0
-widely 0
-reported 0
-that 0
-the 0
-MEK 0
-was 0
-behind 0
-the 0
-anti-government 0
-violence 0
-that 0
-erupted 0
-in 0
-Iran 0
-in 0
-January 0
-which 0
-snowballed 0
-into 0
-the 0
-situation 0
-today. 0
+It 0 214 17
+was 0 214 17
+widely 0 214 17
+reported 0 214 17
+that 0 214 17
+the 0 214 17
+MEK 0 214 17
+was 0 214 17
+behind 0 214 17
+the 0 214 17
+anti-government 0 214 17
+violence 0 214 17
+that 0 214 17
+erupted 0 214 17
+in 0 214 17
+Iran 0 214 17
+in 0 214 17
+January 0 214 17
+which 0 214 17
+snowballed 0 214 17
+into 0 214 17
+the 0 214 17
+situation 0 214 17
+today. 0 214 17
 
-Hersh 0
-also 0
-reported 0
-additional 0
-names 0
-of 0
-former 0
-U.S. 0
-officials 0
-paid 0
-to 0
-speak 0
-in 0
-support 0
-of 0
-MEK, 0
-including 0
-former 0
-CIA 0
-directors 0
-James 0
-Woolsey 0
-and 0
-Porter 0
-Goss; 0
-New 0
-York 0
-City 0
-Mayor 0
-Rudolph 0
-Giuliani; 0
-former 0
-Vermont 0
-Governor 0
-Howard 0
-Dean; 0
-former 0
-Director 0
-of 0
-the 0
-Federal 0
-Bureau 0
-of 0
-Investigation 0
-Louis 0
-Freeh 0
-and 0
-former 0
-U.N. 0
+Hersh 0 214 18
+also 0 214 18
+reported 0 214 18
+additional 0 214 18
+names 0 214 18
+of 0 214 18
+former 0 214 18
+U.S. 0 214 18
+officials 0 214 18
+paid 0 214 18
+to 0 214 18
+speak 0 214 18
+in 0 214 18
+support 0 214 18
+of 0 214 18
+MEK, 0 214 18
+including 0 214 18
+former 0 214 18
+CIA 0 214 18
+directors 0 214 18
+James 0 214 18
+Woolsey 0 214 18
+and 0 214 18
+Porter 0 214 18
+Goss; 0 214 18
+New 0 214 18
+York 0 214 18
+City 0 214 18
+Mayor 0 214 18
+Rudolph 0 214 18
+Giuliani; 0 214 18
+former 0 214 18
+Vermont 0 214 18
+Governor 0 214 18
+Howard 0 214 18
+Dean; 0 214 18
+former 0 214 18
+Director 0 214 18
+of 0 214 18
+the 0 214 18
+Federal 0 214 18
+Bureau 0 214 18
+of 0 214 18
+Investigation 0 214 18
+Louis 0 214 18
+Freeh 0 214 18
+and 0 214 18
+former 0 214 18
+U.N. 0 214 18
 
-Ambassador 0
-John 0
-Bolton. 0
+Ambassador 0 214 19
+John 0 214 19
+Bolton. 0 214 19
 
-For 0
-over 0
-a 0
-decade, 0
-Bolton 0
-has 0
-been 0
-calling 0
-for 0
-regime 0
-change 0
-in 0
-Iran. 0
+For 0 214 20
+over 0 214 20
+a 0 214 20
+decade, 0 214 20
+Bolton 0 214 20
+has 0 214 20
+been 0 214 20
+calling 0 214 20
+for 0 214 20
+regime 0 214 20
+change 0 214 20
+in 0 214 20
+Iran. 0 214 20
 
-Now, 0
-he’s 0
-the 0
-National 0
-Security 0
-Advisor. 0
+Now, 0 214 21
+he’s 0 214 21
+the 0 214 21
+National 0 214 21
+Security 0 214 21
+Advisor. 0 214 21
 
-It 0
-just 0
-so 0
-happens 0
-that 0
-at 0
-least 0
-one 0
-of 0
-these 0
-calls 0
-for 0
-regime 0
-change 0
-in 0
-Iran 0
-was 0
-caught 0
-on 0
-video 0
-last 0
-year 0
-as 0
-Bolton 0
-gave 0
-a 0
-speech 0
-at 0
-the 0
-Grand 0
-Gathering 0
-of 0
-Iranians 0
-for 0
-Free 1
-Iran. 1
+It 0 214 22
+just 0 214 22
+so 0 214 22
+happens 0 214 22
+that 0 214 22
+at 0 214 22
+least 0 214 22
+one 0 214 22
+of 0 214 22
+these 0 214 22
+calls 0 214 22
+for 0 214 22
+regime 0 214 22
+change 0 214 22
+in 0 214 22
+Iran 0 214 22
+was 0 214 22
+caught 0 214 22
+on 0 214 22
+video 0 214 22
+last 0 214 22
+year 0 214 22
+as 0 214 22
+Bolton 0 214 22
+gave 0 214 22
+a 0 214 22
+speech 0 214 22
+at 0 214 22
+the 0 214 22
+Grand 0 214 22
+Gathering 0 214 22
+of 0 214 22
+Iranians 0 214 22
+for 0 214 22
+Free 1 214 22
+Iran. 1 214 22
 
-“There 0
-is 0
-a 0
-viable 0
-opposition 0
-to 0
-the 0
-rule 0
-of 0
-the 0
-ayatollahs, 0
-and 0
-that 0
-opposition 0
-is 0
-centered 0
-in 0
-this 0
-room 0
-today. 0
+“There 0 214 23
+is 0 214 23
+a 0 214 23
+viable 0 214 23
+opposition 0 214 23
+to 0 214 23
+the 0 214 23
+rule 0 214 23
+of 0 214 23
+the 0 214 23
+ayatollahs, 0 214 23
+and 0 214 23
+that 0 214 23
+opposition 0 214 23
+is 0 214 23
+centered 0 214 23
+in 0 214 23
+this 0 214 23
+room 0 214 23
+today. 0 214 23
 
-I 0
-had 0
-said 0
-for 0
-over 0
-10 0
-years 0
-since 0
-coming 0
-to 0
-these 0
-events, 0
-that 0
-the 0
-declared 0
-policy 0
-of 0
-the 0
-United 0
-States 0
-of 0
-America 0
-should 0
-be 0
-the 0
-overthrow 0
-of 0
-the 0
-mullahs’ 0
-regime 0
-in 0
-Tehran. 0
+I 0 214 24
+had 0 214 24
+said 0 214 24
+for 0 214 24
+over 0 214 24
+10 0 214 24
+years 0 214 24
+since 0 214 24
+coming 0 214 24
+to 0 214 24
+these 0 214 24
+events, 0 214 24
+that 0 214 24
+the 0 214 24
+declared 0 214 24
+policy 0 214 24
+of 0 214 24
+the 0 214 24
+United 0 214 24
+States 0 214 24
+of 0 214 24
+America 0 214 24
+should 0 214 24
+be 0 214 24
+the 0 214 24
+overthrow 0 214 24
+of 0 214 24
+the 0 214 24
+mullahs’ 0 214 24
+regime 0 214 24
+in 0 214 24
+Tehran. 0 214 24
 
-The 0
-behavior 0
-and 0
-the 0
-objectives 0
-of 0
-the 0
-regime 0
-are 0
-not 0
-going 0
-to 0
-change, 0
-and 0
-therefore 0
-the 0
-only 0
-solution 0
-is 0
-to 0
-change 0
-the 0
-regime 0
-itself. 0
+The 0 214 25
+behavior 0 214 25
+and 0 214 25
+the 0 214 25
+objectives 0 214 25
+of 0 214 25
+the 0 214 25
+regime 0 214 25
+are 0 214 25
+not 0 214 25
+going 0 214 25
+to 0 214 25
+change, 0 214 25
+and 0 214 25
+therefore 0 214 25
+the 0 214 25
+only 0 214 25
+solution 0 214 25
+is 0 214 25
+to 0 214 25
+change 0 214 25
+the 0 214 25
+regime 0 214 25
+itself. 0 214 25
 
-And 0
-that’s 0
-why, 0
-before 0
-2019, 0
-we 0
-here 0
-will 0
-celebrate 0
-in 0
-Tehran!” 0
+And 0 214 26
+that’s 0 214 26
+why, 0 214 26
+before 0 214 26
+2019, 0 214 26
+we 0 214 26
+here 0 214 26
+will 0 214 26
+celebrate 0 214 26
+in 0 214 26
+Tehran!” 0 214 26
 
-Pay 0
-attention 0
-to 0
-the 0
-first 0
-line 0
-in 0
-that 0
-quote 0
-above 0
-in 0
-which 0
-Bolton 0
-notes 0
-that 0
-the 0
-opposition 0
-needed 0
-to 0
-overthrow 0
-Iran’s 0
-current 0
-regime 0
-“is 0
-centered 0
-in 0
-this 0
-room 0
-today.” 0
-Who 1
-was 1
-in 1
-that 1
-room? 1
+Pay 0 214 27
+attention 0 214 27
+to 0 214 27
+the 0 214 27
+first 0 214 27
+line 0 214 27
+in 0 214 27
+that 0 214 27
+quote 0 214 27
+above 0 214 27
+in 0 214 27
+which 0 214 27
+Bolton 0 214 27
+notes 0 214 27
+that 0 214 27
+the 0 214 27
+opposition 0 214 27
+needed 0 214 27
+to 0 214 27
+overthrow 0 214 27
+Iran’s 0 214 27
+current 0 214 27
+regime 0 214 27
+“is 0 214 27
+centered 0 214 27
+in 0 214 27
+this 0 214 27
+room 0 214 27
+today.” 0 214 27
+Who 1 214 27
+was 1 214 27
+in 1 214 27
+that 1 214 27
+room? 1 214 27
 
-Well, 0
-the 0
-entire 0
-event 0
-was 0
-actually 0
-put 0
-on 0
-by 0
-the 0
-People’s 0
-Mojahedin 0
-Organization 0
-of 0
-Iran, 0
-also 0
-known 0
-as 0
-the 0
-Mojahedin-e 0
-Khalq 0
-or 0
-MEK. 0
+Well, 0 214 28
+the 0 214 28
+entire 0 214 28
+event 0 214 28
+was 0 214 28
+actually 0 214 28
+put 0 214 28
+on 0 214 28
+by 0 214 28
+the 0 214 28
+People’s 0 214 28
+Mojahedin 0 214 28
+Organization 0 214 28
+of 0 214 28
+Iran, 0 214 28
+also 0 214 28
+known 0 214 28
+as 0 214 28
+the 0 214 28
+Mojahedin-e 0 214 28
+Khalq 0 214 28
+or 0 214 28
+MEK. 0 214 28
 
-As 0
-Politico 0
-pointed 0
-out 0
-in 0
-a 0
-2016 0
-article, 0
-despite 0
-the 0
-neocon 0
-attempts 0
-to 0
-rewrite 0
-history, 0
-MEK 0
-have 0
-killed 0
-Americans 0
-and 0
-committed 0
-multiple 0
-acts 0
-of 0
-terrorism. 0
+As 0 214 29
+Politico 0 214 29
+pointed 0 214 29
+out 0 214 29
+in 0 214 29
+a 0 214 29
+2016 0 214 29
+article, 0 214 29
+despite 0 214 29
+the 0 214 29
+neocon 0 214 29
+attempts 0 214 29
+to 0 214 29
+rewrite 0 214 29
+history, 0 214 29
+MEK 0 214 29
+have 0 214 29
+killed 0 214 29
+Americans 0 214 29
+and 0 214 29
+committed 0 214 29
+multiple 0 214 29
+acts 0 214 29
+of 0 214 29
+terrorism. 0 214 29
 
-For 0
-decades, 0
-and 0
-based 0
-on 0
-U.S. 0
-intelligence, 0
-the 0
-United 0
-States 0
-government 0
-has 0
-blamed 0
-the 0
-MEK 0
-for 0
-killing 0
-three 0
-U.S. 0
-Army 0
-colonels 0
-and 0
-three 0
-U.S. 0
-contractors, 0
-bombing 0
-the 0
-facilities 0
-of 0
-numerous 0
-U.S. 0
-companies 0
-and 0
-killing 0
-innocent 0
-Iranians. 0
+For 0 214 30
+decades, 0 214 30
+and 0 214 30
+based 0 214 30
+on 0 214 30
+U.S. 0 214 30
+intelligence, 0 214 30
+the 0 214 30
+United 0 214 30
+States 0 214 30
+government 0 214 30
+has 0 214 30
+blamed 0 214 30
+the 0 214 30
+MEK 0 214 30
+for 0 214 30
+killing 0 214 30
+three 0 214 30
+U.S. 0 214 30
+Army 0 214 30
+colonels 0 214 30
+and 0 214 30
+three 0 214 30
+U.S. 0 214 30
+contractors, 0 214 30
+bombing 0 214 30
+the 0 214 30
+facilities 0 214 30
+of 0 214 30
+numerous 0 214 30
+U.S. 0 214 30
+companies 0 214 30
+and 0 214 30
+killing 0 214 30
+innocent 0 214 30
+Iranians. 0 214 30
 
-To 0
-recap, 0
-the 0
-formerly 0
-terrorist-classified 0
-organization 0
-MEK, 0
-trained 0
-in 0
-the 0
-US 0
-and 0
-granted 0
-special 0
-privilege 0
-status 0
-by 0
-then-Secretary 0
-of 0
-State 0
-Hillary 0
-Clinton 0
-in 0
-2012—which 0
-has 0
-since 0
-been 0
-heavily 0
-funded 0
-to 0
-refine 0
-their 0
-image 0
-by 0
-having 0
-famous 0
-US 0
-neoconservative 0
-war 0
-hawks 0
-from 0
-both 0
-sides 0
-of 0
-the 0
-isle 0
-actually 0
-chant 0
-for 0
-“regime 0
-change” 0
-on 0
-their 0
-behalf—is 0
-now 0
-the 0
-darling 1
-child 1
-of 0
-the 0
-neocon 0
-agenda 0
-and 0
-the 0
-impetus 0
-behind 0
-what 0
-could 0
-kick 0
-of 0
-World 0
-War 0
-3. 0
+To 0 214 31
+recap, 0 214 31
+the 0 214 31
+formerly 0 214 31
+terrorist-classified 0 214 31
+organization 0 214 31
+MEK, 0 214 31
+trained 0 214 31
+in 0 214 31
+the 0 214 31
+US 0 214 31
+and 0 214 31
+granted 0 214 31
+special 0 214 31
+privilege 0 214 31
+status 0 214 31
+by 0 214 31
+then-Secretary 0 214 31
+of 0 214 31
+State 0 214 31
+Hillary 0 214 31
+Clinton 0 214 31
+in 0 214 31
+2012—which 0 214 31
+has 0 214 31
+since 0 214 31
+been 0 214 31
+heavily 0 214 31
+funded 0 214 31
+to 0 214 31
+refine 0 214 31
+their 0 214 31
+image 0 214 31
+by 0 214 31
+having 0 214 31
+famous 0 214 31
+US 0 214 31
+neoconservative 0 214 31
+war 0 214 31
+hawks 0 214 31
+from 0 214 31
+both 0 214 31
+sides 0 214 31
+of 0 214 31
+the 0 214 31
+isle 0 214 31
+actually 0 214 31
+chant 0 214 31
+for 0 214 31
+“regime 0 214 31
+change” 0 214 31
+on 0 214 31
+their 0 214 31
+behalf—is 0 214 31
+now 0 214 31
+the 0 214 31
+darling 1 214 31
+child 1 214 31
+of 0 214 31
+the 0 214 31
+neocon 0 214 31
+agenda 0 214 31
+and 0 214 31
+the 0 214 31
+impetus 0 214 31
+behind 0 214 31
+what 0 214 31
+could 0 214 31
+kick 0 214 31
+of 0 214 31
+World 0 214 31
+War 0 214 31
+3. 0 214 31
 
-While 0
-the 0
-current 0
-Iranian 0
-regime 0
-is 0
-certainly 0
-no 0
-bastion 0
-of 0
-freedom, 0
-the 0
-idea 0
-that 0
-US 0
-intervention 0
-or 0
-a 0
-violent 0
-revolution 0
-would 0
-be 0
-beneficial 0
-for 0
-the 0
-people 0
-of 0
-Iran 0
-or 0
-American 0
-citizens 0
-is 0
-outright 1
-insane. 1
+While 0 214 32
+the 0 214 32
+current 0 214 32
+Iranian 0 214 32
+regime 0 214 32
+is 0 214 32
+certainly 0 214 32
+no 0 214 32
+bastion 0 214 32
+of 0 214 32
+freedom, 0 214 32
+the 0 214 32
+idea 0 214 32
+that 0 214 32
+US 0 214 32
+intervention 0 214 32
+or 0 214 32
+a 0 214 32
+violent 0 214 32
+revolution 0 214 32
+would 0 214 32
+be 0 214 32
+beneficial 0 214 32
+for 0 214 32
+the 0 214 32
+people 0 214 32
+of 0 214 32
+Iran 0 214 32
+or 0 214 32
+American 0 214 32
+citizens 0 214 32
+is 0 214 32
+outright 1 214 32
+insane. 1 214 32
 
-To 0
-see 0
-what 0
-US 0
-intervention—through 0
-military 0
-support 0
-and 0
-the 0
-support 0
-of 0
-opposition 0
-groups—does 0
-to 0
-countries, 0
-one 0
-need 0
-only 0
-look 0
-at 0
-Syria, 0
-Iraq, 0
-Afghanistan, 0
-and 0
-Libya 0
-to 0
-see 0
-the 0
-horrific 1
-death 0
-tolls 0
-and 0
-war-ravaged 1
-dystopias 1
-left 0
-in 0
-America’s 0
-wake. 0
+To 0 214 33
+see 0 214 33
+what 0 214 33
+US 0 214 33
+intervention—through 0 214 33
+military 0 214 33
+support 0 214 33
+and 0 214 33
+the 0 214 33
+support 0 214 33
+of 0 214 33
+opposition 0 214 33
+groups—does 0 214 33
+to 0 214 33
+countries, 0 214 33
+one 0 214 33
+need 0 214 33
+only 0 214 33
+look 0 214 33
+at 0 214 33
+Syria, 0 214 33
+Iraq, 0 214 33
+Afghanistan, 0 214 33
+and 0 214 33
+Libya 0 214 33
+to 0 214 33
+see 0 214 33
+the 0 214 33
+horrific 1 214 33
+death 0 214 33
+tolls 0 214 33
+and 0 214 33
+war-ravaged 1 214 33
+dystopias 1 214 33
+left 0 214 33
+in 0 214 33
+America’s 0 214 33
+wake. 0 214 33
 
-To 0
-those 0
-paying 0
-attention 0
-over 0
-the 0
-years, 0
-Trump’s 0
-desire 0
-to 0
-intervene 0
-in 0
-Iran, 0
-and 0
-his 0
-subsequent 0
-support 0
-in 0
-the 0
-media 0
-and 0
-from 0
-all 0
-sides 0
-of 0
-the 0
-political 0
-spectrum 0
-should 0
-come 0
-as 0
-no 0
-surprise 0
-as 0
-it 0
-has 0
-been 0
-the 0
-plan 0
-since 0
-Bill 0
-Clinton 0
-was 0
-in 0
-office 0
-and 0
-was 0
-documented 0
-in 0
-the 0
-neoconservative 0
-PNAC 0
-report. 0
+To 0 214 34
+those 0 214 34
+paying 0 214 34
+attention 0 214 34
+over 0 214 34
+the 0 214 34
+years, 0 214 34
+Trump’s 0 214 34
+desire 0 214 34
+to 0 214 34
+intervene 0 214 34
+in 0 214 34
+Iran, 0 214 34
+and 0 214 34
+his 0 214 34
+subsequent 0 214 34
+support 0 214 34
+in 0 214 34
+the 0 214 34
+media 0 214 34
+and 0 214 34
+from 0 214 34
+all 0 214 34
+sides 0 214 34
+of 0 214 34
+the 0 214 34
+political 0 214 34
+spectrum 0 214 34
+should 0 214 34
+come 0 214 34
+as 0 214 34
+no 0 214 34
+surprise 0 214 34
+as 0 214 34
+it 0 214 34
+has 0 214 34
+been 0 214 34
+the 0 214 34
+plan 0 214 34
+since 0 214 34
+Bill 0 214 34
+Clinton 0 214 34
+was 0 214 34
+in 0 214 34
+office 0 214 34
+and 0 214 34
+was 0 214 34
+documented 0 214 34
+in 0 214 34
+the 0 214 34
+neoconservative 0 214 34
+PNAC 0 214 34
+report. 0 214 34
 
-This 0
-was 0
-even 0
-admitted 0
-by 0
-General 0
-Wesley 0
-Clark, 0
-former 0
-Supreme 0
-Allied 0
-Commander 0
-of 0
-NATO, 0
-that 0
-the 0
-U.S. 0
-planned 0
-on 0
-going 0
-to 0
-war 0
-with 0
-Iran, 0
-according 0
-to 0
-a 0
-2001 0
-memo 0
-from 0
-the 0
-U.S. 0
-Secretary 0
-of 0
-Defense. 0
+This 0 214 35
+was 0 214 35
+even 0 214 35
+admitted 0 214 35
+by 0 214 35
+General 0 214 35
+Wesley 0 214 35
+Clark, 0 214 35
+former 0 214 35
+Supreme 0 214 35
+Allied 0 214 35
+Commander 0 214 35
+of 0 214 35
+NATO, 0 214 35
+that 0 214 35
+the 0 214 35
+U.S. 0 214 35
+planned 0 214 35
+on 0 214 35
+going 0 214 35
+to 0 214 35
+war 0 214 35
+with 0 214 35
+Iran, 0 214 35
+according 0 214 35
+to 0 214 35
+a 0 214 35
+2001 0 214 35
+memo 0 214 35
+from 0 214 35
+the 0 214 35
+U.S. 0 214 35
+Secretary 0 214 35
+of 0 214 35
+Defense. 0 214 35
 
-“This 0
-is 0
-a 0
-memo 0
-that 0
-describes 0
-how 0
-we’re 0
-going 0
-to 0
-take 0
-out 0
-seven 0
-countries 0
-in 0
-five 0
-years,” 0
-Clark 0
-said. 0
+“This 0 214 36
+is 0 214 36
+a 0 214 36
+memo 0 214 36
+that 0 214 36
+describes 0 214 36
+how 0 214 36
+we’re 0 214 36
+going 0 214 36
+to 0 214 36
+take 0 214 36
+out 0 214 36
+seven 0 214 36
+countries 0 214 36
+in 0 214 36
+five 0 214 36
+years,” 0 214 36
+Clark 0 214 36
+said. 0 214 36
 
-“Starting 0
-with 0
-Iraq, 0
-and 0
-then 0
-Syria, 0
-Lebanon, 0
-Libya, 0
-Somalia, 0
-Sudan, 0
-and 0
-finishing 0
-off 0
-with 0
-Iran.” 0
+“Starting 0 214 37
+with 0 214 37
+Iraq, 0 214 37
+and 0 214 37
+then 0 214 37
+Syria, 0 214 37
+Lebanon, 0 214 37
+Libya, 0 214 37
+Somalia, 0 214 37
+Sudan, 0 214 37
+and 0 214 37
+finishing 0 214 37
+off 0 214 37
+with 0 214 37
+Iran.” 0 214 37
 
-All 0
-presidents 0
-since 0
-Clinton 0
-have 0
-crossed 0
-countries 0
-off 0
-this 0
-list. 0
+All 0 214 38
+presidents 0 214 38
+since 0 214 38
+Clinton 0 214 38
+have 0 214 38
+crossed 0 214 38
+countries 0 214 38
+off 0 214 38
+this 0 214 38
+list. 0 214 38
 
-Now 0
-it’s 0
-Trump’s 0
-turn. 0
+Now 0 214 39
+it’s 0 214 39
+Trump’s 0 214 39
+turn. 0 214 39
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-The 0
-Free 0
-Thought 0
-Project 0
+Article 0 214 39
+
+posted 0 214 39
+
+with 0 214 39
+
+permission 0 214 39
+
+from 0 214 39
+
+The 0 214 39
+
+Free 0 214 39
+
+Thought 0 214 39
+
+Project 0 214 39

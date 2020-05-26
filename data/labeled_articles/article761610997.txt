@@ -1,995 +1,1004 @@
-Patrick 0
-J. 0
-Buchanan: 0
-Boehner's 0
-Right—It's 0
-Trump's 0
-Party 0
-Now 0
-| 0
-Articles 0
+Patrick 0 240 0
+J. 0 240 0
+Buchanan: 0 240 0
+Boehner's 0 240 0
+Right—It's 0 240 0
+Trump's 0 240 0
+Party 0 240 0
+Now 0 240 0
+| 0 240 0
+Articles 0 240 0
 
-See, 0
-earlier 0
-Trump 0
-Victorious 0
-As 0
-GOP 0
-Transformed 0
-Into 0
-A 0
-National 0
-Conservative 0
-Party 0
-by 0
-James 0
-Kirkpatrick, 0
-May 0
-3, 0
-2016 0
+See, 0 240 1
+earlier 0 240 1
+Trump 0 240 1
+Victorious 0 240 1
+As 0 240 1
+GOP 0 240 1
+Transformed 0 240 1
+Into 0 240 1
+A 0 240 1
+National 0 240 1
+Conservative 0 240 1
+Party 0 240 1
+by 0 240 1
+James 0 240 1
+Kirkpatrick, 0 240 1
+May 0 240 1
+3, 0 240 1
+2016 0 240 1
 
-"There 1
-is 1
-no 1
-Republican 1
-Party. 1
+"There 1 240 2
+is 1 240 2
+no 1 240 2
+Republican 1 240 2
+Party. 1 240 2
 
-There's 1
-a 1
-Trump 1
-party," 1
-John 0
-Boehner 0
-told 0
-a 0
-Mackinac, 0
-Michigan, 0
-gathering 0
-of 0
-the 0
-GOP 0
-faithful 0
-last 0
-week. 0
+There's 1 240 3
+a 1 240 3
+Trump 1 240 3
+party," 1 240 3
+John 0 240 3
+Boehner 0 240 3
+told 0 240 3
+a 0 240 3
+Mackinac, 0 240 3
+Michigan, 0 240 3
+gathering 0 240 3
+of 0 240 3
+the 0 240 3
+GOP 0 240 3
+faithful 0 240 3
+last 0 240 3
+week. 0 240 3
 
-"The 0
-Republican 0
-Party 0
-is 0
-kind 0
-of 0
-taking 0
-a 0
-nap 0
-somewhere." 0
+"The 0 240 4
+Republican 0 240 4
+Party 0 240 4
+is 0 240 4
+kind 0 240 4
+of 0 240 4
+taking 0 240 4
+a 0 240 4
+nap 0 240 4
+somewhere." 0 240 4
 
-Ex-Speaker 0
-Boehner 0
-should 0
-probably 0
-re-check 0
-the 0
-old 0
-party's 0
-pulse, 0
-for 0
-the 0
-Bush-Boehner 0
-GOP 0
-may 0
-not 0
-just 0
-be 0
-napping. 0
+Ex-Speaker 0 240 5
+Boehner 0 240 5
+should 0 240 5
+probably 0 240 5
+re-check 0 240 5
+the 0 240 5
+old 0 240 5
+party's 0 240 5
+pulse, 0 240 5
+for 0 240 5
+the 0 240 5
+Bush-Boehner 0 240 5
+GOP 0 240 5
+may 0 240 5
+not 0 240 5
+just 0 240 5
+be 0 240 5
+napping. 0 240 5
 
-It 0
-could 0
-be 0
-comatose. 1
+It 0 240 6
+could 0 240 6
+be 0 240 6
+comatose. 1 240 6
 
-Consider. 0
+Consider. 0 240 7
 
-That 0
-GOP 0
-was 0
-dedicated 0
-to 0
-free 0
-trade, 0
-open 0
-borders, 0
-amnesty 0
-and 0
-using 0
-U.S. 0
-power 0
-to 0
-punish 1
-aggressors 1
-and 0
-"end 1
-tyranny 1
-in 1
-our 1
-world." 1
+That 0 240 8
+GOP 0 240 8
+was 0 240 8
+dedicated 0 240 8
+to 0 240 8
+free 0 240 8
+trade, 0 240 8
+open 0 240 8
+borders, 0 240 8
+amnesty 0 240 8
+and 0 240 8
+using 0 240 8
+U.S. 0 240 8
+power 0 240 8
+to 0 240 8
+punish 1 240 8
+aggressors 1 240 8
+and 0 240 8
+"end 1 240 8
+tyranny 1 240 8
+in 1 240 8
+our 1 240 8
+world." 1 240 8
 
-That 0
-GOP 0
-set 0
-out 0
-to 0
-create 0
-a 0
-new 0
-world 0
-order 0
-where 0
-dictatorships 0
-were 0
-threatened 0
-with 0
-"regime 0
-change," 0
-and 0
-democratic 0
-capitalism 0
-was 0
-the 0
-new 0
-order 0
-of 0
-the 0
-ages. 0
+That 0 240 9
+GOP 0 240 9
+set 0 240 9
+out 0 240 9
+to 0 240 9
+create 0 240 9
+a 0 240 9
+new 0 240 9
+world 0 240 9
+order 0 240 9
+where 0 240 9
+dictatorships 0 240 9
+were 0 240 9
+threatened 0 240 9
+with 0 240 9
+"regime 0 240 9
+change," 0 240 9
+and 0 240 9
+democratic 0 240 9
+capitalism 0 240 9
+was 0 240 9
+the 0 240 9
+new 0 240 9
+order 0 240 9
+of 0 240 9
+the 0 240 9
+ages. 0 240 9
 
-Yet, 0
-Donald 0
-Trump 0
-captured 0
-the 0
-Republican 0
-nomination 0
-and 0
-won 0
-the 0
-presidency—by 0
-saying 0
-goodbye 0
-to 0
-all 0
-that. 0
+Yet, 0 240 10
+Donald 0 240 10
+Trump 0 240 10
+captured 0 240 10
+the 0 240 10
+Republican 0 240 10
+nomination 0 240 10
+and 0 240 10
+won 0 240 10
+the 0 240 10
+presidency—by 0 240 10
+saying 0 240 10
+goodbye 0 240 10
+to 0 240 10
+all 0 240 10
+that. 0 240 10
 
-How 0
-probable 0
-is 0
-it 0
-that 0
-a 0
-future 0
-GOP 0
-presidential 0
-candidate 0
-will 0
-revive 0
-the 0
-Bush-Boehner 0
-agenda 0
-the 0
-party 0
-rejected 0
-in 0
-2016, 0
-run 0
-on 0
-it, 0
-win, 0
-and 0
-impose 0
-it 0
-on 0
-the 0
-party 0
-and 0
-nation? 0
+How 0 240 11
+probable 0 240 11
+is 0 240 11
+it 0 240 11
+that 0 240 11
+a 0 240 11
+future 0 240 11
+GOP 0 240 11
+presidential 0 240 11
+candidate 0 240 11
+will 0 240 11
+revive 0 240 11
+the 0 240 11
+Bush-Boehner 0 240 11
+agenda 0 240 11
+the 0 240 11
+party 0 240 11
+rejected 0 240 11
+in 0 240 11
+2016, 0 240 11
+run 0 240 11
+on 0 240 11
+it, 0 240 11
+win, 0 240 11
+and 0 240 11
+impose 0 240 11
+it 0 240 11
+on 0 240 11
+the 0 240 11
+party 0 240 11
+and 0 240 11
+nation? 0 240 11
 
-Bush-Boehner 0
-Republicanism 0
-appears 0
-to 0
-be 0
-as 0
-dead 1
-today 0
-as 0
-was 0
-Harding-Coolidge 0
-Republicanism 0
-after 0
-1933. 0
+Bush-Boehner 0 240 12
+Republicanism 0 240 12
+appears 0 240 12
+to 0 240 12
+be 0 240 12
+as 0 240 12
+dead 1 240 12
+today 0 240 12
+as 0 240 12
+was 0 240 12
+Harding-Coolidge 0 240 12
+Republicanism 0 240 12
+after 0 240 12
+1933. 0 240 12
 
-And 0
-if 1
-Trumpism 1
-is 1
-not 1
-the 1
-future 1
-of 1
-the 1
-GOP, 1
-it 1
-is 1
-hard 1
-to 1
-see 1
-what 1
-a 1
-promising 1
-GOP 1
-agenda 1
-might 1
-look 1
-like. 1
+And 0 240 13
+if 1 240 13
+Trumpism 1 240 13
+is 1 240 13
+not 1 240 13
+the 1 240 13
+future 1 240 13
+of 1 240 13
+the 1 240 13
+GOP, 1 240 13
+it 1 240 13
+is 1 240 13
+hard 1 240 13
+to 1 240 13
+see 1 240 13
+what 1 240 13
+a 1 240 13
+promising 1 240 13
+GOP 1 240 13
+agenda 1 240 13
+might 1 240 13
+look 1 240 13
+like. 1 240 13
 
-A 0
-brief 0
-history: 0
-In 0
-seven 0
-elections 0
-starting 0
-in 0
-1992, 0
-Republicans 0
-won 0
-the 0
-presidency 0
-three 0
-times, 0
-but 0
-the 0
-popular 0
-vote 0
-only 0
-once, 0
-in 0
-2004, 0
-when 0
-George 0
-W. 0
-was 0
-still 0
-basking 0
-in 0
-his 0
-"Mission 0
-Accomplished" 0
-in 0
-Iraq. 0
+A 0 240 14
+brief 0 240 14
+history: 0 240 14
+In 0 240 14
+seven 0 240 14
+elections 0 240 14
+starting 0 240 14
+in 0 240 14
+1992, 0 240 14
+Republicans 0 240 14
+won 0 240 14
+the 0 240 14
+presidency 0 240 14
+three 0 240 14
+times, 0 240 14
+but 0 240 14
+the 0 240 14
+popular 0 240 14
+vote 0 240 14
+only 0 240 14
+once, 0 240 14
+in 0 240 14
+2004, 0 240 14
+when 0 240 14
+George 0 240 14
+W. 0 240 14
+was 0 240 14
+still 0 240 14
+basking 0 240 14
+in 0 240 14
+his 0 240 14
+"Mission 0 240 14
+Accomplished" 0 240 14
+in 0 240 14
+Iraq. 0 240 14
 
-What 0
-fractured 0
-and 0
-overwhelmed 0
-the 0
-Bush-Boehner 0
-Republican 0
-Party? 0
+What 0 240 15
+fractured 0 240 15
+and 0 240 15
+overwhelmed 0 240 15
+the 0 240 15
+Bush-Boehner 0 240 15
+Republican 0 240 15
+Party? 0 240 15
 
-First, 0
-demography. 0
+First, 0 240 16
+demography. 0 240 16
 
-The 0
-mass 0
-immigration 0
-of 0
-Third 0
-World 0
-peoples 0
-that 0
-began 0
-with 0
-the 0
-1965 0
-immigration 0
-act, 0
-and 0
-the 0
-decline 0
-in 0
-the 0
-birth 0
-rate 0
-of 0
-native-born 0
-Americans, 0
-began 0
-to 0
-swamp 0
-the 0
-Nixon-Reagan 0
-New 0
-Majority. 0
+The 0 240 17
+mass 0 240 17
+immigration 0 240 17
+of 0 240 17
+Third 0 240 17
+World 0 240 17
+peoples 0 240 17
+that 0 240 17
+began 0 240 17
+with 0 240 17
+the 0 240 17
+1965 0 240 17
+immigration 0 240 17
+act, 0 240 17
+and 0 240 17
+the 0 240 17
+decline 0 240 17
+in 0 240 17
+the 0 240 17
+birth 0 240 17
+rate 0 240 17
+of 0 240 17
+native-born 0 240 17
+Americans, 0 240 17
+began 0 240 17
+to 0 240 17
+swamp 0 240 17
+the 0 240 17
+Nixon-Reagan 0 240 17
+New 0 240 17
+Majority. 0 240 17
 
-Second, 0
-the 0
-collapse 0
-of 0
-the 0
-Soviet 1
-Empire 1
-and 0
-USSR 0
-removed 0
-the 0
-party's 0
-great 1
-unifying 0
-cause 0
-from 0
-Eisenhower 0
-to 0
-Bush 0
-I—the 0
-Cold 0
-War. 0
+Second, 0 240 18
+the 0 240 18
+collapse 0 240 18
+of 0 240 18
+the 0 240 18
+Soviet 1 240 18
+Empire 1 240 18
+and 0 240 18
+USSR 0 240 18
+removed 0 240 18
+the 0 240 18
+party's 0 240 18
+great 1 240 18
+unifying 0 240 18
+cause 0 240 18
+from 0 240 18
+Eisenhower 0 240 18
+to 0 240 18
+Bush 0 240 18
+I—the 0 240 18
+Cold 0 240 18
+War. 0 240 18
 
-After 0
-the 0
-Red 0
-Army 0
-went 0
-home, 0
-"America 1
-First" 1
-had 0
-a 0
-new 0
-appeal! 0
+After 0 240 19
+the 0 240 19
+Red 0 240 19
+Army 0 240 19
+went 0 240 19
+home, 0 240 19
+"America 1 240 19
+First" 1 240 19
+had 0 240 19
+a 0 240 19
+new 0 240 19
+appeal! 0 240 19
 
-Third, 0
-faithful 0
-to 0
-the 0
-free 0
-trade 0
-cult 1
-in 0
-which 0
-they 0
-were 0
-raised, 0
-Republicans 0
-championed 0
-NAFTA, 0
-the 0
-WTO, 0
-and 0
-MFN 0
-for 0
-China. 0
+Third, 0 240 20
+faithful 0 240 20
+to 0 240 20
+the 0 240 20
+free 0 240 20
+trade 0 240 20
+cult 1 240 20
+in 0 240 20
+which 0 240 20
+they 0 240 20
+were 0 240 20
+raised, 0 240 20
+Republicans 0 240 20
+championed 0 240 20
+NAFTA, 0 240 20
+the 0 240 20
+WTO, 0 240 20
+and 0 240 20
+MFN 0 240 20
+for 0 240 20
+China. 0 240 20
 
-Historians 0
-will 0
-look 0
-back 0
-in 0
-amazement 0
-at 0
-how 0
-America's 0
-free 0
-trade 0
-zealots 1
-gave 0
-away 0
-the 0
-greatest 0
-manufacturing 0
-base 0
-the 0
-world 0
-had 0
-ever 0
-seen, 0
-as 0
-they 0
-quoted 0
-approvingly 0
-18th- 0
-and 0
-19th-century 0
-scribblers 0
-whose 0
-ideas 0
-had 0
-done 0
-so 0
-much 0
-to 0
-bring 0
-down 0
-their 1
-own 1
-country, 1
-Great 1
-Britain. 1
+Historians 0 240 21
+will 0 240 21
+look 0 240 21
+back 0 240 21
+in 0 240 21
+amazement 0 240 21
+at 0 240 21
+how 0 240 21
+America's 0 240 21
+free 0 240 21
+trade 0 240 21
+zealots 1 240 21
+gave 0 240 21
+away 0 240 21
+the 0 240 21
+greatest 0 240 21
+manufacturing 0 240 21
+base 0 240 21
+the 0 240 21
+world 0 240 21
+had 0 240 21
+ever 0 240 21
+seen, 0 240 21
+as 0 240 21
+they 0 240 21
+quoted 0 240 21
+approvingly 0 240 21
+18th- 0 240 21
+and 0 240 21
+19th-century 0 240 21
+scribblers 0 240 21
+whose 0 240 21
+ideas 0 240 21
+had 0 240 21
+done 0 240 21
+so 0 240 21
+much 0 240 21
+to 0 240 21
+bring 0 240 21
+down 0 240 21
+their 1 240 21
+own 1 240 21
+country, 1 240 21
+Great 1 240 21
+Britain. 1 240 21
 
-Between 0
-1997 0
-and 0
-2017, 0
-the 0
-EU 0
-ran 0
-up, 0
-at 0
-America's 0
-expense, 0
-trade 0
-surpluses 0
-in 0
-goods 0
-in 0
-excess 0
-of 0
-$2 0
-trillion, 0
-while 0
-we 0
-also 0
-picked 0
-up 0
-the 0
-bill 0
-for 0
-Europe's 0
-defense. 0
+Between 0 240 22
+1997 0 240 22
+and 0 240 22
+2017, 0 240 22
+the 0 240 22
+EU 0 240 22
+ran 0 240 22
+up, 0 240 22
+at 0 240 22
+America's 0 240 22
+expense, 0 240 22
+trade 0 240 22
+surpluses 0 240 22
+in 0 240 22
+goods 0 240 22
+in 0 240 22
+excess 0 240 22
+of 0 240 22
+$2 0 240 22
+trillion, 0 240 22
+while 0 240 22
+we 0 240 22
+also 0 240 22
+picked 0 240 22
+up 0 240 22
+the 0 240 22
+bill 0 240 22
+for 0 240 22
+Europe's 0 240 22
+defense. 0 240 22
 
-Between 0
-1992 0
-and 0
-2016, 0
-China 1
-was 1
-allowed 1
-to 1
-run 1
-$4 1
-trillion 1
-in 1
-trade 1
-surpluses 1
-at 1
-our 1
-expense, 1
-converting 1
-herself 1
-into 1
-the 1
-world's 1
-first 1
-manufacturing 1
-power 1
-and 1
-denuding 1
-America 1
-of 1
-tens 1
-of 1
-thousands 1
-of 1
-factories 1
-and 1
-millions 1
-of 1
-manufacturing 1
-jobs. 1
+Between 0 240 23
+1992 0 240 23
+and 0 240 23
+2016, 0 240 23
+China 1 240 23
+was 1 240 23
+allowed 1 240 23
+to 1 240 23
+run 1 240 23
+$4 1 240 23
+trillion 1 240 23
+in 1 240 23
+trade 1 240 23
+surpluses 1 240 23
+at 1 240 23
+our 1 240 23
+expense, 1 240 23
+converting 1 240 23
+herself 1 240 23
+into 1 240 23
+the 1 240 23
+world's 1 240 23
+first 1 240 23
+manufacturing 1 240 23
+power 1 240 23
+and 1 240 23
+denuding 1 240 23
+America 1 240 23
+of 1 240 23
+tens 1 240 23
+of 1 240 23
+thousands 1 240 23
+of 1 240 23
+factories 1 240 23
+and 1 240 23
+millions 1 240 23
+of 1 240 23
+manufacturing 1 240 23
+jobs. 1 240 23
 
-In 0
-Trump's 0
-first 0
-year, 0
-China's 0
-trade 0
-surplus 0
-with 0
-the 0
-United 0
-States 0
-hit 0
-$375 0
-billion. 0
+In 0 240 24
+Trump's 0 240 24
+first 0 240 24
+year, 0 240 24
+China's 0 240 24
+trade 0 240 24
+surplus 0 240 24
+with 0 240 24
+the 0 240 24
+United 0 240 24
+States 0 240 24
+hit 0 240 24
+$375 0 240 24
+billion. 0 240 24
 
-From 0
-January 0
-to 0
-March 0
-of 0
-this 0
-year, 0
-our 0
-trade 0
-deficit 0
-with 0
-China 0
-was 0
-running 0
-at 0
-close 0
-to 0
-the 0
-same 0
-astronomical 0
-rate. 0
+From 0 240 25
+January 0 240 25
+to 0 240 25
+March 0 240 25
+of 0 240 25
+this 0 240 25
+year, 0 240 25
+our 0 240 25
+trade 0 240 25
+deficit 0 240 25
+with 0 240 25
+China 0 240 25
+was 0 240 25
+running 0 240 25
+at 0 240 25
+close 0 240 25
+to 0 240 25
+the 0 240 25
+same 0 240 25
+astronomical 0 240 25
+rate. 0 240 25
 
-"Trade 0
-deficits 0
-do 0
-not 0
-matter," 0
-we 0
-hear 0
-from 0
-the 0
-economists. 0
+"Trade 0 240 26
+deficits 0 240 26
+do 0 240 26
+not 0 240 26
+matter," 0 240 26
+we 0 240 26
+hear 0 240 26
+from 0 240 26
+the 0 240 26
+economists. 0 240 26
 
-They 0
-might 0
-explain 0
-that 0
-to 0
-Ohio, 0
-Michigan 0
-and 0
-Pennsylvania. 0
+They 0 240 27
+might 0 240 27
+explain 0 240 27
+that 0 240 27
+to 0 240 27
+Ohio, 0 240 27
+Michigan 0 240 27
+and 0 240 27
+Pennsylvania. 0 240 27
 
-And 0
-perhaps 0
-someone 0
-can 0
-explain 0
-the 0
-wisdom 0
-of 0
-handing 0
-4 0
-percent 0
-of 0
-our 0
-GDP 0
-each 0
-year 0
-to 0
-an 0
-adversary 0
-nation, 0
-as 0
-U.S. 0
-admirals 0
-talk 0
-tough 0
-about 0
-confronting 0
-that 0
-adversary 0
-nation 0
-over 0
-islets 0
-and 0
-reefs 0
-in 0
-the 0
-South 0
-China 0
-Sea. 0
+And 0 240 28
+perhaps 0 240 28
+someone 0 240 28
+can 0 240 28
+explain 0 240 28
+the 0 240 28
+wisdom 0 240 28
+of 0 240 28
+handing 0 240 28
+4 0 240 28
+percent 0 240 28
+of 0 240 28
+our 0 240 28
+GDP 0 240 28
+each 0 240 28
+year 0 240 28
+to 0 240 28
+an 0 240 28
+adversary 0 240 28
+nation, 0 240 28
+as 0 240 28
+U.S. 0 240 28
+admirals 0 240 28
+talk 0 240 28
+tough 0 240 28
+about 0 240 28
+confronting 0 240 28
+that 0 240 28
+adversary 0 240 28
+nation 0 240 28
+over 0 240 28
+islets 0 240 28
+and 0 240 28
+reefs 0 240 28
+in 0 240 28
+the 0 240 28
+South 0 240 28
+China 0 240 28
+Sea. 0 240 28
 
-Why 0
-are 0
-we 0
-enriching 0
-and 0
-empowering 0
-so 0
-exorbitantly 0
-those 0
-whom 0
-we 0
-are 0
-told 0
-we 0
-may 0
-have 0
-to 0
-fight? 0
+Why 0 240 29
+are 0 240 29
+we 0 240 29
+enriching 0 240 29
+and 0 240 29
+empowering 0 240 29
+so 0 240 29
+exorbitantly 0 240 29
+those 0 240 29
+whom 0 240 29
+we 0 240 29
+are 0 240 29
+told 0 240 29
+we 0 240 29
+may 0 240 29
+have 0 240 29
+to 0 240 29
+fight? 0 240 29
 
-Fourth, 0
-under 0
-Bush 0
-II 0
-and 0
-Obama, 0
-the 0
-U.S. 0
-intervened 0
-massively 0
-in 0
-the 0
-Near 0
-and 0
-Middle 0
-East—in 0
-Afghanistan, 0
-Iraq, 0
-Libya, 0
-Syria, 0
-Yemen. 0
+Fourth, 0 240 30
+under 0 240 30
+Bush 0 240 30
+II 0 240 30
+and 0 240 30
+Obama, 0 240 30
+the 0 240 30
+U.S. 0 240 30
+intervened 0 240 30
+massively 0 240 30
+in 0 240 30
+the 0 240 30
+Near 0 240 30
+and 0 240 30
+Middle 0 240 30
+East—in 0 240 30
+Afghanistan, 0 240 30
+Iraq, 0 240 30
+Libya, 0 240 30
+Syria, 0 240 30
+Yemen. 0 240 30
 
-And 0
-the 0
-forces 0
-that 0
-pushed 0
-up 0
-into 0
-those 0
-conflicts, 0
-and 0
-so 1
-disillusioned 1
-the 1
-nation 1
-that 1
-it 1
-elected 1
-Barack 1
-Obama, 1
-are 0
-back, 0
-pushing 0
-for 0
-a 0
-new 0
-war, 0
-on 0
-Iran. 0
+And 0 240 31
+the 0 240 31
+forces 0 240 31
+that 0 240 31
+pushed 0 240 31
+up 0 240 31
+into 0 240 31
+those 0 240 31
+conflicts, 0 240 31
+and 0 240 31
+so 1 240 31
+disillusioned 1 240 31
+the 1 240 31
+nation 1 240 31
+that 1 240 31
+it 1 240 31
+elected 1 240 31
+Barack 1 240 31
+Obama, 1 240 31
+are 0 240 31
+back, 0 240 31
+pushing 0 240 31
+for 0 240 31
+a 0 240 31
+new 0 240 31
+war, 0 240 31
+on 0 240 31
+Iran. 0 240 31
 
-They 0
-may 0
-get 0
-this 0
-war, 0
-too. 0
+They 0 240 32
+may 0 240 32
+get 0 240 32
+this 0 240 32
+war, 0 240 32
+too. 0 240 32
 
-Yet, 0
-given 0
-the 0
-anti-interventionist 0
-and 0
-anti-war 0
-stance 0
-of 0
-Trump's 0
-winning 0
-campaign, 0
-and 0
-of 0
-the 0
-Bernie 0
-Sanders 0
-campaign, 0
-U.S. 0
-involvement 0
-in 0
-Middle 0
-East 0
-wars 0
-seems 0
-less 0
-America's 0
-future 0
-than 0
-it 0
-does 0
-her 0
-past. 0
+Yet, 0 240 33
+given 0 240 33
+the 0 240 33
+anti-interventionist 0 240 33
+and 0 240 33
+anti-war 0 240 33
+stance 0 240 33
+of 0 240 33
+Trump's 0 240 33
+winning 0 240 33
+campaign, 0 240 33
+and 0 240 33
+of 0 240 33
+the 0 240 33
+Bernie 0 240 33
+Sanders 0 240 33
+campaign, 0 240 33
+U.S. 0 240 33
+involvement 0 240 33
+in 0 240 33
+Middle 0 240 33
+East 0 240 33
+wars 0 240 33
+seems 0 240 33
+less 0 240 33
+America's 0 240 33
+future 0 240 33
+than 0 240 33
+it 0 240 33
+does 0 240 33
+her 0 240 33
+past. 0 240 33
 
-After 0
-his 0
-16 0
-months 0
-in 0
-office, 0
-it 0
-appears 0
-as 0
-though 0
-the 0
-Trump 0
-presidency, 0
-no 0
-matter 0
-how 0
-brief, 0
-is 0
-going 0
-to 0
-be 0
-a 0
-watershed 1
-moment 1
-in 1
-U.S. 1
-and 1
-world 1
-history, 1
-and 1
-in 1
-the 1
-future 1
-of 1
-the 1
-GOP. 1
+After 0 240 34
+his 0 240 34
+16 0 240 34
+months 0 240 34
+in 0 240 34
+office, 0 240 34
+it 0 240 34
+appears 0 240 34
+as 0 240 34
+though 0 240 34
+the 0 240 34
+Trump 0 240 34
+presidency, 0 240 34
+no 0 240 34
+matter 0 240 34
+how 0 240 34
+brief, 0 240 34
+is 0 240 34
+going 0 240 34
+to 0 240 34
+be 0 240 34
+a 0 240 34
+watershed 1 240 34
+moment 1 240 34
+in 1 240 34
+U.S. 1 240 34
+and 1 240 34
+world 1 240 34
+history, 1 240 34
+and 1 240 34
+in 1 240 34
+the 1 240 34
+future 1 240 34
+of 1 240 34
+the 1 240 34
+GOP. 1 240 34
 
-The 0
-world 0
-is 0
-changing. 0
+The 0 240 35
+world 0 240 35
+is 0 240 35
+changing. 0 240 35
 
-NATO 0
-and 0
-the 0
-EU 0
-are 0
-showing 0
-their 0
-age. 0
+NATO 0 240 36
+and 0 240 36
+the 0 240 36
+EU 0 240 36
+are 0 240 36
+showing 0 240 36
+their 0 240 36
+age. 0 240 36
 
-Nationalism, 0
-populism 0
-and 0
-tribalism 0
-are 0
-pervasive 0
-on 0
-the 0
-Old 0
-Continent. 0
+Nationalism, 0 240 37
+populism 0 240 37
+and 0 240 37
+tribalism 0 240 37
+are 0 240 37
+pervasive 0 240 37
+on 0 240 37
+the 0 240 37
+Old 0 240 37
+Continent. 0 240 37
 
-And 0
-America's 0
-willingness 0
-to 0
-bear 0
-the 0
-burden 0
-of 0
-Europe's 0
-defense, 0
-as 0
-they 0
-ride 0
-virtually 0
-free, 0
-is 0
-visibly 0
-waning. 0
+And 0 240 38
+America's 0 240 38
+willingness 0 240 38
+to 0 240 38
+bear 0 240 38
+the 0 240 38
+burden 0 240 38
+of 0 240 38
+Europe's 0 240 38
+defense, 0 240 38
+as 0 240 38
+they 0 240 38
+ride 0 240 38
+virtually 0 240 38
+free, 0 240 38
+is 0 240 38
+visibly 0 240 38
+waning. 0 240 38
 
-It 0
-is 0
-hard 0
-to 0
-see 0
-why 0
-or 0
-how 0
-Republicans 0
-are 0
-ever 0
-again 0
-going 0
-to 0
-be 0
-the 0
-Bush-Boehner 0
-party 0
-that 0
-preceded 0
-the 0
-rise 0
-of 0
-Trump. 0
+It 0 240 39
+is 0 240 39
+hard 0 240 39
+to 0 240 39
+see 0 240 39
+why 0 240 39
+or 0 240 39
+how 0 240 39
+Republicans 0 240 39
+are 0 240 39
+ever 0 240 39
+again 0 240 39
+going 0 240 39
+to 0 240 39
+be 0 240 39
+the 0 240 39
+Bush-Boehner 0 240 39
+party 0 240 39
+that 0 240 39
+preceded 0 240 39
+the 0 240 39
+rise 0 240 39
+of 0 240 39
+Trump. 0 240 39
 
-What 0
-would 0
-be 0
-the 0
-argument 0
-for 0
-returning 0
-to 0
-a 0
-repudiated 1
-platform? 0
+What 0 240 40
+would 0 240 40
+be 0 240 40
+the 0 240 40
+argument 0 240 40
+for 0 240 40
+returning 0 240 40
+to 0 240 40
+a 0 240 40
+repudiated 1 240 40
+platform? 0 240 40
 
-Trump 0
-not 0
-only 0
-defeated 0
-16 0
-Bush 0
-Republicans, 0
-he 0
-presented 0
-an 0
-agenda 0
-on 0
-immigration, 0
-border 0
-security, 0
-amnesty, 0
-intervention 0
-abroad, 0
-the 0
-Middle 0
-East, 0
-NAFTA, 0
-free 0
-trade, 0
-Putin 0
-and 0
-Russia 0
-that 0
-was 0
-a 0
-rejection 0
-of 0
-what 0
-the 0
-Bush-Boehner 0
-Party 0
-had 0
-stood 0
-for 0
-and 0
-what 0
-its 0
-presidential 0
-candidates 0
-in 0
-2008 0
-and 0
-2012, 0
-John 0
-McCain 0
-and 0
-Mitt 0
-Romney, 0
-had 0
-run 0
-on. 0
+Trump 0 240 41
+not 0 240 41
+only 0 240 41
+defeated 0 240 41
+16 0 240 41
+Bush 0 240 41
+Republicans, 0 240 41
+he 0 240 41
+presented 0 240 41
+an 0 240 41
+agenda 0 240 41
+on 0 240 41
+immigration, 0 240 41
+border 0 240 41
+security, 0 240 41
+amnesty, 0 240 41
+intervention 0 240 41
+abroad, 0 240 41
+the 0 240 41
+Middle 0 240 41
+East, 0 240 41
+NAFTA, 0 240 41
+free 0 240 41
+trade, 0 240 41
+Putin 0 240 41
+and 0 240 41
+Russia 0 240 41
+that 0 240 41
+was 0 240 41
+a 0 240 41
+rejection 0 240 41
+of 0 240 41
+what 0 240 41
+the 0 240 41
+Bush-Boehner 0 240 41
+Party 0 240 41
+had 0 240 41
+stood 0 240 41
+for 0 240 41
+and 0 240 41
+what 0 240 41
+its 0 240 41
+presidential 0 240 41
+candidates 0 240 41
+in 0 240 41
+2008 0 240 41
+and 0 240 41
+2012, 0 240 41
+John 0 240 41
+McCain 0 240 41
+and 0 240 41
+Mitt 0 240 41
+Romney, 0 240 41
+had 0 240 41
+run 0 240 41
+on. 0 240 41
 
-If 0
-the 0
-Republican 0
-Party 0
-is 0
-"napping," 0
-let 0
-it 0
-slumber 0
-on, 0
-undisturbed, 0
-for 0
-its 1
-time 1
-has 1
-come 1
-and 1
-gone. 1
+If 0 240 42
+the 0 240 42
+Republican 0 240 42
+Party 0 240 42
+is 0 240 42
+"napping," 0 240 42
+let 0 240 42
+it 0 240 42
+slumber 0 240 42
+on, 0 240 42
+undisturbed, 0 240 42
+for 0 240 42
+its 1 240 42
+time 1 240 42
+has 1 240 42
+come 1 240 42
+and 1 240 42
+gone. 1 240 42
 
-We 0
-are 0
-in 0
-a 0
-new 0
-world 0
-now. 0
+We 0 240 43
+are 0 240 43
+in 0 240 43
+a 0 240 43
+new 0 240 43
+world 0 240 43
+now. 0 240 43
 
-COPYRIGHT 0
-2018 0
-CREATORS.COM 0
+COPYRIGHT 0 240 44
+2018 0 240 44
+CREATORS.COM 0 240 44
 
-Patrick 0
-J. 0
-Buchanan 0
-needs 0
-no 0
-introduction 0
-to 0
-VDARE.COM 0
-readers; 0
-his 0
-books 0
-State 0
-of 0
-Emergency: 0
-The 0
-Third 0
-World 0
-Invasion 0
-and 0
-Conquest 0
-of 0
-America, 0
-and 0
-Suicide 0
-of 0
-a 0
-Superpower: 0
-Will 0
-America 0
-Survive 0
-to 0
-2025? 0
+Patrick 0 240 45
+J. 0 240 45
+Buchanan 0 240 45
+needs 0 240 45
+no 0 240 45
+introduction 0 240 45
+to 0 240 45
+VDARE.COM 0 240 45
+readers; 0 240 45
+his 0 240 45
+books 0 240 45
+State 0 240 45
+of 0 240 45
+Emergency: 0 240 45
+The 0 240 45
+Third 0 240 45
+World 0 240 45
+Invasion 0 240 45
+and 0 240 45
+Conquest 0 240 45
+of 0 240 45
+America, 0 240 45
+and 0 240 45
+Suicide 0 240 45
+of 0 240 45
+a 0 240 45
+Superpower: 0 240 45
+Will 0 240 45
+America 0 240 45
+Survive 0 240 45
+to 0 240 45
+2025? 0 240 45
 
-are 0
-available 0
-from 0
-Amazon.com. 0
+are 0 240 46
+available 0 240 46
+from 0 240 46
+Amazon.com. 0 240 46
 
-Patrick 0
-J. 0
-Buchanan 0
-is 0
-the 0
-author 0
-of 0
-“The 0
-Greatest 0
-Comeback: 0
-How 0
-Richard 0
-Nixon 0
-Rose 0
-From 0
-Defeat 0
-to 0
-Create 0
-the 0
-New 0
-Majority. 0
+Patrick 0 240 47
+J. 0 240 47
+Buchanan 0 240 47
+is 0 240 47
+the 0 240 47
+author 0 240 47
+of 0 240 47
+“The 0 240 47
+Greatest 0 240 47
+Comeback: 0 240 47
+How 0 240 47
+Richard 0 240 47
+Nixon 0 240 47
+Rose 0 240 47
+From 0 240 47
+Defeat 0 240 47
+to 0 240 47
+Create 0 240 47
+the 0 240 47
+New 0 240 47
+Majority. 0 240 47
 
-His 0
-latest 0
-book, 0
-published 0
-May 0
-9, 0
-is 0
-“Nixon’s 0
-White 0
-House 0
-Wars: 0
-The 0
-Battles 0
-That 0
-Made 0
-and 0
-Broke 0
-a 0
-President 0
-and 0
-Divided 0
-America 0
-Forever.” 0
+His 0 240 48
+latest 0 240 48
+book, 0 240 48
+published 0 240 48
+May 0 240 48
+9, 0 240 48
+is 0 240 48
+“Nixon’s 0 240 48
+White 0 240 48
+House 0 240 48
+Wars: 0 240 48
+The 0 240 48
+Battles 0 240 48
+That 0 240 48
+Made 0 240 48
+and 0 240 48
+Broke 0 240 48
+a 0 240 48
+President 0 240 48
+and 0 240 48
+Divided 0 240 48
+America 0 240 48
+Forever.” 0 240 48
 
-See 0
-Peter 0
-Brimelow’s 0
-review: 0
-“Wheel 0
-And 0
-Fight”—Pat 0
-Buchanan’s 0
-Nixon 0
-Book 0
+See 0 240 48
+
+Peter 0 240 48
+
+Brimelow’s 0 240 48
+
+review: 0 240 48
+
+“Wheel 0 240 48
+
+And 0 240 48
+
+Fight”—Pat 0 240 48
+
+Buchanan’s 0 240 48
+
+Nixon 0 240 48
+
+Book 0 240 48

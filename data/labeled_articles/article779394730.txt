@@ -1,738 +1,731 @@
-Hundreds 0
-of 0
-Priests 0
-Accused 0
-in 0
-Pennsylvania, 0
-Church 0
-of 0
-Accompaniment 0
-in 0
-Crisis 0
+Hundreds 0 322 0
+of 0 322 0
+Priests 0 322 0
+Accused 0 322 0
+in 0 322 0
+Pennsylvania, 0 322 0
+Church 0 322 0
+of 0 322 0
+Accompaniment 0 322 0
+in 0 322 0
+Crisis 0 322 0
 
-The 0
-Pennsylvania 0
-Supreme 0
-Court 0
-on 0
-Tuesday 0
-released 0
-a 0
-sweeping 0
-grand 0
-jury 0
-report 0
-on 0
-sex 0
-abuse 0
-in 0
-the 0
-Catholic 0
-Church, 0
-listing 0
-hundreds 0
-of 0
-accused 0
-clergy 0
-and 0
-detailing 0
-70 0
-years 0
-of 0
-misconduct 0
-and 0
-church 0
-response 0
-across 0
-the 0
-state. 0
+The 0 322 1
+Pennsylvania 0 322 1
+Supreme 0 322 1
+Court 0 322 1
+on 0 322 1
+Tuesday 0 322 1
+released 0 322 1
+a 0 322 1
+sweeping 0 322 1
+grand 0 322 1
+jury 0 322 1
+report 0 322 1
+on 0 322 1
+sex 0 322 1
+abuse 0 322 1
+in 0 322 1
+the 0 322 1
+Catholic 0 322 1
+Church, 0 322 1
+listing 0 322 1
+hundreds 0 322 1
+of 0 322 1
+accused 0 322 1
+clergy 0 322 1
+and 0 322 1
+detailing 0 322 1
+70 0 322 1
+years 0 322 1
+of 0 322 1
+misconduct 0 322 1
+and 0 322 1
+church 0 322 1
+response 0 322 1
+across 0 322 1
+the 0 322 1
+state. 0 322 1
 
-The 0
+The 0 322 2
+release 0 322 2
+is 0 322 2
+the 0 322 2
+culmination 0 322 2
+of 0 322 2
+an 0 322 2
+18-month 0 322 2
+probe, 0 322 2
+led 0 322 2
+by 0 322 2
+state 0 322 2
+Attorney 0 322 2
+General 0 322 2
+Josh 0 322 2
+Shapiro, 0 322 2
+on 0 322 2
+six 0 322 2
+of 0 322 2
+the 0 322 2
+state’s 0 322 2
+eight 0 322 2
+dioceses 0 322 2
+— 0 322 2
+Harrisburg, 0 322 2
+Pittsburgh, 0 322 2
+Allentown, 0 322 2
+Scranton, 0 322 2
+Erie 0 322 2
+and 0 322 2
+Greensburg 0 322 2
+— 0 322 2
+and 0 322 2
+follows 0 322 2
+other 0 322 2
+state 0 322 2
+grand 0 322 2
+jury 0 322 2
+reports 0 322 2
+that 0 322 2
+revealed 0 322 2
+abuse 0 322 2
+and 0 322 2
+coverups 0 322 2
+in 0 322 2
+two 0 322 2
+other 0 322 2
+dioceses. 0 322 2
 
-release 0
-is 0
-the 0
-culmination 0
-of 0
-an 0
-18-month 0
-probe, 0
-led 0
-by 0
-state 0
-Attorney 0
-General 0
-Josh 0
-Shapiro, 0
-on 0
-six 0
-of 0
-the 0
-state’s 0
-eight 0
-dioceses 0
-— 0
-Harrisburg, 0
-Pittsburgh, 0
-Allentown, 0
-Scranton, 0
-Erie 0
-and 0
-Greensburg 0
-— 0
-and 0
-follows 0
-other 0
-state 0
-grand 0
-jury 0
-reports 0
-that 0
-revealed 0
-abuse 0
-and 0
-coverups 0
-in 0
-two 0
-other 0
-dioceses. 0
+Some 0 322 3
+details 0 322 3
+and 0 322 3
+names 0 322 3
+that 0 322 3
+might 0 322 3
+reveal 0 322 3
+the 0 322 3
+300 0 322 3
+clergy 0 322 3
+listed 0 322 3
+have 0 322 3
+been 0 322 3
+redacted 0 322 3
+from 0 322 3
+the 0 322 3
+report. 0 322 3
 
-Some 0
+Legal 0 322 4
+challenges 0 322 4
+by 0 322 4
+clergy 0 322 4
+delayed 0 322 4
+the 0 322 4
+report’s 0 322 4
+release, 0 322 4
+after 0 322 4
+some 0 322 4
+said 0 322 4
+it 0 322 4
+is 0 322 4
+a 0 322 4
+violation 0 322 4
+of 0 322 4
+their 0 322 4
+constitutional 0 322 4
+rights. 0 322 4
 
-details 0
-and 0
-names 0
-that 0
-might 0
-reveal 0
-the 0
-300 0
-clergy 0
-listed 0
-have 0
-been 0
-redacted 0
-from 0
-the 0
-report. 0
+Pennsylvania’s 0 322 5
+Supreme 0 322 5
+Court 0 322 5
+ruled 0 322 5
+last 0 322 5
+month 0 322 5
+that 0 322 5
+the 0 322 5
+report 0 322 5
+must 0 322 5
+be 0 322 5
+released 0 322 5
+but 0 322 5
+with 0 322 5
+some 0 322 5
+redaction. 0 322 5
 
-Legal 0
-challenges 0
-by 0
-clergy 0
-delayed 0
-the 0
-report’s 0
-release, 0
-after 0
-some 0
-said 0
-it 0
-is 0
-a 0
-violation 0
-of 0
-their 0
-constitutional 0
-rights. 0
+The 0 322 6
+report’s 0 322 6
+release 0 322 6
+begins 0 322 6
+an 1 322 6
+information 1 322 6
+war, 1 322 6
+with 0 322 6
+prosecutors 0 322 6
+and 0 322 6
+many 0 322 6
+victims 0 322 6
+saying 0 322 6
+it’s 0 322 6
+the 0 322 6
+start 0 322 6
+of 0 322 6
+holding 0 322 6
+church 0 322 6
+leaders 0 322 6
+at 0 322 6
+the 0 322 6
+top 0 322 6
+accountable 0 322 6
+for 0 322 6
+the 0 322 6
+first 0 322 6
+time, 0 322 6
+while 0 322 6
+church 0 322 6
+lawyers 0 322 6
+and 0 322 6
+other 0 322 6
+advocates 0 322 6
+for 0 322 6
+the 0 322 6
+institution 0 322 6
+say 0 322 6
+the 0 322 6
+report 0 322 6
+depicts 0 322 6
+an 0 322 6
+era 0 322 6
+of 0 322 6
+another 0 322 6
+century, 0 322 6
+unfairly 1 322 6
+smearing 1 322 6
+today’s 0 322 6
+Catholicism 0 322 6
+in 0 322 6
+Pennsylvania. 0 322 6
 
-Pennsylvania’s 0
-Supreme 0
-Court 0
-ruled 0
-last 0
-month 0
-that 0
-the 0
-report 0
-must 0
-be 0
-released 0
-but 0
-with 0
-some 0
-redaction. 0
+The 0 322 7
+report 0 322 7
+has 0 322 7
+helped 0 322 7
+renew 0 322 7
+a 0 322 7
+crisis 0 322 7
+many 0 322 7
+in 0 322 7
+the 0 322 7
+church 0 322 7
+thought 0 322 7
+and 0 322 7
+hoped 0 322 7
+had 0 322 7
+ended 0 322 7
+nearly 0 322 7
+20 0 322 7
+years 0 322 7
+ago 0 322 7
+after 1 322 7
+the 1 322 7
+scandal 1 322 7
+erupted 1 322 7
+in 0 322 7
+Boston. 0 322 7
 
-The 0
+But 1 322 8
+recent 1 322 8
+abuse-related 1 322 8
+scandals, 1 322 8
+from 1 322 8
+Chile 1 322 8
+to 1 322 8
+Australia, 1 322 8
+have 1 322 8
+reopened 1 322 8
+wounding 1 322 8
+questions 1 322 8
+about 1 322 8
+accountability 1 322 8
+and 1 322 8
+whether 1 322 8
+church 1 322 8
+officials 1 322 8
+are 1 322 8
+still 1 322 8
+covering 1 322 8
+up 1 322 8
+crimes 1 322 8
+at 1 322 8
+the 1 322 8
+highest 1 322 8
+levels. 1 322 8
 
-report’s 0
-release 0
-begins 0
-an 1
-information 1
-war, 1
-with 0
-prosecutors 0
-and 0
-many 0
-victims 0
-saying 0
-it’s 0
-the 0
-start 0
-of 0
-holding 0
-church 0
-leaders 0
-at 0
-the 0
-top 0
-accountable 0
-for 0
-the 0
-first 0
-time, 0
-while 0
-church 0
-lawyers 0
-and 0
-other 0
-advocates 0
-for 0
-the 0
-institution 0
-say 0
-the 0
-report 0
-depicts 0
-an 0
-era 0
-of 0
-another 0
-century, 0
-unfairly 1
-smearing 1
-today’s 0
-Catholicism 0
-in 0
-Pennsylvania. 0
+The 1 322 9
+new 1 322 9
+wave 1 322 9
+of 1 322 9
+allegations 1 322 9
+has 1 322 9
+called 1 322 9
+Pope 1 322 9
+Francis’s 1 322 9
+handling 1 322 9
+of 1 322 9
+abuse 1 322 9
+into 1 322 9
+question 1 322 9
+as 1 322 9
+many 1 322 9
+Catholics 1 322 9
+look 1 322 9
+to 1 322 9
+him 1 322 9
+to 1 322 9
+help 1 322 9
+the 1 322 9
+church 1 322 9
+regain 1 322 9
+its 1 322 9
+credibility. 1 322 9
 
-The 0
+The 1 322 10
+pope’s 1 322 10
+track 1 322 10
+record 1 322 10
+has 1 322 10
+been 1 322 10
+mixed, 1 322 10
+something 1 322 10
+some 1 322 10
+outsiders 1 322 10
+attribute 1 322 10
+to 1 322 10
+his 1 322 10
+learning 1 322 10
+curve 1 322 10
+or 1 322 10
+shortcomings 1 322 10
+and 0 322 10
+others 0 322 10
+chalk 0 322 10
+up 0 322 10
+to 0 322 10
+resistance 0 322 10
+from 0 322 10
+a 1 322 10
+notoriously 1 322 10
+change-averse 1 322 10
+institution. 1 322 10
 
-report 0
-has 0
-helped 0
-renew 0
-a 0
-crisis 0
-many 0
-in 0
-the 0
-church 0
-thought 0
-and 0
-hoped 0
-had 0
-ended 0
-nearly 0
-20 0
-years 0
-ago 0
-after 1
-the 1
-scandal 1
-erupted 1
-in 0
-Boston. 0
+The 0 322 11
+Pennsylvania 0 322 11
+grand 0 322 11
+jury 0 322 11
+report 0 322 11
+follows 0 322 11
+the 0 322 11
+resignation 0 322 11
+last 0 322 11
+month 0 322 11
+of 0 322 11
+Cardinal 0 322 11
+Theodore 0 322 11
+McCarrick, 0 322 11
+a 1 322 11
+towering 1 322 11
+figure 1 322 11
+in 1 322 11
+the 1 322 11
+U.S. 1 322 11
+church 1 322 11
+and 0 322 11
+former 0 322 11
+D.C. 0 322 11
+archbishop 0 322 11
+who 0 322 11
+was 0 322 11
+accused 0 322 11
+of 0 322 11
+sexually 0 322 11
+abusing 0 322 11
+minors 0 322 11
+and 0 322 11
+adults 0 322 11
+for 0 322 11
+decades. 0 322 11
 
-But 1
-recent 1
-abuse-related 1
-scandals, 1
-from 1
-Chile 1
-to 1
-Australia, 1
-have 1
-reopened 1
-wounding 1
-questions 1
-about 1
-accountability 1
-and 1
-whether 1
-church 1
-officials 1
-are 1
-still 1
-covering 1
-up 1
-crimes 1
-at 1
-the 1
-highest 1
-levels. 1
+Both 0 322 12
+have 0 322 12
+further 0 322 12
+polarized 0 322 12
+the 0 322 12
+church 0 322 12
+on 0 322 12
+homosexuality, 0 322 12
+celibacy 0 322 12
+and 0 322 12
+whether 0 322 12
+laypeople 0 322 12
+should 0 322 12
+have 0 322 12
+more 0 322 12
 
-The 1
+power. 0 322 13
+It 0 322 13
+has 0 322 13
+also 0 322 13
+triggered 0 322 13
+debate 0 322 13
+about 0 322 13
+whether 0 322 13
+statutes 0 322 13
+of 0 322 13
+limitations 0 322 13
+should 0 322 13
+be 0 322 13
+expanded. 0 322 13
 
-new 1
-wave 1
-of 1
-allegations 1
-has 1
-called 1
-Pope 1
-Francis’s 1
-handling 1
-of 1
-abuse 1
-into 1
-question 1
-as 1
-many 1
-Catholics 1
-look 1
-to 1
-him 1
-to 1
-help 1
-the 1
-church 1
-regain 1
-its 1
-credibility. 1
+“We’re 0 322 14
+dealing 0 322 14
+with 0 322 14
+a 0 322 14
+long-term 0 322 14
+struggle 0 322 14
+not 0 322 14
+only 0 322 14
+about 0 322 14
+the 0 322 14
+meaning 0 322 14
+of 0 322 14
+justice, 0 322 14
+but 0 322 14
+about 0 322 14
+the 0 322 14
+meaning 0 322 14
+of 0 322 14
+memory,” 0 322 14
+said 0 322 14
+Jason 0 322 14
+Berry, 0 322 14
+a 0 322 14
+reporter 0 322 14
+and 0 322 14
+author 0 322 14
+who 0 322 14
+has 0 322 14
+covered 0 322 14
+the 0 322 14
+sexual 0 322 14
+abuse 0 322 14
+crisis 0 322 14
+for 0 322 14
+decades. 0 322 14
 
-The 1
-pope’s 1
-track 1
-record 1
-has 1
-been 1
-mixed, 1
-something 1
-some 1
-outsiders 1
-attribute 1
-to 1
-his 1
-learning 1
-curve 1
-or 1
-shortcomings 1
-and 0
-others 0
-chalk 0
-up 0
-to 0
-resistance 0
-from 0
-a 1
-notoriously 1
-change-averse 1
-institution. 1
+“And 1 322 15
+how 1 322 15
+honest 1 322 15
+the 1 322 15
+church 1 322 15
+has 1 322 15
+been 1 322 15
+about 1 322 15
+this 1 322 15
 
-The 0
+crisis. 1 322 16
+Most 1 322 16
+bishops, 1 322 16
+besides 1 322 16
+apologies, 1 322 16
+have 1 322 16
+not 1 322 16
+been 1 322 16
+on 1 322 16
+the 1 322 16
+cutting 1 322 16
+edge 1 322 16
+of 1 322 16
+change.” 1 322 16
 
-Pennsylvania 0
-grand 0
-jury 0
-report 0
-follows 0
-the 0
-resignation 0
-last 0
-month 0
-of 0
-Cardinal 0
-Theodore 0
-McCarrick, 0
-a 1
-towering 1
-figure 1
-in 1
-the 1
-U.S. 1
-church 1
-and 0
-former 0
-D.C. 0
-archbishop 0
-who 0
-was 0
-accused 0
-of 0
-sexually 0
-abusing 0
-minors 0
-and 0
-adults 0
-for 0
-decades. 0
+Church 0 322 17
+officials 0 322 17
+began 0 322 17
+bracing 0 322 17
+for 0 322 17
+the 0 322 17
+aftermath 0 322 17
+of 0 322 17
+the 0 322 17
 
-Both 0
-have 0
-further 0
-polarized 0
-the 0
-church 0
-on 0
-homosexuality, 0
-celibacy 0
-and 0
-whether 0
-laypeople 0
-should 0
-have 0
-more 0
-power. 0
+report. 0 322 18
+On 0 322 18
+Monday, 0 322 18
+D.C.’s 0 322 18
+archbishop, 0 322 18
+Cardinal 0 322 18
+Donald 0 322 18
+Wuerl, 0 322 18
+former 0 322 18
+longtime 0 322 18
+leader 0 322 18
+of 0 322 18
+the 0 322 18
+Pittsburgh 0 322 18
+diocese, 0 322 18
+warned 0 322 18
+his 0 322 18
+priests 0 322 18
+in 0 322 18
+a 0 322 18
+letter 0 322 18
+that 0 322 18
+the 0 322 18
+probe 0 322 18
+will 0 322 18
+be 0 322 18
+“profoundly 1 322 18
+disturbing.” 1 322 18
 
-It 0
-has 0
-also 0
-triggered 0
-debate 0
-about 0
-whether 0
-statutes 0
-of 0
-limitations 0
-should 0
-be 0
-expanded. 0
+REMNANT 0 322 19
+COMMENT: 0 322 19
+The 0 322 19
+report 0 322 19
+also 0 322 19
+shows 0 322 19
+that 0 322 19
+“more 0 322 19
+than 0 322 19
+90 0 322 19
+‘offenders’ 0 322 19
+will 0 322 19
+be 0 322 19
+listed” 0 322 19
+in 0 322 19
+Donald 0 322 19
+Cardinal 0 322 19
+Wuerl’s 0 322 19
+former 0 322 19
+diocese, 0 322 19
+which 0 322 19
+is 0 322 19
+ironic 0 322 19
+since 0 322 19
+Wuerl 0 322 19
+is 0 322 19
+one 0 322 19
+of 0 322 19
+Pope 0 322 19
+Francis’s 0 322 19
+closest 0 322 19
+U.S. 0 322 19
+advisers 0 322 19
+and 0 322 19
+sits 0 322 19
+on 0 322 19
+the 0 322 19
+Vatican’s 0 322 19
+bishop 0 322 19
+oversight 0 322 19
+committee. 0 322 19
 
-“We’re 0
+Well 1 322 20
+played, 1 322 20
+Cardinal 1 322 20
 
-dealing 0
-with 0
-a 0
-long-term 0
-struggle 0
-not 0
-only 0
-about 0
-the 0
-meaning 0
-of 0
-justice, 0
-but 0
-about 0
-the 0
-meaning 0
-of 0
-memory,” 0
-said 0
-Jason 0
-Berry, 0
-a 0
-reporter 0
-and 0
-author 0
-who 0
-has 0
-covered 0
-the 0
-sexual 0
-abuse 0
-crisis 0
-for 0
-decades. 0
+Wuerl! 1 322 21
+So, 0 322 21
+let 0 322 21
+me 0 322 21
+get 0 322 21
+this 0 322 21
+straight 0 322 21
+(I 0 322 21
+know, 1 322 21
+lots 1 322 21
+of 1 322 21
+luck 1 322 21
+with 1 322 21
+that 1 322 21
+one): 1 322 21
+These 1 322 21
+are 1 322 21
+the 1 322 21
+people 1 322 21
+that 1 322 21
+are 1 322 21
+going 1 322 21
+to 1 322 21
+"accompany 1 322 21
+us" 1 322 21
+and 1 322 21
+our 1 322 21
+children 1 322 21
+in 1 322 21
+the 1 322 21
+"synodal 1 322 21
+Church" 1 322 21
+with 1 322 21
+its 1 322 21
+new 1 322 21
+orientation, 1 322 21
+overseen 0 322 21
+by 0 322 21
+a 1 322 21
+"God 1 322 21
+of 1 322 21
+Surprises" 1 322 21
+who 1 322 21
+is 1 322 21
+uber-merciful 1 322 21
+and 1 322 21
+doesn't 1 322 21
+judge, 1 322 21
+and 0 322 21
+headed 0 322 21
+up 0 322 21
+by 0 322 21
+a 1 322 21
+pope 1 322 21
+who, 1 322 21
+according 1 322 21
+to 1 322 21
+Father 1 322 21
+Thomas 1 322 21
+Rosica, 1 322 21
+"breaks 1 322 21
+Catholic 1 322 21
+traditions 1 322 21
+whenever 1 322 21
+he 1 322 21
+wants, 1 322 21
+because 1 322 21
+he 1 322 21
+is 1 322 21
+'free 1 322 21
+from 1 322 21
+disordered 1 322 21
+attachments'?'' 1 322 21
 
-“And 1
-how 1
-honest 1
-the 1
-church 1
-has 1
-been 1
-about 1
-this 1
-crisis. 1
+You 1 322 22
+don't 1 322 22
 
-Most 1
-bishops, 1
-besides 1
-apologies, 1
-have 1
-not 1
-been 1
-on 1
-the 1
-cutting 1
-edge 1
-of 1
-change.” 1
+say! 1 322 23
+All 1 322 23
+this 1 322 23
+and 1 322 23
+rampant 1 322 23
+homosexuality 1 322 23
+in 1 322 23
+the 1 322 23
+priesthood, 1 322 23
+too... 1 322 23
+along 1 322 23
+with 1 322 23
+a 1 322 23
+"trivialized 1 322 23
+liturgy" 1 322 23
+(according 1 322 23
+to 1 322 23
+Pope 1 322 23
+Benedict 1 322 23
+XVI) 1 322 23
+and 1 322 23
+widespread 1 322 23
+apostasy 1 322 23
+among 1 322 23
+the 1 322 23
+faithful? 1 322 23
 
-Church 0
+Remind 1 322 24
+me 1 322 24
+again: 1 322 24
+What 1 322 24
+exactly 1 322 24
+has 1 322 24
+Vatican 1 322 24
+II 1 322 24
+and 1 322 24
+the 1 322 24
+last 1 322 24
+fifty 1 322 24
+years 1 322 24
+of 1 322 24
+aggiornamento 1 322 24
+given 1 322 24
 
-officials 0
-began 0
-bracing 0
-for 0
-the 0
-aftermath 0
-of 0
-the 0
-report. 0
+us? 1 322 25
+Because 1 322 25
+I 1 322 25
+can't 1 322 25
+seem 1 322 25
+to 1 322 25
+think 1 322 25
+of 1 322 25
+a 1 322 25
+darn 1 322 25
+thing, 1 322 25
+apart 1 322 25
+from 1 322 25
+heretical 1 322 25
+homilies, 1 322 25
+sodomitical 1 322 25
+clergy 1 322 25
+and 1 322 25
+an 1 322 25
+increasingly 1 322 25
+lavender 1 322 25
 
-On 0
-Monday, 0
-D.C.’s 0
-archbishop, 0
-Cardinal 0
-Donald 0
-Wuerl, 0
-former 0
-longtime 0
-leader 0
-of 0
-the 0
-Pittsburgh 0
-diocese, 0
-warned 0
-his 0
-priests 0
-in 0
-a 0
-letter 0
-that 0
-the 0
-probe 0
-will 0
-be 0
-“profoundly 1
-disturbing.” 1
+liturgy. 1 322 26
+You 1 322 26
+know 1 322 26
+what, 1 322 26
 
-REMNANT 0
-COMMENT: 0
-The 0
-report 0
-also 0
-shows 0
-that 0
-“more 0
-than 0
-90 0
-‘offenders’ 0
-will 0
-be 0
-listed” 0
-in 0
-Donald 0
-Cardinal 0
-Wuerl’s 0
-former 0
-diocese, 0
-which 0
-is 0
-ironic 0
-since 0
-Wuerl 0
-is 0
-one 0
-of 0
-Pope 0
-Francis’s 0
-closest 0
-U.S. 0
-advisers 0
-and 0
-sits 0
-on 0
-the 0
-Vatican’s 0
-bishop 0
-oversight 0
-committee. 0
+guys? 1 322 27
+Thanks, 1 322 27
+but 1 322 27
+no 1 322 27
 
-Well 1
-played, 1
-Cardinal 1
-Wuerl! 1
+thanks. 1 322 28
+You 1 322 28
+can 1 322 28
+take 1 322 28
+your 1 322 28
+'Church 1 322 28
+of 1 322 28
+Accompaniment" 1 322 28
+to 1 322 28
+prison 1 322 28
+with 1 322 28
 
-So, 0
-let 0
-me 0
-get 0
-this 0
-straight 0
-(I 0
-know, 1
-lots 1
-of 1
-luck 1
-with 1
-that 1
-one): 1
-These 1
-are 1
-the 1
-people 1
-that 1
-are 1
-going 1
-to 1
-"accompany 1
-us" 1
-and 1
-our 1
-children 1
-in 1
-the 1
-"synodal 1
-Church" 1
-with 1
-its 1
-new 1
-orientation, 1
-overseen 0
-by 0
-a 1
-"God 1
-of 1
-Surprises" 1
-who 1
-is 1
-uber-merciful 1
-and 1
-doesn't 1
-judge, 1
-and 0
-headed 0
-up 0
-by 0
-a 1
-pope 1
-who, 1
-according 1
-to 1
-Father 1
-Thomas 1
-Rosica, 1
-"breaks 1
-Catholic 1
-traditions 1
-whenever 1
-he 1
-wants, 1
-because 1
-he 1
-is 1
-'free 1
-from 1
-disordered 1
-attachments'?'' 1
+you. 1 322 29
+I'd 1 322 29
+sooner 1 322 29
+let 1 322 29
+my 1 322 29
+kids 1 322 29
+be 1 322 29
+accompanied 1 322 29
+by 1 322 29
+fans 1 322 29
+of 1 322 29
+the 1 322 29
+Oakland 1 322 29
+Raiders 1 322 29
+than 1 322 29
+turn 1 322 29
+them 1 322 29
+over 1 322 29
+to 1 322 29
+you... 1 322 29
+meaning 0 322 29
+no 0 322 29
+disrespect 0 322 29
+to 0 322 29
+fans 0 322 29
+of 0 322 29
+the 0 322 29
+Oakland 0 322 29
+Raiders, 0 322 29
+of 0 322 29
 
-You 1
-don't 1
-say! 1
+course. 0 322 29
 
-All 1
-this 1
-and 1
-rampant 1
-homosexuality 1
-in 1
-the 1
-priesthood, 1
-too... 1
-along 1
-with 1
-a 1
-"trivialized 1
-liturgy" 1
-(according 1
-to 1
-Pope 1
-Benedict 1
-XVI) 1
-and 1
-widespread 1
-apostasy 1
-among 1
-the 1
-faithful? 1
-
-Remind 1
-me 1
-again: 1
-What 1
-exactly 1
-has 1
-Vatican 1
-II 1
-and 1
-the 1
-last 1
-fifty 1
-years 1
-of 1
-aggiornamento 1
-given 1
-us? 1
-
-Because 1
-I 1
-can't 1
-seem 1
-to 1
-think 1
-of 1
-a 1
-darn 1
-thing, 1
-apart 1
-from 1
-heretical 1
-homilies, 1
-sodomitical 1
-clergy 1
-and 1
-an 1
-increasingly 1
-lavender 1
-liturgy. 1
-
-You 1
-know 1
-what, 1
-guys? 1
-
-Thanks, 1
-but 1
-no 1
-thanks. 1
-
-You 1
-can 1
-take 1
-your 1
-'Church 1
-of 1
-Accompaniment" 1
-to 1
-prison 1
-with 1
-you. 1
-
-I'd 1
-sooner 1
-let 1
-my 1
-kids 1
-be 1
-accompanied 1
-by 1
-fans 1
-of 1
-the 1
-Oakland 1
-Raiders 1
-than 1
-turn 1
-them 1
-over 1
-to 1
-you... 1
-meaning 0
-no 0
-disrespect 0
-to 0
-fans 0
-of 0
-the 0
-Oakland 0
-Raiders, 0
-of 0
-course. 0
-
-#stopthesynod 0
+#stopthesynod 0 322 29

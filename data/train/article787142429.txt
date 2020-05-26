@@ -1,483 +1,502 @@
-Brett 0
-Kavanaugh 0
-accused 0
-in 0
-letter 0
-obtained 0
-by 0
-FBI 0
-of 0
-drunkenly 0
-forcing 0
-himself 0
-on 0
-woman 0
-while 0
-in 0
-high 0
-school; 0
-Kavanaugh 0
-denies 0
-it 0
-happened 0
+Brett 0 348 0
+Kavanaugh 0 348 0
+accused 0 348 0
+in 0 348 0
+letter 0 348 0
+obtained 0 348 0
+by 0 348 0
+FBI 0 348 0
+of 0 348 0
+drunkenly 0 348 0
+forcing 0 348 0
+himself 0 348 0
+on 0 348 0
+woman 0 348 0
+while 0 348 0
+in 0 348 0
+high 0 348 0
+school; 0 348 0
+Kavanaugh 0 348 0
+denies 0 348 0
+it 0 348 0
+happened 0 348 0
 
-According 0
-to 0
-the 0
-New 0
-York 0
-Daily 0
-News, 0
-Brett 0
-Kavanaugh, 0
-President 0
-Donald 0
-Trump’s 0
-Supreme 0
-Court 0
-nominee, 0
-held 0
-a 0
-woman 0
-down, 0
-covered 0
-her 0
-mouth 0
-and 0
-tried 0
-to 0
-force 0
-himself 0
-on 0
-her 0
-while 0
-drunk 0
-at 0
-a 0
-party 0
-in 0
-high 0
-school. 0
+According 0 348 1
+to 0 348 1
+the 0 348 1
+New 0 348 1
+York 0 348 1
+Daily 0 348 1
+News, 0 348 1
+Brett 0 348 1
+Kavanaugh, 0 348 1
+President 0 348 1
+Donald 0 348 1
+Trump’s 0 348 1
+Supreme 0 348 1
+Court 0 348 1
+nominee, 0 348 1
+held 0 348 1
+a 0 348 1
+woman 0 348 1
+down, 0 348 1
+covered 0 348 1
+her 0 348 1
+mouth 0 348 1
+and 0 348 1
+tried 0 348 1
+to 0 348 1
+force 0 348 1
+himself 0 348 1
+on 0 348 1
+her 0 348 1
+while 0 348 1
+drunk 0 348 1
+at 0 348 1
+a 0 348 1
+party 0 348 1
+in 0 348 1
+high 0 348 1
+school. 0 348 1
 
-That’s 0
-the 0
-nexus 0
-of 0
-a 0
-letter 0
-allegedly 0
-acquired 0
-by 0
-Democrat 0
-Senator 0
-Dianne 0
-Feinstein 0
-in 0
-July 0
-but 0
-dropped 0
-on 0
-the 0
-last 0
-days 0
-before 0
-the 0
-vote 0
-for 0
-Kavanaugh’s 0
-confirmation. 0
+That’s 0 348 2
+the 0 348 2
+nexus 0 348 2
+of 0 348 2
+a 0 348 2
+letter 0 348 2
+allegedly 0 348 2
+acquired 0 348 2
+by 0 348 2
+Democrat 0 348 2
+Senator 0 348 2
+Dianne 0 348 2
+Feinstein 0 348 2
+in 0 348 2
+July 0 348 2
+but 0 348 2
+dropped 0 348 2
+on 0 348 2
+the 0 348 2
+last 0 348 2
+days 0 348 2
+before 0 348 2
+the 0 348 2
+vote 0 348 2
+for 0 348 2
+Kavanaugh’s 0 348 2
+confirmation. 0 348 2
 
-The 0
-unidentified 0
-woman 0
-says 0
-the 0
-incident 0
-took 0
-place 0
-at 0
-a 0
-party 0
-in 0
-the 0
-early 0
-1980s 0
-while 0
-Kavanaugh 0
-was 0
-a 0
-student 0
-at 0
-Georgetown 0
-Preparatory 0
-School 0
-in 0
-Bethesda, 0
-Md., 0
-according 0
-to 0
-the 0
-NYDN, 0
-which 0
-claims 0
-to 0
-have 0
-obtained 0
-the 0
-letter 0
-on 0
-Friday. 0
+The 0 348 3
+unidentified 0 348 3
+woman 0 348 3
+says 0 348 3
+the 0 348 3
+incident 0 348 3
+took 0 348 3
+place 0 348 3
+at 0 348 3
+a 0 348 3
+party 0 348 3
+in 0 348 3
+the 0 348 3
+early 0 348 3
+1980s 0 348 3
+while 0 348 3
+Kavanaugh 0 348 3
+was 0 348 3
+a 0 348 3
+student 0 348 3
+at 0 348 3
+Georgetown 0 348 3
+Preparatory 0 348 3
+School 0 348 3
+in 0 348 3
+Bethesda, 0 348 3
+Md., 0 348 3
+according 0 348 3
+to 0 348 3
+the 0 348 3
+NYDN, 0 348 3
+which 0 348 3
+claims 0 348 3
+to 0 348 3
+have 0 348 3
+obtained 0 348 3
+the 0 348 3
+letter 0 348 3
+on 0 348 3
+Friday. 0 348 3
 
-She 0
-alleges 0
-Kavanaugh 0
-and 0
-a 0
-friend 0
-of 0
-his, 0
-both 0
-of 0
-whom 0
-had 0
-been 0
-drinking, 0
-cornered 0
-her 0
-in 0
-a 0
-room 0
-and 0
-turned 0
-up 0
-the 0
-music 0
-to 0
-blur 0
-out 0
-the 0
-sound 0
-of 0
-her 0
-protests. 0
+She 0 348 4
+alleges 0 348 4
+Kavanaugh 0 348 4
+and 0 348 4
+a 0 348 4
+friend 0 348 4
+of 0 348 4
+his, 0 348 4
+both 0 348 4
+of 0 348 4
+whom 0 348 4
+had 0 348 4
+been 0 348 4
+drinking, 0 348 4
+cornered 0 348 4
+her 0 348 4
+in 0 348 4
+a 0 348 4
+room 0 348 4
+and 0 348 4
+turned 0 348 4
+up 0 348 4
+the 0 348 4
+music 0 348 4
+to 0 348 4
+blur 0 348 4
+out 0 348 4
+the 0 348 4
+sound 0 348 4
+of 0 348 4
+her 0 348 4
+protests. 0 348 4
 
-Kavanaugh 0
-then 0
-allegedly 0
-covered 0
-the 0
-woman’s 0
-mouth 0
-with 0
-his 0
-hand 0
-and 0
-attempted 0
-to 0
-force 0
-himself 0
-on 0
-her, 0
-but 0
-she 0
-says 0
-she 0
-managed 0
-to 0
-free 0
-herself 0
-and 0
-bolt 0
-out 0
-of 0
-the 0
-room. 0
+Kavanaugh 0 348 5
+then 0 348 5
+allegedly 0 348 5
+covered 0 348 5
+the 0 348 5
+woman’s 0 348 5
+mouth 0 348 5
+with 0 348 5
+his 0 348 5
+hand 0 348 5
+and 0 348 5
+attempted 0 348 5
+to 0 348 5
+force 0 348 5
+himself 0 348 5
+on 0 348 5
+her, 0 348 5
+but 0 348 5
+she 0 348 5
+says 0 348 5
+she 0 348 5
+managed 0 348 5
+to 0 348 5
+free 0 348 5
+herself 0 348 5
+and 0 348 5
+bolt 0 348 5
+out 0 348 5
+of 0 348 5
+the 0 348 5
+room. 0 348 5
 
-Kavanaugh, 0
-53, 0
-vehemently 1
-denied 1
-the 0
-woman’s 0
-allegations. 0
+Kavanaugh, 0 348 6
+53, 0 348 6
+vehemently 1 348 6
+denied 1 348 6
+the 0 348 6
+woman’s 0 348 6
+allegations. 0 348 6
 
-“I 0
-categorically 1
-and 1
-unequivocally 1
-deny 1
-this 1
-allegation,” 1
-he 0
-said 0
-in 0
-a 0
-statement. 0
+“I 0 348 7
+categorically 1 348 7
+and 1 348 7
+unequivocally 1 348 7
+deny 1 348 7
+this 1 348 7
+allegation,” 1 348 7
+he 0 348 7
+said 0 348 7
+in 0 348 7
+a 0 348 7
+statement. 0 348 7
 
-“I 0
-did 0
-not 0
-do 0
-this 0
-back 0
-in 0
-high 0
-school 0
-or 0
-at 0
-any 0
-time.” 0
+“I 0 348 8
+did 0 348 8
+not 0 348 8
+do 0 348 8
+this 0 348 8
+back 0 348 8
+in 0 348 8
+high 0 348 8
+school 0 348 8
+or 0 348 8
+at 0 348 8
+any 0 348 8
+time.” 0 348 8
 
-Kavanaugh’s 0
-friend, 0
-who 0
-has 0
-not 0
-been 0
-identified, 0
-did 0
-not 0
-outright 0
-deny 0
-the 0
-woman’s 0
-claims 0
-but 0
-told 0
-the 0
-New 0
-Yorker 0
-he 0
-has 0
-“no 0
-recollection 0
-of 0
-that.” 0
+Kavanaugh’s 0 348 9
+friend, 0 348 9
+who 0 348 9
+has 0 348 9
+not 0 348 9
+been 0 348 9
+identified, 0 348 9
+did 0 348 9
+not 0 348 9
+outright 0 348 9
+deny 0 348 9
+the 0 348 9
+woman’s 0 348 9
+claims 0 348 9
+but 0 348 9
+told 0 348 9
+the 0 348 9
+New 0 348 9
+Yorker 0 348 9
+he 0 348 9
+has 0 348 9
+“no 0 348 9
+recollection 0 348 9
+of 0 348 9
+that.” 0 348 9
 
-The 0
-woman 0
-says 0
-she 0
-has 0
-had 0
-to 0
-undergo 0
-psychological 0
-treatment 0
-as 0
-a 0
-result 0
-of 0
-the 0
-incident. 0
+The 0 348 10
+woman 0 348 10
+says 0 348 10
+she 0 348 10
+has 0 348 10
+had 0 348 10
+to 0 348 10
+undergo 0 348 10
+psychological 0 348 10
+treatment 0 348 10
+as 0 348 10
+a 0 348 10
+result 0 348 10
+of 0 348 10
+the 0 348 10
+incident. 0 348 10
 
-She 0
-first 0
-approached 0
-her 0
-congresswoman, 0
-Anna 0
-Eshoo, 0
-D-Calif., 0
-about 0
-the 0
-allegations 0
-in 0
-July 0
-shortly 0
-after 0
-Trump 0
-tapped 0
-Kavanaugh 0
-to 0
-replace 0
-outgoing 0
-Supreme 0
-Court 0
-Justice 0
-Anthony 0
-Kennedy. 0
+She 0 348 11
+first 0 348 11
+approached 0 348 11
+her 0 348 11
+congresswoman, 0 348 11
+Anna 0 348 11
+Eshoo, 0 348 11
+D-Calif., 0 348 11
+about 0 348 11
+the 0 348 11
+allegations 0 348 11
+in 0 348 11
+July 0 348 11
+shortly 0 348 11
+after 0 348 11
+Trump 0 348 11
+tapped 0 348 11
+Kavanaugh 0 348 11
+to 0 348 11
+replace 0 348 11
+outgoing 0 348 11
+Supreme 0 348 11
+Court 0 348 11
+Justice 0 348 11
+Anthony 0 348 11
+Kennedy. 0 348 11
 
-Eshoo’s 0
-office 0
-declined 0
-to 0
-comment. 0
+Eshoo’s 0 348 12
+office 0 348 12
+declined 0 348 12
+to 0 348 12
+comment. 0 348 12
 
-The 0
-woman’s 0
-letter 0
-was 0
-in 0
-turn 0
-forwarded 0
-to 0
-Feinstein, 0
-D-Calif., 0
-who 0
-shared 0
-it 0
-with 0
-the 0
-FBI 0
-and 0
-her 0
-Democratic 0
-committee 0
-colleagues 0
-on 0
-Wednesday 0
-night. 0
+The 0 348 13
+woman’s 0 348 13
+letter 0 348 13
+was 0 348 13
+in 0 348 13
+turn 0 348 13
+forwarded 0 348 13
+to 0 348 13
+Feinstein, 0 348 13
+D-Calif., 0 348 13
+who 0 348 13
+shared 0 348 13
+it 0 348 13
+with 0 348 13
+the 0 348 13
+FBI 0 348 13
+and 0 348 13
+her 0 348 13
+Democratic 0 348 13
+committee 0 348 13
+colleagues 0 348 13
+on 0 348 13
+Wednesday 0 348 13
+night. 0 348 13
 
-An 0
-FBI 0
-official 0
-told 0
-the 0
-New 0
-York 0
-Daily 0
-News 0
-on 0
-Thursday 0
-that 0
-the 0
-letter 0
-has 0
-not 0
-yet 0
-resulted 0
-in 0
-a 0
-criminal 0
-investigation. 0
+An 0 348 14
+FBI 0 348 14
+official 0 348 14
+told 0 348 14
+the 0 348 14
+New 0 348 14
+York 0 348 14
+Daily 0 348 14
+News 0 348 14
+on 0 348 14
+Thursday 0 348 14
+that 0 348 14
+the 0 348 14
+letter 0 348 14
+has 0 348 14
+not 0 348 14
+yet 0 348 14
+resulted 0 348 14
+in 0 348 14
+a 0 348 14
+criminal 0 348 14
+investigation. 0 348 14
 
-According 0
-to 0
-Breitbart, 0
-on 0
-Friday, 0
-65 0
-women 0
-from 0
-both 0
-the 0
-Republican 0
-and 0
-Democrat 0
-parties 0
-who 0
-have 0
-known 0
-Kavanaugh 0
-since 0
-high 0
-school 0
-defended 0
-his 0
-character 0
-and 0
-said 0
-he 0
-has 0
-always 0
-behaved 0
-“honorably” 0
-and 0
-treaded 0
-“women 0
-with 0
-respect.” 0
+According 0 348 15
+to 0 348 15
+Breitbart, 0 348 15
+on 0 348 15
+Friday, 0 348 15
+65 0 348 15
+women 0 348 15
+from 0 348 15
+both 0 348 15
+the 0 348 15
+Republican 0 348 15
+and 0 348 15
+Democrat 0 348 15
+parties 0 348 15
+who 0 348 15
+have 0 348 15
+known 0 348 15
+Kavanaugh 0 348 15
+since 0 348 15
+high 0 348 15
+school 0 348 15
+defended 0 348 15
+his 0 348 15
+character 0 348 15
+and 0 348 15
+said 0 348 15
+he 0 348 15
+has 0 348 15
+always 0 348 15
+behaved 0 348 15
+“honorably” 0 348 15
+and 0 348 15
+treaded 0 348 15
+“women 0 348 15
+with 0 348 15
+respect.” 0 348 15
 
-The 0
-women 0
-also 0
-said 0
-that 0
-Kavanaugh 0
-has 0
-“stood 0
-out 0
-for 0
-his 0
-friendship, 0
-character, 0
-and 0
-integrity.” 0
+The 0 348 16
+women 0 348 16
+also 0 348 16
+said 0 348 16
+that 0 348 16
+Kavanaugh 0 348 16
+has 0 348 16
+“stood 0 348 16
+out 0 348 16
+for 0 348 16
+his 0 348 16
+friendship, 0 348 16
+character, 0 348 16
+and 0 348 16
+integrity.” 0 348 16
 
-“Judge 0
-Kavanaugh 0
-has 0
-denied 0
-this 0
-allegation 0
-and 0
-over 0
-60 0
-women 0
-– 0
-with 0
-a 0
-broad 0
-range 0
-of 0
-political 0
-views 0
-– 0
-who’ve 0
-known 0
-him 0
-since 0
-high 0
-school, 0
-have 0
-sent 0
-a 0
-letter 0
-to 0
-the 0
-Senate 0
-Judiciary 0
-Committee 0
-vouching 0
-for 0
-his 0
-integrity 0
-and 0
-respect 0
-for 0
-women 0
-over 0
-that 0
-time,” 0
-says 0
-Carrie 0
-Severino, 0
-chief 0
-counsel 0
-for 0
-the 0
-Judicial 0
-Crisis 0
-Network. 0
+“Judge 0 348 17
+Kavanaugh 0 348 17
+has 0 348 17
+denied 0 348 17
+this 0 348 17
+allegation 0 348 17
+and 0 348 17
+over 0 348 17
+60 0 348 17
+women 0 348 17
+– 0 348 17
+with 0 348 17
+a 0 348 17
+broad 0 348 17
+range 0 348 17
+of 0 348 17
+political 0 348 17
+views 0 348 17
+– 0 348 17
+who’ve 0 348 17
+known 0 348 17
+him 0 348 17
+since 0 348 17
+high 0 348 17
+school, 0 348 17
+have 0 348 17
+sent 0 348 17
+a 0 348 17
+letter 0 348 17
+to 0 348 17
+the 0 348 17
+Senate 0 348 17
+Judiciary 0 348 17
+Committee 0 348 17
+vouching 0 348 17
+for 0 348 17
+his 0 348 17
+integrity 0 348 17
+and 0 348 17
+respect 0 348 17
+for 0 348 17
+women 0 348 17
+over 0 348 17
+that 0 348 17
+time,” 0 348 17
+says 0 348 17
+Carrie 0 348 17
+Severino, 0 348 17
+chief 0 348 17
+counsel 0 348 17
+for 0 348 17
+the 0 348 17
+Judicial 0 348 17
+Crisis 0 348 17
+Network. 0 348 17
 
-“This 1
-is 1
-nothing 1
-more 1
-than 1
-a 1
-last-minute 1
-attempt 1
-at 1
-character 1
-assassination, 1
-and 1
-there 1
-should 1
-no 1
-delay 1
-in 1
-confirming 1
-Judge 1
-Kavanaugh.” 1
+“This 1 348 17
+
+is 1 348 17
+
+nothing 1 348 17
+
+more 1 348 17
+
+than 1 348 17
+
+a 1 348 17
+
+last-minute 1 348 17
+
+attempt 1 348 17
+
+at 1 348 17
+
+character 1 348 17
+
+assassination, 1 348 17
+
+and 1 348 17
+
+there 1 348 17
+
+should 1 348 17
+
+no 1 348 17
+
+delay 1 348 17
+
+in 1 348 17
+
+confirming 1 348 17
+
+Judge 1 348 17
+
+Kavanaugh.” 1 348 17

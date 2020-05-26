@@ -1,888 +1,916 @@
-CNN 0
-Sues 0
-Trump 0
-Demanding 0
-He 0
-Restore 0
-Jim 0
-Acosta’s 0
-White 0
-House 0
-Credential 0
+CNN 0 421 0
+Sues 0 421 0
+Trump 0 421 0
+Demanding 0 421 0
+He 0 421 0
+Restore 0 421 0
+Jim 0 421 0
+Acosta’s 0 421 0
+White 0 421 0
+House 0 421 0
+Credential 0 421 0
 
-CNN 0
-sues 0
-President 0
-Trump 0
-and 0
-top 0
-White 0
-House 0
-aides 0
-for 0
-barring 0
-Jim 0
-Acosta. 0
+CNN 0 421 1
+sues 0 421 1
+President 0 421 1
+Trump 0 421 1
+and 0 421 1
+top 0 421 1
+White 0 421 1
+House 0 421 1
+aides 0 421 1
+for 0 421 1
+barring 0 421 1
+Jim 0 421 1
+Acosta. 0 421 1
 
-557 0
-SHARES 0
-Facebook 0
-Twitter 0
+557 0 421 2
+SHARES 0 421 2
+Facebook 0 421 2
+Twitter 0 421 2
 
-CNN 0
-has 0
-filed 0
-a 0
-lawsuit 0
-against 0
-the 0
-Trump 0
-administration 0
-over 0
-the 0
-revocation 0
-of 0
-press 0
-credentials 0
-from 0
-its 0
-reporter 0
-Jim 0
-Acosta 0
-demanding 0
-they 0
-be 0
-restored. 0
+CNN 0 421 3
+has 0 421 3
+filed 0 421 3
+a 0 421 3
+lawsuit 0 421 3
+against 0 421 3
+the 0 421 3
+Trump 0 421 3
+administration 0 421 3
+over 0 421 3
+the 0 421 3
+revocation 0 421 3
+of 0 421 3
+press 0 421 3
+credentials 0 421 3
+from 0 421 3
+its 0 421 3
+reporter 0 421 3
+Jim 0 421 3
+Acosta 0 421 3
+demanding 0 421 3
+they 0 421 3
+be 0 421 3
+restored. 0 421 3
 
-The 0
-suit 0
-alleges 0
-the 0
-ban 0
-violated 0
-both 0
-First 0
-and 0
-Fifth 0
-Amendment 0
-rights 0
-of 0
-the 0
-network 0
-and 0
-reporter. 0
+The 0 421 4
+suit 0 421 4
+alleges 0 421 4
+the 0 421 4
+ban 0 421 4
+violated 0 421 4
+both 0 421 4
+First 0 421 4
+and 0 421 4
+Fifth 0 421 4
+Amendment 0 421 4
+rights 0 421 4
+of 0 421 4
+the 0 421 4
+network 0 421 4
+and 0 421 4
+reporter. 0 421 4
 
-Last 0
-Wednesday 0
-White 0
-House 0
-press 0
-secretary 0
-Sarah 0
-Sanders 0
-made 0
-the 0
-announcement 0
-that 0
-Acosta’s 0
-press 0
-pass 0
-had 0
-been 0
-suspended 0
-as 0
-a 0
-result 0
-of 0
-an 0
-altercation 0
-during 0
-a 0
-press 0
-conference 0
-when 0
-Acosta 0
-refused 0
-to 0
-give 0
-up 0
-the 0
-microphone 0
-after 0
-several 0
-requests 0
-by 0
-President 0
-Trump 0
-to 0
-hand 0
-it 0
-over. 0
+Last 0 421 5
+Wednesday 0 421 5
+White 0 421 5
+House 0 421 5
+press 0 421 5
+secretary 0 421 5
+Sarah 0 421 5
+Sanders 0 421 5
+made 0 421 5
+the 0 421 5
+announcement 0 421 5
+that 0 421 5
+Acosta’s 0 421 5
+press 0 421 5
+pass 0 421 5
+had 0 421 5
+been 0 421 5
+suspended 0 421 5
+as 0 421 5
+a 0 421 5
+result 0 421 5
+of 0 421 5
+an 0 421 5
+altercation 0 421 5
+during 0 421 5
+a 0 421 5
+press 0 421 5
+conference 0 421 5
+when 0 421 5
+Acosta 0 421 5
+refused 0 421 5
+to 0 421 5
+give 0 421 5
+up 0 421 5
+the 0 421 5
+microphone 0 421 5
+after 0 421 5
+several 0 421 5
+requests 0 421 5
+by 0 421 5
+President 0 421 5
+Trump 0 421 5
+to 0 421 5
+hand 0 421 5
+it 0 421 5
+over. 0 421 5
 
-Not 0
-only 0
-did 0
-Acosta 0
-refuse 0
-to 0
-hand 0
-over 0
-the 0
-microphone, 0
-but 0
-he 0
-pushed 0
-the 0
-female 0
-interns 0
-hand 0
-away 0
-when 0
-she 0
-tried 0
-to 0
-follow 0
-the 0
-presidents 0
-request 0
-to 0
-take 0
-the 0
-microphone 0
-away 0
-from 0
-Acosta, 0
-who 0
-has 0
-disputed 0
-the 0
-accusation 0
-claiming 0
-he 0
-never 0
-put 0
-his 0
-hands 0
-on 0
-the 0
-young 0
-woman. 0
+Not 0 421 6
+only 0 421 6
+did 0 421 6
+Acosta 0 421 6
+refuse 0 421 6
+to 0 421 6
+hand 0 421 6
+over 0 421 6
+the 0 421 6
+microphone, 0 421 6
+but 0 421 6
+he 0 421 6
+pushed 0 421 6
+the 0 421 6
+female 0 421 6
+interns 0 421 6
+hand 0 421 6
+away 0 421 6
+when 0 421 6
+she 0 421 6
+tried 0 421 6
+to 0 421 6
+follow 0 421 6
+the 0 421 6
+presidents 0 421 6
+request 0 421 6
+to 0 421 6
+take 0 421 6
+the 0 421 6
+microphone 0 421 6
+away 0 421 6
+from 0 421 6
+Acosta, 0 421 6
+who 0 421 6
+has 0 421 6
+disputed 0 421 6
+the 0 421 6
+accusation 0 421 6
+claiming 0 421 6
+he 0 421 6
+never 0 421 6
+put 0 421 6
+his 0 421 6
+hands 0 421 6
+on 0 421 6
+the 0 421 6
+young 0 421 6
+woman. 0 421 6
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+take 0 421 7
+our 0 421 7
+poll 0 421 7
+- 0 421 7
+story 0 421 7
+continues 0 421 7
+below 0 421 7
+Should 0 421 7
+Jim 0 421 7
+Acosta 0 421 7
+have 0 421 7
+gotten 0 421 7
+his 0 421 7
+press 0 421 7
+pass 0 421 7
+back? 0 421 7
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 421 8
+Jim 0 421 8
+Acosta 0 421 8
+have 0 421 8
+gotten 0 421 8
+his 0 421 8
+press 0 421 8
+pass 0 421 8
+back? 0 421 8
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 421 9
+Jim 0 421 9
+Acosta 0 421 9
+have 0 421 9
+gotten 0 421 9
+his 0 421 9
+press 0 421 9
+pass 0 421 9
+back? 0 421 9
 
-* 0
-Yes, 0
-he 0
-should 0
-have 0
-gotten 0
-it 0
-back. 0
+* 0 421 10
+Yes, 0 421 10
+he 0 421 10
+should 0 421 10
+have 0 421 10
+gotten 0 421 10
+it 0 421 10
+back. 0 421 10
 
-No, 0
-you 0
-can't 0
-act 0
-like 0
-a 0
-child 0
-and 0
-keep 0
-your 0
-pass. 0
+No, 0 421 11
+you 0 421 11
+can't 0 421 11
+act 0 421 11
+like 0 421 11
+a 0 421 11
+child 0 421 11
+and 0 421 11
+keep 0 421 11
+your 0 421 11
+pass. 0 421 11
 
-Maybe? 0
+Maybe? 0 421 12
 
-I'm 0
-not 0
-sure 0
-if 0
-he 0
-should 0
-have. 0
+I'm 0 421 13
+not 0 421 13
+sure 0 421 13
+if 0 421 13
+he 0 421 13
+should 0 421 13
+have. 0 421 13
 
-Email 0
-* 0
+Email 0 421 14
+* 0 421 14
 
-Phone 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Phone 0 421 15
+This 0 421 15
+field 0 421 15
+is 0 421 15
+for 0 421 15
+validation 0 421 15
+purposes 0 421 15
+and 0 421 15
+should 0 421 15
+be 0 421 15
+left 0 421 15
+unchanged. 0 421 15
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Truth 0
-Uncensored 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 421 16
+this 0 421 16
+poll 0 421 16
+grants 0 421 16
+you 0 421 16
+access 0 421 16
+to 0 421 16
+Truth 0 421 16
+Uncensored 0 421 16
+updates 0 421 16
+free 0 421 16
+of 0 421 16
+charge. 0 421 16
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 421 17
+may 0 421 17
+opt 0 421 17
+out 0 421 17
+at 0 421 17
+anytime. 0 421 17
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 421 18
+also 0 421 18
+agree 0 421 18
+to 0 421 18
+this 0 421 18
+site's 0 421 18
+Privacy 0 421 18
+Policy 0 421 18
+and 0 421 18
+Terms 0 421 18
+of 0 421 18
+Use. 0 421 18
 
-Watching 0
-the 0
-full 0
-exchange 0
-it 0
-is 0
-obvious 0
-that 0
-Trump 0
-was 0
-making 0
-a 0
-sincere 1
-effort 0
-to 0
-answer 0
-Acosta’s 0
-questions, 0
-the 0
-president 0
-actually 0
-took 0
-the 0
-time 0
-to 0
-answer 0
-three 0
-of 0
-his 0
-questions 0
-before 0
-losing 0
-his 0
-patients 0
-with 0
-an 0
-argumentative 0
-Acosta 0
-who 0
-refused 0
-to 0
-hand 0
-the 0
-mic 0
-over 0
-to 0
-the 0
-female 0
-intern 0
-forcefully 1
-pushing 0
-her 0
-arm 0
-away. 0
+Watching 0 421 19
+the 0 421 19
+full 0 421 19
+exchange 0 421 19
+it 0 421 19
+is 0 421 19
+obvious 0 421 19
+that 0 421 19
+Trump 0 421 19
+was 0 421 19
+making 0 421 19
+a 0 421 19
+sincere 1 421 19
+effort 0 421 19
+to 0 421 19
+answer 0 421 19
+Acosta’s 0 421 19
+questions, 0 421 19
+the 0 421 19
+president 0 421 19
+actually 0 421 19
+took 0 421 19
+the 0 421 19
+time 0 421 19
+to 0 421 19
+answer 0 421 19
+three 0 421 19
+of 0 421 19
+his 0 421 19
+questions 0 421 19
+before 0 421 19
+losing 0 421 19
+his 0 421 19
+patients 0 421 19
+with 0 421 19
+an 0 421 19
+argumentative 0 421 19
+Acosta 0 421 19
+who 0 421 19
+refused 0 421 19
+to 0 421 19
+hand 0 421 19
+the 0 421 19
+mic 0 421 19
+over 0 421 19
+to 0 421 19
+the 0 421 19
+female 0 421 19
+intern 0 421 19
+forcefully 1 421 19
+pushing 0 421 19
+her 0 421 19
+arm 0 421 19
+away. 0 421 19
 
-Acosta 0
-can 0
-deny 0
-how 0
-the 0
-altercation 0
-took 0
-place, 0
-but 0
-the 0
-video 0
-shows 0
-the 0
-facts, 0
-which 0
-are 0
-that 0
-Acosta 0
-was 0
-out 1
-of 1
-line. 1
+Acosta 0 421 20
+can 0 421 20
+deny 0 421 20
+how 0 421 20
+the 0 421 20
+altercation 0 421 20
+took 0 421 20
+place, 0 421 20
+but 0 421 20
+the 0 421 20
+video 0 421 20
+shows 0 421 20
+the 0 421 20
+facts, 0 421 20
+which 0 421 20
+are 0 421 20
+that 0 421 20
+Acosta 0 421 20
+was 0 421 20
+out 1 421 20
+of 1 421 20
+line. 1 421 20
 
-The 0
-lawsuit 0
-was 0
-announced 0
-by 0
-CNN 0
-on 0
-Tuesday. 0
+The 0 421 21
+lawsuit 0 421 21
+was 0 421 21
+announced 0 421 21
+by 0 421 21
+CNN 0 421 21
+on 0 421 21
+Tuesday. 0 421 21
 
-The 0
-network 0
-is 0
-also 0
-asking 0
-the 0
-court 0
-for 0
-an 0
-“immediate 0
-restraining 0
-order 0
-requiring 0
-the 0
-pass 0
-be 0
-returned 0
-to 0
-Jim.” 0
+The 0 421 22
+network 0 421 22
+is 0 421 22
+also 0 421 22
+asking 0 421 22
+the 0 421 22
+court 0 421 22
+for 0 421 22
+an 0 421 22
+“immediate 0 421 22
+restraining 0 421 22
+order 0 421 22
+requiring 0 421 22
+the 0 421 22
+pass 0 421 22
+be 0 421 22
+returned 0 421 22
+to 0 421 22
+Jim.” 0 421 22
 
-Both 0
-CNN 0
-and 0
-Acosta 0
-are 0
-plaintiffs 0
-in 0
-the 0
-lawsuit, 0
-and 0
-there 0
-are 0
-six 0
-defendants: 0
-Donald 0
-Trump 0
-himself, 0
-White 0
-House 0
-Press 0
-Secretary 0
-Sarah 0
-Sanders, 0
-Chief 0
-of 0
-Staff 0
-John 0
-Kelly, 0
-his 0
-aide 0
-for 0
-communication 0
-Bill 0
-Shine, 0
-Secret 0
-Service 0
-Director 0
-Joseph 0
-Clancy, 0
-and 0
-the 0
-unidentified 0
-Secret 0
-Service 0
-officer 0
-who 0
-took 0
-the 0
-pass 0
-from 0
-Acosta. 0
+Both 0 421 23
+CNN 0 421 23
+and 0 421 23
+Acosta 0 421 23
+are 0 421 23
+plaintiffs 0 421 23
+in 0 421 23
+the 0 421 23
+lawsuit, 0 421 23
+and 0 421 23
+there 0 421 23
+are 0 421 23
+six 0 421 23
+defendants: 0 421 23
+Donald 0 421 23
+Trump 0 421 23
+himself, 0 421 23
+White 0 421 23
+House 0 421 23
+Press 0 421 23
+Secretary 0 421 23
+Sarah 0 421 23
+Sanders, 0 421 23
+Chief 0 421 23
+of 0 421 23
+Staff 0 421 23
+John 0 421 23
+Kelly, 0 421 23
+his 0 421 23
+aide 0 421 23
+for 0 421 23
+communication 0 421 23
+Bill 0 421 23
+Shine, 0 421 23
+Secret 0 421 23
+Service 0 421 23
+Director 0 421 23
+Joseph 0 421 23
+Clancy, 0 421 23
+and 0 421 23
+the 0 421 23
+unidentified 0 421 23
+Secret 0 421 23
+Service 0 421 23
+officer 0 421 23
+who 0 421 23
+took 0 421 23
+the 0 421 23
+pass 0 421 23
+from 0 421 23
+Acosta. 0 421 23
 
-Fox 0
-News 0
-reports: 0
+Fox 0 421 24
+News 0 421 24
+reports: 0 421 24
 
-“The 0
-wrongful 1
-revocation 0
-of 0
-these 0
-credentials 0
-violates 0
-CNN 0
-and 0
-Acosta’s 0
-First 0
-Amendment 0
-rights 0
-of 0
-freedom 0
-of 0
-the 0
-press, 0
-and 0
-their 0
-Fifth 0
-Amendment 0
-rights 0
-to 0
-due 0
-process,” 0
-CNN 0
-said 0
-in 0
-a 0
-statement. 0
+“The 0 421 25
+wrongful 1 421 25
+revocation 0 421 25
+of 0 421 25
+these 0 421 25
+credentials 0 421 25
+violates 0 421 25
+CNN 0 421 25
+and 0 421 25
+Acosta’s 0 421 25
+First 0 421 25
+Amendment 0 421 25
+rights 0 421 25
+of 0 421 25
+freedom 0 421 25
+of 0 421 25
+the 0 421 25
+press, 0 421 25
+and 0 421 25
+their 0 421 25
+Fifth 0 421 25
+Amendment 0 421 25
+rights 0 421 25
+to 0 421 25
+due 0 421 25
+process,” 0 421 25
+CNN 0 421 25
+said 0 421 25
+in 0 421 25
+a 0 421 25
+statement. 0 421 25
 
-“We 0
-have 0
-asked 0
-the 0
-court 0
-for 0
-an 0
-immediate 0
-restraining 0
-order 0
-requiring 0
-the 0
-pass 0
-to 0
-be 0
-returned 0
-to 0
-Jim, 0
-and 0
-will 0
-seek 0
-permanent 0
-relief 0
-as 0
-part 0
-of 0
-this 0
-process.” 0
+“We 0 421 26
+have 0 421 26
+asked 0 421 26
+the 0 421 26
+court 0 421 26
+for 0 421 26
+an 0 421 26
+immediate 0 421 26
+restraining 0 421 26
+order 0 421 26
+requiring 0 421 26
+the 0 421 26
+pass 0 421 26
+to 0 421 26
+be 0 421 26
+returned 0 421 26
+to 0 421 26
+Jim, 0 421 26
+and 0 421 26
+will 0 421 26
+seek 0 421 26
+permanent 0 421 26
+relief 0 421 26
+as 0 421 26
+part 0 421 26
+of 0 421 26
+this 0 421 26
+process.” 0 421 26
 
-CNN 0
-added 0
-that 0
-“the 0
-suit 0
-is 0
-specific 0
-to 0
-CNN 0
-and 0
-Acosta,” 0
-but 0
-said 0
-it 0
-could 0
-happen 0
-to 0
-anyone. 0
+CNN 0 421 27
+added 0 421 27
+that 0 421 27
+“the 0 421 27
+suit 0 421 27
+is 0 421 27
+specific 0 421 27
+to 0 421 27
+CNN 0 421 27
+and 0 421 27
+Acosta,” 0 421 27
+but 0 421 27
+said 0 421 27
+it 0 421 27
+could 0 421 27
+happen 0 421 27
+to 0 421 27
+anyone. 0 421 27
 
-“If 1
-left 1
-unchallenged, 1
-the 1
-actions 1
-of 1
-the 1
-White 1
-house 1
-would 1
-create 1
-a 1
-dangerous 1
-chilling 1
-effect 1
-for 1
-any 1
-journalist 1
-who 1
-covers 1
-our 1
-elected 1
-officials,” 1
-CNN 0
-said. 0
+“If 1 421 28
+left 1 421 28
+unchallenged, 1 421 28
+the 1 421 28
+actions 1 421 28
+of 1 421 28
+the 1 421 28
+White 1 421 28
+house 1 421 28
+would 1 421 28
+create 1 421 28
+a 1 421 28
+dangerous 1 421 28
+chilling 1 421 28
+effect 1 421 28
+for 1 421 28
+any 1 421 28
+journalist 1 421 28
+who 1 421 28
+covers 1 421 28
+our 1 421 28
+elected 1 421 28
+officials,” 1 421 28
+CNN 0 421 28
+said. 0 421 28
 
-This 0
-morning, 0
-CNN 0
-filed 0
-a 0
-lawsuit 0
-against 0
-@realDonaldTrump 0
-and 0
-top 0
-aides. 0
+This 0 421 29
+morning, 0 421 29
+CNN 0 421 29
+filed 0 421 29
+a 0 421 29
+lawsuit 0 421 29
+against 0 421 29
+@realDonaldTrump 0 421 29
+and 0 421 29
+top 0 421 29
+aides. 0 421 29
 
-The 0
-White 0
-House 0
-has 0
-violated 0
-CNN 0
-and 0
-@Acosta's 0
-First 0
-Amendment 0
-rights 0
-of 0
-freedom 0
-of 0
-the 0
-press 0
-and 0
-Fifth 0
-Amendment 0
-rights 0
-to 0
-due 0
-process. 0
+The 0 421 30
+White 0 421 30
+House 0 421 30
+has 0 421 30
+violated 0 421 30
+CNN 0 421 30
+and 0 421 30
+@Acosta's 0 421 30
+First 0 421 30
+Amendment 0 421 30
+rights 0 421 30
+of 0 421 30
+freedom 0 421 30
+of 0 421 30
+the 0 421 30
+press 0 421 30
+and 0 421 30
+Fifth 0 421 30
+Amendment 0 421 30
+rights 0 421 30
+to 0 421 30
+due 0 421 30
+process. 0 421 30
 
-Complaint: 0
-https://t.co/43oX6L8xA7 0
-pic.twitter.com/RvJ0Cgh6oi 0
-— 0
-CNN 0
-Communications 0
-(@CNNPR) 0
-November 0
-13, 0
-2018 0
+Complaint: 0 421 31
+https://t.co/43oX6L8xA7 0 421 31
+pic.twitter.com/RvJ0Cgh6oi 0 421 31
+— 0 421 31
+CNN 0 421 31
+Communications 0 421 31
+(@CNNPR) 0 421 31
+November 0 421 31
+13, 0 421 31
+2018 0 421 31
 
-The 0
-White 0
-House 0
-did 0
-not 0
-immediately 0
-respond 0
-to 0
-a 0
-request 0
-for 0
-comment. 0
+The 0 421 32
+White 0 421 32
+House 0 421 32
+did 0 421 32
+not 0 421 32
+immediately 0 421 32
+respond 0 421 32
+to 0 421 32
+a 0 421 32
+request 0 421 32
+for 0 421 32
+comment. 0 421 32
 
-Last 0
-week, 0
-Acosta’s 0
-press 0
-pass 0
-to 0
-access 0
-the 0
-White 0
-House 0
-was 0
-suspended 0
-“until 0
-further 0
-notice” 0
-after 0
-he 0
-engaged 0
-in 0
-the 0
-contentious 0
-back-and-forth 0
-over 0
-the 0
-migrant 0
-caravan 0
-working 0
-its 0
-way 0
-up 0
-through 0
-Mexico. 0
+Last 0 421 33
+week, 0 421 33
+Acosta’s 0 421 33
+press 0 421 33
+pass 0 421 33
+to 0 421 33
+access 0 421 33
+the 0 421 33
+White 0 421 33
+House 0 421 33
+was 0 421 33
+suspended 0 421 33
+“until 0 421 33
+further 0 421 33
+notice” 0 421 33
+after 0 421 33
+he 0 421 33
+engaged 0 421 33
+in 0 421 33
+the 0 421 33
+contentious 0 421 33
+back-and-forth 0 421 33
+over 0 421 33
+the 0 421 33
+migrant 0 421 33
+caravan 0 421 33
+working 0 421 33
+its 0 421 33
+way 0 421 33
+up 0 421 33
+through 0 421 33
+Mexico. 0 421 33
 
-Trump 0
-characterizes 0
-the 0
-caravan 0
-as 0
-“an 1
-invasion,” 1
-a 0
-term 0
-to 0
-which 0
-Acosta 0
-objected. 0
+Trump 0 421 34
+characterizes 0 421 34
+the 0 421 34
+caravan 0 421 34
+as 0 421 34
+“an 1 421 34
+invasion,” 1 421 34
+a 0 421 34
+term 0 421 34
+to 0 421 34
+which 0 421 34
+Acosta 0 421 34
+objected. 0 421 34
 
-“Honestly, 0
-I 0
-think 0
-you 0
-should 0
-let 0
-me 0
-run 0
-the 0
-country 0
-and 0
-you 0
-run 0
-CNN,” 0
-the 0
-president 0
-said. 0
+“Honestly, 0 421 35
+I 0 421 35
+think 0 421 35
+you 0 421 35
+should 0 421 35
+let 0 421 35
+me 0 421 35
+run 0 421 35
+the 0 421 35
+country 0 421 35
+and 0 421 35
+you 0 421 35
+run 0 421 35
+CNN,” 0 421 35
+the 0 421 35
+president 0 421 35
+said. 0 421 35
 
-The 0
-reporter 0
-tried 0
-to 0
-ask 0
-him 0
-another 0
-question 0
-before 0
-a 0
-female 0
-White 0
-House 0
-aide 0
-walked 0
-over 0
-to 0
-him. 0
+The 0 421 36
+reporter 0 421 36
+tried 0 421 36
+to 0 421 36
+ask 0 421 36
+him 0 421 36
+another 0 421 36
+question 0 421 36
+before 0 421 36
+a 0 421 36
+female 0 421 36
+White 0 421 36
+House 0 421 36
+aide 0 421 36
+walked 0 421 36
+over 0 421 36
+to 0 421 36
+him. 0 421 36
 
-Trump 0
-then 0
-told 0
-him, 0
-“That’s 0
-enough!” 0
+Trump 0 421 37
+then 0 421 37
+told 0 421 37
+him, 0 421 37
+“That’s 0 421 37
+enough!” 0 421 37
 
-Acosta 0
-continued 0
-to 0
-try 0
-to 0
-talk 0
-as 0
-the 0
-intern 0
-was 0
-seen 0
-trying 0
-to 0
-take 0
-the 0
-microphone 0
-from 0
-his 0
-hand. 0
+Acosta 0 421 38
+continued 0 421 38
+to 0 421 38
+try 0 421 38
+to 0 421 38
+talk 0 421 38
+as 0 421 38
+the 0 421 38
+intern 0 421 38
+was 0 421 38
+seen 0 421 38
+trying 0 421 38
+to 0 421 38
+take 0 421 38
+the 0 421 38
+microphone 0 421 38
+from 0 421 38
+his 0 421 38
+hand. 0 421 38
 
-She 0
-grabbed 0
-the 0
-microphone 0
-but 0
-Acosta 0
-wouldn’t 0
-give 0
-it 0
-up 0
-and 0
-there 0
-was 0
-brief 0
-contact 0
-between 0
-the 0
-two. 0
+She 0 421 39
+grabbed 0 421 39
+the 0 421 39
+microphone 0 421 39
+but 0 421 39
+Acosta 0 421 39
+wouldn’t 0 421 39
+give 0 421 39
+it 0 421 39
+up 0 421 39
+and 0 421 39
+there 0 421 39
+was 0 421 39
+brief 0 421 39
+contact 0 421 39
+between 0 421 39
+the 0 421 39
+two. 0 421 39
 
-White 0
-House 0
-Press 0
-Secretary 0
-Sarah 0
-Sanders 0
-said 0
-the 0
-suspension 0
-of 0
-his 0
-press 0
-credentials 0
-stemmed 0
-from 0
-his 0
-“placing 0
-his 0
-hands 0
-on 0
-a 0
-young 0
-woman 0
-just 0
-trying 0
-to 0
-do 0
-her 0
-job 0
-as 0
-a 0
-White 0
-House 0
-intern.” 0
-She 0
-called 0
-the 0
-behavior 0
-“absolutely 1
-unacceptable.” 1
+White 0 421 40
+House 0 421 40
+Press 0 421 40
+Secretary 0 421 40
+Sarah 0 421 40
+Sanders 0 421 40
+said 0 421 40
+the 0 421 40
+suspension 0 421 40
+of 0 421 40
+his 0 421 40
+press 0 421 40
+credentials 0 421 40
+stemmed 0 421 40
+from 0 421 40
+his 0 421 40
+“placing 0 421 40
+his 0 421 40
+hands 0 421 40
+on 0 421 40
+a 0 421 40
+young 0 421 40
+woman 0 421 40
+just 0 421 40
+trying 0 421 40
+to 0 421 40
+do 0 421 40
+her 0 421 40
+job 0 421 40
+as 0 421 40
+a 0 421 40
+White 0 421 40
+House 0 421 40
+intern.” 0 421 40
+She 0 421 40
+called 0 421 40
+the 0 421 40
+behavior 0 421 40
+“absolutely 1 421 40
+unacceptable.” 1 421 40
 
-Several 0
-news 0
-outlets 0
-accused 0
-Sanders 0
-of 0
-using 0
-a 0
-“doctored” 0
-video 0
-as 0
-evidence, 0
-but 0
-the 0
-press 0
-secretary 0
-didn’t 0
-back 0
-down 0
-from 0
-her 0
-decision. 0
+Several 0 421 41
+news 0 421 41
+outlets 0 421 41
+accused 0 421 41
+Sanders 0 421 41
+of 0 421 41
+using 0 421 41
+a 0 421 41
+“doctored” 0 421 41
+video 0 421 41
+as 0 421 41
+evidence, 0 421 41
+but 0 421 41
+the 0 421 41
+press 0 421 41
+secretary 0 421 41
+didn’t 0 421 41
+back 0 421 41
+down 0 421 41
+from 0 421 41
+her 0 421 41
+decision. 0 421 41
 
-“We 0
-stand 0
-by 0
-our 0
-decision 0
-to 0
-revoke 0
-this 0
-individual’s 0
-hard 0
-pass. 0
+“We 0 421 42
+stand 0 421 42
+by 0 421 42
+our 0 421 42
+decision 0 421 42
+to 0 421 42
+revoke 0 421 42
+this 0 421 42
+individual’s 0 421 42
+hard 0 421 42
+pass. 0 421 42
 
-We 0
-will 0
-not 0
-tolerate 0
-the 0
-inappropriate 1
-behavior 0
-clearly 0
-documented 0
-in 0
-this 0
-video,” 0
-Sanders 0
-tweeted 0
-to 0
-accompany 0
-the 0
-allegedly 0
-doctored 0
-video. 0
+We 0 421 43
+will 0 421 43
+not 0 421 43
+tolerate 0 421 43
+the 0 421 43
+inappropriate 1 421 43
+behavior 0 421 43
+clearly 0 421 43
+documented 0 421 43
+in 0 421 43
+this 0 421 43
+video,” 0 421 43
+Sanders 0 421 43
+tweeted 0 421 43
+to 0 421 43
+accompany 0 421 43
+the 0 421 43
+allegedly 0 421 43
+doctored 0 421 43
+video. 0 421 43
 
-White 0
-House 0
-Counselor 0
-Kellyanne 0
-Conway 0
-has 0
-since 0
-said 0
-the 0
-video 0
-was 0
-simply 0
-“sped 0
-up.” 0
+White 0 421 44
+House 0 421 44
+Counselor 0 421 44
+Kellyanne 0 421 44
+Conway 0 421 44
+has 0 421 44
+since 0 421 44
+said 0 421 44
+the 0 421 44
+video 0 421 44
+was 0 421 44
+simply 0 421 44
+“sped 0 421 44
+up.” 0 421 44
 
-An 0
-attorney 0
-for 0
-CNN 0
-and 0
-Acosta 0
-followed 0
-up 0
-with 0
-a 0
-separate 0
-statement, 0
-saying 0
-the 0
-law 0
-is 0
-“clear” 0
-that 0
-the 0
-Trump 0
-administration 0
-violated 0
-the 0
-First 0
-Amendment 0
-and 0
-Due 0
-process 0
-Clause. 0
+An 0 421 44
+
+attorney 0 421 44
+
+for 0 421 44
+
+CNN 0 421 44
+
+and 0 421 44
+
+Acosta 0 421 44
+
+followed 0 421 44
+
+up 0 421 44
+
+with 0 421 44
+
+a 0 421 44
+
+separate 0 421 44
+
+statement, 0 421 44
+
+saying 0 421 44
+
+the 0 421 44
+
+law 0 421 44
+
+is 0 421 44
+
+“clear” 0 421 44
+
+that 0 421 44
+
+the 0 421 44
+
+Trump 0 421 44
+
+administration 0 421 44
+
+violated 0 421 44
+
+the 0 421 44
+
+First 0 421 44
+
+Amendment 0 421 44
+
+and 0 421 44
+
+Due 0 421 44
+
+process 0 421 44
+
+Clause. 0 421 44

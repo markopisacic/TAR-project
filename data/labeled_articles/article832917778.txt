@@ -1,123 +1,157 @@
-Reports: 0
-No 0
-New 0
-Indictments 0
-Will 0
-Come 0
-From 0
-Special 0
-Counsel 0
-Robert 0
-Mueller’s 0
-Probe 0
+Reports: 0 400 0
+No 0 400 0
+New 0 400 0
+Indictments 0 400 0
+Will 0 400 0
+Come 0 400 0
+From 0 400 0
+Special 0 400 0
+Counsel 0 400 0
+Robert 0 400 0
+Mueller’s 0 400 0
+Probe 0 400 0
 
-No 0
-new 0
-indictments 0
-will 0
-come 0
-from 0
-Special 0
-Counsel 0
-Robert 0
-Mueller’s 0
-Russia 0
-probe 0
-after 0
-he 0
-submitted 0
-his 0
-final 0
-report 0
-to 0
-Attorney 0
-General 0
-William 0
-Barr, 0
-multiple 0
-outlets 0
-are 0
-reporting. 0
+No 0 400 1
+new 0 400 1
+indictments 0 400 1
+will 0 400 1
+come 0 400 1
+from 0 400 1
+Special 0 400 1
+Counsel 0 400 1
+Robert 0 400 1
+Mueller’s 0 400 1
+Russia 0 400 1
+probe 0 400 1
+after 0 400 1
+he 0 400 1
+submitted 0 400 1
+his 0 400 1
+final 0 400 1
+report 0 400 1
+to 0 400 1
+Attorney 0 400 1
+General 0 400 1
+William 0 400 1
+Barr, 0 400 1
+multiple 0 400 1
+outlets 0 400 1
+are 0 400 1
+reporting. 0 400 1
 
-A 0
-senior 0
-Justice 0
-Department 0
-official 0
-told 0
-The 0
-Washington 0
-Post 0
-that 0
-Mueller 0
-“has 0
-not 0
-recommended 0
-any 0
-further 0
-indictments.” 0
-“The 0
-investigation 0
-is 0
-complete,” 0
-Justice 0
-Department 0
-spokeswoman 0
-Kerri 0
-Kupec 0
-told 0
-the 0
-newspaper. 0
+A 0 400 2
+senior 0 400 2
+Justice 0 400 2
+Department 0 400 2
+official 0 400 2
+told 0 400 2
+The 0 400 2
+Washington 0 400 2
+Post 0 400 2
+that 0 400 2
+Mueller 0 400 2
+“has 0 400 2
+not 0 400 2
+recommended 0 400 2
+any 0 400 2
+further 0 400 2
+indictments.” 0 400 2
+“The 0 400 2
+investigation 0 400 2
+is 0 400 2
+complete,” 0 400 2
+Justice 0 400 2
+Department 0 400 2
+spokeswoman 0 400 2
+Kerri 0 400 2
+Kupec 0 400 2
+told 0 400 2
+the 0 400 2
+newspaper. 0 400 2
 
-The 0
-Mueller 0
-probe 0
-saw 0
-several 0
-within 0
-Trump's 0
-orbit 0
-indicted, 0
-but 0
-not 0
-Trump’s 1
-family 1
-or 0
-Trump 1
-himself. 0
+The 0 400 3
+Mueller 0 400 3
+probe 0 400 3
+saw 0 400 3
+several 0 400 3
+within 0 400 3
+Trump's 0 400 3
+orbit 0 400 3
+indicted, 0 400 3
+but 0 400 3
+not 0 400 3
+Trump’s 1 400 3
+family 1 400 3
+or 0 400 3
+Trump 1 400 3
+himself. 0 400 3
 
-Some 0
-notable 0
-figures 0
-who 0
-have 0
-pleaded 0
-guilty 0
-in 0
-charges 0
-stemming 0
-from 0
-Mueller’s 0
-investigation 0
-are 0
-Trump’s 1
-former 0
-personal 0
-attorney 0
-Michael 0
-Cohen, 0
-Trump’s 1
-former 0
-campaign 0
-chairman 0
-Paul 0
-Manafort, 0
-and 0
-former 0
-White 0
-House 0
-National 0
-Security 0
-Adviser 0
-Michael 0
-Flynn. 0
+Some 0 400 3
+
+notable 0 400 3
+
+figures 0 400 3
+
+who 0 400 3
+
+have 0 400 3
+
+pleaded 0 400 3
+
+guilty 0 400 3
+
+in 0 400 3
+
+charges 0 400 3
+
+stemming 0 400 3
+
+from 0 400 3
+
+Mueller’s 0 400 3
+
+investigation 0 400 3
+
+are 0 400 3
+
+Trump’s 1 400 3
+
+former 0 400 3
+
+personal 0 400 3
+
+attorney 0 400 3
+
+Michael 0 400 3
+
+Cohen, 0 400 3
+
+Trump’s 1 400 3
+
+former 0 400 3
+
+campaign 0 400 3
+
+chairman 0 400 3
+
+Paul 0 400 3
+
+Manafort, 0 400 3
+
+and 0 400 3
+
+former 0 400 3
+
+White 0 400 3
+
+House 0 400 3
+
+National 0 400 3
+
+Security 0 400 3
+
+Adviser 0 400 3
+
+Michael 0 400 3
+
+Flynn. 0 400 3

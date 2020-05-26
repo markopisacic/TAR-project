@@ -1,150 +1,169 @@
-Trump 0
-suggests 0
-he 0
-would 0
-have 0
-picked 0
-another 0
-AG 0
-who 0
-could 0
-have 0
-blocked 0
-Russia 0
-probe 0
+Trump 0 243 0
+suggests 0 243 0
+he 0 243 0
+would 0 243 0
+have 0 243 0
+picked 0 243 0
+another 0 243 0
+AG 0 243 0
+who 0 243 0
+could 0 243 0
+have 0 243 0
+blocked 0 243 0
+Russia 0 243 0
+probe 0 243 0
 
-Washington 0
-(CNN) 0
-President 0
-Donald 0
-Trump 0
-suggested 0
-Tuesday 0
-that 0
-he 0
-would 0
-have 0
-picked 0
-another 0
-attorney 0
-general 0
-if 0
-it 0
-would 0
-have 0
-stopped 0
-an 0
-investigation 0
-into 0
-Russia 0
-meddling 0
-in 0
-the 0
-2016 0
-election. 0
+Washington 0 243 1
+(CNN) 0 243 1
+President 0 243 1
+Donald 0 243 1
+Trump 0 243 1
+suggested 0 243 1
+Tuesday 0 243 1
+that 0 243 1
+he 0 243 1
+would 0 243 1
+have 0 243 1
+picked 0 243 1
+another 0 243 1
+attorney 0 243 1
+general 0 243 1
+if 0 243 1
+it 0 243 1
+would 0 243 1
+have 0 243 1
+stopped 0 243 1
+an 0 243 1
+investigation 0 243 1
+into 0 243 1
+Russia 0 243 1
+meddling 0 243 1
+in 0 243 1
+the 0 243 1
+2016 0 243 1
+election. 0 243 1
 
-In 0
-his 0
-latest 0
-public 0
-slam 0
-at 0
-Attorney 0
-General 0
-Jeff 0
-Sessions 0
--- 0
-who, 0
-citing 0
-his 0
-involvement 0
-with 0
-the 0
-Trump 0
-campaign, 0
-recused 0
-himself 0
-from 0
-the 0
-investigation 0
-last 0
-year, 0
-paving 0
-the 0
-way 0
-for 0
-the 0
-appointment 0
-of 0
-special 0
-counsel 0
-Robert 0
-Mueller 0
--- 0
-Trump 0
-said 0
-he 0
-would 0
-have 0
-"quickly 0
-picked 0
-someone 0
-else" 0
-had 0
-he 0
-known 0
-about 0
-the 0
-recusal. 0
+In 0 243 2
+his 0 243 2
+latest 0 243 2
+public 0 243 2
+slam 0 243 2
+at 0 243 2
+Attorney 0 243 2
+General 0 243 2
+Jeff 0 243 2
+Sessions 0 243 2
+-- 0 243 2
+who, 0 243 2
+citing 0 243 2
+his 0 243 2
+involvement 0 243 2
+with 0 243 2
+the 0 243 2
+Trump 0 243 2
+campaign, 0 243 2
+recused 0 243 2
+himself 0 243 2
+from 0 243 2
+the 0 243 2
+investigation 0 243 2
+last 0 243 2
+year, 0 243 2
+paving 0 243 2
+the 0 243 2
+way 0 243 2
+for 0 243 2
+the 0 243 2
+appointment 0 243 2
+of 0 243 2
+special 0 243 2
+counsel 0 243 2
+Robert 0 243 2
+Mueller 0 243 2
+-- 0 243 2
+Trump 0 243 2
+said 0 243 2
+he 0 243 2
+would 0 243 2
+have 0 243 2
+"quickly 0 243 2
+picked 0 243 2
+someone 0 243 2
+else" 0 243 2
+had 0 243 2
+he 0 243 2
+known 0 243 2
+about 0 243 2
+the 0 243 2
+recusal. 0 243 2
 
-"The 0
-Russian 0
-Witch 0
-Hunt 0
-Hoax 0
-continues, 0
-all 0
-because 0
-Jeff 0
-Sessions 0
-didn't 0
-tell 0
-me 0
-he 0
-was 0
-going 0
-to 0
-recuse 0
-himself," 0
-Trump 0
-tweeted 0
-Tuesday. 0
+"The 0 243 3
+Russian 0 243 3
+Witch 0 243 3
+Hunt 0 243 3
+Hoax 0 243 3
+continues, 0 243 3
+all 0 243 3
+because 0 243 3
+Jeff 0 243 3
+Sessions 0 243 3
+didn't 0 243 3
+tell 0 243 3
+me 0 243 3
+he 0 243 3
+was 0 243 3
+going 0 243 3
+to 0 243 3
+recuse 0 243 3
+himself," 0 243 3
+Trump 0 243 3
+tweeted 0 243 3
+Tuesday. 0 243 3
 
-"I 0
-would 0
-have 0
-quickly 0
-picked 0
-someone 0
-else. 0
+"I 0 243 4
+would 0 243 4
+have 0 243 4
+quickly 0 243 4
+picked 0 243 4
+someone 0 243 4
+else. 0 243 4
 
-So 1
-much 1
-time 1
-and 1
-money 1
-wasted, 1
-so 1
-many 1
-lives 1
-ruined...and 1
-Sessions 0
-knew 0
-better 0
-than 0
-most 0
-that 0
-there 0
-was 0
-No 1
-Collusion!" 1
+So 1 243 4
+
+much 1 243 4
+
+time 1 243 4
+
+and 1 243 4
+
+money 1 243 4
+
+wasted, 1 243 4
+
+so 1 243 4
+
+many 1 243 4
+
+lives 1 243 4
+
+ruined...and 1 243 4
+
+Sessions 0 243 4
+
+knew 0 243 4
+
+better 0 243 4
+
+than 0 243 4
+
+most 0 243 4
+
+that 0 243 4
+
+there 0 243 4
+
+was 0 243 4
+
+No 1 243 4
+
+Collusion!" 1 243 4

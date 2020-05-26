@@ -1,537 +1,546 @@
-In 0
-first 0
-public 0
-rebuke 0
-by 0
-the 0
-White 0
-House, 0
-Mnuchin 0
-pulls 0
-out 0
-of 0
-Saudi 0
-investment 0
-conference 0
-to 0
-protest 0
-Khashoggi 0
-case 0
+In 0 387 0
+first 0 387 0
+public 0 387 0
+rebuke 0 387 0
+by 0 387 0
+the 0 387 0
+White 0 387 0
+House, 0 387 0
+Mnuchin 0 387 0
+pulls 0 387 0
+out 0 387 0
+of 0 387 0
+Saudi 0 387 0
+investment 0 387 0
+conference 0 387 0
+to 0 387 0
+protest 0 387 0
+Khashoggi 0 387 0
+case 0 387 0
 
-WASHINGTON 0
-— 0
-Treasury 0
-Secretary 0
-Steven 0
-T. 0
-Mnuchin 0
-said 0
-Thursday 0
-he 0
-was 0
-pulling 0
-out 0
-of 0
-a 0
-major 0
-Saudi 0
-investment 0
-conference, 0
-known 0
-as 0
-Davos 0
-in 0
-the 0
-Desert, 0
-in 0
-the 0
-first 0
-public 0
-rebuke 0
-by 0
-the 0
-White 0
-House 0
-of 0
-the 0
-Saudi 0
-regime 0
-over 0
-the 0
-disappearance 0
-and 0
-suspected 0
-murder 0
-of 0
-a 0
-dissident 0
-Saudi 0
-journalist 0
-who 0
-lived 0
-in 0
-Virginia. 0
+WASHINGTON 0 387 1
+— 0 387 1
+Treasury 0 387 1
+Secretary 0 387 1
+Steven 0 387 1
+T. 0 387 1
+Mnuchin 0 387 1
+said 0 387 1
+Thursday 0 387 1
+he 0 387 1
+was 0 387 1
+pulling 0 387 1
+out 0 387 1
+of 0 387 1
+a 0 387 1
+major 0 387 1
+Saudi 0 387 1
+investment 0 387 1
+conference, 0 387 1
+known 0 387 1
+as 0 387 1
+Davos 0 387 1
+in 0 387 1
+the 0 387 1
+Desert, 0 387 1
+in 0 387 1
+the 0 387 1
+first 0 387 1
+public 0 387 1
+rebuke 0 387 1
+by 0 387 1
+the 0 387 1
+White 0 387 1
+House 0 387 1
+of 0 387 1
+the 0 387 1
+Saudi 0 387 1
+regime 0 387 1
+over 0 387 1
+the 0 387 1
+disappearance 0 387 1
+and 0 387 1
+suspected 0 387 1
+murder 0 387 1
+of 0 387 1
+a 0 387 1
+dissident 0 387 1
+Saudi 0 387 1
+journalist 0 387 1
+who 0 387 1
+lived 0 387 1
+in 0 387 1
+Virginia. 0 387 1
 
-Trade 0
-and 0
-finance 0
-ministers 0
-from 0
-Britain, 0
-France, 0
-Holland 0
-and 0
-other 0
-countries, 0
-the 0
-head 0
-of 0
-the 0
-International 0
-Monetary 0
-Fund, 0
-as 0
-well 0
-as 0
-CEOs 0
-of 0
-multiple 0
-major 0
-companies 0
-already 0
-had 0
-withdrawn 0
-in 0
-protest, 0
-and 0
-Mnuchin 0
-was 0
-under 0
-growing 0
-pressure 0
-to 0
-add 0
-his 0
-name 0
-to 0
-the 0
-list. 0
+Trade 0 387 2
+and 0 387 2
+finance 0 387 2
+ministers 0 387 2
+from 0 387 2
+Britain, 0 387 2
+France, 0 387 2
+Holland 0 387 2
+and 0 387 2
+other 0 387 2
+countries, 0 387 2
+the 0 387 2
+head 0 387 2
+of 0 387 2
+the 0 387 2
+International 0 387 2
+Monetary 0 387 2
+Fund, 0 387 2
+as 0 387 2
+well 0 387 2
+as 0 387 2
+CEOs 0 387 2
+of 0 387 2
+multiple 0 387 2
+major 0 387 2
+companies 0 387 2
+already 0 387 2
+had 0 387 2
+withdrawn 0 387 2
+in 0 387 2
+protest, 0 387 2
+and 0 387 2
+Mnuchin 0 387 2
+was 0 387 2
+under 0 387 2
+growing 0 387 2
+pressure 0 387 2
+to 0 387 2
+add 0 387 2
+his 0 387 2
+name 0 387 2
+to 0 387 2
+the 0 387 2
+list. 0 387 2
 
-Mnuchin 0
-tweeted 0
-the 0
-decision 0
-after 0
-meeting 0
-with 0
-President 0
-Donald 0
-Trump 0
-and 0
-Secretary 0
-of 0
-State 0
-Michael 0
-R. 0
-Pompeo 0
-at 0
-the 0
-White 0
-House. 0
+Mnuchin 0 387 3
+tweeted 0 387 3
+the 0 387 3
+decision 0 387 3
+after 0 387 3
+meeting 0 387 3
+with 0 387 3
+President 0 387 3
+Donald 0 387 3
+Trump 0 387 3
+and 0 387 3
+Secretary 0 387 3
+of 0 387 3
+State 0 387 3
+Michael 0 387 3
+R. 0 387 3
+Pompeo 0 387 3
+at 0 387 3
+the 0 387 3
+White 0 387 3
+House. 0 387 3
 
-Pompeo 0
-later 0
-told 0
-reporters 0
-that 0
-he 0
-had 0
-urged 0
-the 0
-president 0
-to 0
-give 0
-the 0
-Saudi 0
-government 0
-“a 0
-few 0
-more 0
-days” 0
-to 0
-explain 0
-what 0
-happened 0
-to 0
-Jamal 0
-Khashoggi, 0
-who 0
-vanished 0
-after 0
-he 0
-entered 0
-the 0
-Saudi 0
-Consulate 0
-in 0
-Istanbul, 0
-Turkey, 0
-on 0
-Oct. 0
-2. 0
+Pompeo 0 387 4
+later 0 387 4
+told 0 387 4
+reporters 0 387 4
+that 0 387 4
+he 0 387 4
+had 0 387 4
+urged 0 387 4
+the 0 387 4
+president 0 387 4
+to 0 387 4
+give 0 387 4
+the 0 387 4
+Saudi 0 387 4
+government 0 387 4
+“a 0 387 4
+few 0 387 4
+more 0 387 4
+days” 0 387 4
+to 0 387 4
+explain 0 387 4
+what 0 387 4
+happened 0 387 4
+to 0 387 4
+Jamal 0 387 4
+Khashoggi, 0 387 4
+who 0 387 4
+vanished 0 387 4
+after 0 387 4
+he 0 387 4
+entered 0 387 4
+the 0 387 4
+Saudi 0 387 4
+Consulate 0 387 4
+in 0 387 4
+Istanbul, 0 387 4
+Turkey, 0 387 4
+on 0 387 4
+Oct. 0 387 4
+2. 0 387 4
 
-Turkish 0
-authorities 0
-and 0
-media 0
-have 0
-said 0
-audio 0
-recordings 0
-show 0
-that 0
-Khashoggi 0
-was 0
-tortured 1
-and 1
-beheaded 1
-inside 0
-the 0
-consulate, 0
-although 0
-the 0
-recordings 0
-have 0
-not 0
-been 0
-released. 0
+Turkish 0 387 5
+authorities 0 387 5
+and 0 387 5
+media 0 387 5
+have 0 387 5
+said 0 387 5
+audio 0 387 5
+recordings 0 387 5
+show 0 387 5
+that 0 387 5
+Khashoggi 0 387 5
+was 0 387 5
+tortured 1 387 5
+and 1 387 5
+beheaded 1 387 5
+inside 0 387 5
+the 0 387 5
+consulate, 0 387 5
+although 0 387 5
+the 0 387 5
+recordings 0 387 5
+have 0 387 5
+not 0 387 5
+been 0 387 5
+released. 0 387 5
 
-Khashoggi 0
-wrote 0
-opinion 0
-columns 0
-for 0
-the 0
-Washington 0
-Post 0
-critical 0
-of 0
-the 0
-Saudi 0
-royal 0
-family. 0
+Khashoggi 0 387 6
+wrote 0 387 6
+opinion 0 387 6
+columns 0 387 6
+for 0 387 6
+the 0 387 6
+Washington 0 387 6
+Post 0 387 6
+critical 0 387 6
+of 0 387 6
+the 0 387 6
+Saudi 0 387 6
+royal 0 387 6
+family. 0 387 6
 
-Saudi 0
-King 0
-Salman 0
-and 0
-his 0
-son, 0
-Crown 0
-Prince 0
-Mohammed 0
-bin 0
-Salman, 0
-the 0
-country’s 0
-de 0
-facto 0
-ruler, 0
-have 0
-denied 0
-to 0
-both 0
-Trump 0
-and 0
-Pompeo 0
-any 0
-knowledge 0
-of 0
-the 0
-alleged 0
-murder 0
-or 0
-having 0
-ordered 0
-it. 0
+Saudi 0 387 7
+King 0 387 7
+Salman 0 387 7
+and 0 387 7
+his 0 387 7
+son, 0 387 7
+Crown 0 387 7
+Prince 0 387 7
+Mohammed 0 387 7
+bin 0 387 7
+Salman, 0 387 7
+the 0 387 7
+country’s 0 387 7
+de 0 387 7
+facto 0 387 7
+ruler, 0 387 7
+have 0 387 7
+denied 0 387 7
+to 0 387 7
+both 0 387 7
+Trump 0 387 7
+and 0 387 7
+Pompeo 0 387 7
+any 0 387 7
+knowledge 0 387 7
+of 0 387 7
+the 0 387 7
+alleged 0 387 7
+murder 0 387 7
+or 0 387 7
+having 0 387 7
+ordered 0 387 7
+it. 0 387 7
 
-Pompeo 0
-returned 0
-Wednesday 0
-night 0
-from 0
-meetings 0
-with 0
-Saudi 0
-and 0
-Turkish 0
-leaders 0
-in 0
-Riyadh 0
-and 0
-Ankara 0
-and 0
-went 0
-to 0
-the 0
-White 0
-House 0
-Thursday 0
-morning 0
-to 0
-brief 0
-Trump, 0
-who 0
-has 0
-come 0
-under 0
-mounting 0
-pressure 0
-from 0
-Congress 0
-and 0
-rights 0
-groups 0
-to 0
-punish 0
-Saudi 0
-Arabia. 0
+Pompeo 0 387 8
+returned 0 387 8
+Wednesday 0 387 8
+night 0 387 8
+from 0 387 8
+meetings 0 387 8
+with 0 387 8
+Saudi 0 387 8
+and 0 387 8
+Turkish 0 387 8
+leaders 0 387 8
+in 0 387 8
+Riyadh 0 387 8
+and 0 387 8
+Ankara 0 387 8
+and 0 387 8
+went 0 387 8
+to 0 387 8
+the 0 387 8
+White 0 387 8
+House 0 387 8
+Thursday 0 387 8
+morning 0 387 8
+to 0 387 8
+brief 0 387 8
+Trump, 0 387 8
+who 0 387 8
+has 0 387 8
+come 0 387 8
+under 0 387 8
+mounting 0 387 8
+pressure 0 387 8
+from 0 387 8
+Congress 0 387 8
+and 0 387 8
+rights 0 387 8
+groups 0 387 8
+to 0 387 8
+punish 0 387 8
+Saudi 0 387 8
+Arabia. 0 387 8
 
-Pompeo 0
-said 0
-the 0
-Saudis 0
-“understand 0
-the 0
-serious 0
-nature” 0
-of 0
-Khashoggi’s 0
-disappearance, 0
-and 0
-would 0
-conduct 0
-a 0
-thorough 0
-and 0
-“timely” 0
-investigation. 0
+Pompeo 0 387 9
+said 0 387 9
+the 0 387 9
+Saudis 0 387 9
+“understand 0 387 9
+the 0 387 9
+serious 0 387 9
+nature” 0 387 9
+of 0 387 9
+Khashoggi’s 0 387 9
+disappearance, 0 387 9
+and 0 387 9
+would 0 387 9
+conduct 0 387 9
+a 0 387 9
+thorough 0 387 9
+and 0 387 9
+“timely” 0 387 9
+investigation. 0 387 9
 
-Their 0
-findings, 0
-Pompeo 0
-said, 0
-“will 0
-be 0
-transparent 0
-for 0
-everyone 0
-to 0
-see, 0
-to 0
-ask 0
-questions 0
-about, 0
-to 0
-inquire 0
-with 0
-respect 0
-to 0
-its 0
-thoroughness.” 0
+Their 0 387 10
+findings, 0 387 10
+Pompeo 0 387 10
+said, 0 387 10
+“will 0 387 10
+be 0 387 10
+transparent 0 387 10
+for 0 387 10
+everyone 0 387 10
+to 0 387 10
+see, 0 387 10
+to 0 387 10
+ask 0 387 10
+questions 0 387 10
+about, 0 387 10
+to 0 387 10
+inquire 0 387 10
+with 0 387 10
+respect 0 387 10
+to 0 387 10
+its 0 387 10
+thoroughness.” 0 387 10
 
-He 0
-said 0
-he 0
-told 0
-the 0
-president 0
-“that 0
-we 0
-ought 0
-to 0
-give 0
-them 0
-a 0
-few 0
-more 0
-days 0
-to 0
-complete 0
-that 0
-so 0
-that 0
-we 0
-too 0
-have 0
-a 0
-complete 0
-understanding 0
-of 0
-the 0
-facts” 0
-before 0
-making 0
-decisions 0
-on 0
-how 0
-the 0
-U.S. 0
-should 0
-respond. 0
+He 0 387 11
+said 0 387 11
+he 0 387 11
+told 0 387 11
+the 0 387 11
+president 0 387 11
+“that 0 387 11
+we 0 387 11
+ought 0 387 11
+to 0 387 11
+give 0 387 11
+them 0 387 11
+a 0 387 11
+few 0 387 11
+more 0 387 11
+days 0 387 11
+to 0 387 11
+complete 0 387 11
+that 0 387 11
+so 0 387 11
+that 0 387 11
+we 0 387 11
+too 0 387 11
+have 0 387 11
+a 0 387 11
+complete 0 387 11
+understanding 0 387 11
+of 0 387 11
+the 0 387 11
+facts” 0 387 11
+before 0 387 11
+making 0 387 11
+decisions 0 387 11
+on 0 387 11
+how 0 387 11
+the 0 387 11
+U.S. 0 387 11
+should 0 387 11
+respond. 0 387 11
 
-Turkey 0
-is 0
-conducting 0
-its 0
-own 0
-probe, 0
-and 0
-Pompeo 0
-said 0
-those 0
-results 0
-will 0
-also 0
-be 0
-taken 0
-into 0
-consideration. 0
+Turkey 0 387 12
+is 0 387 12
+conducting 0 387 12
+its 0 387 12
+own 0 387 12
+probe, 0 387 12
+and 0 387 12
+Pompeo 0 387 12
+said 0 387 12
+those 0 387 12
+results 0 387 12
+will 0 387 12
+also 0 387 12
+be 0 387 12
+taken 0 387 12
+into 0 387 12
+consideration. 0 387 12
 
-He 0
-again 0
-stressed 0
-the 0
-importance 0
-of 0
-Saudi 0
-Arabia 0
-as 0
-a 0
-strategic 0
-ally, 0
-in 0
-a 0
-relationship, 0
-he 0
-noted, 0
-that 0
-dates 0
-back 0
-more 0
-than 0
-80 0
-years. 0
+He 0 387 13
+again 0 387 13
+stressed 0 387 13
+the 0 387 13
+importance 0 387 13
+of 0 387 13
+Saudi 0 387 13
+Arabia 0 387 13
+as 0 387 13
+a 0 387 13
+strategic 0 387 13
+ally, 0 387 13
+in 0 387 13
+a 0 387 13
+relationship, 0 387 13
+he 0 387 13
+noted, 0 387 13
+that 0 387 13
+dates 0 387 13
+back 0 387 13
+more 0 387 13
+than 0 387 13
+80 0 387 13
+years. 0 387 13
 
-The 0
-administration’s 0
-reluctance 0
-to 0
-condemn 0
-the 0
-Saudi 0
-government 0
-has 0
-fueled 0
-criticism 0
-from 0
-Democrats 0
-and 0
-Republicans 0
-in 0
-Congress, 0
-from 0
-diplomats 0
-and 0
-from 0
-even 0
-some 0
-corporations 0
-that 0
-long 0
-have 0
-profited 0
-from 0
-close 0
-relations 0
-with 0
-the 0
-Saudi 0
-royal 0
-family. 0
+The 0 387 14
+administration’s 0 387 14
+reluctance 0 387 14
+to 0 387 14
+condemn 0 387 14
+the 0 387 14
+Saudi 0 387 14
+government 0 387 14
+has 0 387 14
+fueled 0 387 14
+criticism 0 387 14
+from 0 387 14
+Democrats 0 387 14
+and 0 387 14
+Republicans 0 387 14
+in 0 387 14
+Congress, 0 387 14
+from 0 387 14
+diplomats 0 387 14
+and 0 387 14
+from 0 387 14
+even 0 387 14
+some 0 387 14
+corporations 0 387 14
+that 0 387 14
+long 0 387 14
+have 0 387 14
+profited 0 387 14
+from 0 387 14
+close 0 387 14
+relations 0 387 14
+with 0 387 14
+the 0 387 14
+Saudi 0 387 14
+royal 0 387 14
+family. 0 387 14
 
-“We 0
-just 0
-are 0
-going 0
-to 0
-allow 0
-the 0
-process 0
-to 0
-move 0
-forward, 0
-allow 0
-the 0
-facts 0
-to 0
-unfold,” 0
-Pompeo 0
-said. 0
+“We 0 387 15
+just 0 387 15
+are 0 387 15
+going 0 387 15
+to 0 387 15
+allow 0 387 15
+the 0 387 15
+process 0 387 15
+to 0 387 15
+move 0 387 15
+forward, 0 387 15
+allow 0 387 15
+the 0 387 15
+facts 0 387 15
+to 0 387 15
+unfold,” 0 387 15
+Pompeo 0 387 15
+said. 0 387 15
 
-“And 0
-as 0
-they 0
-unfold, 0
-as 0
-we 0
-make 0
-a 0
-determination 0
-for 0
-ourselves 0
-about 0
-what 0
-happened 0
-there, 0
-based 0
-on 0
-the 0
-facts 0
-that 0
-are 0
-presented 0
-to 0
-us, 0
-the 1
-United 1
-States 1
-will 0
-determine 0
-what 0
-the 0
-appropriate 0
-response 0
-might 0
-be.” 0
+“And 0 387 16
+as 0 387 16
+they 0 387 16
+unfold, 0 387 16
+as 0 387 16
+we 0 387 16
+make 0 387 16
+a 0 387 16
+determination 0 387 16
+for 0 387 16
+ourselves 0 387 16
+about 0 387 16
+what 0 387 16
+happened 0 387 16
+there, 0 387 16
+based 0 387 16
+on 0 387 16
+the 0 387 16
+facts 0 387 16
+that 0 387 16
+are 0 387 16
+presented 0 387 16
+to 0 387 16
+us, 0 387 16
+the 1 387 16
+United 1 387 16
+States 1 387 16
+will 0 387 16
+determine 0 387 16
+what 0 387 16
+the 0 387 16
+appropriate 0 387 16
+response 0 387 16
+might 0 387 16
+be.” 0 387 16
 
-— 0
-Tracy 0
-Wilkinson 0
+— 0 387 17
+Tracy 0 387 17
+Wilkinson 0 387 17
 
-Los 0
-Angeles 0
-Times 0
+Los 0 387 18
+Angeles 0 387 18
+Times 0 387 18
 
-——— 0
+——— 0 387 19
 
-©2018 0
-Los 0
-Angeles 0
-Times, 0
-Distributed 0
-by 0
-Tribune 0
-Content 0
-Agency, 0
-LLC. 0
+©2018 0 387 19
+
+Los 0 387 19
+
+Angeles 0 387 19
+
+Times, 0 387 19
+
+Distributed 0 387 19
+
+by 0 387 19
+
+Tribune 0 387 19
+
+Content 0 387 19
+
+Agency, 0 387 19
+
+LLC. 0 387 19

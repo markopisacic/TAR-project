@@ -1,373 +1,381 @@
-Senator 0
-Lindsey 0
-Graham 0
-Unleashes 1
-Firestorm 1
-At 0
-Democrat 0
-Senators 0
-For 0
-"Most 1
-Unethical 1
-Sham" 1
-Since 1
-He's 1
-Been 1
-In 1
-Politics 1
+Senator 0 375 0
+Lindsey 0 375 0
+Graham 0 375 0
+Unleashes 1 375 0
+Firestorm 1 375 0
+At 0 375 0
+Democrat 0 375 0
+Senators 0 375 0
+For 0 375 0
+"Most 1 375 0
+Unethical 1 375 0
+Sham" 1 375 0
+Since 1 375 0
+He's 1 375 0
+Been 1 375 0
+In 1 375 0
+Politics 1 375 0
 
-I'm 0
-not 0
-a 0
-fan 0
-of 0
-Senator 0
-Lindsey 0
-Graham 0
-(R-SC), 0
-and 0
-he's 0
-my 0
-senator, 0
-but 0
-I 0
-have 0
-to 0
-tell 0
-you 0
-that 0
-he 0
-was 0
-right 0
-on 0
-point 0
-on 0
-Thursday 0
-when 0
-he 0
-berated 0
-Senate 0
-Democrats 0
-in 0
-their 0
-relentless 1
-assault 1
-on 0
-Judge 0
-Brett 0
-Kavanaugh 0
-while 0
-at 0
-the 0
-same 0
-time 0
-believing 1
-every 1
-word 1
-of 1
-Dr. 1
-Christine 1
-Ford 1
-without 1
-any 1
-evidence. 1
+I'm 0 375 1
+not 0 375 1
+a 0 375 1
+fan 0 375 1
+of 0 375 1
+Senator 0 375 1
+Lindsey 0 375 1
+Graham 0 375 1
+(R-SC), 0 375 1
+and 0 375 1
+he's 0 375 1
+my 0 375 1
+senator, 0 375 1
+but 0 375 1
+I 0 375 1
+have 0 375 1
+to 0 375 1
+tell 0 375 1
+you 0 375 1
+that 0 375 1
+he 0 375 1
+was 0 375 1
+right 0 375 1
+on 0 375 1
+point 0 375 1
+on 0 375 1
+Thursday 0 375 1
+when 0 375 1
+he 0 375 1
+berated 0 375 1
+Senate 0 375 1
+Democrats 0 375 1
+in 0 375 1
+their 0 375 1
+relentless 1 375 1
+assault 1 375 1
+on 0 375 1
+Judge 0 375 1
+Brett 0 375 1
+Kavanaugh 0 375 1
+while 0 375 1
+at 0 375 1
+the 0 375 1
+same 0 375 1
+time 0 375 1
+believing 1 375 1
+every 1 375 1
+word 1 375 1
+of 1 375 1
+Dr. 1 375 1
+Christine 1 375 1
+Ford 1 375 1
+without 1 375 1
+any 1 375 1
+evidence. 1 375 1
 
-In 0
-fact, 0
-all 0
-of 0
-the 0
-evidence 0
-and 0
-all 0
-of 0
-the 0
-witnesses 0
-to 0
-date, 0
-including 0
-Dr. 0
-Ford's 0
-friend, 0
-whom 0
-she 0
-claims 0
-was 0
-in 0
-the 0
-same 0
-house 0
-that 0
-the 0
-attack 0
-occurred 0
-refute 0
-her 0
-claims. 0
+In 0 375 2
+fact, 0 375 2
+all 0 375 2
+of 0 375 2
+the 0 375 2
+evidence 0 375 2
+and 0 375 2
+all 0 375 2
+of 0 375 2
+the 0 375 2
+witnesses 0 375 2
+to 0 375 2
+date, 0 375 2
+including 0 375 2
+Dr. 0 375 2
+Ford's 0 375 2
+friend, 0 375 2
+whom 0 375 2
+she 0 375 2
+claims 0 375 2
+was 0 375 2
+in 0 375 2
+the 0 375 2
+same 0 375 2
+house 0 375 2
+that 0 375 2
+the 0 375 2
+attack 0 375 2
+occurred 0 375 2
+refute 0 375 2
+her 0 375 2
+claims. 0 375 2
 
-When 0
-Graham 0
-had 0
-his 0
-time 0
-to 0
-speak, 0
-he 0
-said 0
-what 0
-many 0
-of 0
-us 0
-thought 0
-should 0
-have 0
-been 0
-said. 0
+When 0 375 3
+Graham 0 375 3
+had 0 375 3
+his 0 375 3
+time 0 375 3
+to 0 375 3
+speak, 0 375 3
+he 0 375 3
+said 0 375 3
+what 0 375 3
+many 0 375 3
+of 0 375 3
+us 0 375 3
+thought 0 375 3
+should 0 375 3
+have 0 375 3
+been 0 375 3
+said. 0 375 3
 
-After 0
-Kavanaugh 0
-unleashed 0
-his 0
-own 0
-refutation 0
-of 0
-the 0
-charges 0
-and 0
-blasted 1
-Democrats 1
-for 1
-their 1
-attacks 1
-on 1
-him, 1
-near 0
-the 0
-closing 0
-of 0
-the 0
-hearing, 0
-Graham 0
-finally 0
-said 0
-what 0
-everyone 0
-had 0
-been 0
-waiting 0
-on 0
-and 0
-said 0
-it 0
-with 0
-passion. 0
+After 0 375 4
+Kavanaugh 0 375 4
+unleashed 0 375 4
+his 0 375 4
+own 0 375 4
+refutation 0 375 4
+of 0 375 4
+the 0 375 4
+charges 0 375 4
+and 0 375 4
+blasted 1 375 4
+Democrats 1 375 4
+for 1 375 4
+their 1 375 4
+attacks 1 375 4
+on 1 375 4
+him, 1 375 4
+near 0 375 4
+the 0 375 4
+closing 0 375 4
+of 0 375 4
+the 0 375 4
+hearing, 0 375 4
+Graham 0 375 4
+finally 0 375 4
+said 0 375 4
+what 0 375 4
+everyone 0 375 4
+had 0 375 4
+been 0 375 4
+waiting 0 375 4
+on 0 375 4
+and 0 375 4
+said 0 375 4
+it 0 375 4
+with 0 375 4
+passion. 0 375 4
 
-"What 1
-you 1
-want 1
-to 1
-do 1
-is 1
-destroy 1
-this 1
-guy's 1
-life, 1
-hold 1
-this 1
-seat 1
-open, 1
-and 1
-hope 1
-you 1
-win 1
-in 1
-2020," 1
-Graham 0
-blasted 0
-Democrat 0
-Senators 0
-on 0
-the 0
-committee. 0
+"What 1 375 5
+you 1 375 5
+want 1 375 5
+to 1 375 5
+do 1 375 5
+is 1 375 5
+destroy 1 375 5
+this 1 375 5
+guy's 1 375 5
+life, 1 375 5
+hold 1 375 5
+this 1 375 5
+seat 1 375 5
+open, 1 375 5
+and 1 375 5
+hope 1 375 5
+you 1 375 5
+win 1 375 5
+in 1 375 5
+2020," 1 375 5
+Graham 0 375 5
+blasted 0 375 5
+Democrat 0 375 5
+Senators 0 375 5
+on 0 375 5
+the 0 375 5
+committee. 0 375 5
 
-Sen. 0
-Lindsey 0
-Graham 0
-to 0
-committee 0
-Democrats: 0
-"This 0
-is 0
-the 1
-most 1
-unethical 1
-sham 1
-since 1
-I've 1
-been 1
-in 1
-politics...Boy, 1
-y'all 1
-want 1
-power. 1
+Sen. 0 375 6
+Lindsey 0 375 6
+Graham 0 375 6
+to 0 375 6
+committee 0 375 6
+Democrats: 0 375 6
+"This 0 375 6
+is 0 375 6
+the 1 375 6
+most 1 375 6
+unethical 1 375 6
+sham 1 375 6
+since 1 375 6
+I've 1 375 6
+been 1 375 6
+in 1 375 6
+politics...Boy, 1 375 6
+y'all 1 375 6
+want 1 375 6
+power. 1 375 6
 
-Boy, 1
-I 1
-hope 1
-you 1
-never 1
-get 1
-it. 1
+Boy, 1 375 7
+I 1 375 7
+hope 1 375 7
+you 1 375 7
+never 1 375 7
+get 1 375 7
+it. 1 375 7
 
-I 1
-hope 1
-the 1
-American 1
-people 1
-can 1
-see 1
-through 1
-this 1
-sham, 1
-that 1
-you 1
-knew 1
-about 1
-it 1
-and 1
-you 1
-held 1
-it." 1
+I 1 375 8
+hope 1 375 8
+the 1 375 8
+American 1 375 8
+people 1 375 8
+can 1 375 8
+see 1 375 8
+through 1 375 8
+this 1 375 8
+sham, 1 375 8
+that 1 375 8
+you 1 375 8
+knew 1 375 8
+about 1 375 8
+it 1 375 8
+and 1 375 8
+you 1 375 8
+held 1 375 8
+it." 1 375 8
 
-pic.twitter.com/NnpcF33smC 0
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+pic.twitter.com/NnpcF33smC 0 375 9
+take 0 375 9
+our 0 375 9
+poll 0 375 9
+- 0 375 9
+story 0 375 9
+continues 0 375 9
+below 0 375 9
+Who 0 375 9
+should 0 375 9
+replace 0 375 9
+Nikki 0 375 9
+Haley 0 375 9
+as 0 375 9
+our 0 375 9
+ambassador 0 375 9
+to 0 375 9
+the 0 375 9
+U.N.? 0 375 9
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 375 10
+should 0 375 10
+replace 0 375 10
+Nikki 0 375 10
+Haley 0 375 10
+as 0 375 10
+our 0 375 10
+ambassador 0 375 10
+to 0 375 10
+the 0 375 10
+U.N.? 0 375 10
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 375 11
+should 0 375 11
+replace 0 375 11
+Nikki 0 375 11
+Haley 0 375 11
+as 0 375 11
+our 0 375 11
+ambassador 0 375 11
+to 0 375 11
+the 0 375 11
+U.N.? 0 375 11
 
-* 0
-John 0
-Bolton 0
-Richard 0
-Grenell 0
-Dina 0
-Powell 0
-Heather 0
-Nauert 0
-Ivanka 0
-Trump 0
+* 0 375 12
+John 0 375 12
+Bolton 0 375 12
+Richard 0 375 12
+Grenell 0 375 12
+Dina 0 375 12
+Powell 0 375 12
+Heather 0 375 12
+Nauert 0 375 12
+Ivanka 0 375 12
+Trump 0 375 12
 
-Email 0
-* 0
+Email 0 375 13
+* 0 375 13
 
-Comments 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Comments 0 375 14
+This 0 375 14
+field 0 375 14
+is 0 375 14
+for 0 375 14
+validation 0 375 14
+purposes 0 375 14
+and 0 375 14
+should 0 375 14
+be 0 375 14
+left 0 375 14
+unchanged. 0 375 14
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 375 15
+this 0 375 15
+poll 0 375 15
+grants 0 375 15
+you 0 375 15
+access 0 375 15
+to 0 375 15
+Freedom 0 375 15
+Outpost 0 375 15
+updates 0 375 15
+free 0 375 15
+of 0 375 15
+charge. 0 375 15
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 375 16
+may 0 375 16
+opt 0 375 16
+out 0 375 16
+at 0 375 16
+anytime. 0 375 16
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 375 17
+also 0 375 17
+agree 0 375 17
+to 0 375 17
+this 0 375 17
+site's 0 375 17
+Privacy 0 375 17
+Policy 0 375 17
+and 0 375 17
+Terms 0 375 17
+of 0 375 17
+Use. 0 375 17
 
-— 0
-Axios 0
-(@axios) 0
-September 0
-27, 0
-2018 0
+— 0 375 18
+Axios 0 375 18
+(@axios) 0 375 18
+September 0 375 18
+27, 0 375 18
+2018 0 375 18
 
-Graham 0
-continued, 0
-"Would 0
-you 0
-say 0
-you've 0
-been 1
-through 1
-hell?" 1
+Graham 0 375 19
+continued, 0 375 19
+"Would 0 375 19
+you 0 375 19
+say 0 375 19
+you've 0 375 19
+been 1 375 19
+through 1 375 19
+hell?" 1 375 19
 
-Kavanaugh 0
-responded, 0
-"I've 0
-been 0
-through 1
-hell 1
-and 1
-then 1
-some." 1
+Kavanaugh 0 375 19
+
+responded, 0 375 19
+
+"I've 0 375 19
+
+been 0 375 19
+
+through 1 375 19
+
+hell 1 375 19
+
+and 1 375 19
+
+then 1 375 19
+
+some." 1 375 19

@@ -1,580 +1,592 @@
-EXPERIMENTAL 0
-Ebola 0
-Vaccine 0
-Will 0
-Be 0
-Administered 0
-In 0
-Congo 0
-As 0
-Ebola 0
-Death 0
-Toll 0
-Climbs 0
+EXPERIMENTAL 0 221 0
+Ebola 0 221 0
+Vaccine 0 221 0
+Will 0 221 0
+Be 0 221 0
+Administered 0 221 0
+In 0 221 0
+Congo 0 221 0
+As 0 221 0
+Ebola 0 221 0
+Death 0 221 0
+Toll 0 221 0
+Climbs 0 221 0
 
-An 0
-experimental 0
-Ebola 0
-vaccine 0
-is 0
-being 0
-rolled 0
-out 0
-in 0
-Congo 0
-as 0
-the 1
-death 1
-toll 1
-from 1
-the 1
-infectious 1
-disease 1
-continues 1
-to 1
-climb. 1
+An 0 221 1
+experimental 0 221 1
+Ebola 0 221 1
+vaccine 0 221 1
+is 0 221 1
+being 0 221 1
+rolled 0 221 1
+out 0 221 1
+in 0 221 1
+Congo 0 221 1
+as 0 221 1
+the 1 221 1
+death 1 221 1
+toll 1 221 1
+from 1 221 1
+the 1 221 1
+infectious 1 221 1
+disease 1 221 1
+continues 1 221 1
+to 1 221 1
+climb. 1 221 1
 
-The 0
-vaccination 0
-campaign 0
-will 0
-begin 0
-today. 0
+The 0 221 2
+vaccination 0 221 2
+campaign 0 221 2
+will 0 221 2
+begin 0 221 2
+today. 0 221 2
 
-“The 0
-vaccination 0
-campaign 0
-begins 0
-tomorrow, 0
-Monday, 0
-in 0
-Mbandaka, 0
-capital 0
-of 0
-the 0
-province,” 0
-Minister 0
-of 0
-Health 0
-Oly 0
-Ilunga 0
-told 0
-The 0
-Associated 0
-Press 0
-as 0
-reported 0
-by 0
-9 0
-News 0
-Australia. 0
+“The 0 221 3
+vaccination 0 221 3
+campaign 0 221 3
+begins 0 221 3
+tomorrow, 0 221 3
+Monday, 0 221 3
+in 0 221 3
+Mbandaka, 0 221 3
+capital 0 221 3
+of 0 221 3
+the 0 221 3
+province,” 0 221 3
+Minister 0 221 3
+of 0 221 3
+Health 0 221 3
+Oly 0 221 3
+Ilunga 0 221 3
+told 0 221 3
+The 0 221 3
+Associated 0 221 3
+Press 0 221 3
+as 0 221 3
+reported 0 221 3
+by 0 221 3
+9 0 221 3
+News 0 221 3
+Australia. 0 221 3
 
-“It 0
-will 0
-target, 0
-first, 0
-the 0
-health 0
-staff, 0
-the 0
-contacts 0
-of 0
-the 0
-sick 0
-and 0
-the 0
-contacts 0
-of 0
-the 0
-contacts.” 0
-The 0
-World 0
-Health 0
-Organization 0
-has 0
-been 0
-warning 0
-about 0
-the 0
-“Ebola 0
-situation” 0
-in 0
-Congo, 0
-and 0
-it 0
-appears 0
-their 0
-only 1
-solution 1
-is 0
-an 0
-experimental 0
-vaccine. 0
+“It 0 221 4
+will 0 221 4
+target, 0 221 4
+first, 0 221 4
+the 0 221 4
+health 0 221 4
+staff, 0 221 4
+the 0 221 4
+contacts 0 221 4
+of 0 221 4
+the 0 221 4
+sick 0 221 4
+and 0 221 4
+the 0 221 4
+contacts 0 221 4
+of 0 221 4
+the 0 221 4
+contacts.” 0 221 4
+The 0 221 4
+World 0 221 4
+Health 0 221 4
+Organization 0 221 4
+has 0 221 4
+been 0 221 4
+warning 0 221 4
+about 0 221 4
+the 0 221 4
+“Ebola 0 221 4
+situation” 0 221 4
+in 0 221 4
+Congo, 0 221 4
+and 0 221 4
+it 0 221 4
+appears 0 221 4
+their 0 221 4
+only 1 221 4
+solution 1 221 4
+is 0 221 4
+an 0 221 4
+experimental 0 221 4
+vaccine. 0 221 4
 
-An 0
-experimental 0
-vaccine 0
-is 0
-one 0
-that 0
-has 0
-never 0
-been 0
-tried 0
-on 0
-humans 0
-before. 0
+An 0 221 5
+experimental 0 221 5
+vaccine 0 221 5
+is 0 221 5
+one 0 221 5
+that 0 221 5
+has 0 221 5
+never 0 221 5
+been 0 221 5
+tried 0 221 5
+on 0 221 5
+humans 0 221 5
+before. 0 221 5
 
-Ebola 0
-hemorrhagic 0
-fever, 0
-seen 0
-mostly 0
-only 0
-in 0
-Africa, 0
-is 0
-one 0
-of 0
-the 0
-world’s 0
-most 0
-feared 0
-diseases. 0
+Ebola 0 221 6
+hemorrhagic 0 221 6
+fever, 0 221 6
+seen 0 221 6
+mostly 0 221 6
+only 0 221 6
+in 0 221 6
+Africa, 0 221 6
+is 0 221 6
+one 0 221 6
+of 0 221 6
+the 0 221 6
+world’s 0 221 6
+most 0 221 6
+feared 0 221 6
+diseases. 0 221 6
 
-It 0
-begins 0
-with 0
-flu-like 0
-symptoms, 0
-followed 0
-by 0
-bloody 0
-diarrhea 0
-and 0
-vomiting. 0
+It 0 221 7
+begins 0 221 7
+with 0 221 7
+flu-like 0 221 7
+symptoms, 0 221 7
+followed 0 221 7
+by 0 221 7
+bloody 0 221 7
+diarrhea 0 221 7
+and 0 221 7
+vomiting. 0 221 7
 
-Days 0
-later, 0
-some 0
-victims 0
-begin 0
-bleeding 0
-through 0
-the 0
-nose, 0
-mouth, 0
-and 0
-eyes. 0
+Days 0 221 8
+later, 0 221 8
+some 0 221 8
+victims 0 221 8
+begin 0 221 8
+bleeding 0 221 8
+through 0 221 8
+the 0 221 8
+nose, 0 221 8
+mouth, 0 221 8
+and 0 221 8
+eyes. 0 221 8
 
-Depending 0
-on 0
-the 0
-strain 0
-of 0
-the 0
-Ebola 0
-virus, 0
-it 1
-can 1
-kill 1
-up 1
-to 1
-90% 1
-of 1
-victims. 1
+Depending 0 221 9
+on 0 221 9
+the 0 221 9
+strain 0 221 9
+of 0 221 9
+the 0 221 9
+Ebola 0 221 9
+virus, 0 221 9
+it 1 221 9
+can 1 221 9
+kill 1 221 9
+up 1 221 9
+to 1 221 9
+90% 1 221 9
+of 1 221 9
+victims. 1 221 9
 
-There 0
-is 0
-no 0
-cure 0
-for 0
-Ebola. 0
+There 0 221 10
+is 0 221 10
+no 0 221 10
+cure 0 221 10
+for 0 221 10
+Ebola. 0 221 10
 
-The 0
-virus 0
-is 0
-spread 0
-through 0
-direct 0
-contact 0
-with 0
-the 0
-blood 0
-or 0
-secretions 0
-of 0
-an 0
-infected 0
-person. 0
+The 0 221 11
+virus 0 221 11
+is 0 221 11
+spread 0 221 11
+through 0 221 11
+direct 0 221 11
+contact 0 221 11
+with 0 221 11
+the 0 221 11
+blood 0 221 11
+or 0 221 11
+secretions 0 221 11
+of 0 221 11
+an 0 221 11
+infected 0 221 11
+person. 0 221 11
 
-So, 0
-is 0
-the 0
-Ebola 0
-virus 0
-reaching 0
-a 0
-terrifying 1
-enough 0
-level 0
-that 0
-an 0
-experimental 0
-vaccine 0
-is 0
-warranted? 0
+So, 0 221 12
+is 0 221 12
+the 0 221 12
+Ebola 0 221 12
+virus 0 221 12
+reaching 0 221 12
+a 0 221 12
+terrifying 1 221 12
+enough 0 221 12
+level 0 221 12
+that 0 221 12
+an 0 221 12
+experimental 0 221 12
+vaccine 0 221 12
+is 0 221 12
+warranted? 0 221 12
 
-The 0
-death 0
-toll 0
-has 0
-reached 0
-26 0
-and 0
-the 0
-vaccine 0
-will 0
-be 0
-rolled 0
-out 0
-at 0
-Mbandaka, 0
-the 0
-north-western 0
-city 0
-of 0
-1.2 0
-million 0
-recently 0
-struck 0
-by 0
-the 0
-outbreak. 0
+The 0 221 13
+death 0 221 13
+toll 0 221 13
+has 0 221 13
+reached 0 221 13
+26 0 221 13
+and 0 221 13
+the 0 221 13
+vaccine 0 221 13
+will 0 221 13
+be 0 221 13
+rolled 0 221 13
+out 0 221 13
+at 0 221 13
+Mbandaka, 0 221 13
+the 0 221 13
+north-western 0 221 13
+city 0 221 13
+of 0 221 13
+1.2 0 221 13
+million 0 221 13
+recently 0 221 13
+struck 0 221 13
+by 0 221 13
+the 0 221 13
+outbreak. 0 221 13
 
-Since 0
-the 0
-virus 0
-is 0
-spread 0
-through 0
-direct 0
-contact, 0
-an 0
-isn’t 0
-airborne, 0
-it 0
-isn’t 0
-nearly 0
-as 0
-deadly 0
-as 0
-it 0
-could 0
-be. 0
+Since 0 221 14
+the 0 221 14
+virus 0 221 14
+is 0 221 14
+spread 0 221 14
+through 0 221 14
+direct 0 221 14
+contact, 0 221 14
+an 0 221 14
+isn’t 0 221 14
+airborne, 0 221 14
+it 0 221 14
+isn’t 0 221 14
+nearly 0 221 14
+as 0 221 14
+deadly 0 221 14
+as 0 221 14
+it 0 221 14
+could 0 221 14
+be. 0 221 14
 
-Read 0
-more 0
-here 0
-about 0
-Ebola 0
-and 0
-how 0
-it 0
-is 0
-transmitted: 0
+Read 0 221 15
+more 0 221 15
+here 0 221 15
+about 0 221 15
+Ebola 0 221 15
+and 0 221 15
+how 0 221 15
+it 0 221 15
+is 0 221 15
+transmitted: 0 221 15
 
-Initially, 0
-the 0
-campaign 0
-will 0
-target 0
-600 0
-people, 0
-mainly 0
-medical 0
-staff, 0
-contacts 0
-of 0
-suspected 0
-cases, 0
-and 0
-those 0
-who 0
-have 0
-been 0
-in 0
-contact 0
-with 0
-the 0
-contacts, 0
-Ilunga 0
-said. 0
+Initially, 0 221 16
+the 0 221 16
+campaign 0 221 16
+will 0 221 16
+target 0 221 16
+600 0 221 16
+people, 0 221 16
+mainly 0 221 16
+medical 0 221 16
+staff, 0 221 16
+contacts 0 221 16
+of 0 221 16
+suspected 0 221 16
+cases, 0 221 16
+and 0 221 16
+those 0 221 16
+who 0 221 16
+have 0 221 16
+been 0 221 16
+in 0 221 16
+contact 0 221 16
+with 0 221 16
+the 0 221 16
+contacts, 0 221 16
+Ilunga 0 221 16
+said. 0 221 16
 
-Officials 0
-are 0
-working 0
-urgently 0
-to 0
-prevent 0
-the 0
-disease 0
-from 0
-spreading 0
-beyond 0
-Mbandaka, 0
-which 0
-lies 0
-on 0
-the 0
-Congo 0
-River, 0
-a 0
-busy 0
-traffic 0
-corridor, 0
-and 0
-is 0
-an 0
-hour’s 0
-flight 0
-from 0
-the 0
-capital. 0
+Officials 0 221 17
+are 0 221 17
+working 0 221 17
+urgently 0 221 17
+to 0 221 17
+prevent 0 221 17
+the 0 221 17
+disease 0 221 17
+from 0 221 17
+spreading 0 221 17
+beyond 0 221 17
+Mbandaka, 0 221 17
+which 0 221 17
+lies 0 221 17
+on 0 221 17
+the 0 221 17
+Congo 0 221 17
+River, 0 221 17
+a 0 221 17
+busy 0 221 17
+traffic 0 221 17
+corridor, 0 221 17
+and 0 221 17
+is 0 221 17
+an 0 221 17
+hour’s 0 221 17
+flight 0 221 17
+from 0 221 17
+the 0 221 17
+capital. 0 221 17
 
-The 0
-spread 0
-of 0
-Ebola 0
-from 0
-a 0
-rural 0
-area 0
-to 0
-Mbandaka 0
-has 0
-raised 0
-alarm 1
-as 1
-Ebola 1
-can 1
-spread 1
-more 1
-quickly 1
-in 1
-urban 1
-centers. 1
+The 0 221 18
+spread 0 221 18
+of 0 221 18
+Ebola 0 221 18
+from 0 221 18
+a 0 221 18
+rural 0 221 18
+area 0 221 18
+to 0 221 18
+Mbandaka 0 221 18
+has 0 221 18
+raised 0 221 18
+alarm 1 221 18
+as 1 221 18
+Ebola 1 221 18
+can 1 221 18
+spread 1 221 18
+more 1 221 18
+quickly 1 221 18
+in 1 221 18
+urban 1 221 18
+centers. 1 221 18
 
-The 0
-fever 0
-can 0
-cause 0
-severe 0
-internal 0
-bleeding 0
-that 0
-is 0
-often 0
-fatal. 0
+The 0 221 19
+fever 0 221 19
+can 0 221 19
+cause 0 221 19
+severe 0 221 19
+internal 0 221 19
+bleeding 0 221 19
+that 0 221 19
+is 0 221 19
+often 0 221 19
+fatal. 0 221 19
 
-Meaning, 0
-the 0
-virus 0
-itself 0
-doesn’t 0
-actually 0
-kill. 0
+Meaning, 0 221 20
+the 0 221 20
+virus 0 221 20
+itself 0 221 20
+doesn’t 0 221 20
+actually 0 221 20
+kill. 0 221 20
 
-The 0
-immune 0
-system’s 0
-response 0
-to 0
-the 0
-virus 0
-is 0
-what’s 0
-deadly. 0
+The 0 221 21
+immune 0 221 21
+system’s 0 221 21
+response 0 221 21
+to 0 221 21
+the 0 221 21
+virus 0 221 21
+is 0 221 21
+what’s 0 221 21
+deadly. 0 221 21
 
-ZMapp 0
-is 0
-also 0
-an 0
-experimental 0
-drug 0
-that 0
-could 0
-aid 0
-in 0
-the 0
-recovery 0
-from 0
-the 0
-Ebola 0
-virus. 0
+ZMapp 0 221 22
+is 0 221 22
+also 0 221 22
+an 0 221 22
+experimental 0 221 22
+drug 0 221 22
+that 0 221 22
+could 0 221 22
+aid 0 221 22
+in 0 221 22
+the 0 221 22
+recovery 0 221 22
+from 0 221 22
+the 0 221 22
+Ebola 0 221 22
+virus. 0 221 22
 
-But, 0
-like 0
-the 0
-vaccine 0
-being 0
-administered, 0
-it 0
-has 0
-not 0
-been 0
-tested 0
-for 0
-safety 0
-or 0
-efficacy 0
-yet. 0
+But, 0 221 23
+like 0 221 23
+the 0 221 23
+vaccine 0 221 23
+being 0 221 23
+administered, 0 221 23
+it 0 221 23
+has 0 221 23
+not 0 221 23
+been 0 221 23
+tested 0 221 23
+for 0 221 23
+safety 0 221 23
+or 0 221 23
+efficacy 0 221 23
+yet. 0 221 23
 
-It 0
-is 0
-not 0
-a 0
-vaccine 0
-– 0
-it 0
-is 0
-a 0
-therapeutic 0
-drug. 0
+It 0 221 24
+is 0 221 24
+not 0 221 24
+a 0 221 24
+vaccine 0 221 24
+– 0 221 24
+it 0 221 24
+is 0 221 24
+a 0 221 24
+therapeutic 0 221 24
+drug. 0 221 24
 
-Of 0
-the 0
-seven 0
-people 0
-given 0
-the 0
-drug 0
-so 0
-far, 0
-two 0
-have 0
-died. 0
+Of 0 221 25
+the 0 221 25
+seven 0 221 25
+people 0 221 25
+given 0 221 25
+the 0 221 25
+drug 0 221 25
+so 0 221 25
+far, 0 221 25
+two 0 221 25
+have 0 221 25
+died. 0 221 25
 
-ZMapp 0
-show 0
-“promise,” 0
-although 0
-scientific 0
-results 0
-are 0
-not 0
-definitive. 0
+ZMapp 0 221 26
+show 0 221 26
+“promise,” 0 221 26
+although 0 221 26
+scientific 0 221 26
+results 0 221 26
+are 0 221 26
+not 0 221 26
+definitive. 0 221 26
 
-The 0
-risk 0
-of 0
-Ebola 0
-spreading 0
-within 0
-Congo 0
-is 0
-“very 1
-high,” 1
-according 0
-to 0
-authorities, 0
-and 0
-the 1
-disease 1
-could 1
-also 1
-move 1
-into 1
-nine 1
-neighboring 1
-countries, 1
-the 0
-World 0
-Health 0
-Organization 0
-has 0
-warned. 0
+The 0 221 27
+risk 0 221 27
+of 0 221 27
+Ebola 0 221 27
+spreading 0 221 27
+within 0 221 27
+Congo 0 221 27
+is 0 221 27
+“very 1 221 27
+high,” 1 221 27
+according 0 221 27
+to 0 221 27
+authorities, 0 221 27
+and 0 221 27
+the 1 221 27
+disease 1 221 27
+could 1 221 27
+also 1 221 27
+move 1 221 27
+into 1 221 27
+nine 1 221 27
+neighboring 1 221 27
+countries, 1 221 27
+the 0 221 27
+World 0 221 27
+Health 0 221 27
+Organization 0 221 27
+has 0 221 27
+warned. 0 221 27
 
-The 0
-WHO, 0
-however, 0
-stopped 0
-short 0
-of 0
-declaring 0
-the 0
-outbreak 0
-a 0
-global 0
-health 0
-emergency. 0
+The 0 221 28
+WHO, 0 221 28
+however, 0 221 28
+stopped 0 221 28
+short 0 221 28
+of 0 221 28
+declaring 0 221 28
+the 0 221 28
+outbreak 0 221 28
+a 0 221 28
+global 0 221 28
+health 0 221 28
+emergency. 0 221 28
 
-WHO 0
-said 0
-there 0
-should 0
-not 0
-be 0
-restrictions 0
-on 0
-international 0
-travel 0
-or 0
-trade. 0
+WHO 0 221 29
+said 0 221 29
+there 0 221 29
+should 0 221 29
+not 0 221 29
+be 0 221 29
+restrictions 0 221 29
+on 0 221 29
+international 0 221 29
+travel 0 221 29
+or 0 221 29
+trade. 0 221 29
 
-In 0
-the 0
-meantime, 0
-it’s 0
-important 0
-to 0
-prevent 0
-oneself 0
-from 0
-contracting 0
-the 0
-virus. 0
+In 0 221 30
+the 0 221 30
+meantime, 0 221 30
+it’s 0 221 30
+important 0 221 30
+to 0 221 30
+prevent 0 221 30
+oneself 0 221 30
+from 0 221 30
+contracting 0 221 30
+the 0 221 30
+virus. 0 221 30
 
-Unfortunately, 0
-health 0
-care 0
-workers 0
-are 0
-at 0
-the 0
-greatest 0
-risk 0
-as 0
-they 0
-try 0
-to 0
-cull 0
-the 0
-suffering: 0
-which 0
-is 0
-why 0
-they 0
-will 0
-be 0
-the 0
-first 0
-to 0
-get 0
-the 0
-experimental 0
-vaccine. 0
+Unfortunately, 0 221 31
+health 0 221 31
+care 0 221 31
+workers 0 221 31
+are 0 221 31
+at 0 221 31
+the 0 221 31
+greatest 0 221 31
+risk 0 221 31
+as 0 221 31
+they 0 221 31
+try 0 221 31
+to 0 221 31
+cull 0 221 31
+the 0 221 31
+suffering: 0 221 31
+which 0 221 31
+is 0 221 31
+why 0 221 31
+they 0 221 31
+will 0 221 31
+be 0 221 31
+the 0 221 31
+first 0 221 31
+to 0 221 31
+get 0 221 31
+the 0 221 31
+experimental 0 221 31
+vaccine. 0 221 31
 
-For 0
-their 0
-sake, 0
-let’s 0
-hope 0
-it 0
-works 0
-better 0
-than 0
-this 1
-year’s 1
-flu 1
-vaccine. 1
+For 0 221 31
+
+their 0 221 31
+
+sake, 0 221 31
+
+let’s 0 221 31
+
+hope 0 221 31
+
+it 0 221 31
+
+works 0 221 31
+
+better 0 221 31
+
+than 0 221 31
+
+this 1 221 31
+
+year’s 1 221 31
+
+flu 1 221 31
+
+vaccine. 1 221 31

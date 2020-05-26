@@ -1,1328 +1,1350 @@
-After 0
-Calling 0
-for 0
-Guns 0
-& 0
-Ammo 0
-Confiscation 0
-& 0
-Universal 0
-Gun 0
-Registration, 0
-the 0
-American 0
-Medical 0
-Association 0
-Should 0
-Think 0
-About 0
-Taking 0
-"American" 1
-Out 0
-of 0
-Their 0
-Name 0
+After 0 75 0
+Calling 0 75 0
+for 0 75 0
+Guns 0 75 0
+& 0 75 0
+Ammo 0 75 0
+Confiscation 0 75 0
+& 0 75 0
+Universal 0 75 0
+Gun 0 75 0
+Registration, 0 75 0
+the 0 75 0
+American 0 75 0
+Medical 0 75 0
+Association 0 75 0
+Should 0 75 0
+Think 0 75 0
+About 0 75 0
+Taking 0 75 0
+"American" 1 75 0
+Out 0 75 0
+of 0 75 0
+Their 0 75 0
+Name 0 75 0
 
-The 0
-American 0
-Medical 0
-Association 0
-(AMA) 0
-should 0
-seriously 0
-consider 0
-changing 0
-their 0
-names 0
-since 0
-they 1
-are 1
-about 1
-as 1
-anti-American 1
-as 1
-it 1
-comes 1
-in 1
-their 1
-new 1
-demands 1
-for 1
-gun 1
-confiscation 1
-measures, 1
-which 0
-include 0
-guns 0
-and 0
-ammunition 0
-confiscation, 0
-as 0
-well 0
-as 0
-universal 0
-gun 0
-registration. 0
+The 0 75 1
+American 0 75 1
+Medical 0 75 1
+Association 0 75 1
+(AMA) 0 75 1
+should 0 75 1
+seriously 0 75 1
+consider 0 75 1
+changing 0 75 1
+their 0 75 1
+names 0 75 1
+since 0 75 1
+they 1 75 1
+are 1 75 1
+about 1 75 1
+as 1 75 1
+anti-American 1 75 1
+as 1 75 1
+it 1 75 1
+comes 1 75 1
+in 1 75 1
+their 1 75 1
+new 1 75 1
+demands 1 75 1
+for 1 75 1
+gun 1 75 1
+confiscation 1 75 1
+measures, 1 75 1
+which 0 75 1
+include 0 75 1
+guns 0 75 1
+and 0 75 1
+ammunition 0 75 1
+confiscation, 0 75 1
+as 0 75 1
+well 0 75 1
+as 0 75 1
+universal 0 75 1
+gun 0 75 1
+registration. 0 75 1
 
-The 0
-AMA, 0
-which 0
-should 0
-take 0
-no 0
-political 0
-position 0
-when 0
-it 0
-comes 0
-to 0
-guns, 0
-except 0
-to 0
-uphold 0
-the 0
-law 0
-which 0
-protects 0
-the 0
-God-given 0
-rights 0
-of 0
-law-abiding 1
-citizens, 0
-came 0
-out 0
-with 0
-a 0
-lengthy 0
-blog 0
-post 0
-not 0
-only 0
-calling 0
-for 0
-guns 0
-and 0
-ammunition 0
-confiscation, 0
-as 0
-well 0
-as 0
-universal 0
-gun 0
-registration 0
-but 0
-also 0
-proposals 0
-to 0
-ban 0
-the 0
-sale 0
-and 0
-possession 0
-of 0
-“all 0
-assault-type 0
-weapons, 0
-bump 0
-stocks 0
-and 0
-related 0
-devices, 0
-high-capacity 0
-magazines, 0
-and 0
-armor 0
-piercing 0
-bullets.” 0
+The 0 75 2
+AMA, 0 75 2
+which 0 75 2
+should 0 75 2
+take 0 75 2
+no 0 75 2
+political 0 75 2
+position 0 75 2
+when 0 75 2
+it 0 75 2
+comes 0 75 2
+to 0 75 2
+guns, 0 75 2
+except 0 75 2
+to 0 75 2
+uphold 0 75 2
+the 0 75 2
+law 0 75 2
+which 0 75 2
+protects 0 75 2
+the 0 75 2
+God-given 0 75 2
+rights 0 75 2
+of 0 75 2
+law-abiding 1 75 2
+citizens, 0 75 2
+came 0 75 2
+out 0 75 2
+with 0 75 2
+a 0 75 2
+lengthy 0 75 2
+blog 0 75 2
+post 0 75 2
+not 0 75 2
+only 0 75 2
+calling 0 75 2
+for 0 75 2
+guns 0 75 2
+and 0 75 2
+ammunition 0 75 2
+confiscation, 0 75 2
+as 0 75 2
+well 0 75 2
+as 0 75 2
+universal 0 75 2
+gun 0 75 2
+registration 0 75 2
+but 0 75 2
+also 0 75 2
+proposals 0 75 2
+to 0 75 2
+ban 0 75 2
+the 0 75 2
+sale 0 75 2
+and 0 75 2
+possession 0 75 2
+of 0 75 2
+“all 0 75 2
+assault-type 0 75 2
+weapons, 0 75 2
+bump 0 75 2
+stocks 0 75 2
+and 0 75 2
+related 0 75 2
+devices, 0 75 2
+high-capacity 0 75 2
+magazines, 0 75 2
+and 0 75 2
+armor 0 75 2
+piercing 0 75 2
+bullets.” 0 75 2
 
-Now, 0
-the 0
-majority 0
-of 0
-people 0
-at 0
-the 0
-AMA 0
-probably 0
-couldn't 1
-tell 1
-you 1
-any 1
-of 1
-these 1
-devices 1
-or 1
-items 1
-if 1
-they 1
-saw 1
-them, 1
-but 0
-they 0
-are 0
-advancing 0
-an 0
-agenda. 0
+Now, 0 75 3
+the 0 75 3
+majority 0 75 3
+of 0 75 3
+people 0 75 3
+at 0 75 3
+the 0 75 3
+AMA 0 75 3
+probably 0 75 3
+couldn't 1 75 3
+tell 1 75 3
+you 1 75 3
+any 1 75 3
+of 1 75 3
+these 1 75 3
+devices 1 75 3
+or 1 75 3
+items 1 75 3
+if 1 75 3
+they 1 75 3
+saw 1 75 3
+them, 1 75 3
+but 0 75 3
+they 0 75 3
+are 0 75 3
+advancing 0 75 3
+an 0 75 3
+agenda. 0 75 3
 
-Just 0
-keep 0
-that 0
-in 0
-mind. 0
+Just 0 75 4
+keep 0 75 4
+that 0 75 4
+in 0 75 4
+mind. 0 75 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 75 5
+our 0 75 5
+poll 0 75 5
+- 0 75 5
+story 0 75 5
+continues 0 75 5
+below 0 75 5
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 75 6
+do 0 75 6
+you 0 75 6
+consider 0 75 6
+to 0 75 6
+be 0 75 6
+the 0 75 6
+most 0 75 6
+corrupt 0 75 6
+Democrat 0 75 6
+Politician? 0 75 6
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 75 7
+do 0 75 7
+you 0 75 7
+consider 0 75 7
+to 0 75 7
+be 0 75 7
+the 0 75 7
+most 0 75 7
+corrupt 0 75 7
+Democrat 0 75 7
+Politician? 0 75 7
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 75 8
+do 0 75 8
+you 0 75 8
+consider 0 75 8
+to 0 75 8
+be 0 75 8
+the 0 75 8
+most 0 75 8
+corrupt 0 75 8
+Democrat 0 75 8
+Politician? 0 75 8
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 75 9
+Dianne 0 75 9
+Feinstein 0 75 9
+Maxine 0 75 9
+Waters 0 75 9
+Adam 0 75 9
+Schiff 0 75 9
+Chuck 0 75 9
+Schumer 0 75 9
+Kamala 0 75 9
+Harris 0 75 9
+Kirsten 0 75 9
+Gillibrand 0 75 9
+Keith 0 75 9
+Ellison 0 75 9
+Cory 0 75 9
+Booker 0 75 9
 
-Email 0
-* 0
+Email 0 75 10
+* 0 75 10
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 75 11
+This 0 75 11
+field 0 75 11
+is 0 75 11
+for 0 75 11
+validation 0 75 11
+purposes 0 75 11
+and 0 75 11
+should 0 75 11
+be 0 75 11
+left 0 75 11
+unchanged. 0 75 11
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 75 12
+this 0 75 12
+poll 0 75 12
+grants 0 75 12
+you 0 75 12
+access 0 75 12
+to 0 75 12
+Freedom 0 75 12
+Outpost 0 75 12
+updates 0 75 12
+free 0 75 12
+of 0 75 12
+charge. 0 75 12
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 75 13
+may 0 75 13
+opt 0 75 13
+out 0 75 13
+at 0 75 13
+anytime. 0 75 13
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 75 14
+also 0 75 14
+agree 0 75 14
+to 0 75 14
+this 0 75 14
+site's 0 75 14
+Privacy 0 75 14
+Policy 0 75 14
+and 0 75 14
+Terms 0 75 14
+of 0 75 14
+Use. 0 75 14
 
-This 1
-has 1
-nothing 1
-to 1
-do 1
-with 1
-medicine 1
-or 1
-health, 1
-and 0
-far 0
-from 0
-stupid 1
-people 0
-running 0
-for 0
-Congress 0
-who 0
-spray 0
-themselves 0
-with 0
-pepper 0
-spray 0
-to 0
-tell 0
-you 0
-how 0
-it 0
-will 0
-be 0
-effective 0
-to 0
-protect 0
-your 0
-children 0
-against 0
-a 0
-criminal 0
-armed 0
-with 0
-a 0
-gun, 0
-these 0
-people 0
-don't 0
-used 0
-the 0
-word 0
-"epidemic" 0
-in 0
-their 0
-diatribe, 0
-though 0
-they 0
-are 0
-on 0
-record 0
-saying 0
-gun 0
-violence 0
-is 0
-a 0
-public 0
-health 0
-crisis. 0
+This 1 75 15
+has 1 75 15
+nothing 1 75 15
+to 1 75 15
+do 1 75 15
+with 1 75 15
+medicine 1 75 15
+or 1 75 15
+health, 1 75 15
+and 0 75 15
+far 0 75 15
+from 0 75 15
+stupid 1 75 15
+people 0 75 15
+running 0 75 15
+for 0 75 15
+Congress 0 75 15
+who 0 75 15
+spray 0 75 15
+themselves 0 75 15
+with 0 75 15
+pepper 0 75 15
+spray 0 75 15
+to 0 75 15
+tell 0 75 15
+you 0 75 15
+how 0 75 15
+it 0 75 15
+will 0 75 15
+be 0 75 15
+effective 0 75 15
+to 0 75 15
+protect 0 75 15
+your 0 75 15
+children 0 75 15
+against 0 75 15
+a 0 75 15
+criminal 0 75 15
+armed 0 75 15
+with 0 75 15
+a 0 75 15
+gun, 0 75 15
+these 0 75 15
+people 0 75 15
+don't 0 75 15
+used 0 75 15
+the 0 75 15
+word 0 75 15
+"epidemic" 0 75 15
+in 0 75 15
+their 0 75 15
+diatribe, 0 75 15
+though 0 75 15
+they 0 75 15
+are 0 75 15
+on 0 75 15
+record 0 75 15
+saying 0 75 15
+gun 0 75 15
+violence 0 75 15
+is 0 75 15
+a 0 75 15
+public 0 75 15
+health 0 75 15
+crisis. 0 75 15
 
-Sara 0
-Berg, 0
-a 0
-senior 0
-writer 0
-at 0
-AMA, 0
-was 0
-the 0
-author 0
-of 0
-the 0
-lengthy 0
-post 0
-which 0
-calls 0
-for 0
-all 0
-sorts 0
-of 0
-government 0
-overreach 0
-and 0
-unconstitutional 0
-legislation. 0
+Sara 0 75 16
+Berg, 0 75 16
+a 0 75 16
+senior 0 75 16
+writer 0 75 16
+at 0 75 16
+AMA, 0 75 16
+was 0 75 16
+the 0 75 16
+author 0 75 16
+of 0 75 16
+the 0 75 16
+lengthy 0 75 16
+post 0 75 16
+which 0 75 16
+calls 0 75 16
+for 0 75 16
+all 0 75 16
+sorts 0 75 16
+of 0 75 16
+government 0 75 16
+overreach 0 75 16
+and 0 75 16
+unconstitutional 0 75 16
+legislation. 0 75 16
 
-And 0
-though 0
-she 0
-has 0
-a 0
-huge 0
-laundry 0
-list 0
-of 0
-things 0
-the 0
-AMA 0
-supports, 0
-she 0
-fails, 0
-like 0
-every 0
-other 0
-Socialist 0
-and 0
-Communist, 0
-to 0
-tell 0
-us 0
-exactly 0
-how 0
-these 0
-measures 0
-keep 0
-people 0
-safe 0
-and 0
-weapons 0
-out 0
-of 0
-the 0
-hands 0
-of 0
-criminals. 0
+And 0 75 17
+though 0 75 17
+she 0 75 17
+has 0 75 17
+a 0 75 17
+huge 0 75 17
+laundry 0 75 17
+list 0 75 17
+of 0 75 17
+things 0 75 17
+the 0 75 17
+AMA 0 75 17
+supports, 0 75 17
+she 0 75 17
+fails, 0 75 17
+like 0 75 17
+every 0 75 17
+other 0 75 17
+Socialist 0 75 17
+and 0 75 17
+Communist, 0 75 17
+to 0 75 17
+tell 0 75 17
+us 0 75 17
+exactly 0 75 17
+how 0 75 17
+these 0 75 17
+measures 0 75 17
+keep 0 75 17
+people 0 75 17
+safe 0 75 17
+and 0 75 17
+weapons 0 75 17
+out 0 75 17
+of 0 75 17
+the 0 75 17
+hands 0 75 17
+of 0 75 17
+criminals. 0 75 17
 
-Berg 0
-and 0
-the 0
-AMA 0
-want 0
-to 0
-pull 0
-a 0
-Dick's 0
-Sporting 0
-Goods 0
-and 0
-demand 0
-that 0
-people 0
-be 0
-21 0
-before 0
-they 0
-can 0
-purchase 0
-a 0
-firearm. 0
+Berg 0 75 18
+and 0 75 18
+the 0 75 18
+AMA 0 75 18
+want 0 75 18
+to 0 75 18
+pull 0 75 18
+a 0 75 18
+Dick's 0 75 18
+Sporting 0 75 18
+Goods 0 75 18
+and 0 75 18
+demand 0 75 18
+that 0 75 18
+people 0 75 18
+be 0 75 18
+21 0 75 18
+before 0 75 18
+they 0 75 18
+can 0 75 18
+purchase 0 75 18
+a 0 75 18
+firearm. 0 75 18
 
-Does 0
-Berg 0
-and 0
-the 0
-AMA 0
-support 0
-our 1
-military? 0
+Does 0 75 19
+Berg 0 75 19
+and 0 75 19
+the 0 75 19
+AMA 0 75 19
+support 0 75 19
+our 1 75 19
+military? 0 75 19
 
-Do 0
-they 0
-not 0
-know 0
-that 0
-18-year-olds 0
-carry 0
-firearms, 0
-both 0
-handguns 0
-and 0
-rifles? 0
+Do 0 75 20
+they 0 75 20
+not 0 75 20
+know 0 75 20
+that 0 75 20
+18-year-olds 0 75 20
+carry 0 75 20
+firearms, 0 75 20
+both 0 75 20
+handguns 0 75 20
+and 0 75 20
+rifles? 0 75 20
 
-I 0
-ask, 0
-as 0
-I 0
-do 0
-with 0
-the 0
-issue 0
-concerning 0
-alcohol, 0
-what 0
-is 0
-magic 0
-about 0
-the 0
-age 0
-of 0
-21? 0
+I 0 75 21
+ask, 0 75 21
+as 0 75 21
+I 0 75 21
+do 0 75 21
+with 0 75 21
+the 0 75 21
+issue 0 75 21
+concerning 0 75 21
+alcohol, 0 75 21
+what 0 75 21
+is 0 75 21
+magic 0 75 21
+about 0 75 21
+the 0 75 21
+age 0 75 21
+of 0 75 21
+21? 0 75 21
 
-I 0
-ask, 0
-where 0
-does 0
-government 0
-get 0
-to 0
-determine 0
-who 0
-gets 0
-to 0
-do 0
-whatever 0
-at 0
-whatever 0
-age 0
-based 0
-on 0
-an 0
-ambiguous 0
-age 0
-number? 0
+I 0 75 22
+ask, 0 75 22
+where 0 75 22
+does 0 75 22
+government 0 75 22
+get 0 75 22
+to 0 75 22
+determine 0 75 22
+who 0 75 22
+gets 0 75 22
+to 0 75 22
+do 0 75 22
+whatever 0 75 22
+at 0 75 22
+whatever 0 75 22
+age 0 75 22
+based 0 75 22
+on 0 75 22
+an 0 75 22
+ambiguous 0 75 22
+age 0 75 22
+number? 0 75 22
 
-Yet, 0
-if 1
-we 1
-do 1
-that, 1
-we 1
-won't 1
-have 1
-to 1
-worry 1
-about 1
-mass 1
-shooters, 1
-right? 0
+Yet, 0 75 23
+if 1 75 23
+we 1 75 23
+do 1 75 23
+that, 1 75 23
+we 1 75 23
+won't 1 75 23
+have 1 75 23
+to 1 75 23
+worry 1 75 23
+about 1 75 23
+mass 1 75 23
+shooters, 1 75 23
+right? 0 75 23
 
-Wrong. 0
+Wrong. 0 75 24
 
-Yeah, 0
-that's 0
-gonna 0
-keep 0
-people 0
-safe. 0
+Yeah, 0 75 25
+that's 0 75 25
+gonna 0 75 25
+keep 0 75 25
+people 0 75 25
+safe. 0 75 25
 
-It's 0
-going 0
-to 0
-infringe 0
-on 0
-the 0
-rights 0
-of 0
-those 0
-who 0
-don't 0
-commit 0
-crimes 0
-and 0
-need 0
-a 0
-gun 0
-to 0
-protect 0
-themselves 0
-or 0
-be 0
-part 0
-of 0
-the 0
-constitutional 0
-militia. 0
+It's 0 75 26
+going 0 75 26
+to 0 75 26
+infringe 0 75 26
+on 0 75 26
+the 0 75 26
+rights 0 75 26
+of 0 75 26
+those 0 75 26
+who 0 75 26
+don't 0 75 26
+commit 0 75 26
+crimes 0 75 26
+and 0 75 26
+need 0 75 26
+a 0 75 26
+gun 0 75 26
+to 0 75 26
+protect 0 75 26
+themselves 0 75 26
+or 0 75 26
+be 0 75 26
+part 0 75 26
+of 0 75 26
+the 0 75 26
+constitutional 0 75 26
+militia. 0 75 26
 
-The 0
-AMA 0
-also 0
-wants 0
-to 0
-bypass 0
-the 0
-Fifth 0
-Amendment 0
-protections 0
-concerning 0
-someone 0
-actually 0
-being 0
-indicted 0
-and 0
-found 0
-guilty 0
-of 0
-a 0
-crime 0
-being 0
-deprived 0
-of 0
-their 0
-liberty 0
-and 0
-property 0
-as 0
-they 0
-promote 0
-a 0
-new 0
-legal 0
-procedure 0
-by 0
-which 0
-“family 0
-members, 0
-intimate 0
-partners, 0
-household 0
-members 0
-and 0
-law 0
-enforcement 0
-personnel” 0
-can 0
-petition 0
-courts 0
-to 0
-confiscate 0
-firearms 0
-from 0
-people 0
-“when 0
-there 0
-is 0
-a 0
-high 0
-or 0
-imminent 0
-risk 0
-for 0
-violence.” 0
+The 0 75 27
+AMA 0 75 27
+also 0 75 27
+wants 0 75 27
+to 0 75 27
+bypass 0 75 27
+the 0 75 27
+Fifth 0 75 27
+Amendment 0 75 27
+protections 0 75 27
+concerning 0 75 27
+someone 0 75 27
+actually 0 75 27
+being 0 75 27
+indicted 0 75 27
+and 0 75 27
+found 0 75 27
+guilty 0 75 27
+of 0 75 27
+a 0 75 27
+crime 0 75 27
+being 0 75 27
+deprived 0 75 27
+of 0 75 27
+their 0 75 27
+liberty 0 75 27
+and 0 75 27
+property 0 75 27
+as 0 75 27
+they 0 75 27
+promote 0 75 27
+a 0 75 27
+new 0 75 27
+legal 0 75 27
+procedure 0 75 27
+by 0 75 27
+which 0 75 27
+“family 0 75 27
+members, 0 75 27
+intimate 0 75 27
+partners, 0 75 27
+household 0 75 27
+members 0 75 27
+and 0 75 27
+law 0 75 27
+enforcement 0 75 27
+personnel” 0 75 27
+can 0 75 27
+petition 0 75 27
+courts 0 75 27
+to 0 75 27
+confiscate 0 75 27
+firearms 0 75 27
+from 0 75 27
+people 0 75 27
+“when 0 75 27
+there 0 75 27
+is 0 75 27
+a 0 75 27
+high 0 75 27
+or 0 75 27
+imminent 0 75 27
+risk 0 75 27
+for 0 75 27
+violence.” 0 75 27
 
-They 0
-want 0
-to 0
-do 0
-what 0
-President 0
-Donald 0
-Trump 0
-suggested 0
-and 0
-"take 0
-the 0
-guns 0
-first" 0
-and 0
-forget 0
-due 0
-process. 0
+They 0 75 28
+want 0 75 28
+to 0 75 28
+do 0 75 28
+what 0 75 28
+President 0 75 28
+Donald 0 75 28
+Trump 0 75 28
+suggested 0 75 28
+and 0 75 28
+"take 0 75 28
+the 0 75 28
+guns 0 75 28
+first" 0 75 28
+and 0 75 28
+forget 0 75 28
+due 0 75 28
+process. 0 75 28
 
-See? 0
+See? 0 75 29
 
-This 0
-is 0
-why 0
-they 0
-should 0
-be 0
-honest 0
-about 0
-who 0
-they 0
-are 0
-and 0
-name 0
-themselves 0
-the 0
-Non-American 1
-Medical 0
-Association. 0
+This 0 75 30
+is 0 75 30
+why 0 75 30
+they 0 75 30
+should 0 75 30
+be 0 75 30
+honest 0 75 30
+about 0 75 30
+who 0 75 30
+they 0 75 30
+are 0 75 30
+and 0 75 30
+name 0 75 30
+themselves 0 75 30
+the 0 75 30
+Non-American 1 75 30
+Medical 0 75 30
+Association. 0 75 30
 
-I'm 0
-all 0
-for 0
-situations 0
-like 0
-Nikolas 0
-Cruz 0
-who 0
-assaulted 0
-teachers 0
-and 0
-students 0
-being 0
-arrested 0
-and 0
-tried 0
-and 0
-dealt 0
-with 0
-lawfully, 0
-but 0
-to 0
-go 0
-seizing 0
-people's 0
-property 0
-and 0
-denying 0
-them 0
-their 0
-liberty 0
-base 0
-on 0
-the 0
-hearsay 0
-of 0
-another 0
-person 0
-is 0
-anti-constitutional 0
-and 0
-anti-American. 1
+I'm 0 75 31
+all 0 75 31
+for 0 75 31
+situations 0 75 31
+like 0 75 31
+Nikolas 0 75 31
+Cruz 0 75 31
+who 0 75 31
+assaulted 0 75 31
+teachers 0 75 31
+and 0 75 31
+students 0 75 31
+being 0 75 31
+arrested 0 75 31
+and 0 75 31
+tried 0 75 31
+and 0 75 31
+dealt 0 75 31
+with 0 75 31
+lawfully, 0 75 31
+but 0 75 31
+to 0 75 31
+go 0 75 31
+seizing 0 75 31
+people's 0 75 31
+property 0 75 31
+and 0 75 31
+denying 0 75 31
+them 0 75 31
+their 0 75 31
+liberty 0 75 31
+base 0 75 31
+on 0 75 31
+the 0 75 31
+hearsay 0 75 31
+of 0 75 31
+another 0 75 31
+person 0 75 31
+is 0 75 31
+anti-constitutional 0 75 31
+and 0 75 31
+anti-American. 1 75 31
 
-Who 0
-knows 0
-exactly 0
-what 0
-they 0
-mean 0
-by 0
-high-capacity 0
-magazines. 0
+Who 0 75 32
+knows 0 75 32
+exactly 0 75 32
+what 0 75 32
+they 0 75 32
+mean 0 75 32
+by 0 75 32
+high-capacity 0 75 32
+magazines. 0 75 32
 
-I 0
-mean, 0
-for 0
-the 0
-most 0
-part, 0
-you 0
-can 0
-obtain 0
-20 0
-or 0
-30 0
-round 0
-magazines 0
-for 0
-both 0
-handguns 0
-and 0
-rifles. 0
+I 0 75 33
+mean, 0 75 33
+for 0 75 33
+the 0 75 33
+most 0 75 33
+part, 0 75 33
+you 0 75 33
+can 0 75 33
+obtain 0 75 33
+20 0 75 33
+or 0 75 33
+30 0 75 33
+round 0 75 33
+magazines 0 75 33
+for 0 75 33
+both 0 75 33
+handguns 0 75 33
+and 0 75 33
+rifles. 0 75 33
 
-In 0
-some 0
-cases, 0
-you 0
-can 0
-purchase 0
-drums 0
-which 0
-hold 0
-50-100 0
-rounds, 0
-but 0
-if 0
-you 0
-are 0
-in 0
-New 0
-York, 0
-the 0
-NY 0
-SAFE 0
-Act 0
-defines 0
-your 0
-high 0
-capacity 0
-magazine 0
-to 0
-hold 0
-anything 0
-more 0
-than 0
-7 0
-rounds. 0
+In 0 75 34
+some 0 75 34
+cases, 0 75 34
+you 0 75 34
+can 0 75 34
+purchase 0 75 34
+drums 0 75 34
+which 0 75 34
+hold 0 75 34
+50-100 0 75 34
+rounds, 0 75 34
+but 0 75 34
+if 0 75 34
+you 0 75 34
+are 0 75 34
+in 0 75 34
+New 0 75 34
+York, 0 75 34
+the 0 75 34
+NY 0 75 34
+SAFE 0 75 34
+Act 0 75 34
+defines 0 75 34
+your 0 75 34
+high 0 75 34
+capacity 0 75 34
+magazine 0 75 34
+to 0 75 34
+hold 0 75 34
+anything 0 75 34
+more 0 75 34
+than 0 75 34
+7 0 75 34
+rounds. 0 75 34
 
-As 0
-for 0
-the 0
-nonsensical 1
-call 0
-to 0
-ban 0
-armor-piercing 0
-bullets, 0
-virtually 0
-every 0
-caliber 0
-of 0
-bullet, 0
-except 0
-maybe 0
-a 0
-.22 0
-can 0
-pierce 0
-kevlar-based 0
-vests, 0
-and 0
-if 0
-you 0
-are 0
-using 0
-.22 0
-magnums, 0
-they 0
-will 0
-even 0
-pierce 0
-those! 0
+As 0 75 35
+for 0 75 35
+the 0 75 35
+nonsensical 1 75 35
+call 0 75 35
+to 0 75 35
+ban 0 75 35
+armor-piercing 0 75 35
+bullets, 0 75 35
+virtually 0 75 35
+every 0 75 35
+caliber 0 75 35
+of 0 75 35
+bullet, 0 75 35
+except 0 75 35
+maybe 0 75 35
+a 0 75 35
+.22 0 75 35
+can 0 75 35
+pierce 0 75 35
+kevlar-based 0 75 35
+vests, 0 75 35
+and 0 75 35
+if 0 75 35
+you 0 75 35
+are 0 75 35
+using 0 75 35
+.22 0 75 35
+magnums, 0 75 35
+they 0 75 35
+will 0 75 35
+even 0 75 35
+pierce 0 75 35
+those! 0 75 35
 
-At 0
-the 0
-2018 0
-AMA 0
-Annual 0
-Meeting, 0
-delegates 0
-adopted 0
-policy 0
-for 0
-the 0
-AMA 0
-to 0
-support: 0
-Establishing 0
-laws 0
-allowing 0
-family 0
-members, 0
-intimate 0
-partners, 0
-household 0
-members 0
-and 0
-law 0
-enforcement 0
-personnel 0
-to 0
-petition 0
-a 0
-court 0
-for 0
-the 0
-removal 0
-of 0
-a 0
-firearm 0
-when 0
-there 0
-is 0
-a 0
-high 0
-or 0
-imminent 0
-risk 0
-for 0
-violence. 0
+At 0 75 36
+the 0 75 36
+2018 0 75 36
+AMA 0 75 36
+Annual 0 75 36
+Meeting, 0 75 36
+delegates 0 75 36
+adopted 0 75 36
+policy 0 75 36
+for 0 75 36
+the 0 75 36
+AMA 0 75 36
+to 0 75 36
+support: 0 75 36
+Establishing 0 75 36
+laws 0 75 36
+allowing 0 75 36
+family 0 75 36
+members, 0 75 36
+intimate 0 75 36
+partners, 0 75 36
+household 0 75 36
+members 0 75 36
+and 0 75 36
+law 0 75 36
+enforcement 0 75 36
+personnel 0 75 36
+to 0 75 36
+petition 0 75 36
+a 0 75 36
+court 0 75 36
+for 0 75 36
+the 0 75 36
+removal 0 75 36
+of 0 75 36
+a 0 75 36
+firearm 0 75 36
+when 0 75 36
+there 0 75 36
+is 0 75 36
+a 0 75 36
+high 0 75 36
+or 0 75 36
+imminent 0 75 36
+risk 0 75 36
+for 0 75 36
+violence. 0 75 36
 
-Prohibiting 0
-persons 0
-who 0
-are 0
-under 0
-domestic 0
-violence 0
-restraining 0
-orders, 0
-convicted 0
-of 0
-misdemeanor 0
-domestic 0
-violence 0
-crimes 0
-or 0
-stalking 0
-from 0
-possessing 0
-or 0
-purchasing 0
-firearms. 0
+Prohibiting 0 75 37
+persons 0 75 37
+who 0 75 37
+are 0 75 37
+under 0 75 37
+domestic 0 75 37
+violence 0 75 37
+restraining 0 75 37
+orders, 0 75 37
+convicted 0 75 37
+of 0 75 37
+misdemeanor 0 75 37
+domestic 0 75 37
+violence 0 75 37
+crimes 0 75 37
+or 0 75 37
+stalking 0 75 37
+from 0 75 37
+possessing 0 75 37
+or 0 75 37
+purchasing 0 75 37
+firearms. 0 75 37
 
-Expanding 0
-domestic 0
-violence 0
-restraining 0
-orders 0
-to 0
-include 0
-dating 0
-partners. 0
+Expanding 0 75 38
+domestic 0 75 38
+violence 0 75 38
+restraining 0 75 38
+orders 0 75 38
+to 0 75 38
+include 0 75 38
+dating 0 75 38
+partners. 0 75 38
 
-Requiring 0
-states 0
-to 0
-have 0
-protocols 0
-or 0
-processes 0
-in 0
-place 0
-for 0
-requiring 0
-the 0
-removal 0
-of 0
-firearms 0
-by 0
-prohibited 0
-persons. 0
+Requiring 0 75 39
+states 0 75 39
+to 0 75 39
+have 0 75 39
+protocols 0 75 39
+or 0 75 39
+processes 0 75 39
+in 0 75 39
+place 0 75 39
+for 0 75 39
+requiring 0 75 39
+the 0 75 39
+removal 0 75 39
+of 0 75 39
+firearms 0 75 39
+by 0 75 39
+prohibited 0 75 39
+persons. 0 75 39
 
-Requiring 0
-domestic 0
-violence 0
-restraining 0
-orders 0
-and 0
-gun 0
-violence 0
-restraining 0
-orders 0
-to 0
-be 0
-entered 0
-into 0
-the 0
-National 0
-Instant 0
-Criminal 0
-Background 0
-Check 0
-System. 0
+Requiring 0 75 40
+domestic 0 75 40
+violence 0 75 40
+restraining 0 75 40
+orders 0 75 40
+and 0 75 40
+gun 0 75 40
+violence 0 75 40
+restraining 0 75 40
+orders 0 75 40
+to 0 75 40
+be 0 75 40
+entered 0 75 40
+into 0 75 40
+the 0 75 40
+National 0 75 40
+Instant 0 75 40
+Criminal 0 75 40
+Background 0 75 40
+Check 0 75 40
+System. 0 75 40
 
-Efforts 0
-to 0
-ensure 0
-the 0
-public 0
-is 0
-aware 0
-of 0
-the 0
-existence 0
-of 0
-laws 0
-that 0
-allow 0
-for 0
-the 0
-removal 0
-of 0
-firearms 0
-from 0
-high-risk 0
-individuals. 0
+Efforts 0 75 41
+to 0 75 41
+ensure 0 75 41
+the 0 75 41
+public 0 75 41
+is 0 75 41
+aware 0 75 41
+of 0 75 41
+the 0 75 41
+existence 0 75 41
+of 0 75 41
+laws 0 75 41
+that 0 75 41
+allow 0 75 41
+for 0 75 41
+the 0 75 41
+removal 0 75 41
+of 0 75 41
+firearms 0 75 41
+from 0 75 41
+high-risk 0 75 41
+individuals. 0 75 41
 
-The 0
-delegates 0
-also 0
-modified 0
-existing 0
-policy 0
-to: 0
-Recognize 0
-the 0
-role 0
-of 0
-firearms 0
-in 0
-suicides. 0
+The 0 75 42
+delegates 0 75 42
+also 0 75 42
+modified 0 75 42
+existing 0 75 42
+policy 0 75 42
+to: 0 75 42
+Recognize 0 75 42
+the 0 75 42
+role 0 75 42
+of 0 75 42
+firearms 0 75 42
+in 0 75 42
+suicides. 0 75 42
 
-Encourage 0
-the 0
-development 0
-of 0
-curricula 0
-and 0
-training 0
-for 0
-physicians 0
-with 0
-a 0
-focus 0
-on 0
-suicide 0
-risk 0
-assessment 0
-and 0
-prevention 0
-as 0
-well 0
-as 0
-lethal 0
-means 0
-safety 0
-counseling. 0
+Encourage 0 75 43
+the 0 75 43
+development 0 75 43
+of 0 75 43
+curricula 0 75 43
+and 0 75 43
+training 0 75 43
+for 0 75 43
+physicians 0 75 43
+with 0 75 43
+a 0 75 43
+focus 0 75 43
+on 0 75 43
+suicide 0 75 43
+risk 0 75 43
+assessment 0 75 43
+and 0 75 43
+prevention 0 75 43
+as 0 75 43
+well 0 75 43
+as 0 75 43
+lethal 0 75 43
+means 0 75 43
+safety 0 75 43
+counseling. 0 75 43
 
-Encourage 1
-physicians, 0
-as 0
-a 0
-part 0
-of 0
-their 0
-suicide 0
-prevention 0
-strategy, 0
-to 0
-discuss 0
-lethal 0
-means 0
-safety 0
-and 0
-work 0
-with 0
-families 0
-to 0
-reduce 0
-access 0
-to 0
-lethal 0
-means 0
-of 0
-suicide. 0
+Encourage 1 75 44
+physicians, 0 75 44
+as 0 75 44
+a 0 75 44
+part 0 75 44
+of 0 75 44
+their 0 75 44
+suicide 0 75 44
+prevention 0 75 44
+strategy, 0 75 44
+to 0 75 44
+discuss 0 75 44
+lethal 0 75 44
+means 0 75 44
+safety 0 75 44
+and 0 75 44
+work 0 75 44
+with 0 75 44
+families 0 75 44
+to 0 75 44
+reduce 0 75 44
+access 0 75 44
+to 0 75 44
+lethal 0 75 44
+means 0 75 44
+of 0 75 44
+suicide. 0 75 44
 
-Newly 0
-adopted 0
-policy 0
-also 0
-means 0
-the 0
-AMA 0
-will: 0
+Newly 0 75 45
+adopted 0 75 45
+policy 0 75 45
+also 0 75 45
+means 0 75 45
+the 0 75 45
+AMA 0 75 45
+will: 0 75 45
 
-Advocate 0
-for 0
-schools 0
-to 0
-remain 0
-gun-free 0
-zones 0
-except 0
-for 0
-school-sanctioned 0
-activities 0
-and 0
-professional 0
-law 0
-enforcement 0
-officials. 0
+Advocate 0 75 46
+for 0 75 46
+schools 0 75 46
+to 0 75 46
+remain 0 75 46
+gun-free 0 75 46
+zones 0 75 46
+except 0 75 46
+for 0 75 46
+school-sanctioned 0 75 46
+activities 0 75 46
+and 0 75 46
+professional 0 75 46
+law 0 75 46
+enforcement 0 75 46
+officials. 0 75 46
 
-Oppose 0
-requirements 0
-or 0
-incentives 0
-of 0
-teachers 0
-to 0
-carry 0
-weapons. 0
+Oppose 0 75 47
+requirements 0 75 47
+or 0 75 47
+incentives 0 75 47
+of 0 75 47
+teachers 0 75 47
+to 0 75 47
+carry 0 75 47
+weapons. 0 75 47
 
-They 0
-also 0
-oppose 0
-concealed 0
-carry 0
-reciprocity, 0
-which 0
-I 0
-do 0
-as 0
-well, 0
-but 0
-based 0
-on 0
-the 0
-principle 0
-that 0
-the 0
-Second 0
-Amendment's 0
-protections 0
-extend 0
-to 0
-the 0
-various 0
-states 0
-as 0
-well, 0
-since 0
-it 0
-recognizes 0
-a 1
-right, 1
-not 1
-a 1
-permission, 1
-to 1
-keep 1
-and 1
-bear 1
-arms. 1
+They 0 75 48
+also 0 75 48
+oppose 0 75 48
+concealed 0 75 48
+carry 0 75 48
+reciprocity, 0 75 48
+which 0 75 48
+I 0 75 48
+do 0 75 48
+as 0 75 48
+well, 0 75 48
+but 0 75 48
+based 0 75 48
+on 0 75 48
+the 0 75 48
+principle 0 75 48
+that 0 75 48
+the 0 75 48
+Second 0 75 48
+Amendment's 0 75 48
+protections 0 75 48
+extend 0 75 48
+to 0 75 48
+the 0 75 48
+various 0 75 48
+states 0 75 48
+as 0 75 48
+well, 0 75 48
+since 0 75 48
+it 0 75 48
+recognizes 0 75 48
+a 1 75 48
+right, 1 75 48
+not 1 75 48
+a 1 75 48
+permission, 1 75 48
+to 1 75 48
+keep 1 75 48
+and 1 75 48
+bear 1 75 48
+arms. 1 75 48
 
-I 0
-also 0
-oppose 0
-it 0
-because 0
-it's 0
-just 0
-another 0
-step 0
-for 0
-the 0
-federal 0
-government 0
-to 0
-say 0
-they 0
-need 0
-a 0
-database 0
-so 0
-states 0
-can 0
-check, 0
-thus 0
-identifying 0
-gun 0
-owners 0
-and 0
-possibly 0
-their 0
-weapons. 0
+I 0 75 49
+also 0 75 49
+oppose 0 75 49
+it 0 75 49
+because 0 75 49
+it's 0 75 49
+just 0 75 49
+another 0 75 49
+step 0 75 49
+for 0 75 49
+the 0 75 49
+federal 0 75 49
+government 0 75 49
+to 0 75 49
+say 0 75 49
+they 0 75 49
+need 0 75 49
+a 0 75 49
+database 0 75 49
+so 0 75 49
+states 0 75 49
+can 0 75 49
+check, 0 75 49
+thus 0 75 49
+identifying 0 75 49
+gun 0 75 49
+owners 0 75 49
+and 0 75 49
+possibly 0 75 49
+their 0 75 49
+weapons. 0 75 49
 
-“People 0
-are 0
-dying 0
-of 0
-gun 0
-violence 0
-in 0
-our 1
-homes, 0
-churches, 0
-schools, 0
-on 0
-street 0
-corners 0
-and 0
-at 0
-public 0
-gatherings, 0
-and 0
-it’s 0
-important 0
-that 0
-lawmakers, 0
-policy 0
-leaders 0
-and 0
-advocates 0
-on 0
-all 0
-sides 0
-seek 0
-common 0
-ground 0
-to 0
-address 0
-this 0
-public 1
-health 1
-crisis,” 1
-said 0
-AMA 0
-Immediate 0
-Past 0
-President 0
-David 0
-O. 0
-Barbe, 0
-MD, 0
-MHA. 0
+“People 0 75 50
+are 0 75 50
+dying 0 75 50
+of 0 75 50
+gun 0 75 50
+violence 0 75 50
+in 0 75 50
+our 1 75 50
+homes, 0 75 50
+churches, 0 75 50
+schools, 0 75 50
+on 0 75 50
+street 0 75 50
+corners 0 75 50
+and 0 75 50
+at 0 75 50
+public 0 75 50
+gatherings, 0 75 50
+and 0 75 50
+it’s 0 75 50
+important 0 75 50
+that 0 75 50
+lawmakers, 0 75 50
+policy 0 75 50
+leaders 0 75 50
+and 0 75 50
+advocates 0 75 50
+on 0 75 50
+all 0 75 50
+sides 0 75 50
+seek 0 75 50
+common 0 75 50
+ground 0 75 50
+to 0 75 50
+address 0 75 50
+this 0 75 50
+public 1 75 50
+health 1 75 50
+crisis,” 1 75 50
+said 0 75 50
+AMA 0 75 50
+Immediate 0 75 50
+Past 0 75 50
+President 0 75 50
+David 0 75 50
+O. 0 75 50
+Barbe, 0 75 50
+MD, 0 75 50
+MHA. 0 75 50
 
-“In 0
-emergency 0
-rooms 0
-across 0
-the 0
-country, 0
-the 0
-carnage 1
-of 1
-gun 1
-violence 1
-has 0
-become 0
-a 0
-too 0
-routine 0
-experience. 0
+“In 0 75 51
+emergency 0 75 51
+rooms 0 75 51
+across 0 75 51
+the 0 75 51
+country, 0 75 51
+the 0 75 51
+carnage 1 75 51
+of 1 75 51
+gun 1 75 51
+violence 1 75 51
+has 0 75 51
+become 0 75 51
+a 0 75 51
+too 0 75 51
+routine 0 75 51
+experience. 0 75 51
 
-“Every 0
-day,” 0
-Dr. 0
-Barbe 0
-added, 0
-“physicians 0
-are 0
-treating 0
-suicide 0
-victims, 0
-victims 0
-of 0
-domestic 0
-partner 0
-violence, 0
-and 0
-men 0
-and 0
-women 0
-simply 0
-in 0
-the 0
-wrong 0
-place 0
-at 0
-the 0
-wrong 0
-time. 0
+“Every 0 75 52
+day,” 0 75 52
+Dr. 0 75 52
+Barbe 0 75 52
+added, 0 75 52
+“physicians 0 75 52
+are 0 75 52
+treating 0 75 52
+suicide 0 75 52
+victims, 0 75 52
+victims 0 75 52
+of 0 75 52
+domestic 0 75 52
+partner 0 75 52
+violence, 0 75 52
+and 0 75 52
+men 0 75 52
+and 0 75 52
+women 0 75 52
+simply 0 75 52
+in 0 75 52
+the 0 75 52
+wrong 0 75 52
+place 0 75 52
+at 0 75 52
+the 0 75 52
+wrong 0 75 52
+time. 0 75 52
 
-It 0
-doesn’t 0
-have 0
-to 0
-be 0
-this 0
-way, 0
-and 0
-we 0
-urge 0
-lawmakers 0
-to 0
-act.” 0
+It 0 75 53
+doesn’t 0 75 53
+have 0 75 53
+to 0 75 53
+be 0 75 53
+this 0 75 53
+way, 0 75 53
+and 0 75 53
+we 0 75 53
+urge 0 75 53
+lawmakers 0 75 53
+to 0 75 53
+act.” 0 75 53
 
-Yeah, 0
-and 0
-people 1
-are 1
-dying 1
-by 1
-the 1
-hundreds 1
-of 1
-thousands 1
-at 1
-the 1
-hands 1
-of 1
-drugs 1
-approved 1
-by 1
-the 1
-FDA, 1
-but 1
-I 1
-don't 1
-hear 1
-you 1
-guys 1
-calling 1
-to 1
-shut 1
-down 1
-the 1
-unconstitutional 1
-FDA 1
-or 1
-put 1
-Big 1
-Pharma 1
-out 1
-of 1
-business, 1
-does 0
-anyone 0
-else? 0
+Yeah, 0 75 54
+and 0 75 54
+people 1 75 54
+are 1 75 54
+dying 1 75 54
+by 1 75 54
+the 1 75 54
+hundreds 1 75 54
+of 1 75 54
+thousands 1 75 54
+at 1 75 54
+the 1 75 54
+hands 1 75 54
+of 1 75 54
+drugs 1 75 54
+approved 1 75 54
+by 1 75 54
+the 1 75 54
+FDA, 1 75 54
+but 1 75 54
+I 1 75 54
+don't 1 75 54
+hear 1 75 54
+you 1 75 54
+guys 1 75 54
+calling 1 75 54
+to 1 75 54
+shut 1 75 54
+down 1 75 54
+the 1 75 54
+unconstitutional 1 75 54
+FDA 1 75 54
+or 1 75 54
+put 1 75 54
+Big 1 75 54
+Pharma 1 75 54
+out 1 75 54
+of 1 75 54
+business, 1 75 54
+does 0 75 54
+anyone 0 75 54
+else? 0 75 54
 
-Where 1
-is 1
-Berg's 1
-blog 1
-post 1
-on 1
-that? 1
+Where 1 75 55
+is 1 75 55
+Berg's 1 75 55
+blog 1 75 55
+post 1 75 55
+on 1 75 55
+that? 1 75 55
 
-Where 1
-is 1
-the 1
-AMA 1
-statement 1
-against 1
-the 1
-pharmaceutical 1
-companies 1
-and 1
-big 1
-government? 1
+Where 1 75 56
+is 1 75 56
+the 1 75 56
+AMA 1 75 56
+statement 1 75 56
+against 1 75 56
+the 1 75 56
+pharmaceutical 1 75 56
+companies 1 75 56
+and 1 75 56
+big 1 75 56
+government? 1 75 56
 
-I'll 0
-tell 0
-you 0
-why 0
-they 0
-aren't 0
-speaking 0
-out 0
-on 0
-that... 0
-they 1
-don't 1
-want 1
-to 1
-bite 1
-the 1
-hand 1
-that 1
-feeds 1
-them, 1
-plain 0
-and 0
-simple. 0
+I'll 0 75 56
+
+tell 0 75 56
+
+you 0 75 56
+
+why 0 75 56
+
+they 0 75 56
+
+aren't 0 75 56
+
+speaking 0 75 56
+
+out 0 75 56
+
+on 0 75 56
+
+that... 0 75 56
+
+they 1 75 56
+
+don't 1 75 56
+
+want 1 75 56
+
+to 1 75 56
+
+bite 1 75 56
+
+the 1 75 56
+
+hand 1 75 56
+
+that 1 75 56
+
+feeds 1 75 56
+
+them, 1 75 56
+
+plain 0 75 56
+
+and 0 75 56
+
+simple. 0 75 56

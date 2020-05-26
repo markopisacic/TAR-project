@@ -1,1140 +1,1155 @@
-House 0
-of 0
-Representatives 0
-Paid 0
-$15,000,000 0
-To 0
-Sexual 0
-Harassment 0
-Victims 0
+House 0 90 0
+of 0 90 0
+Representatives 0 90 0
+Paid 0 90 0
+$15,000,000 0 90 0
+To 0 90 0
+Sexual 0 90 0
+Harassment 0 90 0
+Victims 0 90 0
 
-Did 0
-you 0
-know 0
-that 0
-the 0
-House 0
-of 0
-Representatives 0
-has 0
-paid 0
-out 0
-$15,000,000 0
-to 0
-victims 0
-of 0
-sexual 0
-harassment 0
-in 0
-recent 0
-years? 0
+Did 0 90 1
+you 0 90 1
+know 0 90 1
+that 0 90 1
+the 0 90 1
+House 0 90 1
+of 0 90 1
+Representatives 0 90 1
+has 0 90 1
+paid 0 90 1
+out 0 90 1
+$15,000,000 0 90 1
+to 0 90 1
+victims 0 90 1
+of 0 90 1
+sexual 0 90 1
+harassment 0 90 1
+in 0 90 1
+recent 0 90 1
+years? 0 90 1
 
-I 0
-am 0
-going 0
-to 0
-share 0
-some 0
-things 0
-with 0
-you 0
-in 0
-this 0
-article 0
-that 0
-are 0
-deeply 1
-disturbing, 1
-but 0
-it 0
-is 0
-for 0
-a 0
-purpose. 0
+I 0 90 2
+am 0 90 2
+going 0 90 2
+to 0 90 2
+share 0 90 2
+some 0 90 2
+things 0 90 2
+with 0 90 2
+you 0 90 2
+in 0 90 2
+this 0 90 2
+article 0 90 2
+that 0 90 2
+are 0 90 2
+deeply 1 90 2
+disturbing, 1 90 2
+but 0 90 2
+it 0 90 2
+is 0 90 2
+for 0 90 2
+a 0 90 2
+purpose. 0 90 2
 
-The 0
-status 0
-quo 0
-is 0
-not 0
-acceptable 0
-in 0
-Washington, 0
-and 1
-once 1
-people 1
-truly 1
-understand 1
-how 1
-deep 1
-the 1
-corruaption 1
-runs 1
-I 1
-believe 1
-that 1
-they 1
-will 1
-get 1
-motivated 1
-to 1
-finally 1
-drain 1
-the 1
-swamp 1
-once 1
-and 1
-for 1
-all. 1
+The 0 90 3
+status 0 90 3
+quo 0 90 3
+is 0 90 3
+not 0 90 3
+acceptable 0 90 3
+in 0 90 3
+Washington, 0 90 3
+and 1 90 3
+once 1 90 3
+people 1 90 3
+truly 1 90 3
+understand 1 90 3
+how 1 90 3
+deep 1 90 3
+the 1 90 3
+corruaption 1 90 3
+runs 1 90 3
+I 1 90 3
+believe 1 90 3
+that 1 90 3
+they 1 90 3
+will 1 90 3
+get 1 90 3
+motivated 1 90 3
+to 1 90 3
+finally 1 90 3
+drain 1 90 3
+the 1 90 3
+swamp 1 90 3
+once 1 90 3
+and 1 90 3
+for 1 90 3
+all. 1 90 3
 
-So 0
-yes, 0
-I 0
-am 0
-going 0
-to 0
-share 0
-some 0
-things 0
-in 0
-this 0
-article 0
-that 0
-are 0
-truly 1
-disgusting, 1
-but 0
-the 0
-goal 0
-is 0
-to 0
-show 0
-you 0
-that 0
-it 1
-is 1
-time 1
-to 1
-take 1
-our 1
-government 1
-back 1
-from 1
-the 1
-corrupt 1
-career 1
-politicians 1
-that 1
-are 1
-completely 1
-and 1
-utterly 1
-out 1
-of 1
-control. 1
+So 0 90 4
+yes, 0 90 4
+I 0 90 4
+am 0 90 4
+going 0 90 4
+to 0 90 4
+share 0 90 4
+some 0 90 4
+things 0 90 4
+in 0 90 4
+this 0 90 4
+article 0 90 4
+that 0 90 4
+are 0 90 4
+truly 1 90 4
+disgusting, 1 90 4
+but 0 90 4
+the 0 90 4
+goal 0 90 4
+is 0 90 4
+to 0 90 4
+show 0 90 4
+you 0 90 4
+that 0 90 4
+it 1 90 4
+is 1 90 4
+time 1 90 4
+to 1 90 4
+take 1 90 4
+our 1 90 4
+government 1 90 4
+back 1 90 4
+from 1 90 4
+the 1 90 4
+corrupt 1 90 4
+career 1 90 4
+politicians 1 90 4
+that 1 90 4
+are 1 90 4
+completely 1 90 4
+and 1 90 4
+utterly 1 90 4
+out 1 90 4
+of 1 90 4
+control. 1 90 4
 
-In 0
-recent 0
-days, 0
-CNN 0
-has 0
-interviewed 0
-dozens 0
-of 0
-people 0
-that 0
-worked 0
-on 0
-Capitol 0
-Hill, 0
-and 0
-almost 0
-every 0
-single 0
-one 0
-of 0
-them 0
-had 0
-stories 0
-of 0
-sexual 0
-harassment 0
-to 0
-share… 0
+In 0 90 5
+recent 0 90 5
+days, 0 90 5
+CNN 0 90 5
+has 0 90 5
+interviewed 0 90 5
+dozens 0 90 5
+of 0 90 5
+people 0 90 5
+that 0 90 5
+worked 0 90 5
+on 0 90 5
+Capitol 0 90 5
+Hill, 0 90 5
+and 0 90 5
+almost 0 90 5
+every 0 90 5
+single 0 90 5
+one 0 90 5
+of 0 90 5
+them 0 90 5
+had 0 90 5
+stories 0 90 5
+of 0 90 5
+sexual 0 90 5
+harassment 0 90 5
+to 0 90 5
+share… 0 90 5
 
-CNN 0
-spoke 0
-with 0
-more 0
-than 0
-50 0
-lawmakers, 0
-current 0
-and 0
-former 0
-Hill 0
-aides 0
-and 0
-political 0
-veterans 0
-who 0
-have 0
-worked 0
-in 0
-Congress, 0
-the 0
-majority 0
-of 0
-whom 0
-spoke 0
-anonymously 0
-to 0
-be 0
-candid 0
-and 0
-avoid 0
-potential 0
-repercussions. 0
+CNN 0 90 6
+spoke 0 90 6
+with 0 90 6
+more 0 90 6
+than 0 90 6
+50 0 90 6
+lawmakers, 0 90 6
+current 0 90 6
+and 0 90 6
+former 0 90 6
+Hill 0 90 6
+aides 0 90 6
+and 0 90 6
+political 0 90 6
+veterans 0 90 6
+who 0 90 6
+have 0 90 6
+worked 0 90 6
+in 0 90 6
+Congress, 0 90 6
+the 0 90 6
+majority 0 90 6
+of 0 90 6
+whom 0 90 6
+spoke 0 90 6
+anonymously 0 90 6
+to 0 90 6
+be 0 90 6
+candid 0 90 6
+and 0 90 6
+avoid 0 90 6
+potential 0 90 6
+repercussions. 0 90 6
 
-With 0
-few 0
-exceptions, 0
-every 0
-person 0
-said 0
-they 0
-have 0
-personally 0
-experienced 0
-sexual 0
-harassment 0
-on 0
-the 0
-Hill 0
-or 0
-know 0
-of 0
-others 0
-who 0
-have. 0
+With 0 90 7
+few 0 90 7
+exceptions, 0 90 7
+every 0 90 7
+person 0 90 7
+said 0 90 7
+they 0 90 7
+have 0 90 7
+personally 0 90 7
+experienced 0 90 7
+sexual 0 90 7
+harassment 0 90 7
+on 0 90 7
+the 0 90 7
+Hill 0 90 7
+or 0 90 7
+know 0 90 7
+of 0 90 7
+others 0 90 7
+who 0 90 7
+have. 0 90 7
 
-In 0
-an 0
-environment 0
-with 0
-“so 0
-many 0
-young 0
-women,” 0
-said 0
-one 0
-ex-House 0
-aide, 0
-the 1
-men 1
-“have 1
-no 1
-self-control.” 1
-“Amongst 0
-ourselves, 0
-we 0
-know,” 0
-a 0
-former 0
-Senate 0
-staffer 0
-said 0
-of 0
-the 0
-lawmakers 0
-with 0
-the 0
-worst 0
-reputations. 0
+In 0 90 8
+an 0 90 8
+environment 0 90 8
+with 0 90 8
+“so 0 90 8
+many 0 90 8
+young 0 90 8
+women,” 0 90 8
+said 0 90 8
+one 0 90 8
+ex-House 0 90 8
+aide, 0 90 8
+the 1 90 8
+men 1 90 8
+“have 1 90 8
+no 1 90 8
+self-control.” 1 90 8
+“Amongst 0 90 8
+ourselves, 0 90 8
+we 0 90 8
+know,” 0 90 8
+a 0 90 8
+former 0 90 8
+Senate 0 90 8
+staffer 0 90 8
+said 0 90 8
+of 0 90 8
+the 0 90 8
+lawmakers 0 90 8
+with 0 90 8
+the 0 90 8
+worst 0 90 8
+reputations. 0 90 8
 
-And 0
-sometimes, 0
-the 0
-sexual 0
-advances 0
-from 0
-members 0
-of 0
-Congress 0
-or 0
-senior 0
-aides 0
-are 0
-reciprocated 0
-in 0
-the 0
-hopes 0
-of 0
-advancing 0
-one’s 0
-career 0
-— 0
-what 0
-one 0
-political 0
-veteran 0
-bluntly 0
-referred 0
-to 0
-as 0
-a 0
-“sex 1
-trade 1
-on 1
-Capitol 1
-Hill.” 1
+And 0 90 9
+sometimes, 0 90 9
+the 0 90 9
+sexual 0 90 9
+advances 0 90 9
+from 0 90 9
+members 0 90 9
+of 0 90 9
+Congress 0 90 9
+or 0 90 9
+senior 0 90 9
+aides 0 90 9
+are 0 90 9
+reciprocated 0 90 9
+in 0 90 9
+the 0 90 9
+hopes 0 90 9
+of 0 90 9
+advancing 0 90 9
+one’s 0 90 9
+career 0 90 9
+— 0 90 9
+what 0 90 9
+one 0 90 9
+political 0 90 9
+veteran 0 90 9
+bluntly 0 90 9
+referred 0 90 9
+to 0 90 9
+as 0 90 9
+a 0 90 9
+“sex 1 90 9
+trade 1 90 9
+on 1 90 9
+Capitol 1 90 9
+Hill.” 1 90 9
 
-The 1
-American 1
-people 1
-are 1
-not 1
-going 1
-to 1
-put 1
-up 1
-with 1
-this 1
-any 1
-longer. 1
+The 1 90 10
+American 1 90 10
+people 1 90 10
+are 1 90 10
+not 1 90 10
+going 1 90 10
+to 1 90 10
+put 1 90 10
+up 1 90 10
+with 1 90 10
+this 1 90 10
+any 1 90 10
+longer. 1 90 10
 
-We 1
-have 1
-no 1
-choice 1
-but 1
-to 1
-clean 1
-up 1
-our 1
-government 1
-because 1
-the 1
-rest 1
-of 1
-the 1
-world 1
-is 1
-laughing 1
-at 1
-us. 1
+We 1 90 11
+have 1 90 11
+no 1 90 11
+choice 1 90 11
+but 1 90 11
+to 1 90 11
+clean 1 90 11
+up 1 90 11
+our 1 90 11
+government 1 90 11
+because 1 90 11
+the 1 90 11
+rest 1 90 11
+of 1 90 11
+the 1 90 11
+world 1 90 11
+is 1 90 11
+laughing 1 90 11
+at 1 90 11
+us. 1 90 11
 
-On 0
-Tuesday, 0
-U.S. 0
-Representative 0
-Jackie 0
-Speier 0
-told 0
-a 0
-congressional 0
-hearing 0
-that 0
-she 0
-personally 0
-knows 0
-of 0
-two 0
-current 0
-members 0
-of 0
-Congress 0
-that 0
-have 0
-“engaged 0
-in 0
-sexual 0
-harassment”… 0
+On 0 90 12
+Tuesday, 0 90 12
+U.S. 0 90 12
+Representative 0 90 12
+Jackie 0 90 12
+Speier 0 90 12
+told 0 90 12
+a 0 90 12
+congressional 0 90 12
+hearing 0 90 12
+that 0 90 12
+she 0 90 12
+personally 0 90 12
+knows 0 90 12
+of 0 90 12
+two 0 90 12
+current 0 90 12
+members 0 90 12
+of 0 90 12
+Congress 0 90 12
+that 0 90 12
+have 0 90 12
+“engaged 0 90 12
+in 0 90 12
+sexual 0 90 12
+harassment”… 0 90 12
 
-“In 0
-fact 0
-there 0
-are 0
-two 0
-members 0
-of 0
-Congress, 0
-Republican 0
-and 0
-Democrat, 0
-right 0
-now, 0
-who 0
-serve 0
-— 0
-who 0
-have…engaged 0
-in 0
-sexual 0
-harassment.” 0
-Speier 0
-said 0
-one 0
-of 0
-the 0
-harassers 0
-has 0
-propositioned 0
-women 0
-with 0
-the 0
-comment, 0
-“Are 1
-you 1
-going 1
-to 1
-be 1
-a 1
-good 1
-girl?” 1
-Another 0
-has 1
-exposed 1
-his 1
-genitals, 1
-she 0
-said, 0
-and 0
-some 0
-victims 0
-have 0
-had 0
-“their 1
-private 1
-parts 1
-grabbed 1
-on 1
-the 1
-House 1
-floor.” 1
-“All 0
-they 0
-ask 0
-in 0
-return 0
-as 0
-staff 0
-members 0
-is 0
-to 0
-be 0
-able 0
-to 0
-work 0
-in 0
-a 0
-hostile-free 0
-work 0
-environment. 0
+“In 0 90 13
+fact 0 90 13
+there 0 90 13
+are 0 90 13
+two 0 90 13
+members 0 90 13
+of 0 90 13
+Congress, 0 90 13
+Republican 0 90 13
+and 0 90 13
+Democrat, 0 90 13
+right 0 90 13
+now, 0 90 13
+who 0 90 13
+serve 0 90 13
+— 0 90 13
+who 0 90 13
+have…engaged 0 90 13
+in 0 90 13
+sexual 0 90 13
+harassment.” 0 90 13
+Speier 0 90 13
+said 0 90 13
+one 0 90 13
+of 0 90 13
+the 0 90 13
+harassers 0 90 13
+has 0 90 13
+propositioned 0 90 13
+women 0 90 13
+with 0 90 13
+the 0 90 13
+comment, 0 90 13
+“Are 1 90 13
+you 1 90 13
+going 1 90 13
+to 1 90 13
+be 1 90 13
+a 1 90 13
+good 1 90 13
+girl?” 1 90 13
+Another 0 90 13
+has 1 90 13
+exposed 1 90 13
+his 1 90 13
+genitals, 1 90 13
+she 0 90 13
+said, 0 90 13
+and 0 90 13
+some 0 90 13
+victims 0 90 13
+have 0 90 13
+had 0 90 13
+“their 1 90 13
+private 1 90 13
+parts 1 90 13
+grabbed 1 90 13
+on 1 90 13
+the 1 90 13
+House 1 90 13
+floor.” 1 90 13
+“All 0 90 13
+they 0 90 13
+ask 0 90 13
+in 0 90 13
+return 0 90 13
+as 0 90 13
+staff 0 90 13
+members 0 90 13
+is 0 90 13
+to 0 90 13
+be 0 90 13
+able 0 90 13
+to 0 90 13
+work 0 90 13
+in 0 90 13
+a 0 90 13
+hostile-free 0 90 13
+work 0 90 13
+environment. 0 90 13
 
-They 0
-want 0
-the 0
-system 0
-fixed 0
-and 0
-the 0
-perpetrators 0
-held 0
-accountable.” 0
+They 0 90 14
+want 0 90 14
+the 0 90 14
+system 0 90 14
+fixed 0 90 14
+and 0 90 14
+the 0 90 14
+perpetrators 0 90 14
+held 0 90 14
+accountable.” 0 90 14
 
-And 0
-Speier 0
-was 0
-the 0
-one 0
-that 0
-revealed 0
-the 0
-fact 0
-that 0
-15 0
-million 0
-dollars 0
-have 0
-been 0
-paid 0
-out 0
-to 0
-victims 0
-of 0
-sexual 0
-harassment 0
-in 0
-the 0
-House 0
-in 0
-recent 0
-years. 0
+And 0 90 15
+Speier 0 90 15
+was 0 90 15
+the 0 90 15
+one 0 90 15
+that 0 90 15
+revealed 0 90 15
+the 0 90 15
+fact 0 90 15
+that 0 90 15
+15 0 90 15
+million 0 90 15
+dollars 0 90 15
+have 0 90 15
+been 0 90 15
+paid 0 90 15
+out 0 90 15
+to 0 90 15
+victims 0 90 15
+of 0 90 15
+sexual 0 90 15
+harassment 0 90 15
+in 0 90 15
+the 0 90 15
+House 0 90 15
+in 0 90 15
+recent 0 90 15
+years. 0 90 15
 
-The 0
-following 0
-comes 0
-from 0
-Breitbart… 0
+The 0 90 16
+following 0 90 16
+comes 0 90 16
+from 0 90 16
+Breitbart… 0 90 16
 
-Rep. 0
-Jackie 0
-Speier 0
-(D-CA) 0
-told 0
-MSNBC’s 0
-Chuck 0
-Todd 0
-on 0
-Meet 0
-the 0
-Press 0
-Daily 0
-on 0
-Tuesday 0
-that 0
-the 0
-U.S. 0
-House 0
-of 0
-Representatives 0
-has 0
-paid 0
-$15 0
-million 0
-to 0
-alleged 0
-victims 0
-of 0
-sexual 0
-harassment 0
-by 0
-its 0
-own 0
-members 0
-in 0
-recent 0
-years. 0
+Rep. 0 90 17
+Jackie 0 90 17
+Speier 0 90 17
+(D-CA) 0 90 17
+told 0 90 17
+MSNBC’s 0 90 17
+Chuck 0 90 17
+Todd 0 90 17
+on 0 90 17
+Meet 0 90 17
+the 0 90 17
+Press 0 90 17
+Daily 0 90 17
+on 0 90 17
+Tuesday 0 90 17
+that 0 90 17
+the 0 90 17
+U.S. 0 90 17
+House 0 90 17
+of 0 90 17
+Representatives 0 90 17
+has 0 90 17
+paid 0 90 17
+$15 0 90 17
+million 0 90 17
+to 0 90 17
+alleged 0 90 17
+victims 0 90 17
+of 0 90 17
+sexual 0 90 17
+harassment 0 90 17
+by 0 90 17
+its 0 90 17
+own 0 90 17
+members 0 90 17
+in 0 90 17
+recent 0 90 17
+years. 0 90 17
 
-“We 0
-do 0
-know 0
-there 0
-is 0
-about 0
-$15 0
-million 0
-that 0
-has 0
-been 0
-paid 0
-out 0
-by 0
-the 0
-House 0
-on 0
-behalf 0
-of 0
-harassers 0
-in 0
-the 0
-last 0
-ten 0
-to 0
-15 0
-years,” 0
-she 0
-said. 0
+“We 0 90 18
+do 0 90 18
+know 0 90 18
+there 0 90 18
+is 0 90 18
+about 0 90 18
+$15 0 90 18
+million 0 90 18
+that 0 90 18
+has 0 90 18
+been 0 90 18
+paid 0 90 18
+out 0 90 18
+by 0 90 18
+the 0 90 18
+House 0 90 18
+on 0 90 18
+behalf 0 90 18
+of 0 90 18
+harassers 0 90 18
+in 0 90 18
+the 0 90 18
+last 0 90 18
+ten 0 90 18
+to 0 90 18
+15 0 90 18
+years,” 0 90 18
+she 0 90 18
+said. 0 90 18
 
-“15 0
-million 0
-dollars 0
-has 0
-been 0
-paid 0
-out 0
-over 0
-sexual 0
-harassment 0
-claims,” 0
-Todd 0
-replied, 0
-somewhat 0
-shocked. 0
+“15 0 90 19
+million 0 90 19
+dollars 0 90 19
+has 0 90 19
+been 0 90 19
+paid 0 90 19
+out 0 90 19
+over 0 90 19
+sexual 0 90 19
+harassment 0 90 19
+claims,” 0 90 19
+Todd 0 90 19
+replied, 0 90 19
+somewhat 0 90 19
+shocked. 0 90 19
 
-“So, 0
-obviously 0
-more 0
-than 0
-one 0
-member 0
-of 0
-Congress.” 0
+“So, 0 90 20
+obviously 0 90 20
+more 0 90 20
+than 0 90 20
+one 0 90 20
+member 0 90 20
+of 0 90 20
+Congress.” 0 90 20
 
-If 0
-members 0
-of 0
-Congress 0
-are 0
-engaged 0
-in 0
-this 0
-type 0
-of 0
-behavior, 0
-why 0
-don’t 0
-the 0
-American 0
-people 0
-know 0
-about 0
-it? 0
+If 0 90 21
+members 0 90 21
+of 0 90 21
+Congress 0 90 21
+are 0 90 21
+engaged 0 90 21
+in 0 90 21
+this 0 90 21
+type 0 90 21
+of 0 90 21
+behavior, 0 90 21
+why 0 90 21
+don’t 0 90 21
+the 0 90 21
+American 0 90 21
+people 0 90 21
+know 0 90 21
+about 0 90 21
+it? 0 90 21
 
-And 0
-why 0
-are 0
-those 0
-members 0
-of 0
-Congress 0
-still 0
-allowed 0
-to 0
-serve? 0
+And 0 90 22
+why 0 90 22
+are 0 90 22
+those 0 90 22
+members 0 90 22
+of 0 90 22
+Congress 0 90 22
+still 0 90 22
+allowed 0 90 22
+to 0 90 22
+serve? 0 90 22
 
-Representative 0
-Barbara 0
-Comstock 0
-also 0
-testified 0
-on 0
-Tuesday. 0
+Representative 0 90 23
+Barbara 0 90 23
+Comstock 0 90 23
+also 0 90 23
+testified 0 90 23
+on 0 90 23
+Tuesday. 0 90 23
 
-She 0
-said 0
-that 0
-one 0
-current 0
-member 0
-of 0
-Congress 0
-exposed 1
-his 1
-private 1
-parts 1
-to 1
-a 1
-female 1
-staffer 1
-when 0
-she 0
-delivered 0
-papers 0
-to 0
-his 0
-house… 0
+She 0 90 24
+said 0 90 24
+that 0 90 24
+one 0 90 24
+current 0 90 24
+member 0 90 24
+of 0 90 24
+Congress 0 90 24
+exposed 1 90 24
+his 1 90 24
+private 1 90 24
+parts 1 90 24
+to 1 90 24
+a 1 90 24
+female 1 90 24
+staffer 1 90 24
+when 0 90 24
+she 0 90 24
+delivered 0 90 24
+papers 0 90 24
+to 0 90 24
+his 0 90 24
+house… 0 90 24
 
-Rep. 0
-Barbara 0
-Comstock 0
-(R-Va.) 0
-said 0
-at 0
-a 0
-House 0
-Administration 0
-Committee 0
-hearing 0
-on 0
-Tuesday 0
-that 0
-a 0
-sitting 0
-member 0
-of 0
-the 0
-U.S. 0
-Congress 0
-exposed 0
-himself 0
-to 0
-a 0
-young 0
-female 0
-staffer 0
-who 0
-delivered 0
-papers 0
-to 0
-his 0
-house–at 0
-his 0
-request. 0
+Rep. 0 90 25
+Barbara 0 90 25
+Comstock 0 90 25
+(R-Va.) 0 90 25
+said 0 90 25
+at 0 90 25
+a 0 90 25
+House 0 90 25
+Administration 0 90 25
+Committee 0 90 25
+hearing 0 90 25
+on 0 90 25
+Tuesday 0 90 25
+that 0 90 25
+a 0 90 25
+sitting 0 90 25
+member 0 90 25
+of 0 90 25
+the 0 90 25
+U.S. 0 90 25
+Congress 0 90 25
+exposed 0 90 25
+himself 0 90 25
+to 0 90 25
+a 0 90 25
+young 0 90 25
+female 0 90 25
+staffer 0 90 25
+who 0 90 25
+delivered 0 90 25
+papers 0 90 25
+to 0 90 25
+his 0 90 25
+house–at 0 90 25
+his 0 90 25
+request. 0 90 25
 
-We 0
-need 0
-to 0
-be 0
-told 0
-who 0
-this 0
-member 0
-of 0
-Congress 0
-is 0
-so 0
-that 0
-he 0
-can 0
-be 0
-removed 0
-from 0
-Congress 0
-immediately. 0
+We 0 90 26
+need 0 90 26
+to 0 90 26
+be 0 90 26
+told 0 90 26
+who 0 90 26
+this 0 90 26
+member 0 90 26
+of 0 90 26
+Congress 0 90 26
+is 0 90 26
+so 0 90 26
+that 0 90 26
+he 0 90 26
+can 0 90 26
+be 0 90 26
+removed 0 90 26
+from 0 90 26
+Congress 0 90 26
+immediately. 0 90 26
 
-This 0
-kind 0
-of 0
-behavior 0
-is 0
-not 0
-acceptable 0
-for 0
-anyone 0
-in 0
-a 0
-civilized 0
-society 0
-– 0
-and 1
-that 1
-goes 1
-double 1
-for 1
-someone 1
-that 1
-is 1
-supposed 1
-to 1
-be 1
-one 1
-of 1
-the 1
-leaders 1
-of 1
-our 1
-nation. 1
+This 0 90 27
+kind 0 90 27
+of 0 90 27
+behavior 0 90 27
+is 0 90 27
+not 0 90 27
+acceptable 0 90 27
+for 0 90 27
+anyone 0 90 27
+in 0 90 27
+a 0 90 27
+civilized 0 90 27
+society 0 90 27
+– 0 90 27
+and 1 90 27
+that 1 90 27
+goes 1 90 27
+double 1 90 27
+for 1 90 27
+someone 1 90 27
+that 1 90 27
+is 1 90 27
+supposed 1 90 27
+to 1 90 27
+be 1 90 27
+one 1 90 27
+of 1 90 27
+the 1 90 27
+leaders 1 90 27
+of 1 90 27
+our 1 90 27
+nation. 1 90 27
 
-Here 0
-are 0
-the 0
-exact 0
-words 0
-that 0
-Comstock 0
-used 0
-as 0
-she 0
-described 0
-this 0
-incident… 0
+Here 0 90 28
+are 0 90 28
+the 0 90 28
+exact 0 90 28
+words 0 90 28
+that 0 90 28
+Comstock 0 90 28
+used 0 90 28
+as 0 90 28
+she 0 90 28
+described 0 90 28
+this 0 90 28
+incident… 0 90 28
 
-This 0
-member 0
-asked 0
-a 0
-staffer 0
-to 0
-bring 0
-them 0
-over 0
-some 0
-materials, 0
-to 0
-their 0
-residence. 0
+This 0 90 29
+member 0 90 29
+asked 0 90 29
+a 0 90 29
+staffer 0 90 29
+to 0 90 29
+bring 0 90 29
+them 0 90 29
+over 0 90 29
+some 0 90 29
+materials, 0 90 29
+to 0 90 29
+their 0 90 29
+residence. 0 90 29
 
-And 0
-the 0
-young 0
-staffer 0
-— 0
-it 0
-was 0
-a 0
-young 0
-woman 0
-— 0
-went 0
-there 0
-and 0
-was 0
-greeted 0
-with 0
-a 0
-member 0
-in 0
-a 0
-towel. 0
+And 0 90 30
+the 0 90 30
+young 0 90 30
+staffer 0 90 30
+— 0 90 30
+it 0 90 30
+was 0 90 30
+a 0 90 30
+young 0 90 30
+woman 0 90 30
+— 0 90 30
+went 0 90 30
+there 0 90 30
+and 0 90 30
+was 0 90 30
+greeted 0 90 30
+with 0 90 30
+a 0 90 30
+member 0 90 30
+in 0 90 30
+a 0 90 30
+towel. 0 90 30
 
-It 0
-was 0
-a 0
-male, 0
-who 0
-then 0
-invited 0
-her 0
-in. 0
+It 0 90 31
+was 0 90 31
+a 0 90 31
+male, 0 90 31
+who 0 90 31
+then 0 90 31
+invited 0 90 31
+her 0 90 31
+in. 0 90 31
 
-And 0
-at 0
-that 0
-point, 0
-he 0
-decided 0
-to 0
-expose 0
-himself. 0
+And 0 90 32
+at 0 90 32
+that 0 90 32
+point, 0 90 32
+he 0 90 32
+decided 0 90 32
+to 0 90 32
+expose 0 90 32
+himself. 0 90 32
 
-She 0
-left, 0
-and 0
-then 0
-she 0
-quit 0
-her 0
-job. 0
+She 0 90 33
+left, 0 90 33
+and 0 90 33
+then 0 90 33
+she 0 90 33
+quit 0 90 33
+her 0 90 33
+job. 0 90 33
 
-She 1
-left, 1
-she 1
-found 1
-another 1
-job. 1
+She 1 90 34
+left, 1 90 34
+she 1 90 34
+found 1 90 34
+another 1 90 34
+job. 1 90 34
 
-Of 0
-course, 0
-this 0
-sort 0
-of 0
-behavior 0
-is 0
-not 0
-just 0
-limited 0
-to 0
-members 0
-of 0
-Congress. 0
+Of 0 90 35
+course, 0 90 35
+this 0 90 35
+sort 0 90 35
+of 0 90 35
+behavior 0 90 35
+is 0 90 35
+not 0 90 35
+just 0 90 35
+limited 0 90 35
+to 0 90 35
+members 0 90 35
+of 0 90 35
+Congress. 0 90 35
 
-According 0
-to 0
-an 0
-ex-Secret 0
-Service 0
-agent, 0
-Vice-President 0
-Joe 0
-Biden 0
-was 0
-regularly 0
-engaged 0
-in 0
-“Weinstein-level” 1
-predatory 1
-behavior… 1
+According 0 90 36
+to 0 90 36
+an 0 90 36
+ex-Secret 0 90 36
+Service 0 90 36
+agent, 0 90 36
+Vice-President 0 90 36
+Joe 0 90 36
+Biden 0 90 36
+was 0 90 36
+regularly 0 90 36
+engaged 0 90 36
+in 0 90 36
+“Weinstein-level” 1 90 36
+predatory 1 90 36
+behavior… 1 90 36
 
-An 0
-ex-Secret 0
-Service 0
-agent 0
-is 0
-claiming 0
-that 0
-former 0
-Vice 0
-President 0
-Joe 0
-Biden 0
-engaged 0
-in 0
-“Weinstein-level” 1
-sexual 1
-assault 1
-and 0
-that 0
-he 0
-would 0
-walk 0
-around 0
-the 0
-VP 0
-residence 0
-late 0
-at 0
-night 0
-completely 1
-naked. 1
+An 0 90 37
+ex-Secret 0 90 37
+Service 0 90 37
+agent 0 90 37
+is 0 90 37
+claiming 0 90 37
+that 0 90 37
+former 0 90 37
+Vice 0 90 37
+President 0 90 37
+Joe 0 90 37
+Biden 0 90 37
+engaged 0 90 37
+in 0 90 37
+“Weinstein-level” 1 90 37
+sexual 1 90 37
+assault 1 90 37
+and 0 90 37
+that 0 90 37
+he 0 90 37
+would 0 90 37
+walk 0 90 37
+around 0 90 37
+the 0 90 37
+VP 0 90 37
+residence 0 90 37
+late 0 90 37
+at 0 90 37
+night 0 90 37
+completely 1 90 37
+naked. 1 90 37
 
-According 0
-to 0
-Big 0
-League 0
-Politics’ 0
-Cassandra 0
-Fairbanks, 0
-a 0
-Secret 0
-Service 0
-agent 0
-who 0
-spoke 0
-on 0
-condition 0
-of 0
-anonymity 0
-revealed 0
-that 0
-Biden 0
-“would 1
-mess 1
-with 1
-every 1
-single 1
-woman 1
-or 1
-teen,” 1
-and 0
-that 0
-a 0
-Christmas 0
-get-together 0
-at 0
-the 0
-VP’s 0
-house 0
-had 0
-to 0
-be 0
-canceled 0
-“because 0
-Biden 0
-would 1
-grope 1
-all 1
-of 1
-our 1
-wives 1
-and 1
-girlfriend’s 1
-asses.” 1
+According 0 90 38
+to 0 90 38
+Big 0 90 38
+League 0 90 38
+Politics’ 0 90 38
+Cassandra 0 90 38
+Fairbanks, 0 90 38
+a 0 90 38
+Secret 0 90 38
+Service 0 90 38
+agent 0 90 38
+who 0 90 38
+spoke 0 90 38
+on 0 90 38
+condition 0 90 38
+of 0 90 38
+anonymity 0 90 38
+revealed 0 90 38
+that 0 90 38
+Biden 0 90 38
+“would 1 90 38
+mess 1 90 38
+with 1 90 38
+every 1 90 38
+single 1 90 38
+woman 1 90 38
+or 1 90 38
+teen,” 1 90 38
+and 0 90 38
+that 0 90 38
+a 0 90 38
+Christmas 0 90 38
+get-together 0 90 38
+at 0 90 38
+the 0 90 38
+VP’s 0 90 38
+house 0 90 38
+had 0 90 38
+to 0 90 38
+be 0 90 38
+canceled 0 90 38
+“because 0 90 38
+Biden 0 90 38
+would 1 90 38
+grope 1 90 38
+all 1 90 38
+of 1 90 38
+our 1 90 38
+wives 1 90 38
+and 1 90 38
+girlfriend’s 1 90 38
+asses.” 1 90 38
 
-In 0
-fact, 0
-things 0
-were 0
-so 0
-bad 0
-that 0
-at 0
-one 0
-point 0
-a 0
-Secret 0
-Service 0
-agent 0
-almost 0
-got 0
-into 0
-a 0
-fight 0
-with 0
-Biden. 0
+In 0 90 39
+fact, 0 90 39
+things 0 90 39
+were 0 90 39
+so 0 90 39
+bad 0 90 39
+that 0 90 39
+at 0 90 39
+one 0 90 39
+point 0 90 39
+a 0 90 39
+Secret 0 90 39
+Service 0 90 39
+agent 0 90 39
+almost 0 90 39
+got 0 90 39
+into 0 90 39
+a 0 90 39
+fight 0 90 39
+with 0 90 39
+Biden. 0 90 39
 
-Here 0
-is 0
-more 0
-from 0
-Paul 0
-Joseph 0
-Watson… 0
+Here 0 90 40
+is 0 90 40
+more 0 90 40
+from 0 90 40
+Paul 0 90 40
+Joseph 0 90 40
+Watson… 0 90 40
 
-During 0
-one 0
-alleged 0
-incident 0
-in 0
-2009, 0
-Biden 0
-cupped 0
-the 0
-breast 0
-of 0
-a 0
-Secret 0
-Service 0
-agent’s 0
-girlfriend 0
-during 0
-a 0
-photo, 0
-prompting 0
-the 0
-agent 0
-to 0
-shove 0
-Biden 0
-and 0
-almost 0
-hit 0
-him. 0
+During 0 90 41
+one 0 90 41
+alleged 0 90 41
+incident 0 90 41
+in 0 90 41
+2009, 0 90 41
+Biden 0 90 41
+cupped 0 90 41
+the 0 90 41
+breast 0 90 41
+of 0 90 41
+a 0 90 41
+Secret 0 90 41
+Service 0 90 41
+agent’s 0 90 41
+girlfriend 0 90 41
+during 0 90 41
+a 0 90 41
+photo, 0 90 41
+prompting 0 90 41
+the 0 90 41
+agent 0 90 41
+to 0 90 41
+shove 0 90 41
+Biden 0 90 41
+and 0 90 41
+almost 0 90 41
+hit 0 90 41
+him. 0 90 41
 
-The 0
-agent 0
-was 0
-subsequently 0
-suspended 0
-for 0
-a 0
-week, 0
-according 0
-to 0
-the 0
-source. 0
+The 0 90 42
+agent 0 90 42
+was 0 90 42
+subsequently 0 90 42
+suspended 0 90 42
+for 0 90 42
+a 0 90 42
+week, 0 90 42
+according 0 90 42
+to 0 90 42
+the 0 90 42
+source. 0 90 42
 
-Men 0
-would 0
-often 0
-stand 0
-in 0
-front 0
-of 0
-female 0
-agents 0
-and 0
-Navy 0
-women 0
-or 0
-create 0
-false 0
-pretenses 0
-to 0
-have 0
-them 0
-leave 0
-the 0
-room 0
-just 0
-to 0
-get 0
-them 0
-away 0
-from 0
-Biden, 0
-according 0
-to 0
-the 0
-agent. 0
+Men 0 90 43
+would 0 90 43
+often 0 90 43
+stand 0 90 43
+in 0 90 43
+front 0 90 43
+of 0 90 43
+female 0 90 43
+agents 0 90 43
+and 0 90 43
+Navy 0 90 43
+women 0 90 43
+or 0 90 43
+create 0 90 43
+false 0 90 43
+pretenses 0 90 43
+to 0 90 43
+have 0 90 43
+them 0 90 43
+leave 0 90 43
+the 0 90 43
+room 0 90 43
+just 0 90 43
+to 0 90 43
+get 0 90 43
+them 0 90 43
+away 0 90 43
+from 0 90 43
+Biden, 0 90 43
+according 0 90 43
+to 0 90 43
+the 0 90 43
+agent. 0 90 43
 
-When 0
-I 0
-am 0
-elected 0
-to 0
-Congress, 0
-I 0
-am 0
-going 0
-to 0
-make 0
-fighting 0
-this 0
-sort 0
-of 0
-predatory 0
-behavior 0
-a 0
-top 0
-priority. 0
+When 0 90 44
+I 0 90 44
+am 0 90 44
+elected 0 90 44
+to 0 90 44
+Congress, 0 90 44
+I 0 90 44
+am 0 90 44
+going 0 90 44
+to 0 90 44
+make 0 90 44
+fighting 0 90 44
+this 0 90 44
+sort 0 90 44
+of 0 90 44
+predatory 0 90 44
+behavior 0 90 44
+a 0 90 44
+top 0 90 44
+priority. 0 90 44
 
-We 1
-are 1
-supposed 1
-to 1
-serve 1
-as 1
-an 1
-example 1
-to 1
-the 1
-rest 1
-of 1
-the 1
-world, 1
-and 1
-instead, 1
-we 1
-have 1
-become 1
-a 1
-bad 1
-joke. 1
+We 1 90 45
+are 1 90 45
+supposed 1 90 45
+to 1 90 45
+serve 1 90 45
+as 1 90 45
+an 1 90 45
+example 1 90 45
+to 1 90 45
+the 1 90 45
+rest 1 90 45
+of 1 90 45
+the 1 90 45
+world, 1 90 45
+and 1 90 45
+instead, 1 90 45
+we 1 90 45
+have 1 90 45
+become 1 90 45
+a 1 90 45
+bad 1 90 45
+joke. 1 90 45
 
-Those 1
-that 1
-have 1
-been 1
-engaging 1
-in 1
-this 1
-sort 1
-of 1
-shameful 1
-behavior 1
-have 1
-got 1
-to 1
-go 1
-because 1
-we 1
-simply 1
-are 1
-not 1
-going 1
-to 1
-put 1
-up 1
-with 1
-it 1
-anymore. 1
+Those 1 90 46
+that 1 90 46
+have 1 90 46
+been 1 90 46
+engaging 1 90 46
+in 1 90 46
+this 1 90 46
+sort 1 90 46
+of 1 90 46
+shameful 1 90 46
+behavior 1 90 46
+have 1 90 46
+got 1 90 46
+to 1 90 46
+go 1 90 46
+because 1 90 46
+we 1 90 46
+simply 1 90 46
+are 1 90 46
+not 1 90 46
+going 1 90 46
+to 1 90 46
+put 1 90 46
+up 1 90 46
+with 1 90 46
+it 1 90 46
+anymore. 1 90 46
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-End 0
-of 0
-the 0
-American 0
-Dream 0
+Article 0 90 47
+posted 0 90 47
+with 0 90 47
+permission 0 90 47
+from 0 90 47
+End 0 90 47
+of 0 90 47
+the 0 90 47
+American 0 90 47
+Dream 0 90 47
 
-Take 0
-a 0
-look 0
-at 0
-the 0
-future 0
-of 0
-America: 0
-The 0
-Beginning 0
-of 0
-the 0
-End 0
-and 0
-then 0
-prepare. 0
+Take 0 90 47
+
+a 0 90 47
+
+look 0 90 47
+
+at 0 90 47
+
+the 0 90 47
+
+future 0 90 47
+
+of 0 90 47
+
+America: 0 90 47
+
+The 0 90 47
+
+Beginning 0 90 47
+
+of 0 90 47
+
+the 0 90 47
+
+End 0 90 47
+
+and 0 90 47
+
+then 0 90 47
+
+prepare. 0 90 47

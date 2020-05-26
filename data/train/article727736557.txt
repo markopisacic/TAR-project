@@ -1,934 +1,951 @@
-Conspiracy 0
-Theorists 0
-Seize 0
-on 0
-Mesa 0
-Man 0
-Who 0
-Sold 0
-Ammo 0
-to 0
-Las 0
-Vegas 0
-Shooter 0
+Conspiracy 0 135 0
+Theorists 0 135 0
+Seize 0 135 0
+on 0 135 0
+Mesa 0 135 0
+Man 0 135 0
+Who 0 135 0
+Sold 0 135 0
+Ammo 0 135 0
+to 0 135 0
+Las 0 135 0
+Vegas 0 135 0
+Shooter 0 135 0
 
-Thanks 0
-to 0
-crackpots 1
-online, 0
-a 0
-Mesa 0
-man 0
-has 0
-become 0
-embroiled 0
-in 0
-conspiracy 0
-theories 0
-after 0
-he 0
-sold 0
-ammunition 0
-to 0
-the 1
-Las 1
-Vegas 1
-mass 1
-shooter. 1
+Thanks 0 135 1
+to 0 135 1
+crackpots 1 135 1
+online, 0 135 1
+a 0 135 1
+Mesa 0 135 1
+man 0 135 1
+has 0 135 1
+become 0 135 1
+embroiled 0 135 1
+in 0 135 1
+conspiracy 0 135 1
+theories 0 135 1
+after 0 135 1
+he 0 135 1
+sold 0 135 1
+ammunition 0 135 1
+to 0 135 1
+the 1 135 1
+Las 1 135 1
+Vegas 1 135 1
+mass 1 135 1
+shooter. 1 135 1
 
-Douglas 0
-Haig, 0
-a 0
-55-year-old 0
-Honeywell 0
-engineer, 0
-sold 0
-more 0
-than 0
-700 0
-rounds 0
-of 0
-ammunition 0
-to 0
-Las 1
-Vegas 1
-mass 1
-murderer 1
-Stephen 0
-Paddock 0
-in 0
-September. 0
+Douglas 0 135 2
+Haig, 0 135 2
+a 0 135 2
+55-year-old 0 135 2
+Honeywell 0 135 2
+engineer, 0 135 2
+sold 0 135 2
+more 0 135 2
+than 0 135 2
+700 0 135 2
+rounds 0 135 2
+of 0 135 2
+ammunition 0 135 2
+to 0 135 2
+Las 1 135 2
+Vegas 1 135 2
+mass 1 135 2
+murderer 1 135 2
+Stephen 0 135 2
+Paddock 0 135 2
+in 0 135 2
+September. 0 135 2
 
-Haig's 0
-name 0
-was 0
-inadvertently 0
-revealed 0
-this 0
-week 0
-when 0
-unredacted 0
-court 0
-documents 0
-were 0
-released 0
-to 0
-reporters. 0
+Haig's 0 135 3
+name 0 135 3
+was 0 135 3
+inadvertently 0 135 3
+revealed 0 135 3
+this 0 135 3
+week 0 135 3
+when 0 135 3
+unredacted 0 135 3
+court 0 135 3
+documents 0 135 3
+were 0 135 3
+released 0 135 3
+to 0 135 3
+reporters. 0 135 3
 
-Search 0
-warrant 0
-records 0
-showed 0
-that 0
-Haig 0
-was 0
-a 0
-person 0
-of 0
-interest 0
-in 0
-the 0
-investigation 0
-of 0
-the 0
-mass 0
-shooting. 0
+Search 0 135 4
+warrant 0 135 4
+records 0 135 4
+showed 0 135 4
+that 0 135 4
+Haig 0 135 4
+was 0 135 4
+a 0 135 4
+person 0 135 4
+of 0 135 4
+interest 0 135 4
+in 0 135 4
+the 0 135 4
+investigation 0 135 4
+of 0 135 4
+the 0 135 4
+mass 0 135 4
+shooting. 0 135 4
 
-As 0
-a 0
-result, 0
-Haig 0
-said 0
-that 0
-he 0
-has 0
-received 0
-death 0
-threats 0
-and 0
-people 0
-have 0
-pounded 1
-on 1
-his 1
-door 1
-to 0
-tell 0
-him 0
-that 0
-he 0
-deserves 0
-to 0
-die. 0
+As 0 135 5
+a 0 135 5
+result, 0 135 5
+Haig 0 135 5
+said 0 135 5
+that 0 135 5
+he 0 135 5
+has 0 135 5
+received 0 135 5
+death 0 135 5
+threats 0 135 5
+and 0 135 5
+people 0 135 5
+have 0 135 5
+pounded 1 135 5
+on 1 135 5
+his 1 135 5
+door 1 135 5
+to 0 135 5
+tell 0 135 5
+him 0 135 5
+that 0 135 5
+he 0 135 5
+deserves 0 135 5
+to 0 135 5
+die. 0 135 5
 
-"It 0
-makes 0
-me 0
-feel 0
-horrible," 0
-he 0
-said 0
-at 0
-a 0
-news 0
-conference 0
-Friday 0
-morning. 0
+"It 0 135 6
+makes 0 135 6
+me 0 135 6
+feel 0 135 6
+horrible," 0 135 6
+he 0 135 6
+said 0 135 6
+at 0 135 6
+a 0 135 6
+news 0 135 6
+conference 0 135 6
+Friday 0 135 6
+morning. 0 135 6
 
-"People 0
-need 0
-to 0
-do 0
-their 0
-research 0
-and 0
-think 0
-rather 0
-than 0
-just 0
-react 0
-viscerally.” 0
+"People 0 135 7
+need 0 135 7
+to 0 135 7
+do 0 135 7
+their 0 135 7
+research 0 135 7
+and 0 135 7
+think 0 135 7
+rather 0 135 7
+than 0 135 7
+just 0 135 7
+react 0 135 7
+viscerally.” 0 135 7
 
-It's 0
-not 0
-just 0
-people 0
-harassing 0
-Haig 0
-at 0
-his 0
-home: 0
-Conspiracy 0
-theorists 0
-online 0
-have 0
-seized 0
-on 0
-Haig's 0
-engineering 0
-background 0
-to 1
-lob 1
-wild 1
-claims 1
-about 0
-the 0
-Las 0
-Vegas 0
-shooting. 0
+It's 0 135 8
+not 0 135 8
+just 0 135 8
+people 0 135 8
+harassing 0 135 8
+Haig 0 135 8
+at 0 135 8
+his 0 135 8
+home: 0 135 8
+Conspiracy 0 135 8
+theorists 0 135 8
+online 0 135 8
+have 0 135 8
+seized 0 135 8
+on 0 135 8
+Haig's 0 135 8
+engineering 0 135 8
+background 0 135 8
+to 1 135 8
+lob 1 135 8
+wild 1 135 8
+claims 1 135 8
+about 0 135 8
+the 0 135 8
+Las 0 135 8
+Vegas 0 135 8
+shooting. 0 135 8
 
-Many 0
-of 0
-their 0
-theories 0
-lean 0
-heavily 0
-on 0
-Haig's 0
-LinkedIn 0
-profile, 0
-which 0
-says 0
-that 0
-Haig 0
-previously 0
-worked 0
-for 0
-Boeing 0
-and 0
-Northrop 0
-Grumman. 0
+Many 0 135 9
+of 0 135 9
+their 0 135 9
+theories 0 135 9
+lean 0 135 9
+heavily 0 135 9
+on 0 135 9
+Haig's 0 135 9
+LinkedIn 0 135 9
+profile, 0 135 9
+which 0 135 9
+says 0 135 9
+that 0 135 9
+Haig 0 135 9
+previously 0 135 9
+worked 0 135 9
+for 0 135 9
+Boeing 0 135 9
+and 0 135 9
+Northrop 0 135 9
+Grumman. 0 135 9
 
-Bonkers 0
-conspiracy 0
-site 0
-Intellihub 0
-posted 1
-an 1
-article 1
-this 1
-week 1
-that 1
-pointed 1
-to 1
-Haig's 1
-background 1
-in 1
-the 1
-aerospace 1
-industry 1
-as 1
-a 1
-sign 1
-of 1
-U.S. 1
-government 1
-involvement 1
-in 1
-the 1
-massacre. 1
+Bonkers 0 135 10
+conspiracy 0 135 10
+site 0 135 10
+Intellihub 0 135 10
+posted 1 135 10
+an 1 135 10
+article 1 135 10
+this 1 135 10
+week 1 135 10
+that 1 135 10
+pointed 1 135 10
+to 1 135 10
+Haig's 1 135 10
+background 1 135 10
+in 1 135 10
+the 1 135 10
+aerospace 1 135 10
+industry 1 135 10
+as 1 135 10
+a 1 135 10
+sign 1 135 10
+of 1 135 10
+U.S. 1 135 10
+government 1 135 10
+involvement 1 135 10
+in 1 135 10
+the 1 135 10
+massacre. 1 135 10
 
-They 0
-noted 0
-Haig's 0
-LinkedIn 0
-page, 0
-which 0
-says 0
-he 0
-worked 0
-for 0
-Boeing 0
-in 0
-Mesa 0
-as 0
-a 0
-senior 0
-liaison 0
-engineer 0
-in 0
-their 0
-unmanned 0
-helicopter 0
-division 0
-from 0
-2010 0
-to 0
-2013. 0
+They 0 135 11
+noted 0 135 11
+Haig's 0 135 11
+LinkedIn 0 135 11
+page, 0 135 11
+which 0 135 11
+says 0 135 11
+he 0 135 11
+worked 0 135 11
+for 0 135 11
+Boeing 0 135 11
+in 0 135 11
+Mesa 0 135 11
+as 0 135 11
+a 0 135 11
+senior 0 135 11
+liaison 0 135 11
+engineer 0 135 11
+in 0 135 11
+their 0 135 11
+unmanned 0 135 11
+helicopter 0 135 11
+division 0 135 11
+from 0 135 11
+2010 0 135 11
+to 0 135 11
+2013. 0 135 11
 
-"Let’s 0
-not 0
-forget 0
-that 0
-it 0
-is 0
-a 0
-fact 0
-that 0
-helicopters 0
-were 0
-lurking 0
-behind 0
-the 0
-Mandalay 0
-Bay 0
-during 0
-the 0
-attack 0
-which 0
-were 0
-not 0
-shown 0
-on 0
-the 0
-radar," 0
-author 0
-Shepard 0
-Ambellas 0
-writes. 0
+"Let’s 0 135 12
+not 0 135 12
+forget 0 135 12
+that 0 135 12
+it 0 135 12
+is 0 135 12
+a 0 135 12
+fact 0 135 12
+that 0 135 12
+helicopters 0 135 12
+were 0 135 12
+lurking 0 135 12
+behind 0 135 12
+the 0 135 12
+Mandalay 0 135 12
+Bay 0 135 12
+during 0 135 12
+the 0 135 12
+attack 0 135 12
+which 0 135 12
+were 0 135 12
+not 0 135 12
+shown 0 135 12
+on 0 135 12
+the 0 135 12
+radar," 0 135 12
+author 0 135 12
+Shepard 0 135 12
+Ambellas 0 135 12
+writes. 0 135 12
 
-Ambellas 0
-claims 0
-helicopters 0
-provided 0
-an 0
-"air 0
-assault" 0
-during 0
-the 0
-massacre, 0
-a 0
-ludicrous 1
-theory 0
-he's 0
-expounded 0
-upon 0
-on 0
-InfoWars 0
-with 0
-the 0
-internet's 1
-conspiracy-theorist-in-chief 1
-Alex 0
-Jones. 0
+Ambellas 0 135 13
+claims 0 135 13
+helicopters 0 135 13
+provided 0 135 13
+an 0 135 13
+"air 0 135 13
+assault" 0 135 13
+during 0 135 13
+the 0 135 13
+massacre, 0 135 13
+a 0 135 13
+ludicrous 1 135 13
+theory 0 135 13
+he's 0 135 13
+expounded 0 135 13
+upon 0 135 13
+on 0 135 13
+InfoWars 0 135 13
+with 0 135 13
+the 0 135 13
+internet's 1 135 13
+conspiracy-theorist-in-chief 1 135 13
+Alex 0 135 13
+Jones. 0 135 13
 
-Ambellas 0
-and 0
-Intellihub 0
-claim 0
-that 0
-the 0
-FBI 0
-and 0
-the 0
-Las 0
-Vegas 0
-Metropolitan 0
-Police 0
-Department 0
-are 0
-providing 0
-cover 0
-for 0
-the 0
-real 0
-story 0
-behind 0
-the 0
-massacre, 0
-with 0
-help 0
-from 0
-Haig. 0
+Ambellas 0 135 14
+and 0 135 14
+Intellihub 0 135 14
+claim 0 135 14
+that 0 135 14
+the 0 135 14
+FBI 0 135 14
+and 0 135 14
+the 0 135 14
+Las 0 135 14
+Vegas 0 135 14
+Metropolitan 0 135 14
+Police 0 135 14
+Department 0 135 14
+are 0 135 14
+providing 0 135 14
+cover 0 135 14
+for 0 135 14
+the 0 135 14
+real 0 135 14
+story 0 135 14
+behind 0 135 14
+the 0 135 14
+massacre, 0 135 14
+with 0 135 14
+help 0 135 14
+from 0 135 14
+Haig. 0 135 14
 
-In 0
-public 0
-statements 0
-this 0
-week, 0
-Haig 0
-denied 0
-any 0
-connection 0
-to 0
-the 0
-massacre 0
-and 0
-said 0
-he 0
-merely 0
-sold 0
-Paddock 0
-the 0
-rounds. 0
+In 0 135 15
+public 0 135 15
+statements 0 135 15
+this 0 135 15
+week, 0 135 15
+Haig 0 135 15
+denied 0 135 15
+any 0 135 15
+connection 0 135 15
+to 0 135 15
+the 0 135 15
+massacre 0 135 15
+and 0 135 15
+said 0 135 15
+he 0 135 15
+merely 0 135 15
+sold 0 135 15
+Paddock 0 135 15
+the 0 135 15
+rounds. 0 135 15
 
-"However, 0
-don’t 0
-be 0
-fooled," 0
-Intellihub 0
-writes. 0
+"However, 0 135 16
+don’t 0 135 16
+be 0 135 16
+fooled," 0 135 16
+Intellihub 0 135 16
+writes. 0 135 16
 
-"Haig 0
-is 0
-likely 0
-a 1
-CIA 1
-cut-out 1
-who 0
-is 0
-just 0
-upholding 0
-the 0
-public 0
-narrative 0
-in 0
-conjunction 0
-with 0
-the 0
-FBI 0
-Las 0
-Vegas 0
-and 0
-the 0
-LVMPD." 0
+"Haig 0 135 17
+is 0 135 17
+likely 0 135 17
+a 1 135 17
+CIA 1 135 17
+cut-out 1 135 17
+who 0 135 17
+is 0 135 17
+just 0 135 17
+upholding 0 135 17
+the 0 135 17
+public 0 135 17
+narrative 0 135 17
+in 0 135 17
+conjunction 0 135 17
+with 0 135 17
+the 0 135 17
+FBI 0 135 17
+Las 0 135 17
+Vegas 0 135 17
+and 0 135 17
+the 0 135 17
+LVMPD." 0 135 17
 
-Laura 0
-Loomer, 0
-a 1
-noxious 1
-far-right 1
-personality 1
-who 0
-formerly 0
-worked 0
-for 0
-Project 0
-Veritas, 0
-also 0
-started 1
-making 1
-hay 1
-with 0
-Haig's 0
-background 0
-in 0
-Arizona 0
-aerospace. 0
+Laura 0 135 18
+Loomer, 0 135 18
+a 1 135 18
+noxious 1 135 18
+far-right 1 135 18
+personality 1 135 18
+who 0 135 18
+formerly 0 135 18
+worked 0 135 18
+for 0 135 18
+Project 0 135 18
+Veritas, 0 135 18
+also 0 135 18
+started 1 135 18
+making 1 135 18
+hay 1 135 18
+with 0 135 18
+Haig's 0 135 18
+background 0 135 18
+in 0 135 18
+Arizona 0 135 18
+aerospace. 0 135 18
 
-She 0
-wrote 0
-on 0
-Twitter 0
-that 0
-the 0
-massacre 0
-"is 0
-starting 0
-to 0
-look 0
-more 0
-and 0
-more 0
-like 0
-a 0
-gun 0
-running 0
-operation 0
-gone 0
-wrong 0
-every 0
-day." 0
+She 0 135 19
+wrote 0 135 19
+on 0 135 19
+Twitter 0 135 19
+that 0 135 19
+the 0 135 19
+massacre 0 135 19
+"is 0 135 19
+starting 0 135 19
+to 0 135 19
+look 0 135 19
+more 0 135 19
+and 0 135 19
+more 0 135 19
+like 0 135 19
+a 0 135 19
+gun 0 135 19
+running 0 135 19
+operation 0 135 19
+gone 0 135 19
+wrong 0 135 19
+every 0 135 19
+day." 0 135 19
 
-Douglas 0
-Haig’s 0
-@LinkedIn 0
-Account 0
-says 0
-he 0
-also 0
-has 0
-“DOD 0
-Top 0
-secret 0
-clearance” 0
-on 0
-top 0
-of 0
-specializing 0
-in 0
-military 0
-ammunition. 0
+Douglas 0 135 20
+Haig’s 0 135 20
+@LinkedIn 0 135 20
+Account 0 135 20
+says 0 135 20
+he 0 135 20
+also 0 135 20
+has 0 135 20
+“DOD 0 135 20
+Top 0 135 20
+secret 0 135 20
+clearance” 0 135 20
+on 0 135 20
+top 0 135 20
+of 0 135 20
+specializing 0 135 20
+in 0 135 20
+military 0 135 20
+ammunition. 0 135 20
 
-He 0
+He 0 135 21
+is 0 135 21
+the 0 135 21
+second 0 135 21
+suspect 0 135 21
+in 0 135 21
+the 0 135 21
+#LasVegasShooting. 0 135 21
 
-is 0
-the 0
-second 0
-suspect 0
-in 0
-the 0
-#LasVegasShooting. 0
+This 0 135 22
+is 0 135 22
+starting 0 135 22
+to 0 135 22
+look 0 135 22
+more 0 135 22
+and 0 135 22
+more 0 135 22
+like 0 135 22
+a 1 135 22
+gun 1 135 22
+running 1 135 22
+operation 1 135 22
+gone 1 135 22
+wrong 1 135 22
+every 1 135 22
+day. 1 135 22
 
-This 0
+pic.twitter.com/ifkkglZ4kw 0 135 23
+— 0 135 23
+Laura 0 135 23
+Loomer 0 135 23
+(@LauraLoomer) 0 135 23
+January 0 135 23
+30, 0 135 23
+2018 0 135 23
 
-is 0
-starting 0
-to 0
-look 0
-more 0
-and 0
-more 0
-like 0
-a 1
-gun 1
-running 1
-operation 1
-gone 1
-wrong 1
-every 1
-day. 1
+But 0 135 24
+Haig 0 135 24
+is 0 135 24
+an 0 135 24
+engineer, 0 135 24
+and 0 135 24
+he 0 135 24
+says 0 135 24
+he's 0 135 24
+not 0 135 24
+a 0 135 24
+former 0 135 24
+military 0 135 24
+officer. 0 135 24
 
-pic.twitter.com/ifkkglZ4kw 0
-— 0
-Laura 0
-Loomer 0
-(@LauraLoomer) 0
-January 0
-30, 0
-2018 0
+It 0 135 25
+should 0 135 25
+be 0 135 25
+noted 0 135 25
+that 0 135 25
+Haig's 0 135 25
+rounds 0 135 25
+were 0 135 25
+probably 0 135 25
+not 0 135 25
+even 0 135 25
+used 0 135 25
+in 0 135 25
+the 0 135 25
+massacre: 0 135 25
+Haig 0 135 25
+sold 0 135 25
+Paddock 0 135 25
+tracer 0 135 25
+ammunition, 0 135 25
+which 0 135 25
+emit 0 135 25
+a 0 135 25
+flare 0 135 25
+when 0 135 25
+fired 0 135 25
+making 0 135 25
+them 0 135 25
+easier 0 135 25
+to 0 135 25
+see. 0 135 25
 
-But 0
-Haig 0
-is 0
-an 0
-engineer, 0
-and 0
-he 0
-says 0
-he's 0
-not 0
-a 0
-former 0
-military 0
-officer. 0
+Had 0 135 26
+Paddock 0 135 26
+fired 0 135 26
+these 0 135 26
+rounds 0 135 26
+during 0 135 26
+the 0 135 26
+nighttime 0 135 26
+massacre 0 135 26
+at 0 135 26
+the 0 135 26
+concert, 0 135 26
+they 0 135 26
+would 0 135 26
+have 0 135 26
+been 0 135 26
+visible. 0 135 26
 
-It 0
-should 0
-be 0
-noted 0
-that 0
-Haig's 0
-rounds 0
-were 0
-probably 0
-not 0
-even 0
-used 0
-in 0
-the 0
-massacre: 0
-Haig 0
-sold 0
-Paddock 0
-tracer 0
-ammunition, 0
-which 0
-emit 0
-a 0
-flare 0
-when 0
-fired 0
-making 0
-them 0
-easier 0
-to 0
-see. 0
+Haig's 0 135 27
+attorney 0 135 27
+Marc 0 135 27
+Victor 0 135 27
+told 0 135 27
+reporters 0 135 27
+it 0 135 27
+was 0 135 27
+perfectly 0 135 27
+legal 0 135 27
+for 0 135 27
+Haig, 0 135 27
+a 0 135 27
+private 0 135 27
+citizen, 0 135 27
+to 0 135 27
+sell 0 135 27
+Paddock 0 135 27
+hundreds 0 135 27
+of 0 135 27
+rounds 0 135 27
+of 0 135 27
+tracer 0 135 27
+ammunition 0 135 27
+— 0 135 27
+the 0 135 27
+bullets 0 135 27
+are 0 135 27
+legal 0 135 27
+in 0 135 27
+Arizona. 0 135 27
 
-Had 0
-Paddock 0
-fired 0
-these 0
-rounds 0
-during 0
-the 0
-nighttime 0
-massacre 0
-at 0
-the 0
-concert, 0
-they 0
-would 0
-have 0
-been 0
-visible. 0
+Paddock 0 135 28
+showed 0 135 28
+up 0 135 28
+to 0 135 28
+buy 0 135 28
+ammunition 0 135 28
+at 0 135 28
+Haig's 0 135 28
+home 0 135 28
+after 0 135 28
+meeting 0 135 28
+him 0 135 28
+at 0 135 28
+a 0 135 28
+gun 0 135 28
+show 0 135 28
+in 0 135 28
+Phoenix. 0 135 28
 
-Haig's 0
-attorney 0
-Marc 0
-Victor 0
-told 0
-reporters 0
-it 0
-was 0
-perfectly 0
-legal 0
-for 0
-Haig, 0
-a 0
-private 0
-citizen, 0
-to 0
-sell 0
-Paddock 0
-hundreds 0
-of 0
-rounds 0
-of 0
-tracer 0
-ammunition 0
-— 0
-the 0
-bullets 0
-are 0
-legal 0
-in 0
-Arizona. 0
+"I 0 135 29
+sold 0 135 29
+him 0 135 29
+600 0 135 29
+rounds 0 135 29
+of 0 135 29
+.308 0 135 29
+tracer, 0 135 29
+surplus 0 135 29
+U.S. 0 135 29
+military. 0 135 29
 
-Paddock 0
-showed 0
-up 0
-to 0
-buy 0
-ammunition 0
-at 0
-Haig's 0
-home 0
-after 0
-meeting 0
-him 0
-at 0
-a 0
-gun 0
-show 0
-in 0
-Phoenix. 0
+I 0 135 30
+sold 0 135 30
+him 0 135 30
+120 0 135 30
+rounds 0 135 30
+of 0 135 30
+.556 0 135 30
+tracer, 0 135 30
+again, 0 135 30
+surplus 0 135 30
+U.S. 0 135 30
+military," 0 135 30
+Haig 0 135 30
+said 0 135 30
+to 0 135 30
+ABC15. 0 135 30
 
-"I 0
-sold 0
-him 0
-600 0
-rounds 0
-of 0
-.308 0
-tracer, 0
-surplus 0
-U.S. 0
-military. 0
+"I 0 135 31
+put 0 135 31
+it 0 135 31
+in 0 135 31
+a 0 135 31
+box 0 135 31
+for 0 135 31
+him. 0 135 31
 
-I 0
-sold 0
-him 0
-120 0
-rounds 0
-of 0
-.556 0
-tracer, 0
-again, 0
-surplus 0
-U.S. 0
-military," 0
-Haig 0
-said 0
-to 0
-ABC15. 0
+He 0 135 32
+paid 0 135 32
+me, 0 135 32
+put 0 135 32
+it 0 135 32
+in 0 135 32
+his 0 135 32
+car, 0 135 32
+and 0 135 32
+left." 0 135 32
 
-"I 0
-put 0
-it 0
-in 0
-a 0
-box 0
-for 0
-him. 0
+Haig 0 135 33
+said 0 135 33
+he's 0 135 33
+been 0 135 33
+legally 0 135 33
+selling 0 135 33
+ammunition 0 135 33
+as 0 135 33
+as 0 135 33
+a 0 135 33
+hobby 0 135 33
+since 0 135 33
+1991, 0 135 33
+but 0 135 33
+after 0 135 33
+the 0 135 33
+massacre, 0 135 33
+he 0 135 33
+has 0 135 33
+stopped 0 135 33
+his 0 135 33
+side 0 135 33
+business. 0 135 33
 
-He 0
-paid 0
-me, 0
-put 0
-it 0
-in 0
-his 0
-car, 0
-and 0
-left." 0
+It 0 135 34
+wasn't 0 135 34
+unusual 0 135 34
+for 0 135 34
+a 0 135 34
+customer 0 135 34
+to 0 135 34
+buy 0 135 34
+over 0 135 34
+700 0 135 34
+rounds, 0 135 34
+he 0 135 34
+said. 0 135 34
 
-Haig 0
-said 0
-he's 0
-been 0
-legally 0
-selling 0
-ammunition 0
-as 0
-as 0
-a 0
-hobby 0
-since 0
-1991, 0
-but 0
-after 0
-the 0
-massacre, 0
-he 0
-has 0
-stopped 0
-his 0
-side 0
-business. 0
+"I've 1 135 35
+seen 1 135 35
+all 1 135 35
+kinds 1 135 35
+of 1 135 35
+people. 1 135 35
 
-It 0
-wasn't 0
-unusual 0
-for 0
-a 0
-customer 0
-to 0
-buy 0
-over 0
-700 0
-rounds, 0
-he 0
-said. 0
+There 1 135 36
+were 1 135 36
+no 1 135 36
+tells," 1 135 36
+Haig 0 135 36
+said 0 135 36
+of 0 135 36
+Paddock. 0 135 36
 
-"I've 1
-seen 1
-all 1
-kinds 1
-of 1
-people. 1
+When 0 135 37
+asked 0 135 37
+about 0 135 37
+the 0 135 37
+threats, 0 135 37
+Haig 0 135 37
+said, 0 135 37
+“I’ve 0 135 37
+had 0 135 37
+people 0 135 37
+screaming 0 135 37
+they 0 135 37
+want 0 135 37
+me 0 135 37
+to 0 135 37
+die 0 135 37
+through 0 135 37
+my 0 135 37
+front 0 135 37
+door." 0 135 37
 
-There 1
-were 1
-no 1
-tells," 1
-Haig 0
-said 0
-of 0
-Paddock. 0
+Haig 0 135 38
+and 0 135 38
+his 0 135 38
+attorney 0 135 38
+did 0 135 38
+not 0 135 38
+immediately 0 135 38
+respond 0 135 38
+to 0 135 38
+requests 0 135 38
+for 0 135 38
+comment 0 135 38
+on 0 135 38
+the 0 135 38
+conspiracy 0 135 38
+theorizing. 0 135 38
 
-When 0
-asked 0
-about 0
-the 0
-threats, 0
-Haig 0
-said, 0
-“I’ve 0
-had 0
-people 0
-screaming 0
-they 0
-want 0
-me 0
-to 0
-die 0
-through 0
-my 0
-front 0
-door." 0
+Haig 0 135 39
+said 0 135 39
+he's 0 135 39
+sorry 0 135 39
+that 0 135 39
+the 0 135 39
+massacre 0 135 39
+took 0 135 39
+place, 0 135 39
+but 0 135 39
+emphasized 0 135 39
+that 0 135 39
+he 0 135 39
+had 0 135 39
+nothing 0 135 39
+to 0 135 39
+do 0 135 39
+with 0 135 39
+Paddock's 0 135 39
+mass 0 135 39
+shooting. 0 135 39
 
-Haig 0
-and 0
-his 0
-attorney 0
-did 0
-not 0
-immediately 0
-respond 0
-to 0
-requests 0
-for 0
-comment 0
-on 0
-the 0
-conspiracy 0
-theorizing. 0
+“I 0 135 40
+had 0 135 40
+no 0 135 40
+contribution 0 135 40
+to 0 135 40
+what 0 135 40
+Paddock 0 135 40
+did,” 0 135 40
+Haig 0 135 40
+said 0 135 40
+at 0 135 40
+the 0 135 40
+news 0 135 40
+conference. 0 135 40
 
-Haig 0
-said 0
-he's 0
-sorry 0
-that 0
-the 0
-massacre 0
-took 0
-place, 0
-but 0
-emphasized 0
-that 0
-he 0
-had 0
-nothing 0
-to 0
-do 0
-with 0
-Paddock's 0
-mass 0
-shooting. 0
+“I 0 135 41
+had 1 135 41
+no 1 135 41
+way 1 135 41
+to 1 135 41
+see 1 135 41
+into 1 135 41
+his 1 135 41
+mind. 1 135 41
 
-“I 0
-had 0
-no 0
-contribution 0
-to 0
-what 0
-Paddock 0
-did,” 0
-Haig 0
-said 0
-at 0
-the 0
-news 0
-conference. 0
+The 0 135 42
+product 0 135 42
+that 0 135 42
+I 0 135 42
+sold 0 135 42
+him 0 135 42
+had 1 135 42
+absolutely 1 135 42
+nothing 1 135 42
+to 1 135 42
+do 1 135 42
+with 0 135 42
+what 0 135 42
+he 0 135 42
+did.” 0 135 42
 
-“I 0
-had 1
-no 1
-way 1
-to 1
-see 1
-into 1
-his 1
-mind. 1
+Nevertheless, 0 135 43
+it's 0 135 43
+hard 0 135 43
+to 0 135 43
+believe 0 135 43
+that 0 135 43
+Haig's 0 135 43
+denials 0 135 43
+will 0 135 43
+dissuade 0 135 43
+the 0 135 43
+conspiracy-mongers. 0 135 43
 
-The 0
-product 0
-that 0
-I 0
-sold 0
-him 0
-had 1
-absolutely 1
-nothing 1
-to 1
-do 1
-with 0
-what 0
-he 0
-did.” 0
+YouTube 1 135 44
+conspiracy 1 135 44
+theorist 1 135 44
+Jake 0 135 44
+Morphonios 0 135 44
+said 0 135 44
+that 0 135 44
+for 0 135 44
+all 0 135 44
+he 0 135 44
+knows, 0 135 44
+Doug 0 135 44
+Haig 0 135 44
+didn't 0 135 44
+play 0 135 44
+a 0 135 44
+role 0 135 44
+in 0 135 44
+Paddock's 0 135 44
+massacre. 0 135 44
 
-Nevertheless, 0
-it's 0
-hard 0
-to 0
-believe 0
-that 0
-Haig's 0
-denials 0
-will 0
-dissuade 0
-the 0
-conspiracy-mongers. 0
+Even 0 135 45
+so, 0 135 45
+Morphonious 0 135 45
+still 0 135 45
+parlayed 0 135 45
+an 0 135 45
+innocent-until-proven-guilty 0 135 45
+stance 0 135 45
+into 0 135 45
+a 0 135 45
+30-minute 0 135 45
+dissertation 0 135 45
+where 0 135 45
+he 0 135 45
+discussed 0 135 45
+a 0 135 45
+"shadow 0 135 45
+government 0 135 45
+in 0 135 45
+the 0 135 45
+United 0 135 45
+States" 0 135 45
+in 0 135 45
+the 0 135 45
+context 0 135 45
+of 0 135 45
+Haig's 0 135 45
+work 0 135 45
+for 0 135 45
+companies 0 135 45
+like 0 135 45
+Northrop 0 135 45
+Grumman. 0 135 45
 
-YouTube 1
-conspiracy 1
-theorist 1
-Jake 0
-Morphonios 0
-said 0
-that 0
-for 0
-all 0
-he 0
-knows, 0
-Doug 0
-Haig 0
-didn't 0
-play 0
-a 0
-role 0
-in 0
-Paddock's 0
-massacre. 0
+"Did 1 135 46
+he 1 135 46
+know 1 135 46
+something 1 135 46
+that 1 135 46
+Stephen 1 135 46
+Paddock 1 135 46
+was 1 135 46
+going 1 135 46
+to 1 135 46
+do? 1 135 46
 
-Even 0
-so, 0
-Morphonious 0
-still 0
-parlayed 0
-an 0
-innocent-until-proven-guilty 0
-stance 0
-into 0
-a 0
-30-minute 0
-dissertation 0
-where 0
-he 0
-discussed 0
-a 0
-"shadow 0
-government 0
-in 0
-the 0
-United 0
-States" 0
-in 0
-the 0
-context 0
-of 0
-Haig's 0
-work 0
-for 0
-companies 0
-like 0
-Northrop 0
-Grumman. 0
+That 0 135 47
+I 0 135 47
+don't 0 135 47
+know 0 135 47
+— 0 135 47
+it's 0 135 47
+possible, 0 135 47
+but 0 135 47
+who 0 135 47
+knows." 0 135 47
 
-"Did 1
-he 1
-know 1
-something 1
-that 1
-Stephen 1
-Paddock 1
-was 1
-going 1
-to 1
-do? 1
+Morphonious 0 135 48
+said. 0 135 48
 
-That 0
-I 0
-don't 0
-know 0
-— 0
-it's 0
-possible, 0
-but 0
-who 0
-knows." 0
+He 0 135 48
 
-Morphonious 0
-said. 0
+added, 0 135 48
 
-He 0
-added, 0
-"I've 0
-got 0
-some 0
-questions 0
-of 0
-my 0
-own 0
-about 0
-Doug 0
-Haig 0
-that 0
-I'm 0
-going 0
-to 0
-continue 0
-seeking 0
-answers 0
-for." 0
+"I've 0 135 48
+
+got 0 135 48
+
+some 0 135 48
+
+questions 0 135 48
+
+of 0 135 48
+
+my 0 135 48
+
+own 0 135 48
+
+about 0 135 48
+
+Doug 0 135 48
+
+Haig 0 135 48
+
+that 0 135 48
+
+I'm 0 135 48
+
+going 0 135 48
+
+to 0 135 48
+
+continue 0 135 48
+
+seeking 0 135 48
+
+answers 0 135 48
+
+for." 0 135 48

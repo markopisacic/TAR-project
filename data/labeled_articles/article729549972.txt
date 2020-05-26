@@ -1,401 +1,442 @@
-NASA 0
-captures 0
-farthest 1
-ever 1
-image 1
-from 0
-Earth 0
+NASA 0 147 0
+captures 0 147 0
+farthest 1 147 0
+ever 1 147 0
+image 1 147 0
+from 0 147 0
+Earth 0 147 0
 
-© 0
-Press 0
-Release 0
-The 0
-historic 0
-photograph 0
-taken 0
-by 0
-the 0
-New 0
-Horizons 0
-spacecraft. 0
+© 0 147 1
+Press 0 147 1
+Release 0 147 1
+The 0 147 1
+historic 0 147 1
+photograph 0 147 1
+taken 0 147 1
+by 0 147 1
+the 0 147 1
+New 0 147 1
+Horizons 0 147 1
+spacecraft. 0 147 1
 
-Pic: 0
-NASA 0
+Pic: 0 147 2
+NASA 0 147 2
 
-NASA 0
-has 0
-released 0
-a 0
-record-breaking 1
-photograph 0
-taken 0
-by 0
-the 0
-New 0
-Horizons 0
-spacecraft 0
-when 0
-it 0
-was 0
-3.79 0
-billion 0
-miles 0
-away 0
-from 0
-the 0
-Earth. 0
+NASA 0 147 3
+has 0 147 3
+released 0 147 3
+a 0 147 3
+record-breaking 1 147 3
+photograph 0 147 3
+taken 0 147 3
+by 0 147 3
+the 0 147 3
+New 0 147 3
+Horizons 0 147 3
+spacecraft 0 147 3
+when 0 147 3
+it 0 147 3
+was 0 147 3
+3.79 0 147 3
+billion 0 147 3
+miles 0 147 3
+away 0 147 3
+from 0 147 3
+the 0 147 3
+Earth. 0 147 3
 
-New 0
-Horizons 0
-flew 0
-past 0
-Pluto 0
-in 0
-July 0
-2015, 0
-taking 0
-pictures 0
-which 0
-revealed 0
-an 0
-even 0
-more 0
-diverse 0
-landscape 0
-than 0
-scientists 0
-had 0
-previously 0
-imagined. 0
+New 0 147 4
+Horizons 0 147 4
+flew 0 147 4
+past 0 147 4
+Pluto 0 147 4
+in 0 147 4
+July 0 147 4
+2015, 0 147 4
+taking 0 147 4
+pictures 0 147 4
+which 0 147 4
+revealed 0 147 4
+an 0 147 4
+even 0 147 4
+more 0 147 4
+diverse 0 147 4
+landscape 0 147 4
+than 0 147 4
+scientists 0 147 4
+had 0 147 4
+previously 0 147 4
+imagined. 0 147 4
 
-After 0
-the 0
-fly-by, 0
-the 0
-spacecraft 0
-continued 0
-into 0
-the 0
-Kuiper 0
-Belt 0
-- 0
-similar 0
-to 0
-the 0
-asteroid 0
-belt 0
-but 0
-further 0
-out 0
-from 0
-the 0
-Sun 0
-and 0
-composed 0
-of 0
-dwarf 0
-planets 0
-and 0
-frozen 0
-ice, 0
-rather 0
-than 0
-rocky 0
-bodies. 0
+After 0 147 5
+the 0 147 5
+fly-by, 0 147 5
+the 0 147 5
+spacecraft 0 147 5
+continued 0 147 5
+into 0 147 5
+the 0 147 5
+Kuiper 0 147 5
+Belt 0 147 5
+- 0 147 5
+similar 0 147 5
+to 0 147 5
+the 0 147 5
+asteroid 0 147 5
+belt 0 147 5
+but 0 147 5
+further 0 147 5
+out 0 147 5
+from 0 147 5
+the 0 147 5
+Sun 0 147 5
+and 0 147 5
+composed 0 147 5
+of 0 147 5
+dwarf 0 147 5
+planets 0 147 5
+and 0 147 5
+frozen 0 147 5
+ice, 0 147 5
+rather 0 147 5
+than 0 147 5
+rocky 0 147 5
+bodies. 0 147 5
 
-Now, 0
-using 0
-its 0
-Long 0
-Range 0
-Reconnaissance 0
-Imager 0
-(LORRI), 0
-the 0
-spacecraft 0
-has 0
-photographed 0
-several 0
-Kuiper 0
-Belt 0
-objects 0
-(KBOs) 0
-and 0
-dwarf 0
-planets 0
-at 0
-unique 0
-angles. 0
+Now, 0 147 6
+using 0 147 6
+its 0 147 6
+Long 0 147 6
+Range 0 147 6
+Reconnaissance 0 147 6
+Imager 0 147 6
+(LORRI), 0 147 6
+the 0 147 6
+spacecraft 0 147 6
+has 0 147 6
+photographed 0 147 6
+several 0 147 6
+Kuiper 0 147 6
+Belt 0 147 6
+objects 0 147 6
+(KBOs) 0 147 6
+and 0 147 6
+dwarf 0 147 6
+planets 0 147 6
+at 0 147 6
+unique 0 147 6
+angles. 0 147 6
 
-© 0
-Other 0
-A 0
-zoomed-in 0
-version 0
-of 0
-the 0
-'Pale 0
-Blue 0
-Dot' 0
-image 0
+© 0 147 7
+Other 0 147 7
+A 0 147 7
+zoomed-in 0 147 7
+version 0 147 7
+of 0 147 7
+the 0 147 7
+'Pale 0 147 7
+Blue 0 147 7
+Dot' 0 147 7
+image 0 147 7
 
-The 0
-false-colour 0
-images 0
-released 0
-by 0
-NASA 0
-are 0
-the 0
-farthest 0
-from 0
-Earth 0
-ever 0
-captured 0
-by 0
-a 0
-spacecraft, 0
-and 0
-are 0
-also 0
-the 0
-closest-ever 0
-images 0
-of 0
-Kuiper 0
-Belt 0
-objects. 0
+The 0 147 8
+false-colour 0 147 8
+images 0 147 8
+released 0 147 8
+by 0 147 8
+NASA 0 147 8
+are 0 147 8
+the 0 147 8
+farthest 0 147 8
+from 0 147 8
+Earth 0 147 8
+ever 0 147 8
+captured 0 147 8
+by 0 147 8
+a 0 147 8
+spacecraft, 0 147 8
+and 0 147 8
+are 0 147 8
+also 0 147 8
+the 0 147 8
+closest-ever 0 147 8
+images 0 147 8
+of 0 147 8
+Kuiper 0 147 8
+Belt 0 147 8
+objects. 0 147 8
 
-New 0
-Horizons 0
-was 0
-even 0
-further 0
-away 0
-from 0
-Earth 0
-than 0
-the 0
-Voyager 0
-1 0
-space 0
-probe 0
-when 0
-it 0
-turned 0
-towards 0
-the 0
-Earth 0
-on 0
-14 0
-February 0
-1990 0
-and 0
-took 0
-a 0
-picture 0
-of 0
-a 0
-tiny 0
-dot. 0
+New 0 147 9
+Horizons 0 147 9
+was 0 147 9
+even 0 147 9
+further 0 147 9
+away 0 147 9
+from 0 147 9
+Earth 0 147 9
+than 0 147 9
+the 0 147 9
+Voyager 0 147 9
+1 0 147 9
+space 0 147 9
+probe 0 147 9
+when 0 147 9
+it 0 147 9
+turned 0 147 9
+towards 0 147 9
+the 0 147 9
+Earth 0 147 9
+on 0 147 9
+14 0 147 9
+February 0 147 9
+1990 0 147 9
+and 0 147 9
+took 0 147 9
+a 0 147 9
+picture 0 147 9
+of 0 147 9
+a 0 147 9
+tiny 0 147 9
+dot. 0 147 9
 
-In 0
-1994, 0
-US 0
-astronomer 0
-Carl 0
-Sagan 0
-reflected 0
-on 0
-the 0
-significance 0
-of 0
-the 0
-photograph 0
-to 0
-an 0
-audience 0
-at 0
-Cornell 0
-University, 0
-famously 0
-coining 0
-its 0
-name 0
-as 0
-the 1
-"Pale 1
-Blue 1
-Dot", 1
-and 0
-giving 0
-one 0
-of 0
-the 0
-most 0
-widely 0
-published 0
-speeches 0
-of 0
-all 0
-time. 0
+In 0 147 10
+1994, 0 147 10
+US 0 147 10
+astronomer 0 147 10
+Carl 0 147 10
+Sagan 0 147 10
+reflected 0 147 10
+on 0 147 10
+the 0 147 10
+significance 0 147 10
+of 0 147 10
+the 0 147 10
+photograph 0 147 10
+to 0 147 10
+an 0 147 10
+audience 0 147 10
+at 0 147 10
+Cornell 0 147 10
+University, 0 147 10
+famously 0 147 10
+coining 0 147 10
+its 0 147 10
+name 0 147 10
+as 0 147 10
+the 1 147 10
+"Pale 1 147 10
+Blue 1 147 10
+Dot", 1 147 10
+and 0 147 10
+giving 0 147 10
+one 0 147 10
+of 0 147 10
+the 0 147 10
+most 0 147 10
+widely 0 147 10
+published 0 147 10
+speeches 0 147 10
+of 0 147 10
+all 0 147 10
+time. 0 147 10
 
-© 0
-Getty 0
-Carl 0
-Sagan 0
-and 0
-the 1
-'Pale 1
-Blue 1
-Dot' 1
-photograph 0
+© 0 147 11
+Getty 0 147 11
+Carl 0 147 11
+Sagan 0 147 11
+and 0 147 11
+the 1 147 11
+'Pale 1 147 11
+Blue 1 147 11
+Dot' 1 147 11
+photograph 0 147 11
 
-New 0
-Horizons 0
-is 0
-only 0
-the 0
-fifth 0
-man-made 0
-spacecraft 0
-to 0
-ever 0
-travel 0
-beyond 0
-the 0
-outer 0
-planets, 0
-and 0
-many 0
-of 0
-its 0
-activities 0
-are 0
-setting 0
-distance 0
-records, 0
-according 0
-to 0
-NASA. 0
+New 0 147 12
+Horizons 0 147 12
+is 0 147 12
+only 0 147 12
+the 0 147 12
+fifth 0 147 12
+man-made 0 147 12
+spacecraft 0 147 12
+to 0 147 12
+ever 0 147 12
+travel 0 147 12
+beyond 0 147 12
+the 0 147 12
+outer 0 147 12
+planets, 0 147 12
+and 0 147 12
+many 0 147 12
+of 0 147 12
+its 0 147 12
+activities 0 147 12
+are 0 147 12
+setting 0 147 12
+distance 0 147 12
+records, 0 147 12
+according 0 147 12
+to 0 147 12
+NASA. 0 147 12
 
-In 0
-December 0
-it 0
-successfully 0
-carried 0
-out 0
-the 1
-most-distant 1
-course-correction 1
-manoeuvre 1
-ever, 1
-with 0
-the 0
-mission 0
-team 0
-guiding 0
-it 0
-towards 0
-a 0
-close-encounter 0
-with 0
-a 0
-KBO 0
-scheduled 0
-for 0
-1 0
-January 0
-2019. 0
+In 0 147 13
+December 0 147 13
+it 0 147 13
+successfully 0 147 13
+carried 0 147 13
+out 0 147 13
+the 1 147 13
+most-distant 1 147 13
+course-correction 1 147 13
+manoeuvre 1 147 13
+ever, 1 147 13
+with 0 147 13
+the 0 147 13
+mission 0 147 13
+team 0 147 13
+guiding 0 147 13
+it 0 147 13
+towards 0 147 13
+a 0 147 13
+close-encounter 0 147 13
+with 0 147 13
+a 0 147 13
+KBO 0 147 13
+scheduled 0 147 13
+for 0 147 13
+1 0 147 13
+January 0 147 13
+2019. 0 147 13
 
-"That 0
-New 0
-Year's 0
-flight 0
-past 0
-MU69 0
-will 0
-be 0
-the 1
-farthest 1
-planetary 1
-encounter 1
-in 1
-history, 1
-happening 0
-one 0
-billion 0
-miles 0
-beyond 0
-the 0
-Pluto 0
-system 0
-- 0
-which 0
-New 0
-Horizons 0
-famously 0
-explored 0
-in 0
-July 0
-2015," 0
-said 0
-NASA. 0
+"That 0 147 14
+New 0 147 14
+Year's 0 147 14
+flight 0 147 14
+past 0 147 14
+MU69 0 147 14
+will 0 147 14
+be 0 147 14
+the 1 147 14
+farthest 1 147 14
+planetary 1 147 14
+encounter 1 147 14
+in 1 147 14
+history, 1 147 14
+happening 0 147 14
+one 0 147 14
+billion 0 147 14
+miles 0 147 14
+beyond 0 147 14
+the 0 147 14
+Pluto 0 147 14
+system 0 147 14
+- 0 147 14
+which 0 147 14
+New 0 147 14
+Horizons 0 147 14
+famously 0 147 14
+explored 0 147 14
+in 0 147 14
+July 0 147 14
+2015," 0 147 14
+said 0 147 14
+NASA. 0 147 14
 
-Fortunately, 0
-the 0
-spacecraft 0
-is 0
-healthy 0
-and 0
-functioning 0
-properly, 0
-although 0
-it 0
-is 0
-currently 0
-in 0
-hibernation. 0
+Fortunately, 0 147 15
+the 0 147 15
+spacecraft 0 147 15
+is 0 147 15
+healthy 0 147 15
+and 0 147 15
+functioning 0 147 15
+properly, 0 147 15
+although 0 147 15
+it 0 147 15
+is 0 147 15
+currently 0 147 15
+in 0 147 15
+hibernation. 0 147 15
 
-The 0
-mission 0
-controllers 0
-at 0
-the 0
-Johns 0
-Hopkins 0
-Applied 0
-Physics 0
-Laboratory 0
-in 0
-Laurel, 0
-Maryland, 0
-will 0
-bring 0
-the 0
-spacecraft 0
-out 0
-of 0
-its 0
-electronic 0
-slumber 0
-in 0
-June 0
-to 0
-begin 0
-a 0
-series 0
-of 0
-system 0
-checkouts 0
-and 0
-other 0
-activities 0
-to 0
-prepare 0
-it 0
-for 0
-the 1
-next 1
-record-breaking 1
-encounter. 1
+The 0 147 15
+
+mission 0 147 15
+
+controllers 0 147 15
+
+at 0 147 15
+
+the 0 147 15
+
+Johns 0 147 15
+
+Hopkins 0 147 15
+
+Applied 0 147 15
+
+Physics 0 147 15
+
+Laboratory 0 147 15
+
+in 0 147 15
+
+Laurel, 0 147 15
+
+Maryland, 0 147 15
+
+will 0 147 15
+
+bring 0 147 15
+
+the 0 147 15
+
+spacecraft 0 147 15
+
+out 0 147 15
+
+of 0 147 15
+
+its 0 147 15
+
+electronic 0 147 15
+
+slumber 0 147 15
+
+in 0 147 15
+
+June 0 147 15
+
+to 0 147 15
+
+begin 0 147 15
+
+a 0 147 15
+
+series 0 147 15
+
+of 0 147 15
+
+system 0 147 15
+
+checkouts 0 147 15
+
+and 0 147 15
+
+other 0 147 15
+
+activities 0 147 15
+
+to 0 147 15
+
+prepare 0 147 15
+
+it 0 147 15
+
+for 0 147 15
+
+the 1 147 15
+
+next 1 147 15
+
+record-breaking 1 147 15
+
+encounter. 1 147 15

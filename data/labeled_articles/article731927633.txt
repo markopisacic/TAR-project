@@ -1,837 +1,843 @@
-Hungary's 0
-Orban 0
-calls 0
-for 0
-global 0
-anti-migrant 0
-alliance 0
-with 0
-eye 0
-on 0
-2018 0
-elections 0
+Hungary's 0 175 0
+Orban 0 175 0
+calls 0 175 0
+for 0 175 0
+global 0 175 0
+anti-migrant 0 175 0
+alliance 0 175 0
+with 0 175 0
+eye 0 175 0
+on 0 175 0
+2018 0 175 0
+elections 0 175 0
 
-(Fixes 0
-dateline) 0
+(Fixes 0 175 1
+dateline) 0 175 1
 
-* 0
-PM 0
-Orban 0
-faces 0
-elections 0
-on 0
-April 0
-8, 0
-leads 0
-all 0
-polls 0
+* 0 175 2
+PM 0 175 2
+Orban 0 175 2
+faces 0 175 2
+elections 0 175 2
+on 0 175 2
+April 0 175 2
+8, 0 175 2
+leads 0 175 2
+all 0 175 2
+polls 0 175 2
 
-* 0
-Migration 0
-has 0
-been 0
-Orban's 0
-defining 0
-theme 0
-since 0
-2015 0
+* 0 175 3
+Migration 0 175 3
+has 0 175 3
+been 0 175 3
+Orban's 0 175 3
+defining 0 175 3
+theme 0 175 3
+since 0 175 3
+2015 0 175 3
 
-* 0
-Says 0
-will 0
-counter 0
-globalism 0
-alongside 0
-U.S., 0
-UK, 0
-Israel 0
+* 0 175 4
+Says 0 175 4
+will 0 175 4
+counter 0 175 4
+globalism 0 175 4
+alongside 0 175 4
+U.S., 0 175 4
+UK, 0 175 4
+Israel 0 175 4
 
-By 0
-Marton 0
-Dunai 0
+By 0 175 5
+Marton 0 175 5
+Dunai 0 175 5
 
-BUDAPEST, 0
-Feb 0
-18 0
-(Reuters) 0
-- 0
-Hungarian 0
-leader 0
-Viktor 0
-Orban 0
-called 0
-on 0
-Sunday 0
-for 0
-a 0
-global 0
-alliance 0
-against 0
-migration 0
-as 0
-his 0
-right-wing 0
-populist 0
-Fidesz 0
-party 0
-began 0
-campaigning 0
-for 0
-an 0
-April 0
-8 0
-election 0
-in 0
-which 0
-it 0
-is 0
-expected 0
-to 0
-win 0
-a 0
-third 0
-consecutive 0
-landslide 0
-victory. 0
+BUDAPEST, 0 175 6
+Feb 0 175 6
+18 0 175 6
+(Reuters) 0 175 6
+- 0 175 6
+Hungarian 0 175 6
+leader 0 175 6
+Viktor 0 175 6
+Orban 0 175 6
+called 0 175 6
+on 0 175 6
+Sunday 0 175 6
+for 0 175 6
+a 0 175 6
+global 0 175 6
+alliance 0 175 6
+against 0 175 6
+migration 0 175 6
+as 0 175 6
+his 0 175 6
+right-wing 0 175 6
+populist 0 175 6
+Fidesz 0 175 6
+party 0 175 6
+began 0 175 6
+campaigning 0 175 6
+for 0 175 6
+an 0 175 6
+April 0 175 6
+8 0 175 6
+election 0 175 6
+in 0 175 6
+which 0 175 6
+it 0 175 6
+is 0 175 6
+expected 0 175 6
+to 0 175 6
+win 0 175 6
+a 0 175 6
+third 0 175 6
+consecutive 0 175 6
+landslide 0 175 6
+victory. 0 175 6
 
-Popular 0
-at 0
-home 0
-but 0
-increasingly 0
-at 0
-odds 0
-politically 0
-and 0
-economically 0
-with 0
-mainstream 0
-European 0
-Union 0
-peers, 0
-Orban 0
-has 0
-thrived 0
-on 0
-external 0
-controversy, 0
-including 0
-repeated 0
-clashes 0
-with 0
-Brussels 0
-and 0
-lately 0
-the 0
-United 0
-Nations. 0
+Popular 0 175 7
+at 0 175 7
+home 0 175 7
+but 0 175 7
+increasingly 0 175 7
+at 0 175 7
+odds 0 175 7
+politically 0 175 7
+and 0 175 7
+economically 0 175 7
+with 0 175 7
+mainstream 0 175 7
+European 0 175 7
+Union 0 175 7
+peers, 0 175 7
+Orban 0 175 7
+has 0 175 7
+thrived 0 175 7
+on 0 175 7
+external 0 175 7
+controversy, 0 175 7
+including 0 175 7
+repeated 0 175 7
+clashes 0 175 7
+with 0 175 7
+Brussels 0 175 7
+and 0 175 7
+lately 0 175 7
+the 0 175 7
+United 0 175 7
+Nations. 0 175 7
 
-Those 0
-conflicts, 0
-mostly 0
-centred 0
-on 0
-migration 0
-since 0
-people 0
-fleeing 0
-war 0
-and 0
-poverty 0
-in 0
-the 0
-Middle 0
-East 0
-and 0
-Africa 0
-flooded 0
-into 0
-Europe 0
-in 0
-2015, 0
-have 0
-intensified 0
-as 0
-the 0
-elections 0
-approach 0
-and 0
-Orban 1
-poses 1
-as 1
-a 1
-saviour 1
-of 1
-Europe's 1
-Christian 1
-nations. 1
+Those 0 175 8
+conflicts, 0 175 8
+mostly 0 175 8
+centred 0 175 8
+on 0 175 8
+migration 0 175 8
+since 0 175 8
+people 0 175 8
+fleeing 0 175 8
+war 0 175 8
+and 0 175 8
+poverty 0 175 8
+in 0 175 8
+the 0 175 8
+Middle 0 175 8
+East 0 175 8
+and 0 175 8
+Africa 0 175 8
+flooded 0 175 8
+into 0 175 8
+Europe 0 175 8
+in 0 175 8
+2015, 0 175 8
+have 0 175 8
+intensified 0 175 8
+as 0 175 8
+the 0 175 8
+elections 0 175 8
+approach 0 175 8
+and 0 175 8
+Orban 1 175 8
+poses 1 175 8
+as 1 175 8
+a 1 175 8
+saviour 1 175 8
+of 1 175 8
+Europe's 1 175 8
+Christian 1 175 8
+nations. 1 175 8
 
-"Christianity 1
-is 1
-Europe's 1
-last 1
-hope," 1
-Orban 0
-told 0
-an 0
-audience 0
-of 0
-party 0
-faithful 0
-at 0
-the 0
-foot 0
-of 0
-the 0
-Royal 0
-Castle 0
-in 0
-Budapest. 0
+"Christianity 1 175 9
+is 1 175 9
+Europe's 1 175 9
+last 1 175 9
+hope," 1 175 9
+Orban 0 175 9
+told 0 175 9
+an 0 175 9
+audience 0 175 9
+of 0 175 9
+party 0 175 9
+faithful 0 175 9
+at 0 175 9
+the 0 175 9
+foot 0 175 9
+of 0 175 9
+the 0 175 9
+Royal 0 175 9
+Castle 0 175 9
+in 0 175 9
+Budapest. 0 175 9
 
-With 0
-mass 0
-immigration, 0
-especially 0
-from 0
-Africa, 0
-"our 1
-worst 1
-nightmares 1
-can 1
-come 1
-true. 1
+With 0 175 10
+mass 0 175 10
+immigration, 0 175 10
+especially 0 175 10
+from 0 175 10
+Africa, 0 175 10
+"our 1 175 10
+worst 1 175 10
+nightmares 1 175 10
+can 1 175 10
+come 1 175 10
+true. 1 175 10
 
-The 1
-West 1
-falls 1
-as 1
-it 1
-fails 1
-to 1
-see 1
-Europe 1
-being 1
-overrun." 1
+The 1 175 11
+West 1 175 11
+falls 1 175 11
+as 1 175 11
+it 1 175 11
+fails 1 175 11
+to 1 175 11
+see 1 175 11
+Europe 1 175 11
+being 1 175 11
+overrun." 1 175 11
 
-Orban 0
-is 0
-widely 0
-credited 0
-for 0
-reversing 0
-an 0
-economic 0
-slump 0
-in 0
-Hungary 0
-and 0
-controlling 0
-its 0
-public 0
-finances, 0
-culminating 0
-in 0
-a 0
-return 0
-to 0
-investment-grade 0
-for 0
-its 0
-debt, 0
-which 0
-was 0
-cut 0
-to 0
-'junk' 0
-during 0
-the 0
-2008 0
-global 0
-economic 0
-crisis. 0
+Orban 0 175 12
+is 0 175 12
+widely 0 175 12
+credited 0 175 12
+for 0 175 12
+reversing 0 175 12
+an 0 175 12
+economic 0 175 12
+slump 0 175 12
+in 0 175 12
+Hungary 0 175 12
+and 0 175 12
+controlling 0 175 12
+its 0 175 12
+public 0 175 12
+finances, 0 175 12
+culminating 0 175 12
+in 0 175 12
+a 0 175 12
+return 0 175 12
+to 0 175 12
+investment-grade 0 175 12
+for 0 175 12
+its 0 175 12
+debt, 0 175 12
+which 0 175 12
+was 0 175 12
+cut 0 175 12
+to 0 175 12
+'junk' 0 175 12
+during 0 175 12
+the 0 175 12
+2008 0 175 12
+global 0 175 12
+economic 0 175 12
+crisis. 0 175 12
 
-To 0
-achieve 0
-that 0
-and 0
-hold 0
-onto 0
-power 0
-the 0
-prime 0
-minister, 0
-54, 0
-has 0
-used 0
-methods 0
-that 0
-critics 0
-have 0
-called 0
-authoritarian, 0
-and 0
-picked 0
-fights 0
-with 0
-EU 0
-partners, 0
-especially 0
-in 0
-the 0
-West. 0
+To 0 175 13
+achieve 0 175 13
+that 0 175 13
+and 0 175 13
+hold 0 175 13
+onto 0 175 13
+power 0 175 13
+the 0 175 13
+prime 0 175 13
+minister, 0 175 13
+54, 0 175 13
+has 0 175 13
+used 0 175 13
+methods 0 175 13
+that 0 175 13
+critics 0 175 13
+have 0 175 13
+called 0 175 13
+authoritarian, 0 175 13
+and 0 175 13
+picked 0 175 13
+fights 0 175 13
+with 0 175 13
+EU 0 175 13
+partners, 0 175 13
+especially 0 175 13
+in 0 175 13
+the 0 175 13
+West. 0 175 13
 
-Eastern 0
-leaders, 0
-most 0
-notably 0
-in 0
-Poland, 0
-have 0
-followed 0
-his 0
-lead. 0
+Eastern 0 175 14
+leaders, 0 175 14
+most 0 175 14
+notably 0 175 14
+in 0 175 14
+Poland, 0 175 14
+have 0 175 14
+followed 0 175 14
+his 0 175 14
+lead. 0 175 14
 
-But 0
-migration 0
-dominates 0
-his 0
-agenda 0
-now. 0
+But 0 175 15
+migration 0 175 15
+dominates 0 175 15
+his 0 175 15
+agenda 0 175 15
+now. 0 175 15
 
-Orban 0
-said 0
-on 0
-Sunday 0
-that 0
-Europe 0
-faces 0
-a 0
-critical 0
-fissure 0
-between 0
-nation 0
-states 0
-of 0
-the 0
-East 0
-and 0
-the 0
-West, 0
-which 0
-he 0
-called 0
-an 0
-"immigrant 0
-zone, 0
-a 0
-mixed 0
-population 0
-world 0
-that 0
-heads 0
-in 0
-a 1
-direction 1
-different 1
-from 1
-ours". 1
+Orban 0 175 16
+said 0 175 16
+on 0 175 16
+Sunday 0 175 16
+that 0 175 16
+Europe 0 175 16
+faces 0 175 16
+a 0 175 16
+critical 0 175 16
+fissure 0 175 16
+between 0 175 16
+nation 0 175 16
+states 0 175 16
+of 0 175 16
+the 0 175 16
+East 0 175 16
+and 0 175 16
+the 0 175 16
+West, 0 175 16
+which 0 175 16
+he 0 175 16
+called 0 175 16
+an 0 175 16
+"immigrant 0 175 16
+zone, 0 175 16
+a 0 175 16
+mixed 0 175 16
+population 0 175 16
+world 0 175 16
+that 0 175 16
+heads 0 175 16
+in 0 175 16
+a 1 175 16
+direction 1 175 16
+different 1 175 16
+from 1 175 16
+ours". 1 175 16
 
-As 0
-the 0
-West 0
-wants 0
-eastern 0
-Europe 0
-to 0
-follow 0
-its 0
-lead, 0
-an 0
-increasingly 1
-vicious 1
-struggle 1
-was 0
-likely, 0
-he 0
-said, 0
-alluding 0
-to 0
-a 0
-plan 0
-to 0
-redraw 0
-the 0
-European 0
-alliance 0
-advocated 0
-by 0
-the 0
-leaders 0
-of 0
-France 0
-and 0
-Germany. 0
+As 0 175 17
+the 0 175 17
+West 0 175 17
+wants 0 175 17
+eastern 0 175 17
+Europe 0 175 17
+to 0 175 17
+follow 0 175 17
+its 0 175 17
+lead, 0 175 17
+an 0 175 17
+increasingly 1 175 17
+vicious 1 175 17
+struggle 1 175 17
+was 0 175 17
+likely, 0 175 17
+he 0 175 17
+said, 0 175 17
+alluding 0 175 17
+to 0 175 17
+a 0 175 17
+plan 0 175 17
+to 0 175 17
+redraw 0 175 17
+the 0 175 17
+European 0 175 17
+alliance 0 175 17
+advocated 0 175 17
+by 0 175 17
+the 0 175 17
+leaders 0 175 17
+of 0 175 17
+France 0 175 17
+and 0 175 17
+Germany. 0 175 17
 
-"Absurd 0
-as 0
-it 0
-may 0
-sound 0
-the 1
-danger 1
-we 1
-face 1
-comes 1
-from 1
-the 1
-West, 1
-from 1
-politicians 1
-in 1
-Brussels, 1
-Berlin 1
-and 1
-Paris," 1
-Orban 0
-said 0
-to 0
-loud 0
-applause. 0
+"Absurd 0 175 18
+as 0 175 18
+it 0 175 18
+may 0 175 18
+sound 0 175 18
+the 1 175 18
+danger 1 175 18
+we 1 175 18
+face 1 175 18
+comes 1 175 18
+from 1 175 18
+the 1 175 18
+West, 1 175 18
+from 1 175 18
+politicians 1 175 18
+in 1 175 18
+Brussels, 1 175 18
+Berlin 1 175 18
+and 1 175 18
+Paris," 1 175 18
+Orban 0 175 18
+said 0 175 18
+to 0 175 18
+loud 0 175 18
+applause. 0 175 18
 
-"Of 0
-course 0
-we 0
-will 0
-fight, 0
-and 0
-use 0
-ever 0
-stronger 0
-legal 0
-tools. 0
+"Of 0 175 19
+course 0 175 19
+we 0 175 19
+will 0 175 19
+fight, 0 175 19
+and 0 175 19
+use 0 175 19
+ever 0 175 19
+stronger 0 175 19
+legal 0 175 19
+tools. 0 175 19
 
-The 0
-first 0
-is 0
-our 0
-'Stop 1
-Soros' 1
-law." 0
+The 0 175 20
+first 0 175 20
+is 0 175 20
+our 0 175 20
+'Stop 1 175 20
+Soros' 1 175 20
+law." 0 175 20
 
-Orban 0
-has 0
-for 0
-years 0
-targeted 0
-Hungarian-born 0
-U.S. 0
-financier 0
-George 0
-Soros, 0
-whose 0
-philanthropy 0
-aims 0
-to 0
-bolster 0
-liberal 0
-and 0
-open-border 0
-values 0
--- 0
-anathema 0
-to 0
-Orban, 0
-an 0
-advocate 0
-of 0
-a 0
-loose 0
-group 0
-of 0
-strong 0
-nation 0
-states 0
-that 0
-reject 0
-multiculturalism. 0
+Orban 0 175 21
+has 0 175 21
+for 0 175 21
+years 0 175 21
+targeted 0 175 21
+Hungarian-born 0 175 21
+U.S. 0 175 21
+financier 0 175 21
+George 0 175 21
+Soros, 0 175 21
+whose 0 175 21
+philanthropy 0 175 21
+aims 0 175 21
+to 0 175 21
+bolster 0 175 21
+liberal 0 175 21
+and 0 175 21
+open-border 0 175 21
+values 0 175 21
+-- 0 175 21
+anathema 0 175 21
+to 0 175 21
+Orban, 0 175 21
+an 0 175 21
+advocate 0 175 21
+of 0 175 21
+a 0 175 21
+loose 0 175 21
+group 0 175 21
+of 0 175 21
+strong 0 175 21
+nation 0 175 21
+states 0 175 21
+that 0 175 21
+reject 0 175 21
+multiculturalism. 0 175 21
 
-The 0
-Hungarian 0
-leader 0
-has 0
-advocated 0
-"ethnic 0
-homogeneity" 0
-and 0
-compared 0
-Soros, 0
-a 0
-Jew, 0
-to 0
-a 0
-puppet 1
-master 1
-unleashing 1
-immigration 1
-onto 1
-Europe 1
-to 0
-undermine 0
-its 0
-cultural 0
-and 0
-economic 0
-integrity. 0
+The 0 175 22
+Hungarian 0 175 22
+leader 0 175 22
+has 0 175 22
+advocated 0 175 22
+"ethnic 0 175 22
+homogeneity" 0 175 22
+and 0 175 22
+compared 0 175 22
+Soros, 0 175 22
+a 0 175 22
+Jew, 0 175 22
+to 0 175 22
+a 0 175 22
+puppet 1 175 22
+master 1 175 22
+unleashing 1 175 22
+immigration 1 175 22
+onto 1 175 22
+Europe 1 175 22
+to 0 175 22
+undermine 0 175 22
+its 0 175 22
+cultural 0 175 22
+and 0 175 22
+economic 0 175 22
+integrity. 0 175 22
 
-A 0
-defining 0
-moment 0
-of 0
-his 0
-premiership 0
-came 0
-in 0
-2015, 0
-as 0
-the 0
-migrant 0
-crisis 0
-peaked: 0
-he 0
-built 0
-a 0
-double 0
-razor 0
-wire 0
-fence 0
-that 0
-became 0
-the 0
-symbol 0
-of 0
-anti-migrant 0
-sentiment 0
-in 0
-Europe. 0
+A 0 175 23
+defining 0 175 23
+moment 0 175 23
+of 0 175 23
+his 0 175 23
+premiership 0 175 23
+came 0 175 23
+in 0 175 23
+2015, 0 175 23
+as 0 175 23
+the 0 175 23
+migrant 0 175 23
+crisis 0 175 23
+peaked: 0 175 23
+he 0 175 23
+built 0 175 23
+a 0 175 23
+double 0 175 23
+razor 0 175 23
+wire 0 175 23
+fence 0 175 23
+that 0 175 23
+became 0 175 23
+the 0 175 23
+symbol 0 175 23
+of 0 175 23
+anti-migrant 0 175 23
+sentiment 0 175 23
+in 0 175 23
+Europe. 0 175 23
 
-Orban 0
-also 0
-said 0
-the 0
-Hungarian 0
-opposition 0
-had 0
-failed 0
-to 0
-heed 0
-the 0
-call 0
-of 0
-history 0
-when 0
-it 0
-opposed 0
-his 0
-toughness 0
-on 0
-migrants. 0
+Orban 0 175 24
+also 0 175 24
+said 0 175 24
+the 0 175 24
+Hungarian 0 175 24
+opposition 0 175 24
+had 0 175 24
+failed 0 175 24
+to 0 175 24
+heed 0 175 24
+the 0 175 24
+call 0 175 24
+of 0 175 24
+history 0 175 24
+when 0 175 24
+it 0 175 24
+opposed 0 175 24
+his 0 175 24
+toughness 0 175 24
+on 0 175 24
+migrants. 0 175 24
 
-Voters 0
-have 0
-responded 0
-favourably 0
-and 0
-Orban 0
-is 0
-a 0
-clear 0
-leader 0
-of 0
-all 0
-polls. 0
+Voters 0 175 25
+have 0 175 25
+responded 0 175 25
+favourably 0 175 25
+and 0 175 25
+Orban 0 175 25
+is 0 175 25
+a 0 175 25
+clear 0 175 25
+leader 0 175 25
+of 0 175 25
+all 0 175 25
+polls. 0 175 25
 
-POWERFUL 0
-ALLIES 0
+POWERFUL 0 175 26
+ALLIES 0 175 26
 
-Orban 0
-has 0
-conflated 0
-the 0
-issue 0
-of 0
-immigration 0
-with 0
-the 0
-image 0
-of 0
-Soros, 0
-87, 0
-whose 0
-name 0
-was 0
-used 0
-in 0
-a 0
-tough 0
-anti-migrant 0
-bill 0
-sent 0
-to 0
-Parliament 0
-on 0
-Wednesday. 0
+Orban 0 175 27
+has 0 175 27
+conflated 0 175 27
+the 0 175 27
+issue 0 175 27
+of 0 175 27
+immigration 0 175 27
+with 0 175 27
+the 0 175 27
+image 0 175 27
+of 0 175 27
+Soros, 0 175 27
+87, 0 175 27
+whose 0 175 27
+name 0 175 27
+was 0 175 27
+used 0 175 27
+in 0 175 27
+a 0 175 27
+tough 0 175 27
+anti-migrant 0 175 27
+bill 0 175 27
+sent 0 175 27
+to 0 175 27
+Parliament 0 175 27
+on 0 175 27
+Wednesday. 0 175 27
 
-Soros, 0
-for 0
-his 0
-part, 0
-compared 1
-Orban 1
-unfavourably 1
-to 1
-both 1
-the 1
-Nazis 1
-and 1
-the 1
-Communists, 1
-saying 0
-his 0
-rule 0
-evoked 0
-dark 0
-tones 0
-from 0
-the 0
-1930's 0
--- 0
-when 0
-Hungary 0
-was 0
-allied 0
-with 0
-Nazi 0
-Germany 0
--- 0
-and 0
-was 0
-more 0
-oppressive 0
-than 0
-Cold 0
-War 0
-Soviet 0
-occupation. 0
+Soros, 0 175 28
+for 0 175 28
+his 0 175 28
+part, 0 175 28
+compared 1 175 28
+Orban 1 175 28
+unfavourably 1 175 28
+to 1 175 28
+both 1 175 28
+the 1 175 28
+Nazis 1 175 28
+and 1 175 28
+the 1 175 28
+Communists, 1 175 28
+saying 0 175 28
+his 0 175 28
+rule 0 175 28
+evoked 0 175 28
+dark 0 175 28
+tones 0 175 28
+from 0 175 28
+the 0 175 28
+1930's 0 175 28
+-- 0 175 28
+when 0 175 28
+Hungary 0 175 28
+was 0 175 28
+allied 0 175 28
+with 0 175 28
+Nazi 0 175 28
+Germany 0 175 28
+-- 0 175 28
+and 0 175 28
+was 0 175 28
+more 0 175 28
+oppressive 0 175 28
+than 0 175 28
+Cold 0 175 28
+War 0 175 28
+Soviet 0 175 28
+occupation. 0 175 28
 
-Orban 0
-has 0
-tightened 0
-the 0
-screws 0
-on 0
-non-government 0
-organisations, 0
-particularly 0
-ones 0
-funded 0
-by 0
-Soros, 0
-and 0
-attempted 0
-to 0
-close 0
-a 0
-prominent 0
-Soros-founded 0
-university. 0
+Orban 0 175 29
+has 0 175 29
+tightened 0 175 29
+the 0 175 29
+screws 0 175 29
+on 0 175 29
+non-government 0 175 29
+organisations, 0 175 29
+particularly 0 175 29
+ones 0 175 29
+funded 0 175 29
+by 0 175 29
+Soros, 0 175 29
+and 0 175 29
+attempted 0 175 29
+to 0 175 29
+close 0 175 29
+a 0 175 29
+prominent 0 175 29
+Soros-founded 0 175 29
+university. 0 175 29
 
-Attributing 0
-to 0
-Soros 0
-a 0
-recent 0
-United 0
-Nations 0
-plan 0
-on 0
-creating 0
-a 0
-global 0
-blueprint 0
-to 0
-handle 0
-the 0
-migration 0
-crisis, 0
-Orban 0
-said 0
-he 0
-anticipated 0
-that 0
-powerful 0
-allies 0
-would 0
-help 0
-him 0
-prevent 0
-the 0
-U.N. 0
-from 0
-greasing 0
-the 0
-wheels 0
-of 0
-migration. 0
+Attributing 0 175 30
+to 0 175 30
+Soros 0 175 30
+a 0 175 30
+recent 0 175 30
+United 0 175 30
+Nations 0 175 30
+plan 0 175 30
+on 0 175 30
+creating 0 175 30
+a 0 175 30
+global 0 175 30
+blueprint 0 175 30
+to 0 175 30
+handle 0 175 30
+the 0 175 30
+migration 0 175 30
+crisis, 0 175 30
+Orban 0 175 30
+said 0 175 30
+he 0 175 30
+anticipated 0 175 30
+that 0 175 30
+powerful 0 175 30
+allies 0 175 30
+would 0 175 30
+help 0 175 30
+him 0 175 30
+prevent 0 175 30
+the 0 175 30
+U.N. 0 175 30
+from 0 175 30
+greasing 0 175 30
+the 0 175 30
+wheels 0 175 30
+of 0 175 30
+migration. 0 175 30
 
-"Soros 0
-has 0
-antagonised 0
-not 0
-only 0
-us 0
-but 0
-also 0
-England, 0
-President 0
-Trump 0
-and 0
-Israel 0
-too," 0
-he 0
-said. 0
+"Soros 0 175 31
+has 0 175 31
+antagonised 0 175 31
+not 0 175 31
+only 0 175 31
+us 0 175 31
+but 0 175 31
+also 0 175 31
+England, 0 175 31
+President 0 175 31
+Trump 0 175 31
+and 0 175 31
+Israel 0 175 31
+too," 0 175 31
+he 0 175 31
+said. 0 175 31
 
-"Everywhere 0
-he 0
-wants 0
-to 0
-get 0
-migration 0
-accepted. 0
+"Everywhere 0 175 32
+he 0 175 32
+wants 0 175 32
+to 0 175 32
+get 0 175 32
+migration 0 175 32
+accepted. 0 175 32
 
-It 0
-won't 0
-work. 0
+It 0 175 33
+won't 0 175 33
+work. 0 175 33
 
-We 0
-are 0
-not 0
-alone 0
-and 0
-we 0
-will 0
-fight 0
-together 0
-... 0
-and 0
-we 0
-will 0
-succeed." 0
+We 0 175 34
+are 0 175 34
+not 0 175 34
+alone 0 175 34
+and 0 175 34
+we 0 175 34
+will 0 175 34
+fight 0 175 34
+together 0 175 34
+... 0 175 34
+and 0 175 34
+we 0 175 34
+will 0 175 34
+succeed." 0 175 34
 
-In 0
-Europe, 0
-he 0
-cited 0
-as 0
-allies 0
-Hungary's 0
-fellow 0
-Visegrad 0
-countries 0
-Slovakia, 0
-the 0
-Czech 0
-Republic 0
-and 0
-Poland, 0
-whose 0
-ruling 0
-Law 0
-and 0
-Justice 0
-(PiS) 0
-party 0
-is 0
-also 0
-often 0
-at 0
-loggerheads 0
-with 0
-the 0
-EU. 0
+In 0 175 35
+Europe, 0 175 35
+he 0 175 35
+cited 0 175 35
+as 0 175 35
+allies 0 175 35
+Hungary's 0 175 35
+fellow 0 175 35
+Visegrad 0 175 35
+countries 0 175 35
+Slovakia, 0 175 35
+the 0 175 35
+Czech 0 175 35
+Republic 0 175 35
+and 0 175 35
+Poland, 0 175 35
+whose 0 175 35
+ruling 0 175 35
+Law 0 175 35
+and 0 175 35
+Justice 0 175 35
+(PiS) 0 175 35
+party 0 175 35
+is 0 175 35
+also 0 175 35
+often 0 175 35
+at 0 175 35
+loggerheads 0 175 35
+with 0 175 35
+the 0 175 35
+EU. 0 175 35
 
-He 0
-said 0
-a 0
-victory 0
-for 0
-Silvio 0
-Berlusconi's 0
-party 0
-in 0
-Italy's 0
-March 0
-4 0
-election 0
-would 0
-strengthen 0
-the 0
-nationalist 0
-fold. 0
+He 0 175 36
+said 0 175 36
+a 0 175 36
+victory 0 175 36
+for 0 175 36
+Silvio 0 175 36
+Berlusconi's 0 175 36
+party 0 175 36
+in 0 175 36
+Italy's 0 175 36
+March 0 175 36
+4 0 175 36
+election 0 175 36
+would 0 175 36
+strengthen 0 175 36
+the 0 175 36
+nationalist 0 175 36
+fold. 0 175 36
 
-"We 0
-don't 0
-think 0
-the 0
-fight 0
-is 0
-hopeless, 0
-on 0
-the 0
-contrary, 0
-we 0
-are 0
-winning," 0
-Orban 0
-said. 0
+"We 0 175 37
+don't 0 175 37
+think 0 175 37
+the 0 175 37
+fight 0 175 37
+is 0 175 37
+hopeless, 0 175 37
+on 0 175 37
+the 0 175 37
+contrary, 0 175 37
+we 0 175 37
+are 0 175 37
+winning," 0 175 37
+Orban 0 175 37
+said. 0 175 37
 
-"The 0
-V4 0
-is 0
-firm, 0
-Croatia 0
-has 0
-come 0
-around, 0
-Austria 0
-has 0
-turned 0
-in 0
-the 0
-patriotic 0
-direction, 0
-and 0
-in 0
-Bavaria 0
-the 0
-CSU 0
-has 0
-created 0
-a 0
-resistance." 0
+"The 0 175 38
+V4 0 175 38
+is 0 175 38
+firm, 0 175 38
+Croatia 0 175 38
+has 0 175 38
+come 0 175 38
+around, 0 175 38
+Austria 0 175 38
+has 0 175 38
+turned 0 175 38
+in 0 175 38
+the 0 175 38
+patriotic 0 175 38
+direction, 0 175 38
+and 0 175 38
+in 0 175 38
+Bavaria 0 175 38
+the 0 175 38
+CSU 0 175 38
+has 0 175 38
+created 0 175 38
+a 0 175 38
+resistance." 0 175 38
 
-(Reporting 0
-by 0
-Marton 0
-Dunai; 0
-Editing 0
-by 0
-Catherine 0
-Evans) 0
+(Reporting 0 175 39
+by 0 175 39
+Marton 0 175 39
+Dunai; 0 175 39
+Editing 0 175 39
+by 0 175 39
+Catherine 0 175 39
+Evans) 0 175 39
 
-Our 0
-Standards: 0
-The 0
-Thomson 0
-Reuters 0
-Trust 0
-Principles. 0
+Our 0 175 39
+
+Standards: 0 175 39
+
+The 0 175 39
+
+Thomson 0 175 39
+
+Reuters 0 175 39
+
+Trust 0 175 39
+
+Principles. 0 175 39

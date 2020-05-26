@@ -1,532 +1,538 @@
-Report: 0
-Jim 0
-Acosta 0
-and 0
-CNN 0
-File 0
-Lawsuit 0
-Against 0
-Trump 0
-Administration 0
+Report: 0 422 0
+Jim 0 422 0
+Acosta 0 422 0
+and 0 422 0
+CNN 0 422 0
+File 0 422 0
+Lawsuit 0 422 0
+Against 0 422 0
+Trump 0 422 0
+Administration 0 422 0
 
-CNN 0
-is 0
-taking 0
-the 0
-ongoing 0
-feud 0
-between 0
-President 0
-Trump 0
-and 0
-Jim 0
-Acosta 0
-to 0
-court. 0
+CNN 0 422 1
+is 0 422 1
+taking 0 422 1
+the 0 422 1
+ongoing 0 422 1
+feud 0 422 1
+between 0 422 1
+President 0 422 1
+Trump 0 422 1
+and 0 422 1
+Jim 0 422 1
+Acosta 0 422 1
+to 0 422 1
+court. 0 422 1
 
-Appearing 0
-on 0
-CNN’s 0
-“Reliable 0
-Sources” 0
-this 0
-Sunday, 0
-ABC’s 0
-former 0
-White 0
-House 0
-correspondent 0
-Sam 0
-Donaldson 0
-made 0
-the 0
-claim 0
-that 0
-Jim 0
-Acosta 0
-and 0
-CNN 0
-had 0
-already 0
-filed 0
-a 0
-lawsuit 0
-against 0
-the 0
-Trump 0
-administration 0
-over 0
-the 0
-White 0
-House’s 0
-decision 0
-to 0
-revoke 0
-the 0
-reporter’s 0
-press 0
-pass. 0
+Appearing 0 422 2
+on 0 422 2
+CNN’s 0 422 2
+“Reliable 0 422 2
+Sources” 0 422 2
+this 0 422 2
+Sunday, 0 422 2
+ABC’s 0 422 2
+former 0 422 2
+White 0 422 2
+House 0 422 2
+correspondent 0 422 2
+Sam 0 422 2
+Donaldson 0 422 2
+made 0 422 2
+the 0 422 2
+claim 0 422 2
+that 0 422 2
+Jim 0 422 2
+Acosta 0 422 2
+and 0 422 2
+CNN 0 422 2
+had 0 422 2
+already 0 422 2
+filed 0 422 2
+a 0 422 2
+lawsuit 0 422 2
+against 0 422 2
+the 0 422 2
+Trump 0 422 2
+administration 0 422 2
+over 0 422 2
+the 0 422 2
+White 0 422 2
+House’s 0 422 2
+decision 0 422 2
+to 0 422 2
+revoke 0 422 2
+the 0 422 2
+reporter’s 0 422 2
+press 0 422 2
+pass. 0 422 2
 
-It 0
-appears 0
-that 0
-CNN 0
-is 0
-setting 0
-the 0
-wheels 0
-in 0
-motion 0
-for 0
-a 0
-lawsuit 0
-against 0
-the 0
-White 0
-House 0
-for 0
-removing 0
-the 0
-press 0
-credentials 0
-of 0
-Jim 0
-Acosta 0
-following 0
-a 0
-tense 1
-incident 0
-Wednesday 0
-during 0
-a 0
-news 0
-conference 0
-at 0
-the 0
-White 0
-House. 0
+It 0 422 3
+appears 0 422 3
+that 0 422 3
+CNN 0 422 3
+is 0 422 3
+setting 0 422 3
+the 0 422 3
+wheels 0 422 3
+in 0 422 3
+motion 0 422 3
+for 0 422 3
+a 0 422 3
+lawsuit 0 422 3
+against 0 422 3
+the 0 422 3
+White 0 422 3
+House 0 422 3
+for 0 422 3
+removing 0 422 3
+the 0 422 3
+press 0 422 3
+credentials 0 422 3
+of 0 422 3
+Jim 0 422 3
+Acosta 0 422 3
+following 0 422 3
+a 0 422 3
+tense 1 422 3
+incident 0 422 3
+Wednesday 0 422 3
+during 0 422 3
+a 0 422 3
+news 0 422 3
+conference 0 422 3
+at 0 422 3
+the 0 422 3
+White 0 422 3
+House. 0 422 3
 
-“I 0
-hope 0
-I’m 0
-not 0
-mistaken, 0
-but 0
-it’s 0
-my 0
-understanding 0
-that 0
-CNN 0
-and 0
-Acosta 0
-have 0
-sued, 0
-that 0
-there 0
-will 0
-be 0
-a 0
-court 0
-hearing 0
-on 0
-Tuesday 0
-on 0
-this 0
-very 0
-matter 0
-that 0
-we’ve 0
-been 0
-discussing,” 0
-Donaldson 0
-said. 0
+“I 0 422 4
+hope 0 422 4
+I’m 0 422 4
+not 0 422 4
+mistaken, 0 422 4
+but 0 422 4
+it’s 0 422 4
+my 0 422 4
+understanding 0 422 4
+that 0 422 4
+CNN 0 422 4
+and 0 422 4
+Acosta 0 422 4
+have 0 422 4
+sued, 0 422 4
+that 0 422 4
+there 0 422 4
+will 0 422 4
+be 0 422 4
+a 0 422 4
+court 0 422 4
+hearing 0 422 4
+on 0 422 4
+Tuesday 0 422 4
+on 0 422 4
+this 0 422 4
+very 0 422 4
+matter 0 422 4
+that 0 422 4
+we’ve 0 422 4
+been 0 422 4
+discussing,” 0 422 4
+Donaldson 0 422 4
+said. 0 422 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 422 5
+our 0 422 5
+poll 0 422 5
+- 0 422 5
+story 0 422 5
+continues 0 422 5
+below 0 422 5
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 422 6
+Jim 0 422 6
+Acosta 0 422 6
+have 0 422 6
+gotten 0 422 6
+his 0 422 6
+press 0 422 6
+pass 0 422 6
+back? 0 422 6
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 422 7
+Jim 0 422 7
+Acosta 0 422 7
+have 0 422 7
+gotten 0 422 7
+his 0 422 7
+press 0 422 7
+pass 0 422 7
+back? 0 422 7
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 422 8
+Jim 0 422 8
+Acosta 0 422 8
+have 0 422 8
+gotten 0 422 8
+his 0 422 8
+press 0 422 8
+pass 0 422 8
+back? 0 422 8
 
-* 0
-Yes, 0
-he 0
-should 0
-have 0
-gotten 0
-it 0
-back. 0
+* 0 422 9
+Yes, 0 422 9
+he 0 422 9
+should 0 422 9
+have 0 422 9
+gotten 0 422 9
+it 0 422 9
+back. 0 422 9
 
-No, 0
-you 0
-can't 0
-act 0
-like 0
-a 0
-child 0
-and 0
-keep 0
-your 0
-pass. 0
+No, 0 422 10
+you 0 422 10
+can't 0 422 10
+act 0 422 10
+like 0 422 10
+a 0 422 10
+child 0 422 10
+and 0 422 10
+keep 0 422 10
+your 0 422 10
+pass. 0 422 10
 
-Maybe? 0
+Maybe? 0 422 11
 
-I'm 0
-not 0
-sure 0
-if 0
-he 0
-should 0
-have. 0
+I'm 0 422 12
+not 0 422 12
+sure 0 422 12
+if 0 422 12
+he 0 422 12
+should 0 422 12
+have. 0 422 12
 
-Email 0
-* 0
+Email 0 422 13
+* 0 422 13
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 422 14
+This 0 422 14
+field 0 422 14
+is 0 422 14
+for 0 422 14
+validation 0 422 14
+purposes 0 422 14
+and 0 422 14
+should 0 422 14
+be 0 422 14
+left 0 422 14
+unchanged. 0 422 14
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Truth 0
-Uncensored 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 422 15
+this 0 422 15
+poll 0 422 15
+grants 0 422 15
+you 0 422 15
+access 0 422 15
+to 0 422 15
+Truth 0 422 15
+Uncensored 0 422 15
+updates 0 422 15
+free 0 422 15
+of 0 422 15
+charge. 0 422 15
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 422 16
+may 0 422 16
+opt 0 422 16
+out 0 422 16
+at 0 422 16
+anytime. 0 422 16
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 422 17
+also 0 422 17
+agree 0 422 17
+to 0 422 17
+this 0 422 17
+site's 0 422 17
+Privacy 0 422 17
+Policy 0 422 17
+and 0 422 17
+Terms 0 422 17
+of 0 422 17
+Use. 0 422 17
 
-Donaldson 0
-claims 0
-that 0
-he 0
-has 0
-already 0
-been 0
-asked 0
-to 0
-prepare 0
-an 0
-affidavit 0
-to 0
-be 0
-submitted 0
-to 0
-court, 0
-likely 0
-due 0
-to 0
-Donaldson’s 0
-own 0
-reputation 0
-for 0
-confrontation 0
-with 0
-the 0
-White 0
-House, 0
-including 0
-trading 0
-personal 0
-insults 0
-with 0
-President 0
-George 0
-Bush 0
-in 0
-2006, 0
-RT 0
-reports. 0
+Donaldson 0 422 18
+claims 0 422 18
+that 0 422 18
+he 0 422 18
+has 0 422 18
+already 0 422 18
+been 0 422 18
+asked 0 422 18
+to 0 422 18
+prepare 0 422 18
+an 0 422 18
+affidavit 0 422 18
+to 0 422 18
+be 0 422 18
+submitted 0 422 18
+to 0 422 18
+court, 0 422 18
+likely 0 422 18
+due 0 422 18
+to 0 422 18
+Donaldson’s 0 422 18
+own 0 422 18
+reputation 0 422 18
+for 0 422 18
+confrontation 0 422 18
+with 0 422 18
+the 0 422 18
+White 0 422 18
+House, 0 422 18
+including 0 422 18
+trading 0 422 18
+personal 0 422 18
+insults 0 422 18
+with 0 422 18
+President 0 422 18
+George 0 422 18
+Bush 0 422 18
+in 0 422 18
+2006, 0 422 18
+RT 0 422 18
+reports. 0 422 18
 
-Donaldson 0
-also 0
-said 0
-that 0
-he 0
-had 0
-sent 0
-Acosta 0
-an 0
-email 0
-which 0
-encouraged 0
-him 0
-to 0
-‘Keep 0
-it 0
-up”, 0
-and 0
-not 0
-to 0
-worry 0
-about 0
-the 0
-“vicious 1
-attacks” 1
-and 0
-“threats”. 0
+Donaldson 0 422 19
+also 0 422 19
+said 0 422 19
+that 0 422 19
+he 0 422 19
+had 0 422 19
+sent 0 422 19
+Acosta 0 422 19
+an 0 422 19
+email 0 422 19
+which 0 422 19
+encouraged 0 422 19
+him 0 422 19
+to 0 422 19
+‘Keep 0 422 19
+it 0 422 19
+up”, 0 422 19
+and 0 422 19
+not 0 422 19
+to 0 422 19
+worry 0 422 19
+about 0 422 19
+the 0 422 19
+“vicious 1 422 19
+attacks” 1 422 19
+and 0 422 19
+“threats”. 0 422 19
 
-CNN 0
-released 0
-a 0
-statement 0
-saying 0
-no 0
-decision 0
-has 0
-been 0
-made 0
-as 0
-of 0
-yet 0
-on 0
-the 0
-lawsuit. 0
+CNN 0 422 20
+released 0 422 20
+a 0 422 20
+statement 0 422 20
+saying 0 422 20
+no 0 422 20
+decision 0 422 20
+has 0 422 20
+been 0 422 20
+made 0 422 20
+as 0 422 20
+of 0 422 20
+yet 0 422 20
+on 0 422 20
+the 0 422 20
+lawsuit. 0 422 20
 
-The 0
-network 0
-has 0
-reached 0
-out 0
-to 0
-the 0
-White 0
-House 0
-on 0
-the 0
-issue 0
-but 0
-has 0
-“gotten 0
-no 0
-response”. 0
+The 0 422 21
+network 0 422 21
+has 0 422 21
+reached 0 422 21
+out 0 422 21
+to 0 422 21
+the 0 422 21
+White 0 422 21
+House 0 422 21
+on 0 422 21
+the 0 422 21
+issue 0 422 21
+but 0 422 21
+has 0 422 21
+“gotten 0 422 21
+no 0 422 21
+response”. 0 422 21
 
-Sunday’s 0
-“Reliable 0
-Sources” 0
-also 0
-featured 0
-constitutional 0
-lawyer 0
-Floyd 0
-Mayweather 0
-who 0
-emphasized 0
-that 0
-CNN 0
-would 0
-have 0
-a 0
-“really 0
-strong 0
-lawsuit” 0
-if 0
-they 0
-chose 0
-to 0
-proceed. 0
+Sunday’s 0 422 22
+“Reliable 0 422 22
+Sources” 0 422 22
+also 0 422 22
+featured 0 422 22
+constitutional 0 422 22
+lawyer 0 422 22
+Floyd 0 422 22
+Mayweather 0 422 22
+who 0 422 22
+emphasized 0 422 22
+that 0 422 22
+CNN 0 422 22
+would 0 422 22
+have 0 422 22
+a 0 422 22
+“really 0 422 22
+strong 0 422 22
+lawsuit” 0 422 22
+if 0 422 22
+they 0 422 22
+chose 0 422 22
+to 0 422 22
+proceed. 0 422 22
 
-Last 0
-Wednesday 0
-White 0
-House 0
-press 0
-secretary 0
-Sarah 0
-Sanders 0
-made 0
-the 0
-announcement 0
-that 0
-Acosta’s 0
-press 0
-pass 0
-had 0
-been 0
-suspended 0
-as 0
-a 0
-result 0
-of 0
-a 0
-tussle 0
-with 0
-a 0
-White 0
-House 0
-intern 0
-over 0
-a 0
-microphone 0
-following 0
-his 0
-sharp 1
-back-and-forth 0
-with 0
-Trump 0
-during 0
-the 0
-President’s 0
-post-midterm 0
-Q&A. 0
+Last 0 422 23
+Wednesday 0 422 23
+White 0 422 23
+House 0 422 23
+press 0 422 23
+secretary 0 422 23
+Sarah 0 422 23
+Sanders 0 422 23
+made 0 422 23
+the 0 422 23
+announcement 0 422 23
+that 0 422 23
+Acosta’s 0 422 23
+press 0 422 23
+pass 0 422 23
+had 0 422 23
+been 0 422 23
+suspended 0 422 23
+as 0 422 23
+a 0 422 23
+result 0 422 23
+of 0 422 23
+a 0 422 23
+tussle 0 422 23
+with 0 422 23
+a 0 422 23
+White 0 422 23
+House 0 422 23
+intern 0 422 23
+over 0 422 23
+a 0 422 23
+microphone 0 422 23
+following 0 422 23
+his 0 422 23
+sharp 1 422 23
+back-and-forth 0 422 23
+with 0 422 23
+Trump 0 422 23
+during 0 422 23
+the 0 422 23
+President’s 0 422 23
+post-midterm 0 422 23
+Q&A. 0 422 23
 
-Acosta 0
-has 0
-disputed 0
-the 0
-accusation 0
-claiming 0
-he 0
-never 0
-put 0
-his 0
-hands 0
-on 0
-the 0
-young 0
-woman. 0
+Acosta 0 422 24
+has 0 422 24
+disputed 0 422 24
+the 0 422 24
+accusation 0 422 24
+claiming 0 422 24
+he 0 422 24
+never 0 422 24
+put 0 422 24
+his 0 422 24
+hands 0 422 24
+on 0 422 24
+the 0 422 24
+young 0 422 24
+woman. 0 422 24
 
-Watching 0
-the 0
-full 0
-exchange 0
-it 0
-is 0
-obvious 0
-that 0
-President 0
-Trump 0
-was 0
-making 0
-a 0
-sincere 1
-effort 0
-to 0
-answer 0
-Acosta’s 0
-questions, 0
-the 0
-president 0
-actually 0
-took 0
-the 0
-time 0
-to 0
-answer 0
-three 0
-of 0
-his 0
-questions 0
-before 0
-rightfully 1
-losing 0
-his 0
-patients 0
-when 0
-Acosta 0
-refused 0
-to 0
-hand 0
-the 0
-mic 0
-over. 0
+Watching 0 422 25
+the 0 422 25
+full 0 422 25
+exchange 0 422 25
+it 0 422 25
+is 0 422 25
+obvious 0 422 25
+that 0 422 25
+President 0 422 25
+Trump 0 422 25
+was 0 422 25
+making 0 422 25
+a 0 422 25
+sincere 1 422 25
+effort 0 422 25
+to 0 422 25
+answer 0 422 25
+Acosta’s 0 422 25
+questions, 0 422 25
+the 0 422 25
+president 0 422 25
+actually 0 422 25
+took 0 422 25
+the 0 422 25
+time 0 422 25
+to 0 422 25
+answer 0 422 25
+three 0 422 25
+of 0 422 25
+his 0 422 25
+questions 0 422 25
+before 0 422 25
+rightfully 1 422 25
+losing 0 422 25
+his 0 422 25
+patients 0 422 25
+when 0 422 25
+Acosta 0 422 25
+refused 0 422 25
+to 0 422 25
+hand 0 422 25
+the 0 422 25
+mic 0 422 25
+over. 0 422 25
 
-Not 0
-only 0
-that, 0
-he 0
-used 0
-his 0
-hand 0
-to 0
-forcefully 1
-push 0
-the 0
-female 0
-interns 0
-arm 0
-away 0
-from 0
-the 0
-mic. 0
+Not 0 422 26
+only 0 422 26
+that, 0 422 26
+he 0 422 26
+used 0 422 26
+his 0 422 26
+hand 0 422 26
+to 0 422 26
+forcefully 1 422 26
+push 0 422 26
+the 0 422 26
+female 0 422 26
+interns 0 422 26
+arm 0 422 26
+away 0 422 26
+from 0 422 26
+the 0 422 26
+mic. 0 422 26
 
-Acosta 0
-should 0
-have 0
-been 0
-escorted 0
-from 0
-the 0
-room. 0
+Acosta 0 422 27
+should 0 422 27
+have 0 422 27
+been 0 422 27
+escorted 0 422 27
+from 0 422 27
+the 0 422 27
+room. 0 422 27
 
-He 0
-deserved 0
-to 0
-have 0
-his 0
-credentials 0
-revoked. 0
+He 0 422 27
+
+deserved 0 422 27
+
+to 0 422 27
+
+have 0 422 27
+
+his 0 422 27
+
+credentials 0 422 27
+
+revoked. 0 422 27

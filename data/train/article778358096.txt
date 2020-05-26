@@ -1,794 +1,806 @@
-Grandfather 0
-& 0
-NY 0
-Imam 0
-Confirms 0
-Remains 0
-At 0
-New 0
-Mexico 0
-Compound 0
-Were 0
-Missing 0
-Boy 0
+Grandfather 0 317 0
+& 0 317 0
+NY 0 317 0
+Imam 0 317 0
+Confirms 0 317 0
+Remains 0 317 0
+At 0 317 0
+New 0 317 0
+Mexico 0 317 0
+Compound 0 317 0
+Were 0 317 0
+Missing 0 317 0
+Boy 0 317 0
 
-A 0
-New 0
-York 0
-mosque 0
-imam 0
-claims 0
-that 0
-after 0
-speaking 0
-with 0
-family 0
-members, 0
-the 0
-remains 0
-found 0
-earlier 0
-this 0
-week 0
-a 0
-New 0
-Mexico 0
-compound 0
-where 0
-children 0
-were 0
-being 0
-held 0
-by 0
-Muslims 0
-and 0
-trained 0
-to 0
-engage 0
-in 0
-mass 0
-school 0
-shootings, 0
-are 0
-those 0
-of 0
-his 0
-grandson. 0
+A 0 317 1
+New 0 317 1
+York 0 317 1
+mosque 0 317 1
+imam 0 317 1
+claims 0 317 1
+that 0 317 1
+after 0 317 1
+speaking 0 317 1
+with 0 317 1
+family 0 317 1
+members, 0 317 1
+the 0 317 1
+remains 0 317 1
+found 0 317 1
+earlier 0 317 1
+this 0 317 1
+week 0 317 1
+a 0 317 1
+New 0 317 1
+Mexico 0 317 1
+compound 0 317 1
+where 0 317 1
+children 0 317 1
+were 0 317 1
+being 0 317 1
+held 0 317 1
+by 0 317 1
+Muslims 0 317 1
+and 0 317 1
+trained 0 317 1
+to 0 317 1
+engage 0 317 1
+in 0 317 1
+mass 0 317 1
+school 0 317 1
+shootings, 0 317 1
+are 0 317 1
+those 0 317 1
+of 0 317 1
+his 0 317 1
+grandson. 0 317 1
 
-Abdul-ghani 0
-Wahhaj, 0
-would 0
-have 0
-turned 0
-4 0
-Monday. 0
+Abdul-ghani 0 317 2
+Wahhaj, 0 317 2
+would 0 317 2
+have 0 317 2
+turned 0 317 2
+4 0 317 2
+Monday. 0 317 2
 
-According 0
-to 0
-prosecutors, 0
-he 0
-was 0
-kidnapped 0
-from 0
-his 0
-mother 0
-in 0
-December 0
-in 0
-Jonesboro, 0
-Georgia. 0
+According 0 317 3
+to 0 317 3
+prosecutors, 0 317 3
+he 0 317 3
+was 0 317 3
+kidnapped 0 317 3
+from 0 317 3
+his 0 317 3
+mother 0 317 3
+in 0 317 3
+December 0 317 3
+in 0 317 3
+Jonesboro, 0 317 3
+Georgia. 0 317 3
 
-Remains 0
-found 0
-at 0
-the 0
-New 0
-Mexico 0
-compound 0
-this 0
-week 0
-were 0
-believed 0
-to 0
-be 0
-the 0
-boy's 0
-since 0
-his 0
-father 0
-was 0
-arrested 0
-at 0
-the 0
-compound. 0
+Remains 0 317 4
+found 0 317 4
+at 0 317 4
+the 0 317 4
+New 0 317 4
+Mexico 0 317 4
+compound 0 317 4
+this 0 317 4
+week 0 317 4
+were 0 317 4
+believed 0 317 4
+to 0 317 4
+be 0 317 4
+the 0 317 4
+boy's 0 317 4
+since 0 317 4
+his 0 317 4
+father 0 317 4
+was 0 317 4
+arrested 0 317 4
+at 0 317 4
+the 0 317 4
+compound. 0 317 4
 
-While 0
-New 0
-Mexico 0
-authorities 0
-have 0
-said 0
-they 0
-had 0
-yet 0
-to 0
-identify 0
-the 0
-remains, 0
-Siraj 0
-Wahhaj, 0
-the 0
-boy's 0
-grandfather 0
-claims 0
-they 0
-are 0
-those 0
-of 0
-Wahhaj. 0
+While 0 317 5
+New 0 317 5
+Mexico 0 317 5
+authorities 0 317 5
+have 0 317 5
+said 0 317 5
+they 0 317 5
+had 0 317 5
+yet 0 317 5
+to 0 317 5
+identify 0 317 5
+the 0 317 5
+remains, 0 317 5
+Siraj 0 317 5
+Wahhaj, 0 317 5
+the 0 317 5
+boy's 0 317 5
+grandfather 0 317 5
+claims 0 317 5
+they 0 317 5
+are 0 317 5
+those 0 317 5
+of 0 317 5
+Wahhaj. 0 317 5
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 317 6
+our 0 317 6
+poll 0 317 6
+- 0 317 6
+story 0 317 6
+continues 0 317 6
+below 0 317 6
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 317 7
+Brett 0 317 7
+Kavanaugh 0 317 7
+be 0 317 7
+confirmed 0 317 7
+to 0 317 7
+the 0 317 7
+Supreme 0 317 7
+Court? 0 317 7
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 317 8
+Brett 0 317 8
+Kavanaugh 0 317 8
+be 0 317 8
+confirmed 0 317 8
+to 0 317 8
+the 0 317 8
+Supreme 0 317 8
+Court? 0 317 8
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 317 9
+Brett 0 317 9
+Kavanaugh 0 317 9
+be 0 317 9
+confirmed 0 317 9
+to 0 317 9
+the 0 317 9
+Supreme 0 317 9
+Court? 0 317 9
 
-* 0
-Yes, 0
-he 0
-will 0
-be 0
-confirmed. 0
+* 0 317 10
+Yes, 0 317 10
+he 0 317 10
+will 0 317 10
+be 0 317 10
+confirmed. 0 317 10
 
-No, 0
-he 0
-will 0
-not 0
-be 0
-confirmed. 0
+No, 0 317 11
+he 0 317 11
+will 0 317 11
+not 0 317 11
+be 0 317 11
+confirmed. 0 317 11
 
-Email 0
-* 0
+Email 0 317 12
+* 0 317 12
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 317 13
+This 0 317 13
+field 0 317 13
+is 0 317 13
+for 0 317 13
+validation 0 317 13
+purposes 0 317 13
+and 0 317 13
+should 0 317 13
+be 0 317 13
+left 0 317 13
+unchanged. 0 317 13
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 317 14
+this 0 317 14
+poll 0 317 14
+grants 0 317 14
+you 0 317 14
+access 0 317 14
+to 0 317 14
+Freedom 0 317 14
+Outpost 0 317 14
+updates 0 317 14
+free 0 317 14
+of 0 317 14
+charge. 0 317 14
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 317 15
+may 0 317 15
+opt 0 317 15
+out 0 317 15
+at 0 317 15
+anytime. 0 317 15
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 317 16
+also 0 317 16
+agree 0 317 16
+to 0 317 16
+this 0 317 16
+site's 0 317 16
+Privacy 0 317 16
+Policy 0 317 16
+and 0 317 16
+Terms 0 317 16
+of 0 317 16
+Use. 0 317 16
 
-Fox 0
-News 0
-reports: 0
+Fox 0 317 17
+News 0 317 17
+reports: 0 317 17
 
-The 0
-missing 0
-boy's 0
-grandfather, 0
-Siraj 0
-Wahhaj, 0
-a 0
-Muslim 0
-cleric 0
-who 0
-leads 0
-a 0
-well-known 0
-New 0
-York 0
-City 0
-mosque, 0
-told 0
-reporters 0
-he 0
-had 0
-learned 0
-from 0
-other 0
-family 0
-members 0
-that 0
-the 0
-remains 0
-were 0
-his 0
-grandson's. 0
+The 0 317 18
+missing 0 317 18
+boy's 0 317 18
+grandfather, 0 317 18
+Siraj 0 317 18
+Wahhaj, 0 317 18
+a 0 317 18
+Muslim 0 317 18
+cleric 0 317 18
+who 0 317 18
+leads 0 317 18
+a 0 317 18
+well-known 0 317 18
+New 0 317 18
+York 0 317 18
+City 0 317 18
+mosque, 0 317 18
+told 0 317 18
+reporters 0 317 18
+he 0 317 18
+had 0 317 18
+learned 0 317 18
+from 0 317 18
+other 0 317 18
+family 0 317 18
+members 0 317 18
+that 0 317 18
+the 0 317 18
+remains 0 317 18
+were 0 317 18
+his 0 317 18
+grandson's. 0 317 18
 
-The 0
-imam 0
-said 0
-he 0
-did 0
-not 0
-know 0
-the 0
-cause 0
-of 0
-death. 0
+The 0 317 19
+imam 0 317 19
+said 0 317 19
+he 0 317 19
+did 0 317 19
+not 0 317 19
+know 0 317 19
+the 0 317 19
+cause 0 317 19
+of 0 317 19
+death. 0 317 19
 
-"Whoever 0
-is 0
-responsible, 0
-then 0
-that 0
-person 0
-should 0
-be 0
-held 0
-accountable," 0
-Wahhaj 0
-said. 0
+"Whoever 0 317 20
+is 0 317 20
+responsible, 0 317 20
+then 0 317 20
+that 0 317 20
+person 0 317 20
+should 0 317 20
+be 0 317 20
+held 0 317 20
+accountable," 0 317 20
+Wahhaj 0 317 20
+said. 0 317 20
 
-A 0
-Georgia 0
-arrest 0
-warrant 0
-accused 0
-the 0
-boy's 0
-father, 0
-Siraj 0
-Ibn 0
-Wahhaj, 0
-the 0
-imam's 0
-son, 0
-of 0
-kidnapping 0
-the 0
-child. 0
+A 0 317 21
+Georgia 0 317 21
+arrest 0 317 21
+warrant 0 317 21
+accused 0 317 21
+the 0 317 21
+boy's 0 317 21
+father, 0 317 21
+Siraj 0 317 21
+Ibn 0 317 21
+Wahhaj, 0 317 21
+the 0 317 21
+imam's 0 317 21
+son, 0 317 21
+of 0 317 21
+kidnapping 0 317 21
+the 0 317 21
+child. 0 317 21
 
-Authorities 0
-said 0
-the 0
-father 0
-at 0
-some 0
-point 0
-told 0
-his 0
-wife 0
-he 0
-wanted 0
-to 1
-perform 1
-an 1
-exorcism 1
-on 1
-the 1
-boy, 1
-who 0
-cannot 0
-walk, 0
-suffers 0
-seizures 0
-and 0
-requires 0
-constant 0
-attention 0
-because 0
-of 0
-a 0
-lack 0
-of 0
-oxygen 0
-and 0
-blood 0
-flow 0
-at 0
-birth. 0
+Authorities 0 317 22
+said 0 317 22
+the 0 317 22
+father 0 317 22
+at 0 317 22
+some 0 317 22
+point 0 317 22
+told 0 317 22
+his 0 317 22
+wife 0 317 22
+he 0 317 22
+wanted 0 317 22
+to 1 317 22
+perform 1 317 22
+an 1 317 22
+exorcism 1 317 22
+on 1 317 22
+the 1 317 22
+boy, 1 317 22
+who 0 317 22
+cannot 0 317 22
+walk, 0 317 22
+suffers 0 317 22
+seizures 0 317 22
+and 0 317 22
+requires 0 317 22
+constant 0 317 22
+attention 0 317 22
+because 0 317 22
+of 0 317 22
+a 0 317 22
+lack 0 317 22
+of 0 317 22
+oxygen 0 317 22
+and 0 317 22
+blood 0 317 22
+flow 0 317 22
+at 0 317 22
+birth. 0 317 22
 
-The 0
-imam 0
-said 0
-he 0
-was 0
-unaware 0
-of 0
-the 0
-training 0
-of 0
-the 0
-children 0
-for 0
-school 0
-shootings, 0
-but 0
-his 0
-mosque 0
-has 0
-been 0
-known 0
-to 0
-attract 0
-Islamic 1
-jihadis 1
-over 0
-the 0
-years. 0
+The 0 317 23
+imam 0 317 23
+said 0 317 23
+he 0 317 23
+was 0 317 23
+unaware 0 317 23
+of 0 317 23
+the 0 317 23
+training 0 317 23
+of 0 317 23
+the 0 317 23
+children 0 317 23
+for 0 317 23
+school 0 317 23
+shootings, 0 317 23
+but 0 317 23
+his 0 317 23
+mosque 0 317 23
+has 0 317 23
+been 0 317 23
+known 0 317 23
+to 0 317 23
+attract 0 317 23
+Islamic 1 317 23
+jihadis 1 317 23
+over 0 317 23
+the 0 317 23
+years. 0 317 23
 
-"It 0
-sounds 0
-to 0
-me 0
-it 1
-sounds 1
-crazy. 1
+"It 0 317 24
+sounds 0 317 24
+to 0 317 24
+me 0 317 24
+it 1 317 24
+sounds 1 317 24
+crazy. 1 317 24
 
-But 0
-I 1
-don't 1
-know," 1
-he 1
-said. 1
+But 0 317 25
+I 1 317 25
+don't 1 317 25
+know," 1 317 25
+he 1 317 25
+said. 1 317 25
 
-"I 1
-make 1
-no 1
-judgments 1
-yet 1
-because 1
-we 1
-don't 1
-know." 1
+"I 1 317 26
+make 1 317 26
+no 1 317 26
+judgments 1 317 26
+yet 1 317 26
+because 1 317 26
+we 1 317 26
+don't 1 317 26
+know." 1 317 26
 
-Again 0
-Fox 0
-adds, 0
-"The 1
-imam's 1
-mosque 1
-has 1
-attracted 1
-a 1
-number 1
-of 1
-radicals 1
-over 1
-the 1
-years, 1
-including 1
-a 1
-man 1
-who 1
-later 1
-helped 1
-bomb 1
-the 1
-World 1
-Trade 1
-Center 1
-in 1
-1993." 1
+Again 0 317 27
+Fox 0 317 27
+adds, 0 317 27
+"The 1 317 27
+imam's 1 317 27
+mosque 1 317 27
+has 1 317 27
+attracted 1 317 27
+a 1 317 27
+number 1 317 27
+of 1 317 27
+radicals 1 317 27
+over 1 317 27
+the 1 317 27
+years, 1 317 27
+including 1 317 27
+a 1 317 27
+man 1 317 27
+who 1 317 27
+later 1 317 27
+helped 1 317 27
+bomb 1 317 27
+the 1 317 27
+World 1 317 27
+Trade 1 317 27
+Center 1 317 27
+in 1 317 27
+1993." 1 317 27
 
-Mosque 0
-spokesman 0
-Ali 0
-Abdul-Karim 0
-Judan 0
-claims 0
-that 0
-the 0
-narrative 0
-is 0
-being 0
-changed 0
-because 0
-Muslims 0
-are 0
-involved 0
-and 0
-that 0
-this 1
-was 1
-nothing 1
-more 1
-than 1
-a 1
-"domestic 1
-situation." 1
+Mosque 0 317 28
+spokesman 0 317 28
+Ali 0 317 28
+Abdul-Karim 0 317 28
+Judan 0 317 28
+claims 0 317 28
+that 0 317 28
+the 0 317 28
+narrative 0 317 28
+is 0 317 28
+being 0 317 28
+changed 0 317 28
+because 0 317 28
+Muslims 0 317 28
+are 0 317 28
+involved 0 317 28
+and 0 317 28
+that 0 317 28
+this 1 317 28
+was 1 317 28
+nothing 1 317 28
+more 1 317 28
+than 1 317 28
+a 1 317 28
+"domestic 1 317 28
+situation." 1 317 28
 
-"None 0
-of 0
-the 0
-charges 0
-had 0
-anything 0
-to 0
-do 0
-with 0
-anybody 0
-teaching 0
-anybody 0
-shooting 0
-to 0
-commit 0
-acts 0
-of 0
-terrorism 0
-or 0
-to 0
-go 0
-in 0
-and 0
-shoot 0
-up 0
-any 0
-school," 0
-he 0
-said. 0
+"None 0 317 29
+of 0 317 29
+the 0 317 29
+charges 0 317 29
+had 0 317 29
+anything 0 317 29
+to 0 317 29
+do 0 317 29
+with 0 317 29
+anybody 0 317 29
+teaching 0 317 29
+anybody 0 317 29
+shooting 0 317 29
+to 0 317 29
+commit 0 317 29
+acts 0 317 29
+of 0 317 29
+terrorism 0 317 29
+or 0 317 29
+to 0 317 29
+go 0 317 29
+in 0 317 29
+and 0 317 29
+shoot 0 317 29
+up 0 317 29
+any 0 317 29
+school," 0 317 29
+he 0 317 29
+said. 0 317 29
 
-"Because 1
-it's 1
-a 1
-Muslim 1
-and 1
-the 1
-circumstances 1
-that 1
-are 1
-surrounding 1
-their 1
-situation, 1
-they 1
-want 1
-to 1
-change 1
-the 1
-narrative." 1
+"Because 1 317 30
+it's 1 317 30
+a 1 317 30
+Muslim 1 317 30
+and 1 317 30
+the 1 317 30
+circumstances 1 317 30
+that 1 317 30
+are 1 317 30
+surrounding 1 317 30
+their 1 317 30
+situation, 1 317 30
+they 1 317 30
+want 1 317 30
+to 1 317 30
+change 1 317 30
+the 1 317 30
+narrative." 1 317 30
 
-Eleven 0
-children 0
-were 0
-found 0
-in 0
-terrible 0
-conditions 0
-in 0
-that 0
-compound. 0
+Eleven 0 317 31
+children 0 317 31
+were 0 317 31
+found 0 317 31
+in 0 317 31
+terrible 0 317 31
+conditions 0 317 31
+in 0 317 31
+that 0 317 31
+compound. 0 317 31
 
-That's 0
-hardly 0
-a 1
-"domestic 1
-situation." 1
+That's 0 317 32
+hardly 0 317 32
+a 1 317 32
+"domestic 1 317 32
+situation." 1 317 32
 
-Furthermore, 0
-as 0
-I 0
-reported 0
-on 0
-Wednesday, 0
-both 0
-the 0
-Associated 0
-Press 0
-and 0
-the 0
-Atlanta 0
-Constitution-Journal 0
-reported 0
-on 0
-the 0
-training. 0
+Furthermore, 0 317 33
+as 0 317 33
+I 0 317 33
+reported 0 317 33
+on 0 317 33
+Wednesday, 0 317 33
+both 0 317 33
+the 0 317 33
+Associated 0 317 33
+Press 0 317 33
+and 0 317 33
+the 0 317 33
+Atlanta 0 317 33
+Constitution-Journal 0 317 33
+reported 0 317 33
+on 0 317 33
+the 0 317 33
+training. 0 317 33
 
-The 0
-documents 0
-claim 0
-Siraj 0
-Ibn 0
-Wahhaj 0
-and 0
-his 0
-co-defendants 0
-conducted 0
-weapons 0
-training 0
-at 0
-the 0
-camp 0
-where 0
-they 0
-were 0
-found 0
-Friday 0
-with 0
-11 0
-children 0
-in 0
-allegedly 0
-“third 1
-world” 1
-conditions. 1
+The 0 317 34
+documents 0 317 34
+claim 0 317 34
+Siraj 0 317 34
+Ibn 0 317 34
+Wahhaj 0 317 34
+and 0 317 34
+his 0 317 34
+co-defendants 0 317 34
+conducted 0 317 34
+weapons 0 317 34
+training 0 317 34
+at 0 317 34
+the 0 317 34
+camp 0 317 34
+where 0 317 34
+they 0 317 34
+were 0 317 34
+found 0 317 34
+Friday 0 317 34
+with 0 317 34
+11 0 317 34
+children 0 317 34
+in 0 317 34
+allegedly 0 317 34
+“third 1 317 34
+world” 1 317 34
+conditions. 1 317 34
 
-Wahhaj 0
-is 0
-also 0
-wanted 0
-in 0
-Clayton 0
-County 0
-in 0
-a 0
-child 0
-abduction 0
-case 0
-involving 0
-his 0
-missing 0
-son, 0
-Abdul-Ghani 0
-Wahhaj. 0
+Wahhaj 0 317 35
+is 0 317 35
+also 0 317 35
+wanted 0 317 35
+in 0 317 35
+Clayton 0 317 35
+County 0 317 35
+in 0 317 35
+a 0 317 35
+child 0 317 35
+abduction 0 317 35
+case 0 317 35
+involving 0 317 35
+his 0 317 35
+missing 0 317 35
+son, 0 317 35
+Abdul-Ghani 0 317 35
+Wahhaj. 0 317 35
 
-The 0
-documents, 0
-which 0
-suggest 0
-all 0
-the 0
-adults 0
-were 0
-involved 0
-in 0
-the 0
-training, 0
-say 0
-a 0
-person 0
-serving 0
-as 0
-a 0
-foster 0
-parent 0
-caring 0
-for 0
-one 0
-of 0
-the 0
-kids 0
-revealed 0
-the 0
-details 0
-about 0
-the 0
-training. 0
+The 0 317 36
+documents, 0 317 36
+which 0 317 36
+suggest 0 317 36
+all 0 317 36
+the 0 317 36
+adults 0 317 36
+were 0 317 36
+involved 0 317 36
+in 0 317 36
+the 0 317 36
+training, 0 317 36
+say 0 317 36
+a 0 317 36
+person 0 317 36
+serving 0 317 36
+as 0 317 36
+a 0 317 36
+foster 0 317 36
+parent 0 317 36
+caring 0 317 36
+for 0 317 36
+one 0 317 36
+of 0 317 36
+the 0 317 36
+kids 0 317 36
+revealed 0 317 36
+the 0 317 36
+details 0 317 36
+about 0 317 36
+the 0 317 36
+training. 0 317 36
 
-BREAKING: 0
-Court 0
-documents 0
-say 0
-man 0
-arrested 0
-at 0
-New 0
-Mexico 0
-compound 0
-was 0
-training 0
-children 0
-to 0
-commit 0
-school 0
-shootings. 0
+BREAKING: 0 317 37
+Court 0 317 37
+documents 0 317 37
+say 0 317 37
+man 0 317 37
+arrested 0 317 37
+at 0 317 37
+New 0 317 37
+Mexico 0 317 37
+compound 0 317 37
+was 0 317 37
+training 0 317 37
+children 0 317 37
+to 0 317 37
+commit 0 317 37
+school 0 317 37
+shootings. 0 317 37
 
-— 0
-The 0
-Associated 0
-Press 0
-(@AP) 0
-August 0
-8, 0
-2018 0
+— 0 317 38
+The 0 317 38
+Associated 0 317 38
+Press 0 317 38
+(@AP) 0 317 38
+August 0 317 38
+8, 0 317 38
+2018 0 317 38
 
-People 1
-can 1
-continue 1
-to 1
-put 1
-their 1
-heads 1
-in 1
-the 1
-sand 1
-all 1
-they 1
-want 1
-to 1
-because 1
-they 1
-know 1
-"nice" 1
-Muslim 1
-people, 1
-but 1
-the 1
-fact 1
-of 1
-the 1
-matter 1
-is 1
-that 1
-the 1
-history 1
-of 1
-Islam 1
-is 1
-anything 1
-but 1
-nice, 1
-polite, 1
-just 1
-or 1
-holy 1
-. 1
+People 1 317 39
+can 1 317 39
+continue 1 317 39
+to 1 317 39
+put 1 317 39
+their 1 317 39
+heads 1 317 39
+in 1 317 39
+the 1 317 39
+sand 1 317 39
+all 1 317 39
+they 1 317 39
+want 1 317 39
+to 1 317 39
+because 1 317 39
+they 1 317 39
+know 1 317 39
+"nice" 1 317 39
+Muslim 1 317 39
+people, 1 317 39
+but 1 317 39
+the 1 317 39
+fact 1 317 39
+of 1 317 39
+the 1 317 39
+matter 1 317 39
+is 1 317 39
+that 1 317 39
+the 1 317 39
+history 1 317 39
+of 1 317 39
+Islam 1 317 39
+is 1 317 39
+anything 1 317 39
+but 1 317 39
+nice, 1 317 39
+polite, 1 317 39
+just 1 317 39
+or 1 317 39
+holy 1 317 39
+. 1 317 39
 
-It 1
-is 1
-a 1
-totalitarian, 1
-religious/political 1
-construct 1
-that 1
-is 1
-full 1
-of 1
-oppression. 1
+It 1 317 40
+is 1 317 40
+a 1 317 40
+totalitarian, 1 317 40
+religious/political 1 317 40
+construct 1 317 40
+that 1 317 40
+is 1 317 40
+full 1 317 40
+of 1 317 40
+oppression. 1 317 40
 
-When 0
-you 0
-have 0
-those 0
-that 0
-actually 0
-believe 0
-the 0
-Koran 0
-and 0
-follow 0
-in 0
-the 0
-footsteps 0
-of 0
-the 0
-desert 0
-nomad 0
-Muhammad 0
-, 0
-then 0
-you 0
-will 0
-not 0
-find 0
-radicals, 0
-but 0
-devout 0
-Muslims. 0
+When 0 317 41
+you 0 317 41
+have 0 317 41
+those 0 317 41
+that 0 317 41
+actually 0 317 41
+believe 0 317 41
+the 0 317 41
+Koran 0 317 41
+and 0 317 41
+follow 0 317 41
+in 0 317 41
+the 0 317 41
+footsteps 0 317 41
+of 0 317 41
+the 0 317 41
+desert 0 317 41
+nomad 0 317 41
+Muhammad 0 317 41
+, 0 317 41
+then 0 317 41
+you 0 317 41
+will 0 317 41
+not 0 317 41
+find 0 317 41
+radicals, 0 317 41
+but 0 317 41
+devout 0 317 41
+Muslims. 0 317 41
 
-This 0
-appears 0
-to 0
-be 0
-exactly 0
-what 0
-Siraj 0
-Ibn 0
-Wahhaj 0
-and 0
-others 0
-arrested 0
-at 0
-the 0
-compound 0
-are. 0
+This 0 317 42
+appears 0 317 42
+to 0 317 42
+be 0 317 42
+exactly 0 317 42
+what 0 317 42
+Siraj 0 317 42
+Ibn 0 317 42
+Wahhaj 0 317 42
+and 0 317 42
+others 0 317 42
+arrested 0 317 42
+at 0 317 42
+the 0 317 42
+compound 0 317 42
+are. 0 317 42
 
-In 0
-either 0
-case, 0
-it 0
-is 0
-very 0
-sad 0
-that 0
-a 0
-little 0
-boy 0
-lost 0
-his 0
-life, 0
-possibly 0
-at 0
-the 0
-hands 0
-of 0
-his 0
-Islamic 0
-father 0
-and 0
-others. 0
+In 0 317 43
+either 0 317 43
+case, 0 317 43
+it 0 317 43
+is 0 317 43
+very 0 317 43
+sad 0 317 43
+that 0 317 43
+a 0 317 43
+little 0 317 43
+boy 0 317 43
+lost 0 317 43
+his 0 317 43
+life, 0 317 43
+possibly 0 317 43
+at 0 317 43
+the 0 317 43
+hands 0 317 43
+of 0 317 43
+his 0 317 43
+Islamic 0 317 43
+father 0 317 43
+and 0 317 43
+others. 0 317 43
 
-Justice 1
-should 1
-be 1
-served 1
-swift, 1
-and 1
-I 1
-don't 1
-mean 1
-a 1
-lengthy 1
-jail 1
-term. 1
+Justice 1 317 43
+
+should 1 317 43
+
+be 1 317 43
+
+served 1 317 43
+
+swift, 1 317 43
+
+and 1 317 43
+
+I 1 317 43
+
+don't 1 317 43
+
+mean 1 317 43
+
+a 1 317 43
+
+lengthy 1 317 43
+
+jail 1 317 43
+
+term. 1 317 43

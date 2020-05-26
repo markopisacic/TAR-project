@@ -1,559 +1,580 @@
-MAJOR 0
-NEW 0
-STUDY: 0
-Homeschooling 0
-Spikes 0
-Due 0
-to 0
-School 1
-Violence, 1
-Far-Left 0
-Bias 0
+MAJOR 0 261 0
+NEW 0 261 0
+STUDY: 0 261 0
+Homeschooling 0 261 0
+Spikes 0 261 0
+Due 0 261 0
+to 0 261 0
+School 1 261 0
+Violence, 1 261 0
+Far-Left 0 261 0
+Bias 0 261 0
 
-According 0
-to 0
-a 0
-33-year-long 0
-study 0
-conducted 0
-by 0
-the 0
-National 0
-Home 0
-Education 0
-Research 0
-Institute 0
-in 0
-Oregon, 0
-the 0
-top 0
-three 0
-reasons 0
-that 0
-parents 0
-choose 0
-homeschooling 0
-are 0
-a 0
-desire 0
-to 0
-provide 0
-religious 0
-instruction 0
-or 0
-different 0
-values 0
-than 0
-those 0
-offered 0
-in 0
-public 0
-schools; 0
-dissatisfaction 0
-with 0
-the 0
-academic 0
-curriculum, 0
-and 0
-worries 0
-about 0
-the 0
-school 0
-environment. 0
+According 0 261 1
+to 0 261 1
+a 0 261 1
+33-year-long 0 261 1
+study 0 261 1
+conducted 0 261 1
+by 0 261 1
+the 0 261 1
+National 0 261 1
+Home 0 261 1
+Education 0 261 1
+Research 0 261 1
+Institute 0 261 1
+in 0 261 1
+Oregon, 0 261 1
+the 0 261 1
+top 0 261 1
+three 0 261 1
+reasons 0 261 1
+that 0 261 1
+parents 0 261 1
+choose 0 261 1
+homeschooling 0 261 1
+are 0 261 1
+a 0 261 1
+desire 0 261 1
+to 0 261 1
+provide 0 261 1
+religious 0 261 1
+instruction 0 261 1
+or 0 261 1
+different 0 261 1
+values 0 261 1
+than 0 261 1
+those 0 261 1
+offered 0 261 1
+in 0 261 1
+public 0 261 1
+schools; 0 261 1
+dissatisfaction 0 261 1
+with 0 261 1
+the 0 261 1
+academic 0 261 1
+curriculum, 0 261 1
+and 0 261 1
+worries 0 261 1
+about 0 261 1
+the 0 261 1
+school 0 261 1
+environment. 0 261 1
 
-As 0
-reported 0
-by 0
-The 0
-Washington 0
-Times, 0
-the 0
-recent 0
-school 1
-shooting 1
-at 0
-Parkland, 0
-Fla., 0
-was 0
-the 0
-last 0
-straw 0
-for 0
-scores 0
-of 0
-parents. 0
+As 0 261 2
+reported 0 261 2
+by 0 261 2
+The 0 261 2
+Washington 0 261 2
+Times, 0 261 2
+the 0 261 2
+recent 0 261 2
+school 1 261 2
+shooting 1 261 2
+at 0 261 2
+Parkland, 0 261 2
+Fla., 0 261 2
+was 0 261 2
+the 0 261 2
+last 0 261 2
+straw 0 261 2
+for 0 261 2
+scores 0 261 2
+of 0 261 2
+parents. 0 261 2
 
-The 0
-paper 0
-noted 0
-that 0
-“the 0
-phones 0
-started 0
-ringing 0
-at 0
-the 0
-Texas 0
-Home 0
-School 0
-Coalition, 0
-and 0
-they 0
-haven’t 0
-stopped 0
-yet.” 0
+The 0 261 3
+paper 0 261 3
+noted 0 261 3
+that 0 261 3
+“the 0 261 3
+phones 0 261 3
+started 0 261 3
+ringing 0 261 3
+at 0 261 3
+the 0 261 3
+Texas 0 261 3
+Home 0 261 3
+School 0 261 3
+Coalition, 0 261 3
+and 0 261 3
+they 0 261 3
+haven’t 0 261 3
+stopped 0 261 3
+yet.” 0 261 3
 
-The 0
-Times 0
-added:The 0
-Lubbock-based 0
-organization 0
-has 0
-been 0
-swamped 1
-with 0
-inquiries 0
-for 0
-months 0
-from 0
-parents 0
-seeking 0
-safer 0
-options 0
-for 0
-their 0
-kids 0
-in 0
-the 0
-aftermath 0
-of 0
-this 0
-year’s 0
-deadly 1
-school 1
-massacres, 1
-first 0
-in 0
-Parkland 0
-and 0
-then 0
-in 0
-Santa 0
-Fe, 0
-Texas. 0
+The 0 261 4
+Times 0 261 4
+added:The 0 261 4
+Lubbock-based 0 261 4
+organization 0 261 4
+has 0 261 4
+been 0 261 4
+swamped 1 261 4
+with 0 261 4
+inquiries 0 261 4
+for 0 261 4
+months 0 261 4
+from 0 261 4
+parents 0 261 4
+seeking 0 261 4
+safer 0 261 4
+options 0 261 4
+for 0 261 4
+their 0 261 4
+kids 0 261 4
+in 0 261 4
+the 0 261 4
+aftermath 0 261 4
+of 0 261 4
+this 0 261 4
+year’s 0 261 4
+deadly 1 261 4
+school 1 261 4
+massacres, 1 261 4
+first 0 261 4
+in 0 261 4
+Parkland 0 261 4
+and 0 261 4
+then 0 261 4
+in 0 261 4
+Santa 0 261 4
+Fe, 0 261 4
+Texas. 0 261 4
 
-“When 0
-the 0
-Parkland 0
-shooting 1
-happened, 0
-our 0
-phone 0
-calls 0
-and 0
-emails 0
-exploded,” 1
-said 0
-coalition 0
-president 0
-Tim 0
-Lambert. 0
+“When 0 261 5
+the 0 261 5
+Parkland 0 261 5
+shooting 1 261 5
+happened, 0 261 5
+our 0 261 5
+phone 0 261 5
+calls 0 261 5
+and 0 261 5
+emails 0 261 5
+exploded,” 1 261 5
+said 0 261 5
+coalition 0 261 5
+president 0 261 5
+Tim 0 261 5
+Lambert. 0 261 5
 
-“In 0
-the 0
-last 0
-couple 0
-of 0
-months, 0
-our 0
-numbers 0
-have 0
-doubled. 0
+“In 0 261 6
+the 0 261 6
+last 0 261 6
+couple 0 261 6
+of 0 261 6
+months, 0 261 6
+our 0 261 6
+numbers 0 261 6
+have 0 261 6
+doubled. 0 261 6
 
-We’re 0
-dealing 0
-with 0
-probably 0
-between 0
-1,200 0
-and 0
-1,400 0
-calls 0
-and 0
-emails 0
-per 0
-month, 0
-and 0
-prior 0
-to 0
-that 0
-it 0
-was 0
-600 0
-to 0
-700.” 0
+We’re 0 261 7
+dealing 0 261 7
+with 0 261 7
+probably 0 261 7
+between 0 261 7
+1,200 0 261 7
+and 0 261 7
+1,400 0 261 7
+calls 0 261 7
+and 0 261 7
+emails 0 261 7
+per 0 261 7
+month, 0 261 7
+and 0 261 7
+prior 0 261 7
+to 0 261 7
+that 0 261 7
+it 0 261 7
+was 0 261 7
+600 0 261 7
+to 0 261 7
+700.” 0 261 7
 
-While 0
-the 0
-debate 0
-rages 0
-anew 0
-over 0
-familiar 0
-topics 0
-following 0
-such 0
-tragedies 0
-— 0
-tougher, 0
-more 0
-restrictive 0
-gun 0
-control 0
-laws 0
-and 0
-bolstering 0
-security 0
-at 0
-public 0
-schools 0
-— 0
-the 0
-revolution 1
-in 0
-homeschooling 0
-has 0
-been 0
-taking 0
-place 0
-quietly, 0
-behind 0
-the 0
-scenes 0
-and 0
-off 0
-the 0
-radar 0
-screens 0
-of 0
-most 0
-political 0
-organizations. 0
+While 0 261 8
+the 0 261 8
+debate 0 261 8
+rages 0 261 8
+anew 0 261 8
+over 0 261 8
+familiar 0 261 8
+topics 0 261 8
+following 0 261 8
+such 0 261 8
+tragedies 0 261 8
+— 0 261 8
+tougher, 0 261 8
+more 0 261 8
+restrictive 0 261 8
+gun 0 261 8
+control 0 261 8
+laws 0 261 8
+and 0 261 8
+bolstering 0 261 8
+security 0 261 8
+at 0 261 8
+public 0 261 8
+schools 0 261 8
+— 0 261 8
+the 0 261 8
+revolution 1 261 8
+in 0 261 8
+homeschooling 0 261 8
+has 0 261 8
+been 0 261 8
+taking 0 261 8
+place 0 261 8
+quietly, 0 261 8
+behind 0 261 8
+the 0 261 8
+scenes 0 261 8
+and 0 261 8
+off 0 261 8
+the 0 261 8
+radar 0 261 8
+screens 0 261 8
+of 0 261 8
+most 0 261 8
+political 0 261 8
+organizations. 0 261 8
 
-But 0
-again, 0
-it’s 0
-not 0
-just 0
-the 0
-shootings, 1
-which 0
-admittedly 0
-have 0
-increased 0
-in 0
-the 0
-past 0
-couple 0
-of 0
-years. 0
+But 0 261 9
+again, 0 261 9
+it’s 0 261 9
+not 0 261 9
+just 0 261 9
+the 0 261 9
+shootings, 1 261 9
+which 0 261 9
+admittedly 0 261 9
+have 0 261 9
+increased 0 261 9
+in 0 261 9
+the 0 261 9
+past 0 261 9
+couple 0 261 9
+of 0 261 9
+years. 0 261 9
 
-Christopher 0
-Chin, 0
-head 0
-of 0
-Homeschool 0
-Louisiana, 0
-told 0
-The 0
-Times 0
-that 0
-parents 0
-are 0
-fed 0
-up 0
-with 0
-“the 0
-violence, 1
-the 0
-bullying, 1
-the 0
-unsafe 0
-environments.” 0
+Christopher 0 261 10
+Chin, 0 261 10
+head 0 261 10
+of 0 261 10
+Homeschool 0 261 10
+Louisiana, 0 261 10
+told 0 261 10
+The 0 261 10
+Times 0 261 10
+that 0 261 10
+parents 0 261 10
+are 0 261 10
+fed 0 261 10
+up 0 261 10
+with 0 261 10
+“the 0 261 10
+violence, 1 261 10
+the 0 261 10
+bullying, 1 261 10
+the 0 261 10
+unsafe 0 261 10
+environments.” 0 261 10
 
-The 0
-Left 0
-is 0
-driving 0
-more 0
-kids 0
-OUT 0
-of 0
-public 0
-schools 0
+The 0 261 11
+Left 0 261 11
+is 0 261 11
+driving 0 261 11
+more 0 261 11
+kids 0 261 11
+OUT 0 261 11
+of 0 261 11
+public 0 261 11
+schools 0 261 11
 
-There 0
-is 0
-also 0
-the 0
-Left-wing 1
-social 1
-engineering. 1
+There 0 261 12
+is 0 261 12
+also 0 261 12
+the 0 261 12
+Left-wing 1 261 12
+social 1 261 12
+engineering. 1 261 12
 
-The 0
-craziness 1
-over 0
-transgender 0
-students 0
-and 0
-bathrooms/locker 0
-rooms, 0
-allowing 0
-students 0
-to 0
-“take 0
-a 0
-knee” 0
-during 0
-the 0
-playing 0
-of 0
-the 0
-National 0
-Anthem, 0
-the 0
-Left-wing 0
-curriculum, 0
-and 0
-refusing 0
-to 0
-allow 0
-students 0
-to 0
-wear 0
-shirts 0
-that 0
-praise 0
-POTUS 0
-Trump 0
-or 0
-feature 0
-the 0
-American 0
-flag 0
-are 0
-also 0
-driving 0
-parents 0
-into 0
-homeschooling. 0
+The 0 261 13
+craziness 1 261 13
+over 0 261 13
+transgender 0 261 13
+students 0 261 13
+and 0 261 13
+bathrooms/locker 0 261 13
+rooms, 0 261 13
+allowing 0 261 13
+students 0 261 13
+to 0 261 13
+“take 0 261 13
+a 0 261 13
+knee” 0 261 13
+during 0 261 13
+the 0 261 13
+playing 0 261 13
+of 0 261 13
+the 0 261 13
+National 0 261 13
+Anthem, 0 261 13
+the 0 261 13
+Left-wing 0 261 13
+curriculum, 0 261 13
+and 0 261 13
+refusing 0 261 13
+to 0 261 13
+allow 0 261 13
+students 0 261 13
+to 0 261 13
+wear 0 261 13
+shirts 0 261 13
+that 0 261 13
+praise 0 261 13
+POTUS 0 261 13
+Trump 0 261 13
+or 0 261 13
+feature 0 261 13
+the 0 261 13
+American 0 261 13
+flag 0 261 13
+are 0 261 13
+also 0 261 13
+driving 0 261 13
+parents 0 261 13
+into 0 261 13
+homeschooling. 0 261 13
 
-REMNANT 0
-COMMENT: 0
-We 0
-here 0
-at 0
-The 0
-Remnant 0
-are 0
-always 0
-eager 0
-to 0
-promote 0
-the 0
-home-schooling 0
-movement, 0
-and 0
-this 0
-report 0
-helps 0
-illustrate 0
-why. 0
+REMNANT 0 261 14
+COMMENT: 0 261 14
+We 0 261 14
+here 0 261 14
+at 0 261 14
+The 0 261 14
+Remnant 0 261 14
+are 0 261 14
+always 0 261 14
+eager 0 261 14
+to 0 261 14
+promote 0 261 14
+the 0 261 14
+home-schooling 0 261 14
+movement, 0 261 14
+and 0 261 14
+this 0 261 14
+report 0 261 14
+helps 0 261 14
+illustrate 0 261 14
+why. 0 261 14
 
-At 0
-the 0
-moment 0
-and 0
-personally 0
-speaking, 0
-my 0
-own 0
-family’s 0
-home-school 0
-is 0
-going 0
-great 0
-guns. 0
+At 0 261 15
+the 0 261 15
+moment 0 261 15
+and 0 261 15
+personally 0 261 15
+speaking, 0 261 15
+my 0 261 15
+own 0 261 15
+family’s 0 261 15
+home-school 0 261 15
+is 0 261 15
+going 0 261 15
+great 0 261 15
+guns. 0 261 15
 
-We 0
-have 0
-a 0
-daughter 0
-still 0
-in 0
-high 0
-school 0
-and 0
-three 0
-in 0
-grade 0
-school. 0
+We 0 261 16
+have 0 261 16
+a 0 261 16
+daughter 0 261 16
+still 0 261 16
+in 0 261 16
+high 0 261 16
+school 0 261 16
+and 0 261 16
+three 0 261 16
+in 0 261 16
+grade 0 261 16
+school. 0 261 16
 
-Our 0
-family 0
-couldn't 1
-be 1
-happier 1
-with 0
-our 0
-decision 0
-to 0
-homeschool---yes, 0
-all 0
-the 0
-way 0
-through 0
-high 0
-school. 0
+Our 0 261 17
+family 0 261 17
+couldn't 1 261 17
+be 1 261 17
+happier 1 261 17
+with 0 261 17
+our 0 261 17
+decision 0 261 17
+to 0 261 17
+homeschool---yes, 0 261 17
+all 0 261 17
+the 0 261 17
+way 0 261 17
+through 0 261 17
+high 0 261 17
+school. 0 261 17
 
-And 0
-as 0
-for 0
-our 0
-older 0
-home-schooled 0
-children: 0
-My 0
-third-eldest 0
-child 0
-is 0
-preparing 0
-to 0
-head 0
-off 0
-to 0
-college 0
-in 0
-the 0
-fall. 0
+And 0 261 18
+as 0 261 18
+for 0 261 18
+our 0 261 18
+older 0 261 18
+home-schooled 0 261 18
+children: 0 261 18
+My 0 261 18
+third-eldest 0 261 18
+child 0 261 18
+is 0 261 18
+preparing 0 261 18
+to 0 261 18
+head 0 261 18
+off 0 261 18
+to 0 261 18
+college 0 261 18
+in 0 261 18
+the 0 261 18
+fall. 0 261 18
 
-Her 0
-older 0
-sister 0
-just 0
-finished 0
-a 0
-semester 0
-studying 0
-in 0
-Austria 0
-and 0
-will 0
-graduate 0
-with 0
-a 0
-double 0
-major 0
-and 0
-a 0
-minor 0
-degree 0
-next 0
-spring. 0
+Her 0 261 19
+older 0 261 19
+sister 0 261 19
+just 0 261 19
+finished 0 261 19
+a 0 261 19
+semester 0 261 19
+studying 0 261 19
+in 0 261 19
+Austria 0 261 19
+and 0 261 19
+will 0 261 19
+graduate 0 261 19
+with 0 261 19
+a 0 261 19
+double 0 261 19
+major 0 261 19
+and 0 261 19
+a 0 261 19
+minor 0 261 19
+degree 0 261 19
+next 0 261 19
+spring. 0 261 19
 
-My 0
-son 0
-will 0
-be 0
-a 0
-junior 0
-this 0
-fall, 0
-working 0
-on 0
-a 0
-Mass 0
-Communications 0
-degree 0
-at 0
-Franciscan 0
-University. 0
+My 0 261 20
+son 0 261 20
+will 0 261 20
+be 0 261 20
+a 0 261 20
+junior 0 261 20
+this 0 261 20
+fall, 0 261 20
+working 0 261 20
+on 0 261 20
+a 0 261 20
+Mass 0 261 20
+Communications 0 261 20
+degree 0 261 20
+at 0 261 20
+Franciscan 0 261 20
+University. 0 261 20
 
-Here's 0
-an 0
-example 0
-of 0
-his 0
-work: 0
+Here's 0 261 21
+an 0 261 21
+example 0 261 21
+of 0 261 21
+his 0 261 21
+work: 0 261 21
 
-Perhaps 0
-this 0
-video 0
-from 0
-a 0
-couple 0
-of 0
-years 0
-ago 0
-will 0
-be 0
-useful 0
-to 0
-those 0
-considering 0
-home-schooling 0
-this 0
-fall: 0
+Perhaps 0 261 22
+this 0 261 22
+video 0 261 22
+from 0 261 22
+a 0 261 22
+couple 0 261 22
+of 0 261 22
+years 0 261 22
+ago 0 261 22
+will 0 261 22
+be 0 261 22
+useful 0 261 22
+to 0 261 22
+those 0 261 22
+considering 0 261 22
+home-schooling 0 261 22
+this 0 261 22
+fall: 0 261 22
 
-Friends, 0
-please 0
-give 0
-serious 0
-thought 0
-and 0
-prayer 0
-to 0
-home-schooling 0
-your 0
-children. 0
+Friends, 0 261 23
+please 0 261 23
+give 0 261 23
+serious 0 261 23
+thought 0 261 23
+and 0 261 23
+prayer 0 261 23
+to 0 261 23
+home-schooling 0 261 23
+your 0 261 23
+children. 0 261 23
 
-I 0
-realize 0
-it’s 0
-a 0
-challenge, 0
-but 0
-few 0
-challenges 0
-have 0
-greater 0
-payoffs 0
-in 0
-this 0
-world 0
-or 0
-the 0
-next. 0
+I 0 261 24
+realize 0 261 24
+it’s 0 261 24
+a 0 261 24
+challenge, 0 261 24
+but 0 261 24
+few 0 261 24
+challenges 0 261 24
+have 0 261 24
+greater 0 261 24
+payoffs 0 261 24
+in 0 261 24
+this 0 261 24
+world 0 261 24
+or 0 261 24
+the 0 261 24
+next. 0 261 24
 
-There 1
-is 1
-no 1
-better 1
-way 1
-to 1
-keep 1
-the 1
-Catholic 1
-family 1
-together 1
-and 1
-committed 1
-to 1
-the 1
-Catholic 1
-restoration 1
-than 1
-the 1
-Catholic 1
-home 1
-school. 1
+There 1 261 24
+
+is 1 261 24
+
+no 1 261 24
+
+better 1 261 24
+
+way 1 261 24
+
+to 1 261 24
+
+keep 1 261 24
+
+the 1 261 24
+
+Catholic 1 261 24
+
+family 1 261 24
+
+together 1 261 24
+
+and 1 261 24
+
+committed 1 261 24
+
+to 1 261 24
+
+the 1 261 24
+
+Catholic 1 261 24
+
+restoration 1 261 24
+
+than 1 261 24
+
+the 1 261 24
+
+Catholic 1 261 24
+
+home 1 261 24
+
+school. 1 261 24

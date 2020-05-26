@@ -1,1009 +1,1015 @@
-West 0
-Virginia 0
-Middle 0
-School 0
-Instructs 0
-Children 0
-To 0
-Write 0
-Out 0
-Their 0
-Submission 0
-To 0
-Allah 0
+West 0 219 0
+Virginia 0 219 0
+Middle 0 219 0
+School 0 219 0
+Instructs 0 219 0
+Children 0 219 0
+To 0 219 0
+Write 0 219 0
+Out 0 219 0
+Their 0 219 0
+Submission 0 219 0
+To 0 219 0
+Allah 0 219 0
 
-We 0
-see 0
-this 0
-again 0
-and 0
-again: 0
-schoolchildren 0
-have 0
-to 0
-make 0
-the 0
-Islamic 0
-profession 0
-of 0
-faith 0
-or 0
-affirm 0
-Islam 0
-as 0
-fact, 0
-in 0
-public 0
-schools. 0
+We 0 219 1
+see 0 219 1
+this 0 219 1
+again 0 219 1
+and 0 219 1
+again: 0 219 1
+schoolchildren 0 219 1
+have 0 219 1
+to 0 219 1
+make 0 219 1
+the 0 219 1
+Islamic 0 219 1
+profession 0 219 1
+of 0 219 1
+faith 0 219 1
+or 0 219 1
+affirm 0 219 1
+Islam 0 219 1
+as 0 219 1
+fact, 0 219 1
+in 0 219 1
+public 0 219 1
+schools. 0 219 1
 
-Then 0
-when 0
-administrators 0
-are 0
-confronted, 0
-they 0
-claim 0
-it 0
-was 0
-all 0
-just 0
-an 0
-educational 0
-exercise, 0
-not 0
-proselytizing. 0
+Then 0 219 2
+when 0 219 2
+administrators 0 219 2
+are 0 219 2
+confronted, 0 219 2
+they 0 219 2
+claim 0 219 2
+it 0 219 2
+was 0 219 2
+all 0 219 2
+just 0 219 2
+an 0 219 2
+educational 0 219 2
+exercise, 0 219 2
+not 0 219 2
+proselytizing. 0 219 2
 
-But 0
-we 0
-never, 1
-ever 1
-see 0
-Judaism 0
-or 0
-Christianity 0
-or 0
-Hinduism 0
-or 0
-Buddhism 0
-taught 0
-as 0
-fact 0
-in 0
-public 0
-schools, 0
-or 0
-schoolchildren 0
-being 0
-forced 1
-to 0
-make 0
-professions 0
-of 0
-faith 0
-in 0
-those 0
-religions. 0
+But 0 219 3
+we 0 219 3
+never, 1 219 3
+ever 1 219 3
+see 0 219 3
+Judaism 0 219 3
+or 0 219 3
+Christianity 0 219 3
+or 0 219 3
+Hinduism 0 219 3
+or 0 219 3
+Buddhism 0 219 3
+taught 0 219 3
+as 0 219 3
+fact 0 219 3
+in 0 219 3
+public 0 219 3
+schools, 0 219 3
+or 0 219 3
+schoolchildren 0 219 3
+being 0 219 3
+forced 1 219 3
+to 0 219 3
+make 0 219 3
+professions 0 219 3
+of 0 219 3
+faith 0 219 3
+in 0 219 3
+those 0 219 3
+religions. 0 219 3
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 219 4
+our 0 219 4
+poll 0 219 4
+- 0 219 4
+story 0 219 4
+continues 0 219 4
+below 0 219 4
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 219 5
+do 0 219 5
+you 0 219 5
+consider 0 219 5
+to 0 219 5
+be 0 219 5
+the 0 219 5
+most 0 219 5
+corrupt 0 219 5
+Democrat 0 219 5
+Politician? 0 219 5
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 219 6
+do 0 219 6
+you 0 219 6
+consider 0 219 6
+to 0 219 6
+be 0 219 6
+the 0 219 6
+most 0 219 6
+corrupt 0 219 6
+Democrat 0 219 6
+Politician? 0 219 6
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 219 7
+do 0 219 7
+you 0 219 7
+consider 0 219 7
+to 0 219 7
+be 0 219 7
+the 0 219 7
+most 0 219 7
+corrupt 0 219 7
+Democrat 0 219 7
+Politician? 0 219 7
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 219 8
+Dianne 0 219 8
+Feinstein 0 219 8
+Maxine 0 219 8
+Waters 0 219 8
+Adam 0 219 8
+Schiff 0 219 8
+Chuck 0 219 8
+Schumer 0 219 8
+Kamala 0 219 8
+Harris 0 219 8
+Kirsten 0 219 8
+Gillibrand 0 219 8
+Keith 0 219 8
+Ellison 0 219 8
+Cory 0 219 8
+Booker 0 219 8
 
-Email 0
-* 0
+Email 0 219 9
+* 0 219 9
 
-Name 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Name 0 219 10
+This 0 219 10
+field 0 219 10
+is 0 219 10
+for 0 219 10
+validation 0 219 10
+purposes 0 219 10
+and 0 219 10
+should 0 219 10
+be 0 219 10
+left 0 219 10
+unchanged. 0 219 10
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 219 11
+this 0 219 11
+poll 0 219 11
+grants 0 219 11
+you 0 219 11
+access 0 219 11
+to 0 219 11
+Freedom 0 219 11
+Outpost 0 219 11
+updates 0 219 11
+free 0 219 11
+of 0 219 11
+charge. 0 219 11
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 219 12
+may 0 219 12
+opt 0 219 12
+out 0 219 12
+at 0 219 12
+anytime. 0 219 12
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 219 13
+also 0 219 13
+agree 0 219 13
+to 0 219 13
+this 0 219 13
+site's 0 219 13
+Privacy 0 219 13
+Policy 0 219 13
+and 0 219 13
+Terms 0 219 13
+of 0 219 13
+Use. 0 219 13
 
-For 0
-some 0
-reason, 0
-this 0
-form 0
-of 0
-educational 0
-exercise 0
-is 0
-only 0
-ever 0
-used 0
-regarding 0
-Islam. 0
+For 0 219 14
+some 0 219 14
+reason, 0 219 14
+this 0 219 14
+form 0 219 14
+of 0 219 14
+educational 0 219 14
+exercise 0 219 14
+is 0 219 14
+only 0 219 14
+ever 0 219 14
+used 0 219 14
+regarding 0 219 14
+Islam. 0 219 14
 
-Now, 0
-why 0
-is 0
-that? 0
+Now, 0 219 15
+why 0 219 15
+is 0 219 15
+that? 0 219 15
 
-“Christian 0
-Parent 0
-Furious 0
-After 0
-School 0
-Instructs 0
-Children 0
-To 0
-Write 0
-Out 0
-Their 0
-Submission 0
-To 0
-Allah,” 0
-by 0
-Joshua 0
-Gill, 0
-Daily 0
-Caller 0
-News 0
-Foundation, 0
-May 0
-17, 0
-2018 0
-(thanks 0
-to 0
-the 0
-Geller 0
-Report): 0
+“Christian 0 219 16
+Parent 0 219 16
+Furious 0 219 16
+After 0 219 16
+School 0 219 16
+Instructs 0 219 16
+Children 0 219 16
+To 0 219 16
+Write 0 219 16
+Out 0 219 16
+Their 0 219 16
+Submission 0 219 16
+To 0 219 16
+Allah,” 0 219 16
+by 0 219 16
+Joshua 0 219 16
+Gill, 0 219 16
+Daily 0 219 16
+Caller 0 219 16
+News 0 219 16
+Foundation, 0 219 16
+May 0 219 16
+17, 0 219 16
+2018 0 219 16
+(thanks 0 219 16
+to 0 219 16
+the 0 219 16
+Geller 0 219 16
+Report): 0 219 16
 
-A 0
-West 0
-Virginia 0
-school 0
-has 0
-come 0
-under 1
-fire 1
-for 0
-instructing 0
-junior 0
-high 0
-students 0
-to 0
-write 0
-the 0
-Islamic 0
-profession 0
-of 0
-faith 0
-ostensibly 0
-to 0
-practice 0
-calligraphy. 0
+A 0 219 17
+West 0 219 17
+Virginia 0 219 17
+school 0 219 17
+has 0 219 17
+come 0 219 17
+under 1 219 17
+fire 1 219 17
+for 0 219 17
+instructing 0 219 17
+junior 0 219 17
+high 0 219 17
+students 0 219 17
+to 0 219 17
+write 0 219 17
+the 0 219 17
+Islamic 0 219 17
+profession 0 219 17
+of 0 219 17
+faith 0 219 17
+ostensibly 0 219 17
+to 0 219 17
+practice 0 219 17
+calligraphy. 0 219 17
 
-Rich 0
-Penkoski, 0
-a 0
-Christian 0
-parent 0
-and 0
-founder 0
-of 0
-online 0
-ministry 0
-Warriors 0
-for 0
-Christ, 0
-raised 1
-alarms 1
-over 0
-a 0
-packet 0
-on 0
-Islam 0
-his 0
-daughter’s 0
-seventh 0
-grade 0
-social 0
-studies 0
-teacher 0
-issued 0
-to 0
-students, 0
-according 0
-to 0
-Christian 0
-Post. 0
+Rich 0 219 18
+Penkoski, 0 219 18
+a 0 219 18
+Christian 0 219 18
+parent 0 219 18
+and 0 219 18
+founder 0 219 18
+of 0 219 18
+online 0 219 18
+ministry 0 219 18
+Warriors 0 219 18
+for 0 219 18
+Christ, 0 219 18
+raised 1 219 18
+alarms 1 219 18
+over 0 219 18
+a 0 219 18
+packet 0 219 18
+on 0 219 18
+Islam 0 219 18
+his 0 219 18
+daughter’s 0 219 18
+seventh 0 219 18
+grade 0 219 18
+social 0 219 18
+studies 0 219 18
+teacher 0 219 18
+issued 0 219 18
+to 0 219 18
+students, 0 219 18
+according 0 219 18
+to 0 219 18
+Christian 0 219 18
+Post. 0 219 18
 
-The 0
-packet, 0
-edited 0
-from 0
-the 0
-full 0
-version 0
-of 0
-a 0
-world 0
-religions 0
-workbook, 0
-instructed 0
-students 0
-to 0
-practice 0
-writing 0
-the 0
-Shahada, 0
-or 0
-Islamic 0
-profession 0
-of 0
-faith, 0
-in 0
-Arabic 0
-calligraphy 0
-— 0
-an 0
-assignment 0
-that, 0
-if 0
-left 0
-undone, 0
-would 0
-result 0
-in 0
-detention, 0
-according 0
-to 0
-Penkoski’s 0
-daughter. 0
+The 0 219 19
+packet, 0 219 19
+edited 0 219 19
+from 0 219 19
+the 0 219 19
+full 0 219 19
+version 0 219 19
+of 0 219 19
+a 0 219 19
+world 0 219 19
+religions 0 219 19
+workbook, 0 219 19
+instructed 0 219 19
+students 0 219 19
+to 0 219 19
+practice 0 219 19
+writing 0 219 19
+the 0 219 19
+Shahada, 0 219 19
+or 0 219 19
+Islamic 0 219 19
+profession 0 219 19
+of 0 219 19
+faith, 0 219 19
+in 0 219 19
+Arabic 0 219 19
+calligraphy 0 219 19
+— 0 219 19
+an 0 219 19
+assignment 0 219 19
+that, 0 219 19
+if 0 219 19
+left 0 219 19
+undone, 0 219 19
+would 0 219 19
+result 0 219 19
+in 0 219 19
+detention, 0 219 19
+according 0 219 19
+to 0 219 19
+Penkoski’s 0 219 19
+daughter. 0 219 19
 
-The 0
-Shahada 0
-states: 0
-“There 0
-is 0
-no 0
-god 0
-but 0
-Allah, 0
-and 0
-Muhammad 0
-is 0
-the 0
-messenger 0
-of 0
-Allah.” 0
-Penkoski 0
-called 0
-Mountain 0
-Ridge 0
-Middle 0
-School 0
-Principal 0
-Ron 0
-Branch 0
-and 0
-objected 0
-to 0
-the 0
-packet, 0
-saying 0
-it 0
-disturbed 1
-him 0
-and 0
-had 0
-misinformation 0
-about 0
-the 0
-history 0
-of 0
-calligraphy. 0
+The 0 219 20
+Shahada 0 219 20
+states: 0 219 20
+“There 0 219 20
+is 0 219 20
+no 0 219 20
+god 0 219 20
+but 0 219 20
+Allah, 0 219 20
+and 0 219 20
+Muhammad 0 219 20
+is 0 219 20
+the 0 219 20
+messenger 0 219 20
+of 0 219 20
+Allah.” 0 219 20
+Penkoski 0 219 20
+called 0 219 20
+Mountain 0 219 20
+Ridge 0 219 20
+Middle 0 219 20
+School 0 219 20
+Principal 0 219 20
+Ron 0 219 20
+Branch 0 219 20
+and 0 219 20
+objected 0 219 20
+to 0 219 20
+the 0 219 20
+packet, 0 219 20
+saying 0 219 20
+it 0 219 20
+disturbed 1 219 20
+him 0 219 20
+and 0 219 20
+had 0 219 20
+misinformation 0 219 20
+about 0 219 20
+the 0 219 20
+history 0 219 20
+of 0 219 20
+calligraphy. 0 219 20
 
-“I 0
-saw 0
-the 0
-assignment 0
-of 0
-writing 0
-the 0
-Shahada 0
-in 0
-Arabic. 0
+“I 0 219 21
+saw 0 219 21
+the 0 219 21
+assignment 0 219 21
+of 0 219 21
+writing 0 219 21
+the 0 219 21
+Shahada 0 219 21
+in 0 219 21
+Arabic. 0 219 21
 
-Their 0
-excuse 0
-was 0
-calligraphy,” 0
-Penkoski 0
-told 0
-The 0
-Christian 0
-Post. 0
+Their 0 219 22
+excuse 0 219 22
+was 0 219 22
+calligraphy,” 0 219 22
+Penkoski 0 219 22
+told 0 219 22
+The 0 219 22
+Christian 0 219 22
+Post. 0 219 22
 
-“I 0
-was 0
-like, 0
-‘Whoa! 0
+“I 0 219 23
+was 0 219 23
+like, 0 219 23
+‘Whoa! 0 219 23
 
-Whoa! 0
+Whoa! 0 219 24
 
-Whoa!’ 0
-First 0
-of 0
-all, 0
-calligraphy 0
-was 0
-invented 0
-in 0
-China 0
-3,000 0
-years 0
-prior 0
-to 0
-Muhammad. 0
+Whoa!’ 0 219 25
+First 0 219 25
+of 0 219 25
+all, 0 219 25
+calligraphy 0 219 25
+was 0 219 25
+invented 0 219 25
+in 0 219 25
+China 0 219 25
+3,000 0 219 25
+years 0 219 25
+prior 0 219 25
+to 0 219 25
+Muhammad. 0 219 25
 
-The 0
-fact 0
-that 0
-they 0
-were 0
-trying 0
-to 0
-get 0
-my 0
-daughter 0
-to 0
-write 0
-that 0
-disturbed 1
-me.” 0
-“I 0
-said, 0
-‘That 0
-is 0
-not 0
-happening. 0
+The 0 219 26
+fact 0 219 26
+that 0 219 26
+they 0 219 26
+were 0 219 26
+trying 0 219 26
+to 0 219 26
+get 0 219 26
+my 0 219 26
+daughter 0 219 26
+to 0 219 26
+write 0 219 26
+that 0 219 26
+disturbed 1 219 26
+me.” 0 219 26
+“I 0 219 26
+said, 0 219 26
+‘That 0 219 26
+is 0 219 26
+not 0 219 26
+happening. 0 219 26
 
-My 0
-daughter 0
-is 0
-not 0
-doing 0
-that.’ 0
-My 0
-daughter 0
-told 0
-me 0
-that 0
-if 0
-she 0
-didn’t 0
-do 0
-the 0
-assignment, 0
-then 0
-she 0
-was 0
-going 0
-to 0
-get 0
-a 0
-[detention] 0
-slip,” 0
-Penkoski 0
-added…. 0
+My 0 219 27
+daughter 0 219 27
+is 0 219 27
+not 0 219 27
+doing 0 219 27
+that.’ 0 219 27
+My 0 219 27
+daughter 0 219 27
+told 0 219 27
+me 0 219 27
+that 0 219 27
+if 0 219 27
+she 0 219 27
+didn’t 0 219 27
+do 0 219 27
+the 0 219 27
+assignment, 0 219 27
+then 0 219 27
+she 0 219 27
+was 0 219 27
+going 0 219 27
+to 0 219 27
+get 0 219 27
+a 0 219 27
+[detention] 0 219 27
+slip,” 0 219 27
+Penkoski 0 219 27
+added…. 0 219 27
 
-There 0
-were 0
-two 0
-different 0
-calligraphy 0
-assignments 0
-— 0
-one 0
-involving 0
-the 0
-Shahada 0
-and 0
-another 0
-instructing 0
-students 0
-to 0
-practice 0
-writing 0
-English 0
-letters 0
-in 0
-calligraphy, 0
-Branch 0
-told 0
-Christian 0
-Post. 0
+There 0 219 28
+were 0 219 28
+two 0 219 28
+different 0 219 28
+calligraphy 0 219 28
+assignments 0 219 28
+— 0 219 28
+one 0 219 28
+involving 0 219 28
+the 0 219 28
+Shahada 0 219 28
+and 0 219 28
+another 0 219 28
+instructing 0 219 28
+students 0 219 28
+to 0 219 28
+practice 0 219 28
+writing 0 219 28
+English 0 219 28
+letters 0 219 28
+in 0 219 28
+calligraphy, 0 219 28
+Branch 0 219 28
+told 0 219 28
+Christian 0 219 28
+Post. 0 219 28
 
-Hinson 0
-“told 0
-the 0
-students 0
-that 0
-they 0
-could 0
-do 0
-these 0
-activities 0
-if 0
-they 0
-wanted,” 0
-Branch 0
-claimed. 0
+Hinson 0 219 29
+“told 0 219 29
+the 0 219 29
+students 0 219 29
+that 0 219 29
+they 0 219 29
+could 0 219 29
+do 0 219 29
+these 0 219 29
+activities 0 219 29
+if 0 219 29
+they 0 219 29
+wanted,” 0 219 29
+Branch 0 219 29
+claimed. 0 219 29
 
-“The 0
-teacher 0
-has 0
-told 0
-her 0
-class 0
-several 0
-times 0
-that 0
-this 0
-is 0
-a 0
-study 0
-of 0
-world 0
-religions 0
-and 0
-that 0
-she 0
-is 0
-not 0
-trying 0
-to 0
-advocate 0
-for 0
-any 0
-religion 0
-over 0
-another. 0
+“The 0 219 30
+teacher 0 219 30
+has 0 219 30
+told 0 219 30
+her 0 219 30
+class 0 219 30
+several 0 219 30
+times 0 219 30
+that 0 219 30
+this 0 219 30
+is 0 219 30
+a 0 219 30
+study 0 219 30
+of 0 219 30
+world 0 219 30
+religions 0 219 30
+and 0 219 30
+that 0 219 30
+she 0 219 30
+is 0 219 30
+not 0 219 30
+trying 0 219 30
+to 0 219 30
+advocate 0 219 30
+for 0 219 30
+any 0 219 30
+religion 0 219 30
+over 0 219 30
+another. 0 219 30
 
-She 0
-has 0
-told 0
-her 0
-class 0
-that 0
-if 0
-they 0
-had 0
-questions 0
-about 0
-religious 0
-beliefs, 0
-that 0
-those 0
-conversations 0
-should 0
-take 0
-place 0
-with 0
-their 0
-parents,” 0
-Branch 0
-added. 0
+She 0 219 31
+has 0 219 31
+told 0 219 31
+her 0 219 31
+class 0 219 31
+that 0 219 31
+if 0 219 31
+they 0 219 31
+had 0 219 31
+questions 0 219 31
+about 0 219 31
+religious 0 219 31
+beliefs, 0 219 31
+that 0 219 31
+those 0 219 31
+conversations 0 219 31
+should 0 219 31
+take 0 219 31
+place 0 219 31
+with 0 219 31
+their 0 219 31
+parents,” 0 219 31
+Branch 0 219 31
+added. 0 219 31
 
-Penkoski 0
-claimed 0
-the 0
-teacher 0
-sent 0
-students 0
-home 0
-with 0
-the 0
-same 0
-packet 0
-the 0
-day 0
-after 0
-he 0
-lodged 0
-a 0
-complaint 0
-— 0
-this 0
-time, 0
-with 0
-certain 0
-sections 0
-crossed 0
-out 0
-but 0
-still 0
-including 0
-the 0
-Shahada 0
-assignment. 0
+Penkoski 0 219 32
+claimed 0 219 32
+the 0 219 32
+teacher 0 219 32
+sent 0 219 32
+students 0 219 32
+home 0 219 32
+with 0 219 32
+the 0 219 32
+same 0 219 32
+packet 0 219 32
+the 0 219 32
+day 0 219 32
+after 0 219 32
+he 0 219 32
+lodged 0 219 32
+a 0 219 32
+complaint 0 219 32
+— 0 219 32
+this 0 219 32
+time, 0 219 32
+with 0 219 32
+certain 0 219 32
+sections 0 219 32
+crossed 0 219 32
+out 0 219 32
+but 0 219 32
+still 0 219 32
+including 0 219 32
+the 0 219 32
+Shahada 0 219 32
+assignment. 0 219 32
 
-Penkoksi 0
-called 0
-the 0
-principal 0
-again 0
-and 0
-confronted 0
-Hinson 0
-over 0
-the 0
-phone. 0
+Penkoksi 0 219 33
+called 0 219 33
+the 0 219 33
+principal 0 219 33
+again 0 219 33
+and 0 219 33
+confronted 0 219 33
+Hinson 0 219 33
+over 0 219 33
+the 0 219 33
+phone. 0 219 33
 
-“I 0
-said, 0
-‘This 0
-is 0
-not 0
-OK 0
-in 0
-asking 0
-my 0
-kid 0
-to 0
-write 0
-down 0
-the 0
-Shahada.’ 0
-The 0
-teacher 0
-happened 0
-to 0
-walk-in 0
-and 0
-said 0
-she 0
-made 0
-it 0
-an 0
-option 0
-and 0
-that 0
-the 0
-kids 0
-didn’t 0
-have 0
-to 0
-do 0
-it. 0
+“I 0 219 34
+said, 0 219 34
+‘This 0 219 34
+is 0 219 34
+not 0 219 34
+OK 0 219 34
+in 0 219 34
+asking 0 219 34
+my 0 219 34
+kid 0 219 34
+to 0 219 34
+write 0 219 34
+down 0 219 34
+the 0 219 34
+Shahada.’ 0 219 34
+The 0 219 34
+teacher 0 219 34
+happened 0 219 34
+to 0 219 34
+walk-in 0 219 34
+and 0 219 34
+said 0 219 34
+she 0 219 34
+made 0 219 34
+it 0 219 34
+an 0 219 34
+option 0 219 34
+and 0 219 34
+that 0 219 34
+the 0 219 34
+kids 0 219 34
+didn’t 0 219 34
+have 0 219 34
+to 0 219 34
+do 0 219 34
+it. 0 219 34
 
-My 0
-daughter 0
-conflicted 0
-that 0
-story 0
-and 0
-said, 0
-‘No, 0
-that 0
-is 0
-not 0
-what 0
-was 0
-said.’ 0
-What 0
-was 0
-said 0
-was, 0
-‘Do 0
-the 0
-assignment; 0
-and 0
-if 0
-you 0
-want 0
-to 0
-learn 0
-more 0
-about 0
-the 0
-Quran, 0
-ask 0
-your 0
-parents,’” 0
-Penkoski 0
-told 0
-Christian 0
-Post. 0
+My 0 219 35
+daughter 0 219 35
+conflicted 0 219 35
+that 0 219 35
+story 0 219 35
+and 0 219 35
+said, 0 219 35
+‘No, 0 219 35
+that 0 219 35
+is 0 219 35
+not 0 219 35
+what 0 219 35
+was 0 219 35
+said.’ 0 219 35
+What 0 219 35
+was 0 219 35
+said 0 219 35
+was, 0 219 35
+‘Do 0 219 35
+the 0 219 35
+assignment; 0 219 35
+and 0 219 35
+if 0 219 35
+you 0 219 35
+want 0 219 35
+to 0 219 35
+learn 0 219 35
+more 0 219 35
+about 0 219 35
+the 0 219 35
+Quran, 0 219 35
+ask 0 219 35
+your 0 219 35
+parents,’” 0 219 35
+Penkoski 0 219 35
+told 0 219 35
+Christian 0 219 35
+Post. 0 219 35
 
-Each 0
-religion 0
-studied 0
-in 0
-the 0
-class, 0
-including 0
-Christianity 0
-and 0
-Judaism, 0
-received 0
-“equitable 0
-treatment,” 0
-Branch 0
-also 0
-told 0
-Christian 0
-Post. 0
+Each 0 219 36
+religion 0 219 36
+studied 0 219 36
+in 0 219 36
+the 0 219 36
+class, 0 219 36
+including 0 219 36
+Christianity 0 219 36
+and 0 219 36
+Judaism, 0 219 36
+received 0 219 36
+“equitable 0 219 36
+treatment,” 0 219 36
+Branch 0 219 36
+also 0 219 36
+told 0 219 36
+Christian 0 219 36
+Post. 0 219 36
 
-He 0
-said 0
-the 0
-class 0
-spent 0
-a 0
-week 0
-and 0
-a 0
-half 0
-on 0
-Christianity 0
-and 0
-Judaism 0
-— 0
-other 0
-religions 0
-took 0
-one 0
-week 0
-— 0
-and 0
-discussed 0
-each 0
-religion’s 0
-beliefs, 0
-history 0
-and 0
-practices. 0
+He 0 219 37
+said 0 219 37
+the 0 219 37
+class 0 219 37
+spent 0 219 37
+a 0 219 37
+week 0 219 37
+and 0 219 37
+a 0 219 37
+half 0 219 37
+on 0 219 37
+Christianity 0 219 37
+and 0 219 37
+Judaism 0 219 37
+— 0 219 37
+other 0 219 37
+religions 0 219 37
+took 0 219 37
+one 0 219 37
+week 0 219 37
+— 0 219 37
+and 0 219 37
+discussed 0 219 37
+each 0 219 37
+religion’s 0 219 37
+beliefs, 0 219 37
+history 0 219 37
+and 0 219 37
+practices. 0 219 37
 
-During 0
-the 0
-section 0
-on 0
-Christianity, 0
-“Jesus 0
-was 0
-taught,” 0
-Branch 0
-claimed. 0
+During 0 219 38
+the 0 219 38
+section 0 219 38
+on 0 219 38
+Christianity, 0 219 38
+“Jesus 0 219 38
+was 0 219 38
+taught,” 0 219 38
+Branch 0 219 38
+claimed. 0 219 38
 
-“The 0
-students 0
-read 0
-the 0
-chapter 0
-in 0
-our 0
-textbook 0
-that 0
-discusses 0
-Christianity’s 0
-belief 0
-that 0
-Jesus 0
-is 0
-the 0
-Son 0
-of 0
-God, 0
-and 0
-salvation. 0
+“The 0 219 39
+students 0 219 39
+read 0 219 39
+the 0 219 39
+chapter 0 219 39
+in 0 219 39
+our 0 219 39
+textbook 0 219 39
+that 0 219 39
+discusses 0 219 39
+Christianity’s 0 219 39
+belief 0 219 39
+that 0 219 39
+Jesus 0 219 39
+is 0 219 39
+the 0 219 39
+Son 0 219 39
+of 0 219 39
+God, 0 219 39
+and 0 219 39
+salvation. 0 219 39
 
-They 0
-also 0
-discussed 0
-the 0
-Sermon 0
-on 0
-the 0
-Mount, 0
-the 0
-Last 0
-Supper 0
-and 0
-Jesus’ 0
-Betrayal, 0
-the 0
-Trinity, 0
-and 0
-the 0
-Lord’s 0
-Prayer, 0
-among 0
-other 0
-topics,” 0
-Branch 0
-said. 0
+They 0 219 40
+also 0 219 40
+discussed 0 219 40
+the 0 219 40
+Sermon 0 219 40
+on 0 219 40
+the 0 219 40
+Mount, 0 219 40
+the 0 219 40
+Last 0 219 40
+Supper 0 219 40
+and 0 219 40
+Jesus’ 0 219 40
+Betrayal, 0 219 40
+the 0 219 40
+Trinity, 0 219 40
+and 0 219 40
+the 0 219 40
+Lord’s 0 219 40
+Prayer, 0 219 40
+among 0 219 40
+other 0 219 40
+topics,” 0 219 40
+Branch 0 219 40
+said. 0 219 40
 
-Penkoski 0
-and 0
-his 0
-daughter, 0
-Brielle, 0
-contested 0
-Branch’s 0
-claims. 0
+Penkoski 0 219 41
+and 0 219 41
+his 0 219 41
+daughter, 0 219 41
+Brielle, 0 219 41
+contested 0 219 41
+Branch’s 0 219 41
+claims. 0 219 41
 
-The 0
-Lord’s 0
-Prayer 0
-was 0
-not 0
-taught, 0
-and 0
-very 0
-little 0
-time 0
-was 0
-spent 0
-teaching 0
-about 0
-Jesus, 0
-they 0
-told 0
-Christian 0
-Post. 0
+The 0 219 42
+Lord’s 0 219 42
+Prayer 0 219 42
+was 0 219 42
+not 0 219 42
+taught, 0 219 42
+and 0 219 42
+very 0 219 42
+little 0 219 42
+time 0 219 42
+was 0 219 42
+spent 0 219 42
+teaching 0 219 42
+about 0 219 42
+Jesus, 0 219 42
+they 0 219 42
+told 0 219 42
+Christian 0 219 42
+Post. 0 219 42
 
-“We 0
-did 0
-[the 0
-unit 0
-on 0
-Christianity] 0
-over 0
-a 0
-week 0
-and 0
-two 0
-days. 0
+“We 0 219 43
+did 0 219 43
+[the 0 219 43
+unit 0 219 43
+on 0 219 43
+Christianity] 0 219 43
+over 0 219 43
+a 0 219 43
+week 0 219 43
+and 0 219 43
+two 0 219 43
+days. 0 219 43
 
-We 0
-watched 0
-two 0
-different 0
-videos. 0
+We 0 219 44
+watched 0 219 44
+two 0 219 44
+different 0 219 44
+videos. 0 219 44
 
-We 0
-didn’t 0
-finish 0
-them. 0
+We 0 219 45
+didn’t 0 219 45
+finish 0 219 45
+them. 0 219 45
 
-They 0
-taught 0
-a 0
-little 0
-bit 0
-about 0
-Moses 0
-and 0
-the 0
-Ten 0
-Commandments, 0
-Peter 0
-and 0
-Paul,” 0
-Brielle 0
-explained. 0
+They 0 219 46
+taught 0 219 46
+a 0 219 46
+little 0 219 46
+bit 0 219 46
+about 0 219 46
+Moses 0 219 46
+and 0 219 46
+the 0 219 46
+Ten 0 219 46
+Commandments, 0 219 46
+Peter 0 219 46
+and 0 219 46
+Paul,” 0 219 46
+Brielle 0 219 46
+explained. 0 219 46
 
-“We 0
-learned 0
-about 0
-the 0
-Israelites 0
-and 0
-how 0
-they 0
-are 0
-being 0
-persecuted 0
-by 0
-the 0
-Romans. 0
+“We 0 219 47
+learned 0 219 47
+about 0 219 47
+the 0 219 47
+Israelites 0 219 47
+and 0 219 47
+how 0 219 47
+they 0 219 47
+are 0 219 47
+being 0 219 47
+persecuted 0 219 47
+by 0 219 47
+the 0 219 47
+Romans. 0 219 47
 
-We 0
-were 0
-told 0
-about 0
-the 0
-Jews 0
-and 0
-told 0
-a 0
-little 0
-bit 0
-about 0
-Jesus.” 0
-Penkoski 0
-also 0
-shared 0
-with 0
-Christian 0
-Post 0
-the 0
-packets 0
-on 0
-Christianity 0
-and 0
-Judaism 0
-passed 0
-out 0
-in 0
-class 0
-and 0
-allegedly 0
-modified 0
-from 0
-the 0
-original 0
-full 0
-version. 0
+We 0 219 48
+were 0 219 48
+told 0 219 48
+about 0 219 48
+the 0 219 48
+Jews 0 219 48
+and 0 219 48
+told 0 219 48
+a 0 219 48
+little 0 219 48
+bit 0 219 48
+about 0 219 48
+Jesus.” 0 219 48
+Penkoski 0 219 48
+also 0 219 48
+shared 0 219 48
+with 0 219 48
+Christian 0 219 48
+Post 0 219 48
+the 0 219 48
+packets 0 219 48
+on 0 219 48
+Christianity 0 219 48
+and 0 219 48
+Judaism 0 219 48
+passed 0 219 48
+out 0 219 48
+in 0 219 48
+class 0 219 48
+and 0 219 48
+allegedly 0 219 48
+modified 0 219 48
+from 0 219 48
+the 0 219 48
+original 0 219 48
+full 0 219 48
+version. 0 219 48
 
-While 0
-the 0
-packet 0
-on 0
-Islam 0
-contained 0
-verses 0
-from 0
-the 0
-Koran, 0
-the 0
-packets 0
-for 0
-those 0
-religions 0
-did 0
-not 0
-contain 0
-scripture 0
-and 0
-did 0
-not 0
-encourage 0
-students 0
-to 0
-write 0
-prayers 0
-or 0
-faith 0
-statements, 0
-he 0
-said. 0
+While 0 219 49
+the 0 219 49
+packet 0 219 49
+on 0 219 49
+Islam 0 219 49
+contained 0 219 49
+verses 0 219 49
+from 0 219 49
+the 0 219 49
+Koran, 0 219 49
+the 0 219 49
+packets 0 219 49
+for 0 219 49
+those 0 219 49
+religions 0 219 49
+did 0 219 49
+not 0 219 49
+contain 0 219 49
+scripture 0 219 49
+and 0 219 49
+did 0 219 49
+not 0 219 49
+encourage 0 219 49
+students 0 219 49
+to 0 219 49
+write 0 219 49
+prayers 0 219 49
+or 0 219 49
+faith 0 219 49
+statements, 0 219 49
+he 0 219 49
+said. 0 219 49
 
-“Notice 0
-no 0
-Bible 0
-verses, 0
-no 0
-reciting 0
-the 0
-Ten 0
-Commandments 0
-or 0
-the 0
-Lord’s 0
-Prayer,” 0
-he 0
-said. 0
+“Notice 0 219 50
+no 0 219 50
+Bible 0 219 50
+verses, 0 219 50
+no 0 219 50
+reciting 0 219 50
+the 0 219 50
+Ten 0 219 50
+Commandments 0 219 50
+or 0 219 50
+the 0 219 50
+Lord’s 0 219 50
+Prayer,” 0 219 50
+he 0 219 50
+said. 0 219 50
 
-“[There’s] 0
-no 0
-practicing 0
-writing 0
-in 0
-Hebrew 0
-as 0
-compared 0
-to 0
-the 0
-Islamic 0
-packet,” 0
-he 0
-added…. 0
+“[There’s] 0 219 51
+no 0 219 51
+practicing 0 219 51
+writing 0 219 51
+in 0 219 51
+Hebrew 0 219 51
+as 0 219 51
+compared 0 219 51
+to 0 219 51
+the 0 219 51
+Islamic 0 219 51
+packet,” 0 219 51
+he 0 219 51
+added…. 0 219 51
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-Robert 0
-Spencer 0
+Article 0 219 51
+
+posted 0 219 51
+
+with 0 219 51
+
+permission 0 219 51
+
+from 0 219 51
+
+Robert 0 219 51
+
+Spencer 0 219 51

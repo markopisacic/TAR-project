@@ -1,620 +1,639 @@
-Rand 0
-Paul: 0
-I'll 0
-Do 0
-"Whatever 0
-It 0
-Takes" 0
-To 0
-Block 0
-Haspel 0
-& 0
-Pompeo 0
+Rand 0 199 0
+Paul: 0 199 0
+I'll 0 199 0
+Do 0 199 0
+"Whatever 0 199 0
+It 0 199 0
+Takes" 0 199 0
+To 0 199 0
+Block 0 199 0
+Haspel 0 199 0
+& 0 199 0
+Pompeo 0 199 0
 
-Senator 0
-Rand 0
-Paul 0
-(R-KY) 0
-has 0
-expressed 0
-some 0
-of 0
-my 0
-thoughts 0
-when 0
-it 0
-comes 0
-to 0
-the 0
-newly 0
-nominated 0
-Secretary 0
-of 0
-State 0
-and 0
-director 0
-of 0
-the 0
-Central 0
-Intelligence 0
-Agency. 0
+Senator 0 199 1
+Rand 0 199 1
+Paul 0 199 1
+(R-KY) 0 199 1
+has 0 199 1
+expressed 0 199 1
+some 0 199 1
+of 0 199 1
+my 0 199 1
+thoughts 0 199 1
+when 0 199 1
+it 0 199 1
+comes 0 199 1
+to 0 199 1
+the 0 199 1
+newly 0 199 1
+nominated 0 199 1
+Secretary 0 199 1
+of 0 199 1
+State 0 199 1
+and 0 199 1
+director 0 199 1
+of 0 199 1
+the 0 199 1
+Central 0 199 1
+Intelligence 0 199 1
+Agency. 0 199 1
 
-Paul 0
-told 0
-CNN’s 0
-“State 0
-of 0
-the 0
-Union” 0
-and 0
-CBS 0
-News’ 0
-“Face 0
-the 0
-Nation” 0
-on 0
-Sunday 0
-that 0
-he 0
-would 0
-do 0
-"whatever 0
-it 0
-takes," 0
-including 0
-a 0
-filibuster, 0
-to 0
-block 0
-the 0
-confirmations 0
-of 0
-Mike 0
-Pompeo 0
-to 0
-head 0
-the 0
-State 0
-Department 0
-and 0
-Gina 0
-Haspel 0
-to 0
-run 0
-the 0
-CIA. 0
+Paul 0 199 2
+told 0 199 2
+CNN’s 0 199 2
+“State 0 199 2
+of 0 199 2
+the 0 199 2
+Union” 0 199 2
+and 0 199 2
+CBS 0 199 2
+News’ 0 199 2
+“Face 0 199 2
+the 0 199 2
+Nation” 0 199 2
+on 0 199 2
+Sunday 0 199 2
+that 0 199 2
+he 0 199 2
+would 0 199 2
+do 0 199 2
+"whatever 0 199 2
+it 0 199 2
+takes," 0 199 2
+including 0 199 2
+a 0 199 2
+filibuster, 0 199 2
+to 0 199 2
+block 0 199 2
+the 0 199 2
+confirmations 0 199 2
+of 0 199 2
+Mike 0 199 2
+Pompeo 0 199 2
+to 0 199 2
+head 0 199 2
+the 0 199 2
+State 0 199 2
+Department 0 199 2
+and 0 199 2
+Gina 0 199 2
+Haspel 0 199 2
+to 0 199 2
+run 0 199 2
+the 0 199 2
+CIA. 0 199 2
 
-“You 1
-really 1
-want 1
-a 1
-diplomat 1
-to 1
-be 1
-in 1
-charge 1
-of 1
-the 1
-State 1
-Department, 1
-not 1
-someone 1
-who 1
-is 1
-advocating 1
-for 1
-war,” 1
-he 0
-told 0
-“Face 0
-the 0
-Nation.” 0
+“You 1 199 3
+really 1 199 3
+want 1 199 3
+a 1 199 3
+diplomat 1 199 3
+to 1 199 3
+be 1 199 3
+in 1 199 3
+charge 1 199 3
+of 1 199 3
+the 1 199 3
+State 1 199 3
+Department, 1 199 3
+not 1 199 3
+someone 1 199 3
+who 1 199 3
+is 1 199 3
+advocating 1 199 3
+for 1 199 3
+war,” 1 199 3
+he 0 199 3
+told 0 199 3
+“Face 0 199 3
+the 0 199 3
+Nation.” 0 199 3
 
-“I 0
-frankly 0
-think 0
-that 0
-Pompeo’s 0
-positions 0
-are 0
-too 0
-much 0
-of 0
-an 0
-advocate 0
-for 0
-regime 0
-change, 0
-really 0
-everywhere,” 0
-he 0
-added. 0
+“I 0 199 4
+frankly 0 199 4
+think 0 199 4
+that 0 199 4
+Pompeo’s 0 199 4
+positions 0 199 4
+are 0 199 4
+too 0 199 4
+much 0 199 4
+of 0 199 4
+an 0 199 4
+advocate 0 199 4
+for 0 199 4
+regime 0 199 4
+change, 0 199 4
+really 0 199 4
+everywhere,” 0 199 4
+he 0 199 4
+added. 0 199 4
 
-"I 0
-don't 0
-think 0
-our 0
-policy 0
-ought 0
-to 0
-be 0
-for 0
-regime 0
-change, 0
-so 0
-I 0
-think 0
-Pompeo 1
-really 1
-isn't 1
-a 1
-good 1
-fit 1
-to 1
-be 1
-a 1
-diplomat." 1
+"I 0 199 5
+don't 0 199 5
+think 0 199 5
+our 0 199 5
+policy 0 199 5
+ought 0 199 5
+to 0 199 5
+be 0 199 5
+for 0 199 5
+regime 0 199 5
+change, 0 199 5
+so 0 199 5
+I 0 199 5
+think 0 199 5
+Pompeo 1 199 5
+really 1 199 5
+isn't 1 199 5
+a 1 199 5
+good 1 199 5
+fit 1 199 5
+to 1 199 5
+be 1 199 5
+a 1 199 5
+diplomat." 1 199 5
 
-He's 0
-right, 0
-too. 0
+He's 0 199 6
+right, 0 199 6
+too. 0 199 6
 
-Pompeo 0
-has 0
-advocated 0
-for 0
-regime 0
-change 0
-in 0
-North 0
-Korea. 0
+Pompeo 0 199 7
+has 0 199 7
+advocated 0 199 7
+for 0 199 7
+regime 0 199 7
+change 0 199 7
+in 0 199 7
+North 0 199 7
+Korea. 0 199 7
 
-We've 0
-seen 0
-exactly 0
-what 0
-happens 0
-when 0
-the 0
-US 0
-gets 0
-involved 0
-in 0
-such 0
-types 0
-of 0
-regime 0
-changes, 0
-and 0
-the 0
-truth 0
-is 0
-that 0
-they 0
-really 0
-don't 0
-work 0
-out 0
-too 0
-well. 0
+We've 0 199 8
+seen 0 199 8
+exactly 0 199 8
+what 0 199 8
+happens 0 199 8
+when 0 199 8
+the 0 199 8
+US 0 199 8
+gets 0 199 8
+involved 0 199 8
+in 0 199 8
+such 0 199 8
+types 0 199 8
+of 0 199 8
+regime 0 199 8
+changes, 0 199 8
+and 0 199 8
+the 0 199 8
+truth 0 199 8
+is 0 199 8
+that 0 199 8
+they 0 199 8
+really 0 199 8
+don't 0 199 8
+work 0 199 8
+out 0 199 8
+too 0 199 8
+well. 0 199 8
 
-As 0
-for 0
-Haspel, 0
-Paul 0
-told 0
-"Face 0
-The 0
-Nation," 0
-"She 0
-oversaw 0
-an 0
-illegal 0
-black 0
-ops 0
-operation 0
-in 0
-Thailand 0
-that 0
-included 0
-torture. 0
+As 0 199 9
+for 0 199 9
+Haspel, 0 199 9
+Paul 0 199 9
+told 0 199 9
+"Face 0 199 9
+The 0 199 9
+Nation," 0 199 9
+"She 0 199 9
+oversaw 0 199 9
+an 0 199 9
+illegal 0 199 9
+black 0 199 9
+ops 0 199 9
+operation 0 199 9
+in 0 199 9
+Thailand 0 199 9
+that 0 199 9
+included 0 199 9
+torture. 0 199 9
 
-I 1
-don't 1
-think 1
-torture 1
-is 1
-what 1
-America 1
-is 1
-about." 1
+I 1 199 10
+don't 1 199 10
+think 1 199 10
+torture 1 199 10
+is 1 199 10
+what 1 199 10
+America 1 199 10
+is 1 199 10
+about." 1 199 10
 
-On 0
-"State 0
-of 0
-the 0
-Union," 0
-Paul 0
-added, 0
-"I'll 0
-do 0
-whatever 0
-it 0
-takes, 0
-and 0
-that 0
-includes 0
-filibuster" 0
-to 0
-block 0
-their 0
-confirmation. 0
+On 0 199 11
+"State 0 199 11
+of 0 199 11
+the 0 199 11
+Union," 0 199 11
+Paul 0 199 11
+added, 0 199 11
+"I'll 0 199 11
+do 0 199 11
+whatever 0 199 11
+it 0 199 11
+takes, 0 199 11
+and 0 199 11
+that 0 199 11
+includes 0 199 11
+filibuster" 0 199 11
+to 0 199 11
+block 0 199 11
+their 0 199 11
+confirmation. 0 199 11
 
-"I 0
-don't 0
-have 0
-the 0
-power 0
-to 0
-stop 0
-her 0
-nomination," 0
-he 0
-said 0
-of 0
-Haspel. 0
+"I 0 199 12
+don't 0 199 12
+have 0 199 12
+the 0 199 12
+power 0 199 12
+to 0 199 12
+stop 0 199 12
+her 0 199 12
+nomination," 0 199 12
+he 0 199 12
+said 0 199 12
+of 0 199 12
+Haspel. 0 199 12
 
-"There's 0
-enough 0
-votes 0
-she'll 0
-eventually 0
-win. 0
+"There's 0 199 13
+enough 0 199 13
+votes 0 199 13
+she'll 0 199 13
+eventually 0 199 13
+win. 0 199 13
 
-Few 1
-things 1
-in 1
-life 1
-. 1
+Few 1 199 14
+things 1 199 14
+in 1 199 14
+life 1 199 14
+. 1 199 14
 
-. 1
+. 1 199 15
 
-. 1
+. 1 199 16
 
-[are] 1
-worth 1
-standing 1
-up 1
-saying 0
-'enough 1
-is 1
-enough.'" 1
+[are] 1 199 17
+worth 1 199 17
+standing 1 199 17
+up 1 199 17
+saying 0 199 17
+'enough 1 199 17
+is 1 199 17
+enough.'" 1 199 17
 
-"We 1
-are 1
-not 1
-a 1
-people 1
-that 1
-should 1
-be 1
-so 1
-fearful 1
-or 1
-vengeful 1
-that 1
-we 1
-think 1
-that 1
-torture 1
-is 1
-somehow 1
-acceptable," 1
-he 0
-added. 0
+"We 1 199 18
+are 1 199 18
+not 1 199 18
+a 1 199 18
+people 1 199 18
+that 1 199 18
+should 1 199 18
+be 1 199 18
+so 1 199 18
+fearful 1 199 18
+or 1 199 18
+vengeful 1 199 18
+that 1 199 18
+we 1 199 18
+think 1 199 18
+that 1 199 18
+torture 1 199 18
+is 1 199 18
+somehow 1 199 18
+acceptable," 1 199 18
+he 0 199 18
+added. 0 199 18
 
-"On 0
-what 0
-level 0
-could 0
-torture 0
-ever 0
-be 0
-acceptable? 0
+"On 0 199 19
+what 0 199 19
+level 0 199 19
+could 0 199 19
+torture 0 199 19
+ever 0 199 19
+be 0 199 19
+acceptable? 0 199 19
 
-We 1
-should 1
-make 1
-a 1
-stand 1
-on 1
-this. 1
+We 1 199 20
+should 1 199 20
+make 1 199 20
+a 1 199 20
+stand 1 199 20
+on 1 199 20
+this. 1 199 20
 
-She 1
-should 1
-never 1
-lead 1
-the 1
-CIA." 1
+She 1 199 21
+should 1 199 21
+never 1 199 21
+lead 1 199 21
+the 1 199 21
+CIA." 1 199 21
 
-Both 0
-nominations 0
-may 0
-face 0
-tough 0
-confirmation 0
-hearings, 0
-but 0
-it 0
-seems 0
-that 0
-many 1
-Americans 1
-are 1
-just 1
-fine 1
-with 1
-these 1
-types 1
-of 1
-people 1
-being 1
-in 1
-these 1
-types 1
-of 1
-offices. 1
+Both 0 199 22
+nominations 0 199 22
+may 0 199 22
+face 0 199 22
+tough 0 199 22
+confirmation 0 199 22
+hearings, 0 199 22
+but 0 199 22
+it 0 199 22
+seems 0 199 22
+that 0 199 22
+many 1 199 22
+Americans 1 199 22
+are 1 199 22
+just 1 199 22
+fine 1 199 22
+with 1 199 22
+these 1 199 22
+types 1 199 22
+of 1 199 22
+people 1 199 22
+being 1 199 22
+in 1 199 22
+these 1 199 22
+types 1 199 22
+of 1 199 22
+offices. 1 199 22
 
-The 0
-only 0
-thing 0
-I 0
-can 0
-think 0
-for 0
-that 0
-kind 0
-of 0
-reasoning 0
-is 0
-that 0
-people 1
-do 1
-not 1
-know 1
-their 1
-Constitution 1
-and 1
-understand 1
-exactly 1
-what 1
-Senator 1
-Paul 1
-is 1
-trying 1
-to 1
-warn 1
-America 1
-about. 1
+The 0 199 23
+only 0 199 23
+thing 0 199 23
+I 0 199 23
+can 0 199 23
+think 0 199 23
+for 0 199 23
+that 0 199 23
+kind 0 199 23
+of 0 199 23
+reasoning 0 199 23
+is 0 199 23
+that 0 199 23
+people 1 199 23
+do 1 199 23
+not 1 199 23
+know 1 199 23
+their 1 199 23
+Constitution 1 199 23
+and 1 199 23
+understand 1 199 23
+exactly 1 199 23
+what 1 199 23
+Senator 1 199 23
+Paul 1 199 23
+is 1 199 23
+trying 1 199 23
+to 1 199 23
+warn 1 199 23
+America 1 199 23
+about. 1 199 23
 
-Instead, 0
-people 0
-are 0
-acting 0
-out 0
-of 0
-emotion 0
-and 0
-fear. 0
+Instead, 0 199 24
+people 0 199 24
+are 0 199 24
+acting 0 199 24
+out 0 199 24
+of 0 199 24
+emotion 0 199 24
+and 0 199 24
+fear. 0 199 24
 
-Do 0
-I 0
-believe 0
-we 0
-should 0
-be 0
-concerned 0
-about 0
-North 0
-Korea? 0
+Do 0 199 25
+I 0 199 25
+believe 0 199 25
+we 0 199 25
+should 0 199 25
+be 0 199 25
+concerned 0 199 25
+about 0 199 25
+North 0 199 25
+Korea? 0 199 25
 
-Sure, 0
-but 0
-I'm 0
-hardly 0
-worried 0
-that 0
-they 0
-will 0
-actually 0
-attack 0
-us. 0
+Sure, 0 199 26
+but 0 199 26
+I'm 0 199 26
+hardly 0 199 26
+worried 0 199 26
+that 0 199 26
+they 0 199 26
+will 0 199 26
+actually 0 199 26
+attack 0 199 26
+us. 0 199 26
 
-Am 0
-I 0
-concerned 0
-about 0
-jihadis? 0
+Am 0 199 27
+I 0 199 27
+concerned 0 199 27
+about 0 199 27
+jihadis? 0 199 27
 
-Yep, 0
-but 0
-I'm 0
-not 0
-sure 0
-I've 0
-seen 0
-any 0
-real 0
-hard 0
-evidence 0
-that 0
-torturing 0
-them 0
-has 0
-produced 0
-any 0
-information 0
-that 0
-has 0
-led 0
-to 0
-stopping 0
-terror 0
-attacks. 0
+Yep, 0 199 28
+but 0 199 28
+I'm 0 199 28
+not 0 199 28
+sure 0 199 28
+I've 0 199 28
+seen 0 199 28
+any 0 199 28
+real 0 199 28
+hard 0 199 28
+evidence 0 199 28
+that 0 199 28
+torturing 0 199 28
+them 0 199 28
+has 0 199 28
+produced 0 199 28
+any 0 199 28
+information 0 199 28
+that 0 199 28
+has 0 199 28
+led 0 199 28
+to 0 199 28
+stopping 0 199 28
+terror 0 199 28
+attacks. 0 199 28
 
-And 0
-before 0
-you 0
-tell 0
-me 0
-about 0
-the 0
-media 0
-reports 0
-and 0
-CIA 0
-involvement, 0
-just 0
-keep 0
-in 0
-mind 0
-that 0
-a 1
-former 1
-journalist, 1
-who 1
-is 1
-now 1
-dead, 1
-told 1
-the 1
-world 1
-that 1
-the 1
-media 1
-lies 1
-for 1
-the 1
-CIA. 1
+And 0 199 29
+before 0 199 29
+you 0 199 29
+tell 0 199 29
+me 0 199 29
+about 0 199 29
+the 0 199 29
+media 0 199 29
+reports 0 199 29
+and 0 199 29
+CIA 0 199 29
+involvement, 0 199 29
+just 0 199 29
+keep 0 199 29
+in 0 199 29
+mind 0 199 29
+that 0 199 29
+a 1 199 29
+former 1 199 29
+journalist, 1 199 29
+who 1 199 29
+is 1 199 29
+now 1 199 29
+dead, 1 199 29
+told 1 199 29
+the 1 199 29
+world 1 199 29
+that 1 199 29
+the 1 199 29
+media 1 199 29
+lies 1 199 29
+for 1 199 29
+the 1 199 29
+CIA. 1 199 29
 
-So, 1
-I'm 1
-wary 1
-of 1
-media 1
-reports 1
-that 1
-claim 1
-there 1
-have 1
-been 1
-results 1
-from 1
-the 1
-tactics 1
-used. 1
+So, 1 199 30
+I'm 1 199 30
+wary 1 199 30
+of 1 199 30
+media 1 199 30
+reports 1 199 30
+that 1 199 30
+claim 1 199 30
+there 1 199 30
+have 1 199 30
+been 1 199 30
+results 1 199 30
+from 1 199 30
+the 1 199 30
+tactics 1 199 30
+used. 1 199 30
 
-Trump 1
-has 1
-obviously 1
-had 1
-praise 1
-for 1
-both 1
-Pompeo 1
-and 1
-Haspel, 1
-but 1
-then 1
-again, 1
-his 1
-administration 1
-has 1
-quite 1
-a 1
-bit 1
-of 1
-turn 1
-over 1
-too. 1
+Trump 1 199 31
+has 1 199 31
+obviously 1 199 31
+had 1 199 31
+praise 1 199 31
+for 1 199 31
+both 1 199 31
+Pompeo 1 199 31
+and 1 199 31
+Haspel, 1 199 31
+but 1 199 31
+then 1 199 31
+again, 1 199 31
+his 1 199 31
+administration 1 199 31
+has 1 199 31
+quite 1 199 31
+a 1 199 31
+bit 1 199 31
+of 1 199 31
+turn 1 199 31
+over 1 199 31
+too. 1 199 31
 
-Mike 0
-Pompeo, 0
-Director 0
-of 0
-the 0
-CIA, 0
-will 0
-become 0
-our 0
-new 0
-Secretary 0
-of 0
-State. 0
+Mike 0 199 32
+Pompeo, 0 199 32
+Director 0 199 32
+of 0 199 32
+the 0 199 32
+CIA, 0 199 32
+will 0 199 32
+become 0 199 32
+our 0 199 32
+new 0 199 32
+Secretary 0 199 32
+of 0 199 32
+State. 0 199 32
 
-He 1
-will 1
-do 1
-a 1
-fantastic 1
-job! 1
+He 1 199 33
+will 1 199 33
+do 1 199 33
+a 1 199 33
+fantastic 1 199 33
+job! 1 199 33
 
-Thank 0
-you 0
-to 0
-Rex 0
-Tillerson 0
-for 0
-his 0
-service! 0
+Thank 0 199 34
+you 0 199 34
+to 0 199 34
+Rex 0 199 34
+Tillerson 0 199 34
+for 0 199 34
+his 0 199 34
+service! 0 199 34
 
-Gina 0
-Haspel 0
-will 0
-become 0
-the 0
-new 0
-Director 0
-of 0
-the 0
-CIA, 0
-and 0
-the 0
-first 0
-woman 0
-so 0
-chosen. 0
+Gina 0 199 35
+Haspel 0 199 35
+will 0 199 35
+become 0 199 35
+the 0 199 35
+new 0 199 35
+Director 0 199 35
+of 0 199 35
+the 0 199 35
+CIA, 0 199 35
+and 0 199 35
+the 0 199 35
+first 0 199 35
+woman 0 199 35
+so 0 199 35
+chosen. 0 199 35
 
-Congratulations 0
-to 0
-all! 0
+Congratulations 0 199 36
+to 0 199 36
+all! 0 199 36
 
-— 0
-Donald 0
-J. 0
-Trump 0
-(@realDonaldTrump) 0
-March 0
-13, 0
-2018 0
+— 0 199 37
+Donald 0 199 37
+J. 0 199 37
+Trump 0 199 37
+(@realDonaldTrump) 0 199 37
+March 0 199 37
+13, 0 199 37
+2018 0 199 37
 
-We'll 0
-see 0
-how 0
-things 0
-turn 0
-out 0
-and 0
-I'm 0
-sure 0
-Senator 0
-Paul 0
-is 0
-not 0
-issuing 0
-an 0
-empty 0
-threat 0
-in 0
-the 0
-matter. 0
+We'll 0 199 37
+
+see 0 199 37
+
+how 0 199 37
+
+things 0 199 37
+
+turn 0 199 37
+
+out 0 199 37
+
+and 0 199 37
+
+I'm 0 199 37
+
+sure 0 199 37
+
+Senator 0 199 37
+
+Paul 0 199 37
+
+is 0 199 37
+
+not 0 199 37
+
+issuing 0 199 37
+
+an 0 199 37
+
+empty 0 199 37
+
+threat 0 199 37
+
+in 0 199 37
+
+the 0 199 37
+
+matter. 0 199 37

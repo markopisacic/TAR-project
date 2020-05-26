@@ -1,546 +1,553 @@
-Trump 0
-Pardons 0
-Hammonds! 0
+Trump 0 288 0
+Pardons 0 288 0
+Hammonds! 0 288 0
 
-Now, 0
-this 0
-is 0
-good 0
-news! 0
+Now, 0 288 1
+this 0 288 1
+is 0 288 1
+good 0 288 1
+news! 0 288 1
 
-On 0
-Tuesday, 0
-President 0
-Trump 0
-Oregon 0
-cattle 0
-ranchers, 0
-Dwight 0
-and 0
-Steven 0
-Hammond, 0
-who 0
-had 0
-been 0
-serving 0
-sentences 0
-for 0
-arson. 0
+On 0 288 2
+Tuesday, 0 288 2
+President 0 288 2
+Trump 0 288 2
+Oregon 0 288 2
+cattle 0 288 2
+ranchers, 0 288 2
+Dwight 0 288 2
+and 0 288 2
+Steven 0 288 2
+Hammond, 0 288 2
+who 0 288 2
+had 0 288 2
+been 0 288 2
+serving 0 288 2
+sentences 0 288 2
+for 0 288 2
+arson. 0 288 2
 
-A 0
-Statement 0
-from 0
-the 0
-White 0
-House 0
-read 0
-as 0
-follows: 0
+A 0 288 3
+Statement 0 288 3
+from 0 288 3
+the 0 288 3
+White 0 288 3
+House 0 288 3
+read 0 288 3
+as 0 288 3
+follows: 0 288 3
 
-Today, 0
-President 0
-Donald 0
-J. 0
-Trump 0
-signed 0
-Executive 0
-Grants 0
-of 0
-Clemency 0
-(Full 0
-Pardons) 0
-for 0
-Dwight 0
-Lincoln 0
-Hammond, 0
-Jr., 0
-and 0
-his 0
-son, 0
-Steven 0
-Hammond. 0
+Today, 0 288 4
+President 0 288 4
+Donald 0 288 4
+J. 0 288 4
+Trump 0 288 4
+signed 0 288 4
+Executive 0 288 4
+Grants 0 288 4
+of 0 288 4
+Clemency 0 288 4
+(Full 0 288 4
+Pardons) 0 288 4
+for 0 288 4
+Dwight 0 288 4
+Lincoln 0 288 4
+Hammond, 0 288 4
+Jr., 0 288 4
+and 0 288 4
+his 0 288 4
+son, 0 288 4
+Steven 0 288 4
+Hammond. 0 288 4
 
-The 0
-Hammonds 0
-are 0
-multi-generation 0
-cattle 0
-ranchers 0
-in 0
-Oregon 0
-imprisoned 0
-in 0
-connection 0
-with 0
-a 0
-fire 0
-that 0
-leaked 0
-onto 0
-a 0
-small 1
-portion 0
-of 0
-neighboring 0
-public 0
-grazing 0
-land. 0
+The 0 288 5
+Hammonds 0 288 5
+are 0 288 5
+multi-generation 0 288 5
+cattle 0 288 5
+ranchers 0 288 5
+in 0 288 5
+Oregon 0 288 5
+imprisoned 0 288 5
+in 0 288 5
+connection 0 288 5
+with 0 288 5
+a 0 288 5
+fire 0 288 5
+that 0 288 5
+leaked 0 288 5
+onto 0 288 5
+a 0 288 5
+small 1 288 5
+portion 0 288 5
+of 0 288 5
+neighboring 0 288 5
+public 0 288 5
+grazing 0 288 5
+land. 0 288 5
 
-The 0
-evidence 0
-at 0
-trial 0
-regarding 0
-the 0
-Hammonds’ 0
-responsibility 0
-for 0
-the 0
-fire 0
-was 0
-conflicting, 0
-and 0
-the 0
-jury 0
-acquitted 0
-them 0
-on 0
-most 0
-of 0
-the 0
-charges. 0
+The 0 288 6
+evidence 0 288 6
+at 0 288 6
+trial 0 288 6
+regarding 0 288 6
+the 0 288 6
+Hammonds’ 0 288 6
+responsibility 0 288 6
+for 0 288 6
+the 0 288 6
+fire 0 288 6
+was 0 288 6
+conflicting, 0 288 6
+and 0 288 6
+the 0 288 6
+jury 0 288 6
+acquitted 0 288 6
+them 0 288 6
+on 0 288 6
+most 0 288 6
+of 0 288 6
+the 0 288 6
+charges. 0 288 6
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+take 0 288 7
+our 0 288 7
+poll 0 288 7
+- 0 288 7
+story 0 288 7
+continues 0 288 7
+below 0 288 7
+Will 0 288 7
+Brett 0 288 7
+Kavanaugh 0 288 7
+be 0 288 7
+confirmed 0 288 7
+to 0 288 7
+the 0 288 7
+Supreme 0 288 7
+Court? 0 288 7
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 288 8
+Brett 0 288 8
+Kavanaugh 0 288 8
+be 0 288 8
+confirmed 0 288 8
+to 0 288 8
+the 0 288 8
+Supreme 0 288 8
+Court? 0 288 8
 
-Will 0
-Brett 0
-Kavanaugh 0
-be 0
-confirmed 0
-to 0
-the 0
-Supreme 0
-Court? 0
+Will 0 288 9
+Brett 0 288 9
+Kavanaugh 0 288 9
+be 0 288 9
+confirmed 0 288 9
+to 0 288 9
+the 0 288 9
+Supreme 0 288 9
+Court? 0 288 9
 
-* 0
-Yes, 0
-he 0
-will 0
-be 0
-confirmed. 0
+* 0 288 10
+Yes, 0 288 10
+he 0 288 10
+will 0 288 10
+be 0 288 10
+confirmed. 0 288 10
 
-No, 0
-he 0
-will 0
-not 0
-be 0
-confirmed. 0
+No, 0 288 11
+he 0 288 11
+will 0 288 11
+not 0 288 11
+be 0 288 11
+confirmed. 0 288 11
 
-Email 0
-* 0
+Email 0 288 12
+* 0 288 12
 
-Name 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Name 0 288 13
+This 0 288 13
+field 0 288 13
+is 0 288 13
+for 0 288 13
+validation 0 288 13
+purposes 0 288 13
+and 0 288 13
+should 0 288 13
+be 0 288 13
+left 0 288 13
+unchanged. 0 288 13
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 288 14
+this 0 288 14
+poll 0 288 14
+grants 0 288 14
+you 0 288 14
+access 0 288 14
+to 0 288 14
+Freedom 0 288 14
+Outpost 0 288 14
+updates 0 288 14
+free 0 288 14
+of 0 288 14
+charge. 0 288 14
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 288 15
+may 0 288 15
+opt 0 288 15
+out 0 288 15
+at 0 288 15
+anytime. 0 288 15
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 288 16
+also 0 288 16
+agree 0 288 16
+to 0 288 16
+this 0 288 16
+site's 0 288 16
+Privacy 0 288 16
+Policy 0 288 16
+and 0 288 16
+Terms 0 288 16
+of 0 288 16
+Use. 0 288 16
 
-At 0
-the 0
-Hammonds’ 0
-original 0
-sentencing, 0
-the 0
-judge 0
-noted 0
-that 0
-they 0
-are 0
-respected 0
-in 0
-the 0
-community 0
-and 0
-that 0
-imposing 0
-the 0
-mandatory 0
-minimum, 0
-5-year 0
-prison 0
-sentence 0
-would 0
-“shock 1
-the 1
-conscience” 1
-and 0
-be 0
-“grossly 1
-disproportionate 1
-to 1
-the 1
-severity” 1
-of 0
-their 0
-conduct. 0
+At 0 288 17
+the 0 288 17
+Hammonds’ 0 288 17
+original 0 288 17
+sentencing, 0 288 17
+the 0 288 17
+judge 0 288 17
+noted 0 288 17
+that 0 288 17
+they 0 288 17
+are 0 288 17
+respected 0 288 17
+in 0 288 17
+the 0 288 17
+community 0 288 17
+and 0 288 17
+that 0 288 17
+imposing 0 288 17
+the 0 288 17
+mandatory 0 288 17
+minimum, 0 288 17
+5-year 0 288 17
+prison 0 288 17
+sentence 0 288 17
+would 0 288 17
+“shock 1 288 17
+the 1 288 17
+conscience” 1 288 17
+and 0 288 17
+be 0 288 17
+“grossly 1 288 17
+disproportionate 1 288 17
+to 1 288 17
+the 1 288 17
+severity” 1 288 17
+of 0 288 17
+their 0 288 17
+conduct. 0 288 17
 
-As 0
-a 0
-result, 0
-the 0
-judge 0
-imposed 0
-significantly 0
-lesser 0
-sentences. 0
+As 0 288 18
+a 0 288 18
+result, 0 288 18
+the 0 288 18
+judge 0 288 18
+imposed 0 288 18
+significantly 0 288 18
+lesser 0 288 18
+sentences. 0 288 18
 
-The 0
-previous 0
-administration, 0
-however, 0
-filed 0
-an 0
-overzealous 1
-appeal 0
-that 0
-resulted 0
-in 0
-the 0
-Hammonds 0
-being 0
-sentenced 0
-to 0
-five 0
-years 0
-in 0
-prison. 0
+The 0 288 19
+previous 0 288 19
+administration, 0 288 19
+however, 0 288 19
+filed 0 288 19
+an 0 288 19
+overzealous 1 288 19
+appeal 0 288 19
+that 0 288 19
+resulted 0 288 19
+in 0 288 19
+the 0 288 19
+Hammonds 0 288 19
+being 0 288 19
+sentenced 0 288 19
+to 0 288 19
+five 0 288 19
+years 0 288 19
+in 0 288 19
+prison. 0 288 19
 
-This 0
-was 0
-unjust. 1
+This 0 288 20
+was 0 288 20
+unjust. 1 288 20
 
-Dwight 0
-Hammond 0
-is 0
-now 0
-76 0
-years 0
-old 0
-and 0
-has 0
-served 0
-approximately 0
-three 0
-years 0
-in 0
-prison. 0
+Dwight 0 288 21
+Hammond 0 288 21
+is 0 288 21
+now 0 288 21
+76 0 288 21
+years 0 288 21
+old 0 288 21
+and 0 288 21
+has 0 288 21
+served 0 288 21
+approximately 0 288 21
+three 0 288 21
+years 0 288 21
+in 0 288 21
+prison. 0 288 21
 
-Steven 0
-Hammond 0
-is 0
-49 0
-and 0
-has 0
-served 0
-approximately 0
-four 0
-years 0
-in 0
-prison. 0
+Steven 0 288 22
+Hammond 0 288 22
+is 0 288 22
+49 0 288 22
+and 0 288 22
+has 0 288 22
+served 0 288 22
+approximately 0 288 22
+four 0 288 22
+years 0 288 22
+in 0 288 22
+prison. 0 288 22
 
-They 0
-have 0
-also 0
-paid 0
-$400,000 0
-to 0
-the 0
-United 0
-States 0
-to 0
-settle 0
-a 0
-related 0
-civil 0
-suit. 0
+They 0 288 23
+have 0 288 23
+also 0 288 23
+paid 0 288 23
+$400,000 0 288 23
+to 0 288 23
+the 0 288 23
+United 0 288 23
+States 0 288 23
+to 0 288 23
+settle 0 288 23
+a 0 288 23
+related 0 288 23
+civil 0 288 23
+suit. 0 288 23
 
-The 0
-Hammonds 0
-are 0
-devoted 1
-family 1
-men, 1
-respected 1
-contributors 1
-to 1
-their 1
-local 1
-community, 1
-and 0
-have 0
-widespread 0
-support 0
-from 0
-their 0
-neighbors, 0
-local 0
-law 0
-enforcement, 0
-and 0
-farmers 0
-and 0
-ranchers 0
-across 0
-the 0
-West. 0
+The 0 288 24
+Hammonds 0 288 24
+are 0 288 24
+devoted 1 288 24
+family 1 288 24
+men, 1 288 24
+respected 1 288 24
+contributors 1 288 24
+to 1 288 24
+their 1 288 24
+local 1 288 24
+community, 1 288 24
+and 0 288 24
+have 0 288 24
+widespread 0 288 24
+support 0 288 24
+from 0 288 24
+their 0 288 24
+neighbors, 0 288 24
+local 0 288 24
+law 0 288 24
+enforcement, 0 288 24
+and 0 288 24
+farmers 0 288 24
+and 0 288 24
+ranchers 0 288 24
+across 0 288 24
+the 0 288 24
+West. 0 288 24
 
-Justice 0
-is 0
-overdue 0
-for 0
-Dwight 0
-and 0
-Steven 0
-Hammond, 0
-both 0
-of 0
-whom 0
-are 0
-entirely 1
-deserving 1
-of 0
-these 0
-Grants 0
-of 0
-Executive 0
-Clemency. 0
+Justice 0 288 25
+is 0 288 25
+overdue 0 288 25
+for 0 288 25
+Dwight 0 288 25
+and 0 288 25
+Steven 0 288 25
+Hammond, 0 288 25
+both 0 288 25
+of 0 288 25
+whom 0 288 25
+are 0 288 25
+entirely 1 288 25
+deserving 1 288 25
+of 0 288 25
+these 0 288 25
+Grants 0 288 25
+of 0 288 25
+Executive 0 288 25
+Clemency. 0 288 25
 
-Well, 0
-it 0
-took 0
-long 0
-enough, 0
-but 0
-thank 0
-you 0
-President 0
-Trump. 0
+Well, 0 288 26
+it 0 288 26
+took 0 288 26
+long 0 288 26
+enough, 0 288 26
+but 0 288 26
+thank 0 288 26
+you 0 288 26
+President 0 288 26
+Trump. 0 288 26
 
-You 0
-did 0
-the 0
-right 0
-thing 0
-in 0
-this 0
-matter. 0
+You 0 288 27
+did 0 288 27
+the 0 288 27
+right 0 288 27
+thing 0 288 27
+in 0 288 27
+this 0 288 27
+matter. 0 288 27
 
-And 0
-for 0
-all 0
-those 0
-who 0
-took 0
-the 0
-time 0
-to 0
-keep 0
-this 0
-story 0
-alive 0
-and 0
-urge 0
-people 0
-to 0
-petition 0
-the 0
-White 0
-House 0
-on 0
-behalf 0
-of 0
-the 0
-Hammonds, 0
-thank 0
-you! 0
+And 0 288 28
+for 0 288 28
+all 0 288 28
+those 0 288 28
+who 0 288 28
+took 0 288 28
+the 0 288 28
+time 0 288 28
+to 0 288 28
+keep 0 288 28
+this 0 288 28
+story 0 288 28
+alive 0 288 28
+and 0 288 28
+urge 0 288 28
+people 0 288 28
+to 0 288 28
+petition 0 288 28
+the 0 288 28
+White 0 288 28
+House 0 288 28
+on 0 288 28
+behalf 0 288 28
+of 0 288 28
+the 0 288 28
+Hammonds, 0 288 28
+thank 0 288 28
+you! 0 288 28
 
-It 0
-should 0
-be 0
-noted 0
-that 0
-the 0
-protests 0
-that 0
-took 0
-place 0
-in 0
-Oregon 0
-a 0
-couple 0
-of 0
-years 0
-ago 0
-were 0
-a 0
-response 0
-to 0
-the 0
-injustice 1
-the 0
-Hammonds 0
-faced. 0
+It 0 288 29
+should 0 288 29
+be 0 288 29
+noted 0 288 29
+that 0 288 29
+the 0 288 29
+protests 0 288 29
+that 0 288 29
+took 0 288 29
+place 0 288 29
+in 0 288 29
+Oregon 0 288 29
+a 0 288 29
+couple 0 288 29
+of 0 288 29
+years 0 288 29
+ago 0 288 29
+were 0 288 29
+a 0 288 29
+response 0 288 29
+to 0 288 29
+the 0 288 29
+injustice 1 288 29
+the 0 288 29
+Hammonds 0 288 29
+faced. 0 288 29
 
-As 0
-a 0
-result, 0
-Robert 0
-"LaVoy" 0
-Finicum 0
-was 0
-killed 0
-by 0
-Oregon 0
-State 0
-Police. 0
+As 0 288 30
+a 0 288 30
+result, 0 288 30
+Robert 0 288 30
+"LaVoy" 0 288 30
+Finicum 0 288 30
+was 0 288 30
+killed 0 288 30
+by 0 288 30
+Oregon 0 288 30
+State 0 288 30
+Police. 0 288 30
 
-Those 0
-who 0
-led 0
-the 0
-protest 0
-were 0
-all 0
-acquitted 0
-of 0
-all 0
-charges 0
-and 0
-reporter 0
-Pete 0
-Santilli 0
-had 0
-all 0
-of 0
-his 0
-charges 0
-dismissed. 0
+Those 0 288 31
+who 0 288 31
+led 0 288 31
+the 0 288 31
+protest 0 288 31
+were 0 288 31
+all 0 288 31
+acquitted 0 288 31
+of 0 288 31
+all 0 288 31
+charges 0 288 31
+and 0 288 31
+reporter 0 288 31
+Pete 0 288 31
+Santilli 0 288 31
+had 0 288 31
+all 0 288 31
+of 0 288 31
+his 0 288 31
+charges 0 288 31
+dismissed. 0 288 31
 
-No 0
-doubt, 0
-Finicum 0
-would 0
-have 0
-been 0
-found 0
-not 0
-guilty 0
-as 0
-well, 0
-but 0
-that's 0
-not 0
-how 0
-tyrants 1
-work, 0
-is 0
-it? 0
+No 0 288 32
+doubt, 0 288 32
+Finicum 0 288 32
+would 0 288 32
+have 0 288 32
+been 0 288 32
+found 0 288 32
+not 0 288 32
+guilty 0 288 32
+as 0 288 32
+well, 0 288 32
+but 0 288 32
+that's 0 288 32
+not 0 288 32
+how 0 288 32
+tyrants 1 288 32
+work, 0 288 32
+is 0 288 32
+it? 0 288 32
 
-Today 0
-is 0
-a 0
-day 0
-to 0
-celebrate 0
-a 0
-wrong 0
-that 0
-has 0
-not 0
-been 0
-fully 0
-made 0
-right, 0
-but 0
-has 0
-definitely 0
-turned 0
-in 0
-the 0
-right 0
-direction! 0
+Today 0 288 33
+is 0 288 33
+a 0 288 33
+day 0 288 33
+to 0 288 33
+celebrate 0 288 33
+a 0 288 33
+wrong 0 288 33
+that 0 288 33
+has 0 288 33
+not 0 288 33
+been 0 288 33
+fully 0 288 33
+made 0 288 33
+right, 0 288 33
+but 0 288 33
+has 0 288 33
+definitely 0 288 33
+turned 0 288 33
+in 0 288 33
+the 0 288 33
+right 0 288 33
+direction! 0 288 33
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-The 0
-Washington 0
-Standard 0
+Article 0 288 33
+
+posted 0 288 33
+
+with 0 288 33
+
+permission 0 288 33
+
+from 0 288 33
+
+The 0 288 33
+
+Washington 0 288 33
+
+Standard 0 288 33

@@ -1,640 +1,672 @@
-Migrant 0
-Caravan 0
-Reach 0
-Border 0
-& 0
-Climb 1
-Atop 1
-Fencing 1
-Effortlessly 1
-(Video) 0
+Migrant 0 438 0
+Caravan 0 438 0
+Reach 0 438 0
+Border 0 438 0
+& 0 438 0
+Climb 1 438 0
+Atop 1 438 0
+Fencing 1 438 0
+Effortlessly 1 438 0
+(Video) 0 438 0
 
-Members 0
-from 0
-one 0
-of 0
-the 0
-migrant 0
-caravans 0
-finally 0
-reached 0
-the 0
-US 0
-border 0
-on 0
-Tuesday. 0
+Members 0 438 1
+from 0 438 1
+one 0 438 1
+of 0 438 1
+the 0 438 1
+migrant 0 438 1
+caravans 0 438 1
+finally 0 438 1
+reached 0 438 1
+the 0 438 1
+US 0 438 1
+border 0 438 1
+on 0 438 1
+Tuesday. 0 438 1
 
-Videos 0
-were 0
-captured 0
-and 0
-Border 0
-Patrol 0
-agents 0
-were 0
-on 0
-the 0
-scene 0
-as 0
-they 0
-were 0
-witnessed 0
-climbing 1
-effortlessly 1
-up 0
-the 0
-wall 0
-and 0
-standing 0
-and 0
-sitting 0
-atop 0
-it. 0
+Videos 0 438 2
+were 0 438 2
+captured 0 438 2
+and 0 438 2
+Border 0 438 2
+Patrol 0 438 2
+agents 0 438 2
+were 0 438 2
+on 0 438 2
+the 0 438 2
+scene 0 438 2
+as 0 438 2
+they 0 438 2
+were 0 438 2
+witnessed 0 438 2
+climbing 1 438 2
+effortlessly 1 438 2
+up 0 438 2
+the 0 438 2
+wall 0 438 2
+and 0 438 2
+standing 0 438 2
+and 0 438 2
+sitting 0 438 2
+atop 0 438 2
+it. 0 438 2
 
-Fox 0
-5 0
-reports: 0
+Fox 0 438 3
+5 0 438 3
+reports: 0 438 3
 
-SAN 0
-DIEGO 0
--- 0
-People 0
-on 0
-the 0
-Mexican 0
-side 0
-of 0
-the 0
-border 0
-could 0
-be 0
-seen 0
-climbing 0
-the 0
-fence 0
-near 0
-Border 0
-Field 0
-State 0
-Park 0
-Tuesday 0
-afternoon 0
-after 0
-part 0
-of 0
-the 0
-Central 0
-American 0
-migrant 0
-caravan 0
-arrived 0
-in 0
-Tijuana. 0
+SAN 0 438 4
+DIEGO 0 438 4
+-- 0 438 4
+People 0 438 4
+on 0 438 4
+the 0 438 4
+Mexican 0 438 4
+side 0 438 4
+of 0 438 4
+the 0 438 4
+border 0 438 4
+could 0 438 4
+be 0 438 4
+seen 0 438 4
+climbing 0 438 4
+the 0 438 4
+fence 0 438 4
+near 0 438 4
+Border 0 438 4
+Field 0 438 4
+State 0 438 4
+Park 0 438 4
+Tuesday 0 438 4
+afternoon 0 438 4
+after 0 438 4
+part 0 438 4
+of 0 438 4
+the 0 438 4
+Central 0 438 4
+American 0 438 4
+migrant 0 438 4
+caravan 0 438 4
+arrived 0 438 4
+in 0 438 4
+Tijuana. 0 438 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+take 0 438 5
+our 0 438 5
+poll 0 438 5
+- 0 438 5
+story 0 438 5
+continues 0 438 5
+below 0 438 5
+Should 0 438 5
+Jim 0 438 5
+Acosta 0 438 5
+have 0 438 5
+gotten 0 438 5
+his 0 438 5
+press 0 438 5
+pass 0 438 5
+back? 0 438 5
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 438 6
+Jim 0 438 6
+Acosta 0 438 6
+have 0 438 6
+gotten 0 438 6
+his 0 438 6
+press 0 438 6
+pass 0 438 6
+back? 0 438 6
 
-Should 0
-Jim 0
-Acosta 0
-have 0
-gotten 0
-his 0
-press 0
-pass 0
-back? 0
+Should 0 438 7
+Jim 0 438 7
+Acosta 0 438 7
+have 0 438 7
+gotten 0 438 7
+his 0 438 7
+press 0 438 7
+pass 0 438 7
+back? 0 438 7
 
-* 0
-Yes, 0
-he 0
-should 0
-have 0
-gotten 0
-it 0
-back. 0
+* 0 438 8
+Yes, 0 438 8
+he 0 438 8
+should 0 438 8
+have 0 438 8
+gotten 0 438 8
+it 0 438 8
+back. 0 438 8
 
-No, 0
-you 0
-can't 0
-act 0
-like 0
-a 0
-child 0
-and 0
-keep 0
-your 0
-pass. 0
+No, 0 438 9
+you 0 438 9
+can't 0 438 9
+act 0 438 9
+like 0 438 9
+a 0 438 9
+child 0 438 9
+and 0 438 9
+keep 0 438 9
+your 0 438 9
+pass. 0 438 9
 
-Maybe? 0
+Maybe? 0 438 10
 
-I'm 0
-not 0
-sure 0
-if 0
-he 0
-should 0
-have. 0
+I'm 0 438 11
+not 0 438 11
+sure 0 438 11
+if 0 438 11
+he 0 438 11
+should 0 438 11
+have. 0 438 11
 
-Email 0
-* 0
+Email 0 438 12
+* 0 438 12
 
-Comments 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Comments 0 438 13
+This 0 438 13
+field 0 438 13
+is 0 438 13
+for 0 438 13
+validation 0 438 13
+purposes 0 438 13
+and 0 438 13
+should 0 438 13
+be 0 438 13
+left 0 438 13
+unchanged. 0 438 13
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 438 14
+this 0 438 14
+poll 0 438 14
+grants 0 438 14
+you 0 438 14
+access 0 438 14
+to 0 438 14
+Freedom 0 438 14
+Outpost 0 438 14
+updates 0 438 14
+free 0 438 14
+of 0 438 14
+charge. 0 438 14
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 438 15
+may 0 438 15
+opt 0 438 15
+out 0 438 15
+at 0 438 15
+anytime. 0 438 15
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 438 16
+also 0 438 16
+agree 0 438 16
+to 0 438 16
+this 0 438 16
+site's 0 438 16
+Privacy 0 438 16
+Policy 0 438 16
+and 0 438 16
+Terms 0 438 16
+of 0 438 16
+Use. 0 438 16
 
-Several 0
-people 0
-scaled 0
-the 0
-fence 0
-and 0
-sat 0
-on 0
-top 0
-of 0
-it. 0
+Several 0 438 17
+people 0 438 17
+scaled 0 438 17
+the 0 438 17
+fence 0 438 17
+and 0 438 17
+sat 0 438 17
+on 0 438 17
+top 0 438 17
+of 0 438 17
+it. 0 438 17
 
-A 0
-few 0
-jumped 0
-or 0
-crawled 0
-to 0
-openings 0
-in 0
-the 0
-fence 0
-onto 0
-U.S. 0
-soil 0
-but 0
-quickly 0
-ran 0
-back 0
-as 0
-Border 0
-Patrol 0
-agents 0
-approached. 0
+A 0 438 18
+few 0 438 18
+jumped 0 438 18
+or 0 438 18
+crawled 0 438 18
+to 0 438 18
+openings 0 438 18
+in 0 438 18
+the 0 438 18
+fence 0 438 18
+onto 0 438 18
+U.S. 0 438 18
+soil 0 438 18
+but 0 438 18
+quickly 0 438 18
+ran 0 438 18
+back 0 438 18
+as 0 438 18
+Border 0 438 18
+Patrol 0 438 18
+agents 0 438 18
+approached. 0 438 18
 
-Several 0
-border 0
-agents 0
-were 0
-seen 0
-patrolling 0
-the 0
-area 0
-in 0
-trucks, 0
-4-wheelers, 0
-a 0
-helicopter 0
-and 0
-on 0
-horses. 0
+Several 0 438 19
+border 0 438 19
+agents 0 438 19
+were 0 438 19
+seen 0 438 19
+patrolling 0 438 19
+the 0 438 19
+area 0 438 19
+in 0 438 19
+trucks, 0 438 19
+4-wheelers, 0 438 19
+a 0 438 19
+helicopter 0 438 19
+and 0 438 19
+on 0 438 19
+horses. 0 438 19
 
-Video 0
-of 0
-the 0
-migrants 0
-was 0
-captured 0
-in 0
-various 0
-reports. 0
+Video 0 438 20
+of 0 438 20
+the 0 438 20
+migrants 0 438 20
+was 0 438 20
+captured 0 438 20
+in 0 438 20
+various 0 438 20
+reports. 0 438 20
 
-The 0
-caravan 0
-is 0
-here, 0
-illegally 0
-entering 0
-America 0
-This 0
-is 0
-a 0
-national 0
-disgrace 0
-Arrest 0
-and 0
-deport 0
-them 0
-all 0
-back 0
-to 0
-their 0
-home 0
-country 0
-pic.twitter.com/zmAvbC13eL 0
-— 0
-Charlie 0
-Kirk 0
-(@charliekirk11) 0
-November 0
-14, 0
-2018 0
+The 0 438 21
+caravan 0 438 21
+is 0 438 21
+here, 0 438 21
+illegally 0 438 21
+entering 0 438 21
+America 0 438 21
+This 0 438 21
+is 0 438 21
+a 0 438 21
+national 0 438 21
+disgrace 0 438 21
+Arrest 0 438 21
+and 0 438 21
+deport 0 438 21
+them 0 438 21
+all 0 438 21
+back 0 438 21
+to 0 438 21
+their 0 438 21
+home 0 438 21
+country 0 438 21
+pic.twitter.com/zmAvbC13eL 0 438 21
+— 0 438 21
+Charlie 0 438 21
+Kirk 0 438 21
+(@charliekirk11) 0 438 21
+November 0 438 21
+14, 0 438 21
+2018 0 438 21
 
-Increased 0
-activity 0
-at 0
-the 0
-U.S.-Mexico 0
-border 0
-after 0
-part 0
-of 0
-the 0
-Central 0
-American 0
-migrant 0
-caravan 0
-arrived 0
-in 0
-Tijuana. 0
+Increased 0 438 22
+activity 0 438 22
+at 0 438 22
+the 0 438 22
+U.S.-Mexico 0 438 22
+border 0 438 22
+after 0 438 22
+part 0 438 22
+of 0 438 22
+the 0 438 22
+Central 0 438 22
+American 0 438 22
+migrant 0 438 22
+caravan 0 438 22
+arrived 0 438 22
+in 0 438 22
+Tijuana. 0 438 22
 
-Border 0
-Patrol 0
-has 0
-not 0
-confirmed 0
-whether 0
-this 0
-group 0
-is 0
-part 0
-of 0
-the 0
-caravan.STORY: 0
-http://via.kswbtv.com/Ky5E4 0
-Posted 0
-by 0
-FOX 0
-5 0
-San 0
-Diego 0
-on 0
-Tuesday, 0
-November 0
-13, 0
-2018 0
+Border 0 438 23
+Patrol 0 438 23
+has 0 438 23
+not 0 438 23
+confirmed 0 438 23
+whether 0 438 23
+this 0 438 23
+group 0 438 23
+is 0 438 23
+part 0 438 23
+of 0 438 23
+the 0 438 23
+caravan.STORY: 0 438 23
+http://via.kswbtv.com/Ky5E4 0 438 23
+Posted 0 438 23
+by 0 438 23
+FOX 0 438 23
+5 0 438 23
+San 0 438 23
+Diego 0 438 23
+on 0 438 23
+Tuesday, 0 438 23
+November 0 438 23
+13, 0 438 23
+2018 0 438 23
 
-US 0
-Customs 0
-and 0
-Border 0
-Patrol 0
-San 0
-Diego 0
-tweeted, 0
-"The 0
-first 0
-group 0
-of 0
-the 0
-migrant 0
-caravan 0
-arrived 0
-at 0
-the 0
-Tijuana 0
-border 0
-yesterday 0
-afternoon. 0
+US 0 438 24
+Customs 0 438 24
+and 0 438 24
+Border 0 438 24
+Patrol 0 438 24
+San 0 438 24
+Diego 0 438 24
+tweeted, 0 438 24
+"The 0 438 24
+first 0 438 24
+group 0 438 24
+of 0 438 24
+the 0 438 24
+migrant 0 438 24
+caravan 0 438 24
+arrived 0 438 24
+at 0 438 24
+the 0 438 24
+Tijuana 0 438 24
+border 0 438 24
+yesterday 0 438 24
+afternoon. 0 438 24
 
-# 0
-CBP 0
-has 0
-deployed 0
-resources 0
-to 0
-safely 0
-secure 0
-the 0
-area 0
-near 0
-Imperial 0
-Beach. 0
+# 0 438 25
+CBP 0 438 25
+has 0 438 25
+deployed 0 438 25
+resources 0 438 25
+to 0 438 25
+safely 0 438 25
+secure 0 438 25
+the 0 438 25
+area 0 438 25
+near 0 438 25
+Imperial 0 438 25
+Beach. 0 438 25
 
-All 0
-seeking 0
-entry 0
-into 0
-the 0
-U.S. 0
-are 0
-urged 0
-to 0
-present 0
-themselves 0
-at 0
-an 0
-official 0
-Port 0
-of 0
-Entry." 0
+All 0 438 26
+seeking 0 438 26
+entry 0 438 26
+into 0 438 26
+the 0 438 26
+U.S. 0 438 26
+are 0 438 26
+urged 0 438 26
+to 0 438 26
+present 0 438 26
+themselves 0 438 26
+at 0 438 26
+an 0 438 26
+official 0 438 26
+Port 0 438 26
+of 0 438 26
+Entry." 0 438 26
 
-The 0
-first 0
-group 0
-of 0
-the 1
-migrant 1
-caravan 1
-arrived 0
-at 0
-the 0
-Tijuana 0
-border 0
-yesterday 0
-afternoon. 0
+The 0 438 27
+first 0 438 27
+group 0 438 27
+of 0 438 27
+the 1 438 27
+migrant 1 438 27
+caravan 1 438 27
+arrived 0 438 27
+at 0 438 27
+the 0 438 27
+Tijuana 0 438 27
+border 0 438 27
+yesterday 0 438 27
+afternoon. 0 438 27
 
-#CBP 0
-has 0
-deployed 0
-resources 0
-to 0
-safely 0
-secure 0
-the 0
-area 0
-near 0
-Imperial 0
-Beach. 0
+#CBP 0 438 28
+has 0 438 28
+deployed 0 438 28
+resources 0 438 28
+to 0 438 28
+safely 0 438 28
+secure 0 438 28
+the 0 438 28
+area 0 438 28
+near 0 438 28
+Imperial 0 438 28
+Beach. 0 438 28
 
-All 0
-seeking 0
-entry 0
-into 0
-the 0
-U.S. 0
-are 0
-urged 0
-to 0
-present 0
-themselves 0
-at 0
-an 0
-official 0
-Port 0
-of 0
-Entry. 0
+All 0 438 29
+seeking 0 438 29
+entry 0 438 29
+into 0 438 29
+the 0 438 29
+U.S. 0 438 29
+are 0 438 29
+urged 0 438 29
+to 0 438 29
+present 0 438 29
+themselves 0 438 29
+at 0 438 29
+an 0 438 29
+official 0 438 29
+Port 0 438 29
+of 0 438 29
+Entry. 0 438 29
 
-#USBP 0
-pic.twitter.com/uGWUKjxJkj 0
-— 0
-CBP 0
-San 0
-Diego 0
-(@CBPSanDiego) 0
-November 0
-14, 0
-2018 0
+#USBP 0 438 30
+pic.twitter.com/uGWUKjxJkj 0 438 30
+— 0 438 30
+CBP 0 438 30
+San 0 438 30
+Diego 0 438 30
+(@CBPSanDiego) 0 438 30
+November 0 438 30
+14, 0 438 30
+2018 0 438 30
 
-Secretary 0
-of 0
-Homeland 0
-Security 0
-Kirstjen 0
-Nielsen 0
-said, 0
-"Border 0
-security 0
-is 0
-national 0
-security, 0
-and 0
-@ 0
-DHSgov 0
-will 0
-enforce 0
-our 0
-nation's 0
-laws. 0
+Secretary 0 438 31
+of 0 438 31
+Homeland 0 438 31
+Security 0 438 31
+Kirstjen 0 438 31
+Nielsen 0 438 31
+said, 0 438 31
+"Border 0 438 31
+security 0 438 31
+is 0 438 31
+national 0 438 31
+security, 0 438 31
+and 0 438 31
+@ 0 438 31
+DHSgov 0 438 31
+will 0 438 31
+enforce 0 438 31
+our 0 438 31
+nation's 0 438 31
+laws. 0 438 31
 
-Today, 0
-I 0
-am 0
-at 0
-the 0
-# 0
-Texas 0
-border 0
-talking 0
-with 0
-@ 0
-CBP 0
-officials 0
-on 0
-how 0
-we 0
-are 0
-securing 0
-ports 0
-of 0
-entry." 0
+Today, 0 438 32
+I 0 438 32
+am 0 438 32
+at 0 438 32
+the 0 438 32
+# 0 438 32
+Texas 0 438 32
+border 0 438 32
+talking 0 438 32
+with 0 438 32
+@ 0 438 32
+CBP 0 438 32
+officials 0 438 32
+on 0 438 32
+how 0 438 32
+we 0 438 32
+are 0 438 32
+securing 0 438 32
+ports 0 438 32
+of 0 438 32
+entry." 0 438 32
 
-Border 0
-security 0
-is 0
-national 0
-security, 0
-and 0
-@DHSgov 0
-will 0
-enforce 0
-our 0
-nation's 0
-laws. 0
+Border 0 438 33
+security 0 438 33
+is 0 438 33
+national 0 438 33
+security, 0 438 33
+and 0 438 33
+@DHSgov 0 438 33
+will 0 438 33
+enforce 0 438 33
+our 0 438 33
+nation's 0 438 33
+laws. 0 438 33
 
-Today, 0
-I 0
-am 0
-at 0
-the 0
-#Texas 0
-border 0
-talking 0
-with 0
-@CBP 0
-officials 0
-on 0
-how 0
-we 0
-are 0
-securing 0
-ports 0
-of 0
-entry. 0
+Today, 0 438 34
+I 0 438 34
+am 0 438 34
+at 0 438 34
+the 0 438 34
+#Texas 0 438 34
+border 0 438 34
+talking 0 438 34
+with 0 438 34
+@CBP 0 438 34
+officials 0 438 34
+on 0 438 34
+how 0 438 34
+we 0 438 34
+are 0 438 34
+securing 0 438 34
+ports 0 438 34
+of 0 438 34
+entry. 0 438 34
 
-pic.twitter.com/fOlIQNF5pW 0
-— 0
-Sec. 0
+pic.twitter.com/fOlIQNF5pW 0 438 35
+— 0 438 35
+Sec. 0 438 35
 
-Kirstjen 0
-Nielsen 0
-(@SecNielsen) 0
-November 0
-14, 0
-2018 0
+Kirstjen 0 438 36
+Nielsen 0 438 36
+(@SecNielsen) 0 438 36
+November 0 438 36
+14, 0 438 36
+2018 0 438 36
 
-She 0
-also 0
-met 0
-with 0
-Secretary 0
-of 0
-Defense 0
-James 0
-Mattis 0
-in 0
-Texas. 0
+She 0 438 37
+also 0 438 37
+met 0 438 37
+with 0 438 37
+Secretary 0 438 37
+of 0 438 37
+Defense 0 438 37
+James 0 438 37
+Mattis 0 438 37
+in 0 438 37
+Texas. 0 438 37
 
-I 0
-met 0
-with 0
-#SecDef 0
-in 0
-#Texas 0
-today 0
-to 0
-highlight 0
-the 0
-work 0
-that 0
-we 0
-are 0
-doing 0
-together 0
-to 0
-secure 0
-our 0
-borders. 0
+I 0 438 38
+met 0 438 38
+with 0 438 38
+#SecDef 0 438 38
+in 0 438 38
+#Texas 0 438 38
+today 0 438 38
+to 0 438 38
+highlight 0 438 38
+the 0 438 38
+work 0 438 38
+that 0 438 38
+we 0 438 38
+are 0 438 38
+doing 0 438 38
+together 0 438 38
+to 0 438 38
+secure 0 438 38
+our 0 438 38
+borders. 0 438 38
 
-I 0
-want 0
-to 0
-thank 0
-@DeptofDefense 0
-for 0
-their 0
-partnership 0
-across 0
-the 0
-full 0
-spectrum 0
-of 0
-@DHSgov 0
-missions. 0
+I 0 438 39
+want 0 438 39
+to 0 438 39
+thank 0 438 39
+@DeptofDefense 0 438 39
+for 0 438 39
+their 0 438 39
+partnership 0 438 39
+across 0 438 39
+the 0 438 39
+full 0 438 39
+spectrum 0 438 39
+of 0 438 39
+@DHSgov 0 438 39
+missions. 0 438 39
 
-pic.twitter.com/eGyzwyXDw9 0
-— 0
-Sec. 0
+pic.twitter.com/eGyzwyXDw9 0 438 40
+— 0 438 40
+Sec. 0 438 40
 
-Kirstjen 0
-Nielsen 0
-(@SecNielsen) 0
-November 0
-14, 0
-2018 0
+Kirstjen 0 438 41
+Nielsen 0 438 41
+(@SecNielsen) 0 438 41
+November 0 438 41
+14, 0 438 41
+2018 0 438 41
 
-So 0
-far, 0
-we 0
-are 0
-being 0
-told 0
-that 0
-authorities 0
-are 0
-keeping 0
-an 0
-eye 0
-on 0
-the 0
-migrants 0
-as 0
-they 0
-celebrate 0
-their 0
-journey, 0
-but 0
-no 0
-reports 0
-have 0
-been 0
-issued 0
-saying 0
-they 0
-have 0
-actually 0
-crossed 0
-over 0
-yet. 0
+So 0 438 41
+
+far, 0 438 41
+
+we 0 438 41
+
+are 0 438 41
+
+being 0 438 41
+
+told 0 438 41
+
+that 0 438 41
+
+authorities 0 438 41
+
+are 0 438 41
+
+keeping 0 438 41
+
+an 0 438 41
+
+eye 0 438 41
+
+on 0 438 41
+
+the 0 438 41
+
+migrants 0 438 41
+
+as 0 438 41
+
+they 0 438 41
+
+celebrate 0 438 41
+
+their 0 438 41
+
+journey, 0 438 41
+
+but 0 438 41
+
+no 0 438 41
+
+reports 0 438 41
+
+have 0 438 41
+
+been 0 438 41
+
+issued 0 438 41
+
+saying 0 438 41
+
+they 0 438 41
+
+have 0 438 41
+
+actually 0 438 41
+
+crossed 0 438 41
+
+over 0 438 41
+
+yet. 0 438 41

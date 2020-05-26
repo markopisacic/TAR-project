@@ -1,409 +1,452 @@
-Rand 0
-Paul 0
-says 0
-he’ll 0
-oppose 0
-Trump’s 0
-CIA, 0
-State 0
-Department 0
-nominees 0
+Rand 0 196 0
+Paul 0 196 0
+says 0 196 0
+he’ll 0 196 0
+oppose 0 196 0
+Trump’s 0 196 0
+CIA, 0 196 0
+State 0 196 0
+Department 0 196 0
+nominees 0 196 0
 
-Personal 0
-Liberty 0
-Poll 0
-Exercise 0
-your 0
-right 0
-to 0
-vote. 0
+Personal 0 196 1
+Liberty 0 196 1
+Poll 0 196 1
+Exercise 0 196 1
+your 0 196 1
+right 0 196 1
+to 0 196 1
+vote. 0 196 1
 
-Sen. 0
-Rand 0
-Paul 0
-(R-Ky.) 0
-says 0
-he 0
-plans 0
-to 0
-do 0
-everything 0
-in 0
-his 0
-power 0
-to 0
-block 0
-President 0
-Donald 0
-Trump’s 0
-nominations 0
-to 0
-head 0
-the 0
-State 0
-Department 0
-and 0
-Central 0
-Intelligence 0
-Agency 0
-over 0
-war 0
-and 0
-torture 0
-concerns. 0
+Sen. 0 196 2
+Rand 0 196 2
+Paul 0 196 2
+(R-Ky.) 0 196 2
+says 0 196 2
+he 0 196 2
+plans 0 196 2
+to 0 196 2
+do 0 196 2
+everything 0 196 2
+in 0 196 2
+his 0 196 2
+power 0 196 2
+to 0 196 2
+block 0 196 2
+President 0 196 2
+Donald 0 196 2
+Trump’s 0 196 2
+nominations 0 196 2
+to 0 196 2
+head 0 196 2
+the 0 196 2
+State 0 196 2
+Department 0 196 2
+and 0 196 2
+Central 0 196 2
+Intelligence 0 196 2
+Agency 0 196 2
+over 0 196 2
+war 0 196 2
+and 0 196 2
+torture 0 196 2
+concerns. 0 196 2
 
-We 0
-told 0
-you 0
-about 0
-Trump’s 0
-administration 0
-shake-ups 0
-and 0
-new 0
-nominees 0
-Tuesday: 0
+We 0 196 3
+told 0 196 3
+you 0 196 3
+about 0 196 3
+Trump’s 0 196 3
+administration 0 196 3
+shake-ups 0 196 3
+and 0 196 3
+new 0 196 3
+nominees 0 196 3
+Tuesday: 0 196 3
 
-Following 0
-what 0
-has 0
-appeared 0
-for 0
-months 0
-to 0
-be 0
-a 0
-strained 0
-relationship 0
-between 0
-President 0
-Donald 0
-Trump 0
-and 0
-Secretary 0
-of 0
-State 0
-Rex 0
-Tillerson, 0
-the 0
-top 0
-diplomat 0
-is 0
-being 0
-replaced. 0
+Following 0 196 4
+what 0 196 4
+has 0 196 4
+appeared 0 196 4
+for 0 196 4
+months 0 196 4
+to 0 196 4
+be 0 196 4
+a 0 196 4
+strained 0 196 4
+relationship 0 196 4
+between 0 196 4
+President 0 196 4
+Donald 0 196 4
+Trump 0 196 4
+and 0 196 4
+Secretary 0 196 4
+of 0 196 4
+State 0 196 4
+Rex 0 196 4
+Tillerson, 0 196 4
+the 0 196 4
+top 0 196 4
+diplomat 0 196 4
+is 0 196 4
+being 0 196 4
+replaced. 0 196 4
 
-Trump 0
-announced 0
-Tillerson’s 0
-ouster 0
-via 0
-Twitter 0
-Tuesday, 0
-saying: 0
-“Mike 0
-Pompeo, 0
-Director 0
-of 0
-the 0
-CIA, 0
-will 0
-become 0
-our 0
-new 0
-Secretary 0
-of 0
-State. 0
+Trump 0 196 5
+announced 0 196 5
+Tillerson’s 0 196 5
+ouster 0 196 5
+via 0 196 5
+Twitter 0 196 5
+Tuesday, 0 196 5
+saying: 0 196 5
+“Mike 0 196 5
+Pompeo, 0 196 5
+Director 0 196 5
+of 0 196 5
+the 0 196 5
+CIA, 0 196 5
+will 0 196 5
+become 0 196 5
+our 0 196 5
+new 0 196 5
+Secretary 0 196 5
+of 0 196 5
+State. 0 196 5
 
-He 1
-will 1
-do 1
-a 1
-fantastic 1
-job! 1
+He 1 196 6
+will 1 196 6
+do 1 196 6
+a 1 196 6
+fantastic 1 196 6
+job! 1 196 6
 
-Thank 0
-you 0
-to 0
-Rex 0
-Tillerson 0
-for 0
-his 0
-service! 0
+Thank 0 196 7
+you 0 196 7
+to 0 196 7
+Rex 0 196 7
+Tillerson 0 196 7
+for 0 196 7
+his 0 196 7
+service! 0 196 7
 
-Gina 0
-Haspel 0
-will 0
-become 0
-the 0
-new 0
-Director 0
-of 0
-the 0
-CIA, 0
-and 0
-the 0
-first 0
-woman 0
-so 0
-chosen. 0
+Gina 0 196 8
+Haspel 0 196 8
+will 0 196 8
+become 0 196 8
+the 0 196 8
+new 0 196 8
+Director 0 196 8
+of 0 196 8
+the 0 196 8
+CIA, 0 196 8
+and 0 196 8
+the 0 196 8
+first 0 196 8
+woman 0 196 8
+so 0 196 8
+chosen. 0 196 8
 
-Congratulations 0
-to 0
-all!” 0
-This 0
-is 0
-yet 0
-another 0
-big 0
-shake-up 0
-for 0
-Trump’s 0
-still-young 0
-administration 0
-— 0
-and 0
-it 0
-may 0
-be 0
-the 0
-most 0
-important 0
-one 0
-to 0
-date. 0
+Congratulations 0 196 9
+to 0 196 9
+all!” 0 196 9
+This 0 196 9
+is 0 196 9
+yet 0 196 9
+another 0 196 9
+big 0 196 9
+shake-up 0 196 9
+for 0 196 9
+Trump’s 0 196 9
+still-young 0 196 9
+administration 0 196 9
+— 0 196 9
+and 0 196 9
+it 0 196 9
+may 0 196 9
+be 0 196 9
+the 0 196 9
+most 0 196 9
+important 0 196 9
+one 0 196 9
+to 0 196 9
+date. 0 196 9
 
-The 0
-move 0
-creates 0
-some 0
-big 0
-questions 0
-about 0
-both 0
-the 0
-administration’s 0
-foreign 0
-policy 0
-ambitions 0
-as 0
-well 0
-as 0
-the 0
-president’s 0
-relationship 0
-with 0
-the 0
-deep 0
-state. 0
+The 0 196 10
+move 0 196 10
+creates 0 196 10
+some 0 196 10
+big 0 196 10
+questions 0 196 10
+about 0 196 10
+both 0 196 10
+the 0 196 10
+administration’s 0 196 10
+foreign 0 196 10
+policy 0 196 10
+ambitions 0 196 10
+as 0 196 10
+well 0 196 10
+as 0 196 10
+the 0 196 10
+president’s 0 196 10
+relationship 0 196 10
+with 0 196 10
+the 0 196 10
+deep 0 196 10
+state. 0 196 10
 
-“I 0
-will 0
-oppose 0
-both 0
-Pompeo’s 0
-nomination 0
-and 0
-Haspel’s 0
-nomination,” 0
-Paul 0
-said 0
-Wednesday. 0
+“I 0 196 11
+will 0 196 11
+oppose 0 196 11
+both 0 196 11
+Pompeo’s 0 196 11
+nomination 0 196 11
+and 0 196 11
+Haspel’s 0 196 11
+nomination,” 0 196 11
+Paul 0 196 11
+said 0 196 11
+Wednesday. 0 196 11
 
-The 0
-Kentucky 0
-lawmaker 0
-is 0
-the 0
-first 0
-Republican 0
-to 0
-say 0
-he 0
-will 0
-attempt 0
-to 0
-block 0
-the 0
-nominees; 0
-but 0
-he 0
-isn’t 0
-the 0
-first 0
-Republican 0
-to 0
-express 0
-concern. 0
+The 0 196 12
+Kentucky 0 196 12
+lawmaker 0 196 12
+is 0 196 12
+the 0 196 12
+first 0 196 12
+Republican 0 196 12
+to 0 196 12
+say 0 196 12
+he 0 196 12
+will 0 196 12
+attempt 0 196 12
+to 0 196 12
+block 0 196 12
+the 0 196 12
+nominees; 0 196 12
+but 0 196 12
+he 0 196 12
+isn’t 0 196 12
+the 0 196 12
+first 0 196 12
+Republican 0 196 12
+to 0 196 12
+express 0 196 12
+concern. 0 196 12
 
-Sen. 0
-John 0
-McCain 0
-of 0
-Arizona 0
-said 0
-Tuesday 0
-that 0
-he 0
-wanted 0
-answers 0
-about 0
-Haspel’s 0
-background 0
-running 0
-CIA 0
-torture 0
-programs 0
-prior 0
-to 0
-her 0
-confirmation. 0
+Sen. 0 196 13
+John 0 196 13
+McCain 0 196 13
+of 0 196 13
+Arizona 0 196 13
+said 0 196 13
+Tuesday 0 196 13
+that 0 196 13
+he 0 196 13
+wanted 0 196 13
+answers 0 196 13
+about 0 196 13
+Haspel’s 0 196 13
+background 0 196 13
+running 0 196 13
+CIA 0 196 13
+torture 0 196 13
+programs 0 196 13
+prior 0 196 13
+to 0 196 13
+her 0 196 13
+confirmation. 0 196 13
 
-Paul 0
-contends 0
-that 0
-the 0
-Trump 0
-nominations 0
-directly 0
-contradict 0
-promises 0
-the 0
-president 0
-made 0
-on 0
-the 0
-campaign 0
-trail. 0
+Paul 0 196 14
+contends 0 196 14
+that 0 196 14
+the 0 196 14
+Trump 0 196 14
+nominations 0 196 14
+directly 0 196 14
+contradict 0 196 14
+promises 0 196 14
+the 0 196 14
+president 0 196 14
+made 0 196 14
+on 0 196 14
+the 0 196 14
+campaign 0 196 14
+trail. 0 196 14
 
-“I’m 0
-perplexed 1
-by 1
-the 0
-nomination 0
-of 0
-people 0
-who 0
-love 1
-the 1
-Iraq 1
-War 1
-so 0
-much 0
-that 0
-they 0
-would 0
-advocate 0
-for 0
-a 0
-war 0
-with 0
-Iran 0
-next. 0
+“I’m 0 196 15
+perplexed 1 196 15
+by 1 196 15
+the 0 196 15
+nomination 0 196 15
+of 0 196 15
+people 0 196 15
+who 0 196 15
+love 1 196 15
+the 1 196 15
+Iraq 1 196 15
+War 1 196 15
+so 0 196 15
+much 0 196 15
+that 0 196 15
+they 0 196 15
+would 0 196 15
+advocate 0 196 15
+for 0 196 15
+a 0 196 15
+war 0 196 15
+with 0 196 15
+Iran 0 196 15
+next. 0 196 15
 
-I 0
-think 0
-it 0
-goes 0
-against 0
-most 0
-of 0
-the 0
-things 0
-President 0
-Trump 0
-campaigned 0
-on,” 0
-he 0
-said. 0
+I 0 196 16
+think 0 196 16
+it 0 196 16
+goes 0 196 16
+against 0 196 16
+most 0 196 16
+of 0 196 16
+the 0 196 16
+things 0 196 16
+President 0 196 16
+Trump 0 196 16
+campaigned 0 196 16
+on,” 0 196 16
+he 0 196 16
+said. 0 196 16
 
-The 0
-lawmaker 0
-added 0
-that 0
-he 0
-can’t 0
-support 0
-Haspel, 0
-whom 0
-he 0
-described 0
-as 0
-having 0
-expressed 0
-“joyful 1
-glee” 1
-at 0
-being 0
-involved 0
-in 0
-torture 0
-programs 0
-in 0
-the 0
-past. 0
+The 0 196 17
+lawmaker 0 196 17
+added 0 196 17
+that 0 196 17
+he 0 196 17
+can’t 0 196 17
+support 0 196 17
+Haspel, 0 196 17
+whom 0 196 17
+he 0 196 17
+described 0 196 17
+as 0 196 17
+having 0 196 17
+expressed 0 196 17
+“joyful 1 196 17
+glee” 1 196 17
+at 0 196 17
+being 0 196 17
+involved 0 196 17
+in 0 196 17
+torture 0 196 17
+programs 0 196 17
+in 0 196 17
+the 0 196 17
+past. 0 196 17
 
-“I 0
-find 1
-it 1
-just 1
-amazing 1
-that 1
-anyone 1
-would 1
-consider 1
-having 1
-this 1
-woman 1
-at 1
-the 1
-head 1
-of 1
-the 1
-CIA,” 1
-Paul 0
-said. 0
+“I 0 196 18
+find 1 196 18
+it 1 196 18
+just 1 196 18
+amazing 1 196 18
+that 1 196 18
+anyone 1 196 18
+would 1 196 18
+consider 1 196 18
+having 1 196 18
+this 1 196 18
+woman 1 196 18
+at 1 196 18
+the 1 196 18
+head 1 196 18
+of 1 196 18
+the 1 196 18
+CIA,” 1 196 18
+Paul 0 196 18
+said. 0 196 18
 
-With 0
-Paul’s 0
-defection 0
-and 0
-McCain 0
-likely 0
-to 0
-be 0
-undergoing 0
-treatment 0
-for 0
-brain 0
-cancer 0
-at 0
-the 0
-time 0
-of 0
-the 0
-vote, 0
-Trump’s 0
-White 0
-House 0
-will 0
-likely 0
-be 0
-left 0
-scurrying 0
-for 0
-Democrat 0
-support 0
-to 0
-secure 0
-the 0
-majority 0
-necessary 0
-for 0
-the 0
-nominees 0
-to 0
-be 0
-confirmed 0
-in 0
-the 0
-Senate. 0
+With 0 196 18
+
+Paul’s 0 196 18
+
+defection 0 196 18
+
+and 0 196 18
+
+McCain 0 196 18
+
+likely 0 196 18
+
+to 0 196 18
+
+be 0 196 18
+
+undergoing 0 196 18
+
+treatment 0 196 18
+
+for 0 196 18
+
+brain 0 196 18
+
+cancer 0 196 18
+
+at 0 196 18
+
+the 0 196 18
+
+time 0 196 18
+
+of 0 196 18
+
+the 0 196 18
+
+vote, 0 196 18
+
+Trump’s 0 196 18
+
+White 0 196 18
+
+House 0 196 18
+
+will 0 196 18
+
+likely 0 196 18
+
+be 0 196 18
+
+left 0 196 18
+
+scurrying 0 196 18
+
+for 0 196 18
+
+Democrat 0 196 18
+
+support 0 196 18
+
+to 0 196 18
+
+secure 0 196 18
+
+the 0 196 18
+
+majority 0 196 18
+
+necessary 0 196 18
+
+for 0 196 18
+
+the 0 196 18
+
+nominees 0 196 18
+
+to 0 196 18
+
+be 0 196 18
+
+confirmed 0 196 18
+
+in 0 196 18
+
+the 0 196 18
+
+Senate. 0 196 18

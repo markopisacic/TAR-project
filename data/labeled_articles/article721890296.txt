@@ -1,909 +1,920 @@
-Hungarian 0
-Prime 0
-Minister 0
-Hits 1
-Nail 1
-On 1
-The 1
-Head: 1
-Refugees 1
-Are 1
-Actually 1
-"Muslim 1
-Invaders" 1
+Hungarian 0 112 0
+Prime 0 112 0
+Minister 0 112 0
+Hits 1 112 0
+Nail 1 112 0
+On 1 112 0
+The 1 112 0
+Head: 1 112 0
+Refugees 1 112 0
+Are 1 112 0
+Actually 1 112 0
+"Muslim 1 112 0
+Invaders" 1 112 0
 
-Hungarian 0
-Prime 0
-Minister 0
-Viktor 0
-Orban 0
-doesn't 0
-mince 0
-words 0
-when 0
-it 0
-comes 0
-to 0
-the 0
-Muslim 1
-invasion 1
-in 0
-Europe 0
-and 0
-specifically 0
-to 0
-his 0
-own 0
-country. 0
+Hungarian 0 112 1
+Prime 0 112 1
+Minister 0 112 1
+Viktor 0 112 1
+Orban 0 112 1
+doesn't 0 112 1
+mince 0 112 1
+words 0 112 1
+when 0 112 1
+it 0 112 1
+comes 0 112 1
+to 0 112 1
+the 0 112 1
+Muslim 1 112 1
+invasion 1 112 1
+in 0 112 1
+Europe 0 112 1
+and 0 112 1
+specifically 0 112 1
+to 0 112 1
+his 0 112 1
+own 0 112 1
+country. 0 112 1
 
-Orban 0
-says 0
-there 0
-is 0
-not 0
-only 0
-Muslim 1
-invaders 1
-in 0
-the 0
-mix 0
-of 0
-"refugees," 0
-but 0
-also 0
-“economic 0
-migrants" 0
-seeking 0
-better 0
-lives 0
-for 0
-themselves. 0
+Orban 0 112 2
+says 0 112 2
+there 0 112 2
+is 0 112 2
+not 0 112 2
+only 0 112 2
+Muslim 1 112 2
+invaders 1 112 2
+in 0 112 2
+the 0 112 2
+mix 0 112 2
+of 0 112 2
+"refugees," 0 112 2
+but 0 112 2
+also 0 112 2
+“economic 0 112 2
+migrants" 0 112 2
+seeking 0 112 2
+better 0 112 2
+lives 0 112 2
+for 0 112 2
+themselves. 0 112 2
 
-Indeed, 0
-both 0
-of 0
-these 0
-are 0
-true. 0
+Indeed, 0 112 3
+both 0 112 3
+of 0 112 3
+these 0 112 3
+are 0 112 3
+true. 0 112 3
 
-There 0
-are 0
-plenty 0
-of 0
-these 0
-people 0
-who 0
-are 0
-simply 0
-happy 0
-to 0
-have 0
-a 0
-place 0
-to 0
-live 0
-after 0
-many 0
-were 0
-driven 0
-from 0
-their 0
-homes 0
-due 0
-to 0
-the 0
-US, 0
-Russia 0
-and 0
-other 0
-countries 0
-putting 1
-their 1
-noses 1
-where 0
-they 0
-didn't 0
-belong 0
-and 0
-funding, 0
-training 0
-and 0
-arming 0
-Islamic 0
-jihadis 0
-there. 0
+There 0 112 4
+are 0 112 4
+plenty 0 112 4
+of 0 112 4
+these 0 112 4
+people 0 112 4
+who 0 112 4
+are 0 112 4
+simply 0 112 4
+happy 0 112 4
+to 0 112 4
+have 0 112 4
+a 0 112 4
+place 0 112 4
+to 0 112 4
+live 0 112 4
+after 0 112 4
+many 0 112 4
+were 0 112 4
+driven 0 112 4
+from 0 112 4
+their 0 112 4
+homes 0 112 4
+due 0 112 4
+to 0 112 4
+the 0 112 4
+US, 0 112 4
+Russia 0 112 4
+and 0 112 4
+other 0 112 4
+countries 0 112 4
+putting 1 112 4
+their 1 112 4
+noses 1 112 4
+where 0 112 4
+they 0 112 4
+didn't 0 112 4
+belong 0 112 4
+and 0 112 4
+funding, 0 112 4
+training 0 112 4
+and 0 112 4
+arming 0 112 4
+Islamic 0 112 4
+jihadis 0 112 4
+there. 0 112 4
 
-Then, 0
-there 0
-are 0
-those 0
-who 0
-clearly 0
-come 0
-to 0
-the 0
-country 0
-to 0
-Islamasize 0
-the 0
-country 0
-because 0
-they 0
-have 0
-an 1
-Islamic 1
-dominionist 1
-attitude 1
-borne 0
-of 0
-the 0
-teachings 0
-of 0
-the 0
-Koran 0
-and 0
-Muhammad 0
-. 0
+Then, 0 112 5
+there 0 112 5
+are 0 112 5
+those 0 112 5
+who 0 112 5
+clearly 0 112 5
+come 0 112 5
+to 0 112 5
+the 0 112 5
+country 0 112 5
+to 0 112 5
+Islamasize 0 112 5
+the 0 112 5
+country 0 112 5
+because 0 112 5
+they 0 112 5
+have 0 112 5
+an 1 112 5
+Islamic 1 112 5
+dominionist 1 112 5
+attitude 1 112 5
+borne 0 112 5
+of 0 112 5
+the 0 112 5
+teachings 0 112 5
+of 0 112 5
+the 0 112 5
+Koran 0 112 5
+and 0 112 5
+Muhammad 0 112 5
+. 0 112 5
 
-RT 0
-reports: 0
+RT 0 112 6
+reports: 0 112 6
 
-Refugees 0
-in 0
-Europe 0
-are 0
-just 0
-“Muslim 1
-invaders” 1
-and 0
-economic 0
-migrants 0
-seeking 0
-better 0
-lives, 0
-Hungarian 0
-PM 0
-Viktor 0
-Orban 0
-has 0
-said, 0
-adding 0
-that 0
-the 0
-large 0
-number 0
-of 0
-Muslims 0
-in 0
-the 0
-EU 0
-had 0
-led 0
-to 0
-the 0
-appearance 0
-of 0
-‘parallel 0
-societies.’ 0
-Asked 0
-in 0
-an 0
-interview 0
-with 0
-the 0
-German 0
-Bild 0
-newspaper 0
-why 0
-Budapest 0
-does 0
-not 0
-want 0
-to 0
-accept 0
-any 0
-refugees, 0
-Orban 0
-replied: 0
-“We 0
-don’t 0
-consider 0
-these 0
-people 0
-to 0
-be 0
-Muslim 0
-refugees.” 0
-Instead, 0
-the 0
-tough-talking 0
-politician 0
-said 0
-they 0
-were 0
-regarded 0
-as 0
-“Muslim 1
-invaders.” 1
-Asylum 0
-seekers 0
-must 0
-cross 0
-four 0
-countries 0
-to 0
-reach 0
-Hungary 0
-from 0
-Syria, 0
-all 0
-of 0
-which 0
-are 0
-not 0
-as 0
-rich 0
-as 0
-Germany 0
-but 0
-are 0
-economically 0
-stable, 0
-the 0
-PM 0
-said. 0
+Refugees 0 112 7
+in 0 112 7
+Europe 0 112 7
+are 0 112 7
+just 0 112 7
+“Muslim 1 112 7
+invaders” 1 112 7
+and 0 112 7
+economic 0 112 7
+migrants 0 112 7
+seeking 0 112 7
+better 0 112 7
+lives, 0 112 7
+Hungarian 0 112 7
+PM 0 112 7
+Viktor 0 112 7
+Orban 0 112 7
+has 0 112 7
+said, 0 112 7
+adding 0 112 7
+that 0 112 7
+the 0 112 7
+large 0 112 7
+number 0 112 7
+of 0 112 7
+Muslims 0 112 7
+in 0 112 7
+the 0 112 7
+EU 0 112 7
+had 0 112 7
+led 0 112 7
+to 0 112 7
+the 0 112 7
+appearance 0 112 7
+of 0 112 7
+‘parallel 0 112 7
+societies.’ 0 112 7
+Asked 0 112 7
+in 0 112 7
+an 0 112 7
+interview 0 112 7
+with 0 112 7
+the 0 112 7
+German 0 112 7
+Bild 0 112 7
+newspaper 0 112 7
+why 0 112 7
+Budapest 0 112 7
+does 0 112 7
+not 0 112 7
+want 0 112 7
+to 0 112 7
+accept 0 112 7
+any 0 112 7
+refugees, 0 112 7
+Orban 0 112 7
+replied: 0 112 7
+“We 0 112 7
+don’t 0 112 7
+consider 0 112 7
+these 0 112 7
+people 0 112 7
+to 0 112 7
+be 0 112 7
+Muslim 0 112 7
+refugees.” 0 112 7
+Instead, 0 112 7
+the 0 112 7
+tough-talking 0 112 7
+politician 0 112 7
+said 0 112 7
+they 0 112 7
+were 0 112 7
+regarded 0 112 7
+as 0 112 7
+“Muslim 1 112 7
+invaders.” 1 112 7
+Asylum 0 112 7
+seekers 0 112 7
+must 0 112 7
+cross 0 112 7
+four 0 112 7
+countries 0 112 7
+to 0 112 7
+reach 0 112 7
+Hungary 0 112 7
+from 0 112 7
+Syria, 0 112 7
+all 0 112 7
+of 0 112 7
+which 0 112 7
+are 0 112 7
+not 0 112 7
+as 0 112 7
+rich 0 112 7
+as 0 112 7
+Germany 0 112 7
+but 0 112 7
+are 0 112 7
+economically 0 112 7
+stable, 0 112 7
+the 0 112 7
+PM 0 112 7
+said. 0 112 7
 
-He 0
-was 0
-apparently 0
-referring 0
-to 0
-Turkey, 0
-Greece, 0
-Macedonia 0
-and 0
-Serbia 0
-– 0
-a 0
-common 0
-route 0
-for 0
-migrants 0
-heading 0
-for 0
-‘wealthy’ 0
-Europe. 0
+He 0 112 8
+was 0 112 8
+apparently 0 112 8
+referring 0 112 8
+to 0 112 8
+Turkey, 0 112 8
+Greece, 0 112 8
+Macedonia 0 112 8
+and 0 112 8
+Serbia 0 112 8
+– 0 112 8
+a 0 112 8
+common 0 112 8
+route 0 112 8
+for 0 112 8
+migrants 0 112 8
+heading 0 112 8
+for 0 112 8
+‘wealthy’ 0 112 8
+Europe. 0 112 8
 
-“So, 0
-they 0
-are 0
-not 0
-running 0
-for 0
-their 0
-lives 0
-[in 0
-these 0
-countries]. 0
+“So, 0 112 9
+they 0 112 9
+are 0 112 9
+not 0 112 9
+running 0 112 9
+for 0 112 9
+their 0 112 9
+lives 0 112 9
+[in 0 112 9
+these 0 112 9
+countries]. 0 112 9
 
-They 0
-are 0
-merely 0
-economic 0
-migrants 0
-seeking 0
-a 0
-better 0
-life,” 0
-Orban 0
-concluded. 0
+They 0 112 10
+are 0 112 10
+merely 0 112 10
+economic 0 112 10
+migrants 0 112 10
+seeking 0 112 10
+a 0 112 10
+better 0 112 10
+life,” 0 112 10
+Orban 0 112 10
+concluded. 0 112 10
 
-He 0
-stressed 0
-though, 0
-that 0
-he 0
-can 0
-only 0
-speak 0
-for 0
-the 0
-Hungarians 0
-and 0
-they 1
-“don’t 1
-want” 1
-immigration. 1
+He 0 112 11
+stressed 0 112 11
+though, 0 112 11
+that 0 112 11
+he 0 112 11
+can 0 112 11
+only 0 112 11
+speak 0 112 11
+for 0 112 11
+the 0 112 11
+Hungarians 0 112 11
+and 0 112 11
+they 1 112 11
+“don’t 1 112 11
+want” 1 112 11
+immigration. 1 112 11
 
-In 0
-his 0
-view, 0
-the 0
-government 0
-simply 0
-can’t 0
-go 0
-against 0
-the 0
-will 0
-of 0
-the 0
-people. 0
+In 0 112 12
+his 0 112 12
+view, 0 112 12
+the 0 112 12
+government 0 112 12
+simply 0 112 12
+can’t 0 112 12
+go 0 112 12
+against 0 112 12
+the 0 112 12
+will 0 112 12
+of 0 112 12
+the 0 112 12
+people. 0 112 12
 
-And 0
-Orban 0
-has 0
-stayed 0
-the 0
-course, 0
-too 0
-while 0
-governments 0
-like 0
-that 0
-of 0
-Germany 0
-have 0
-ignored 0
-their 0
-people 0
-to 0
-allow 0
-for 0
-a 0
-clear 0
-invasion 0
-of 0
-Germany 0
-that 0
-has 0
-led 0
-to 0
-untold 1
-numbers 1
-of 0
-sexual 1
-assaults 1
-by 1
-Muslim 1
-migrants, 1
-attacks 1
-on 1
-Christians 1
-and 1
-there's 1
-no 1
-telling 1
-the 1
-amount 1
-of 1
-damage 1
-to 1
-the 1
-unethical 1
-welfare 1
-system 1
-in 1
-the 1
-country. 1
+And 0 112 13
+Orban 0 112 13
+has 0 112 13
+stayed 0 112 13
+the 0 112 13
+course, 0 112 13
+too 0 112 13
+while 0 112 13
+governments 0 112 13
+like 0 112 13
+that 0 112 13
+of 0 112 13
+Germany 0 112 13
+have 0 112 13
+ignored 0 112 13
+their 0 112 13
+people 0 112 13
+to 0 112 13
+allow 0 112 13
+for 0 112 13
+a 0 112 13
+clear 0 112 13
+invasion 0 112 13
+of 0 112 13
+Germany 0 112 13
+that 0 112 13
+has 0 112 13
+led 0 112 13
+to 0 112 13
+untold 1 112 13
+numbers 1 112 13
+of 0 112 13
+sexual 1 112 13
+assaults 1 112 13
+by 1 112 13
+Muslim 1 112 13
+migrants, 1 112 13
+attacks 1 112 13
+on 1 112 13
+Christians 1 112 13
+and 1 112 13
+there's 1 112 13
+no 1 112 13
+telling 1 112 13
+the 1 112 13
+amount 1 112 13
+of 1 112 13
+damage 1 112 13
+to 1 112 13
+the 1 112 13
+unethical 1 112 13
+welfare 1 112 13
+system 1 112 13
+in 1 112 13
+the 1 112 13
+country. 1 112 13
 
-RT 0
-continues: 0
+RT 0 112 14
+continues: 0 112 14
 
-Going 0
-further, 0
-the 0
-prime 0
-minister 0
-noted 0
-that 0
-no 0
-refugee 0
-wants 0
-to 0
-go 0
-to 0
-Portugal, 0
-for 0
-example, 0
-adding 0
-that 0
-the 0
-majority 0
-of 0
-asylum 0
-seekers 0
-simply 0
-wanted 0
-to 0
-live 0
-in 0
-prosperous 0
-Germany. 0
+Going 0 112 15
+further, 0 112 15
+the 0 112 15
+prime 0 112 15
+minister 0 112 15
+noted 0 112 15
+that 0 112 15
+no 0 112 15
+refugee 0 112 15
+wants 0 112 15
+to 0 112 15
+go 0 112 15
+to 0 112 15
+Portugal, 0 112 15
+for 0 112 15
+example, 0 112 15
+adding 0 112 15
+that 0 112 15
+the 0 112 15
+majority 0 112 15
+of 0 112 15
+asylum 0 112 15
+seekers 0 112 15
+simply 0 112 15
+wanted 0 112 15
+to 0 112 15
+live 0 112 15
+in 0 112 15
+prosperous 0 112 15
+Germany. 0 112 15
 
-“The 1
-reason 1
-why 1
-people 1
-are 1
-in 1
-your 1
-country 1
-is 1
-not 1
-because 1
-they 1
-are 1
-refugees, 1
-but 1
-because 1
-they 1
-want 1
-a 1
-German 1
-life,” 1
-he 0
-said, 0
-describing 0
-the 0
-issue 0
-“politically” 0
-as 0
-a 0
-European 0
-problem 0
-but, 0
-“sociologically,” 0
-as 0
-a 0
-German 0
-problem. 0
+“The 1 112 16
+reason 1 112 16
+why 1 112 16
+people 1 112 16
+are 1 112 16
+in 1 112 16
+your 1 112 16
+country 1 112 16
+is 1 112 16
+not 1 112 16
+because 1 112 16
+they 1 112 16
+are 1 112 16
+refugees, 1 112 16
+but 1 112 16
+because 1 112 16
+they 1 112 16
+want 1 112 16
+a 1 112 16
+German 1 112 16
+life,” 1 112 16
+he 0 112 16
+said, 0 112 16
+describing 0 112 16
+the 0 112 16
+issue 0 112 16
+“politically” 0 112 16
+as 0 112 16
+a 0 112 16
+European 0 112 16
+problem 0 112 16
+but, 0 112 16
+“sociologically,” 0 112 16
+as 0 112 16
+a 0 112 16
+German 0 112 16
+problem. 0 112 16
 
-Orban 0
-specifically 0
-targeted 0
-Germany 0
-and 0
-Chancellor 0
-Angela 0
-Merkel’s 0
-‘open-door’ 0
-policy 0
-towards 0
-asylum 0
-seekers. 0
+Orban 0 112 17
+specifically 0 112 17
+targeted 0 112 17
+Germany 0 112 17
+and 0 112 17
+Chancellor 0 112 17
+Angela 0 112 17
+Merkel’s 0 112 17
+‘open-door’ 0 112 17
+policy 0 112 17
+towards 0 112 17
+asylum 0 112 17
+seekers. 0 112 17
 
-“I’ve 0
-never 0
-understood 0
-how 0
-chaos, 1
-anarchy 1
-and 1
-illegal 1
-border 1
-crossings 1
-are 0
-viewed 0
-as 0
-something 0
-good 0
-in 0
-a 0
-country 0
-like 0
-Germany, 0
-which 0
-we 0
-view 0
-as 0
-the 1
-best 1
-example 1
-of 1
-discipline 1
-and 1
-the 1
-rule 1
-of 1
-law,” 1
-he 0
-said. 0
+“I’ve 0 112 18
+never 0 112 18
+understood 0 112 18
+how 0 112 18
+chaos, 1 112 18
+anarchy 1 112 18
+and 1 112 18
+illegal 1 112 18
+border 1 112 18
+crossings 1 112 18
+are 0 112 18
+viewed 0 112 18
+as 0 112 18
+something 0 112 18
+good 0 112 18
+in 0 112 18
+a 0 112 18
+country 0 112 18
+like 0 112 18
+Germany, 0 112 18
+which 0 112 18
+we 0 112 18
+view 0 112 18
+as 0 112 18
+the 1 112 18
+best 1 112 18
+example 1 112 18
+of 1 112 18
+discipline 1 112 18
+and 1 112 18
+the 1 112 18
+rule 1 112 18
+of 1 112 18
+law,” 1 112 18
+he 0 112 18
+said. 0 112 18
 
-The 0
-recent 0
-wave 0
-of 0
-refugees 0
-reaching 0
-Europe 0
-is 0
-merely 0
-an 0
-invasion, 1
-according 0
-to 0
-Orban. 0
+The 0 112 19
+recent 0 112 19
+wave 0 112 19
+of 0 112 19
+refugees 0 112 19
+reaching 0 112 19
+Europe 0 112 19
+is 0 112 19
+merely 0 112 19
+an 0 112 19
+invasion, 1 112 19
+according 0 112 19
+to 0 112 19
+Orban. 0 112 19
 
-“If 0
-someone 0
-wants 0
-to 0
-come 0
-to 0
-your 0
-house, 0
-he 0
-knocks 0
-on 0
-your 0
-door 0
-and 0
-asks: 0
-‘Can 0
-we 0
-come 0
-in, 0
-can 0
-we 0
-stay?’ 0
-They 0
-[asylum 0
-seekers] 0
-didn’t 0
-do 0
-that, 0
-they 0
-crossed 0
-the 0
-border 0
-illegally,” 0
-he 0
-stated. 0
+“If 0 112 20
+someone 0 112 20
+wants 0 112 20
+to 0 112 20
+come 0 112 20
+to 0 112 20
+your 0 112 20
+house, 0 112 20
+he 0 112 20
+knocks 0 112 20
+on 0 112 20
+your 0 112 20
+door 0 112 20
+and 0 112 20
+asks: 0 112 20
+‘Can 0 112 20
+we 0 112 20
+come 0 112 20
+in, 0 112 20
+can 0 112 20
+we 0 112 20
+stay?’ 0 112 20
+They 0 112 20
+[asylum 0 112 20
+seekers] 0 112 20
+didn’t 0 112 20
+do 0 112 20
+that, 0 112 20
+they 0 112 20
+crossed 0 112 20
+the 0 112 20
+border 0 112 20
+illegally,” 0 112 20
+he 0 112 20
+stated. 0 112 20
 
-Orban 0
-then 0
-did 0
-what 0
-most 0
-political 0
-representatives 0
-will 0
-simply 0
-not 0
-do, 0
-he 0
-told 0
-the 0
-truth 0
-about 0
-multiculturalism. 0
+Orban 0 112 21
+then 0 112 21
+did 0 112 21
+what 0 112 21
+most 0 112 21
+political 0 112 21
+representatives 0 112 21
+will 0 112 21
+simply 0 112 21
+not 0 112 21
+do, 0 112 21
+he 0 112 21
+told 0 112 21
+the 0 112 21
+truth 0 112 21
+about 0 112 21
+multiculturalism. 0 112 21
 
-He 0
-called 0
-it 0
-an 0
-"illusion" 0
-and 0
-said 0
-that 0
-Christian 1
-and 1
-Muslim 1
-societies 1
-“will 1
-never 1
-unite.” 1
+He 0 112 22
+called 0 112 22
+it 0 112 22
+an 0 112 22
+"illusion" 0 112 22
+and 0 112 22
+said 0 112 22
+that 0 112 22
+Christian 1 112 22
+and 1 112 22
+Muslim 1 112 22
+societies 1 112 22
+“will 1 112 22
+never 1 112 22
+unite.” 1 112 22
 
-Of 0
-course, 0
-they 0
-won't. 0
+Of 0 112 23
+course, 0 112 23
+they 0 112 23
+won't. 0 112 23
 
-They 1
-have 1
-absolutely 1
-nothing 1
-in 1
-common. 1
+They 1 112 24
+have 1 112 24
+absolutely 1 112 24
+nothing 1 112 24
+in 1 112 24
+common. 1 112 24
 
-They 1
-cannot 1
-agree 1
-on 1
-God's 1
-law, 1
-which 1
-most 1
-Western 1
-societies 1
-were 1
-base 1
-on, 1
-including 1
-the 1
-united 1
-States. 1
+They 1 112 25
+cannot 1 112 25
+agree 1 112 25
+on 1 112 25
+God's 1 112 25
+law, 1 112 25
+which 1 112 25
+most 1 112 25
+Western 1 112 25
+societies 1 112 25
+were 1 112 25
+base 1 112 25
+on, 1 112 25
+including 1 112 25
+the 1 112 25
+united 1 112 25
+States. 1 112 25
 
-They 1
-cannot 1
-agree 1
-on 0
-the 0
-Scriptures. 0
+They 1 112 26
+cannot 1 112 26
+agree 1 112 26
+on 0 112 26
+the 0 112 26
+Scriptures. 0 112 26
 
-They 1
-cannot 1
-agree 1
-on 1
-the 0
-person 0
-and 0
-work 0
-of 0
-Jesus 0
-the 0
-Christ. 0
+They 1 112 27
+cannot 1 112 27
+agree 1 112 27
+on 1 112 27
+the 0 112 27
+person 0 112 27
+and 0 112 27
+work 0 112 27
+of 0 112 27
+Jesus 0 112 27
+the 0 112 27
+Christ. 0 112 27
 
-They 0
-can't 0
-even 0
-agree 0
-on 0
-the 0
-means 0
-of 0
-proselytizing 0
-and 0
-of 0
-what 0
-real 0
-spiritual 0
-weapons 0
-are. 0
+They 0 112 28
+can't 0 112 28
+even 0 112 28
+agree 0 112 28
+on 0 112 28
+the 0 112 28
+means 0 112 28
+of 0 112 28
+proselytizing 0 112 28
+and 0 112 28
+of 0 112 28
+what 0 112 28
+real 0 112 28
+spiritual 0 112 28
+weapons 0 112 28
+are. 0 112 28
 
-PM 0
-Orban 0
-has 0
-remained 0
-consistent. 0
+PM 0 112 29
+Orban 0 112 29
+has 0 112 29
+remained 0 112 29
+consistent. 0 112 29
 
-He 0
-has 0
-publicly 0
-told 0
-the 0
-Muslim 1
-invaders 1
-to 0
-leave 1
-Hungary 1
-and 1
-never 1
-come 1
-back. 1
+He 0 112 30
+has 0 112 30
+publicly 0 112 30
+told 0 112 30
+the 0 112 30
+Muslim 1 112 30
+invaders 1 112 30
+to 0 112 30
+leave 1 112 30
+Hungary 1 112 30
+and 1 112 30
+never 1 112 30
+come 1 112 30
+back. 1 112 30
 
-He 0
-has 0
-rebuffed 0
-Brussels, 0
-which 0
-is 0
-largely 0
-Islamic, 0
-and 0
-told 0
-them 0
-that 0
-Hungary 1
-would 1
-defend 1
-its 1
-borders, 1
-and 1
-it 1
-has. 1
+He 0 112 31
+has 0 112 31
+rebuffed 0 112 31
+Brussels, 0 112 31
+which 0 112 31
+is 0 112 31
+largely 0 112 31
+Islamic, 0 112 31
+and 0 112 31
+told 0 112 31
+them 0 112 31
+that 0 112 31
+Hungary 1 112 31
+would 1 112 31
+defend 1 112 31
+its 1 112 31
+borders, 1 112 31
+and 1 112 31
+it 1 112 31
+has. 1 112 31
 
-Orban's 0
-border 0
-wall 0
-reduced 0
-illegal 0
-immigration 0
-by 0
-99%! 0
+Orban's 0 112 32
+border 0 112 32
+wall 0 112 32
+reduced 0 112 32
+illegal 0 112 32
+immigration 0 112 32
+by 0 112 32
+99%! 0 112 32
 
-He 1
-has 1
-genuinely 1
-reached 1
-out 1
-his 1
-hand 1
-to 1
-help 1
-Christian 1
-migrants 1
-instead 1
-of 1
-Muslim 1
-migrants 1
-and 1
-he 1
-seems 1
-to 1
-be 1
-one 1
-that 1
-holds 1
-to 1
-the 1
-Christian 1
-faith, 1
-as 1
-emulated 1
-by 1
-the 1
-Protestant 1
-Reformers, 1
-saying, 1
-"That 1
-which 1
-serves 1
-the 1
-glory 1
-of 1
-God 1
-is 1
-the 1
-best 1
-for 1
-the 1
-people." 1
+He 1 112 33
+has 1 112 33
+genuinely 1 112 33
+reached 1 112 33
+out 1 112 33
+his 1 112 33
+hand 1 112 33
+to 1 112 33
+help 1 112 33
+Christian 1 112 33
+migrants 1 112 33
+instead 1 112 33
+of 1 112 33
+Muslim 1 112 33
+migrants 1 112 33
+and 1 112 33
+he 1 112 33
+seems 1 112 33
+to 1 112 33
+be 1 112 33
+one 1 112 33
+that 1 112 33
+holds 1 112 33
+to 1 112 33
+the 1 112 33
+Christian 1 112 33
+faith, 1 112 33
+as 1 112 33
+emulated 1 112 33
+by 1 112 33
+the 1 112 33
+Protestant 1 112 33
+Reformers, 1 112 33
+saying, 1 112 33
+"That 1 112 33
+which 1 112 33
+serves 1 112 33
+the 1 112 33
+glory 1 112 33
+of 1 112 33
+God 1 112 33
+is 1 112 33
+the 1 112 33
+best 1 112 33
+for 1 112 33
+the 1 112 33
+people." 1 112 33
 
-Furthermore, 0
-Orban 0
-has 0
-also 0
-called 0
-out 0
-the 0
-man 1
-behind 1
-the 1
-curtain 1
-in 0
-a 0
-lot 0
-of 0
-the 0
-promoting 0
-of 0
-this 0
-Muslim 1
-invasion 1
-of 0
-the 0
-West, 0
-George 0
-Soros. 0
+Furthermore, 0 112 34
+Orban 0 112 34
+has 0 112 34
+also 0 112 34
+called 0 112 34
+out 0 112 34
+the 0 112 34
+man 1 112 34
+behind 1 112 34
+the 1 112 34
+curtain 1 112 34
+in 0 112 34
+a 0 112 34
+lot 0 112 34
+of 0 112 34
+the 0 112 34
+promoting 0 112 34
+of 0 112 34
+this 0 112 34
+Muslim 1 112 34
+invasion 1 112 34
+of 0 112 34
+the 0 112 34
+West, 0 112 34
+George 0 112 34
+Soros. 0 112 34
 
-Anti-jihadist 0
-activist 0
-Pamela 0
-Geller 0
-praised 0
-Orban 0
-for 0
-his 0
-honesty 0
-and 0
-wrote, 0
-"At 0
-last, 0
-a 0
-politician 0
-who 0
-speaks 0
-the 0
-truth 0
-about 0
-the 0
-Muslim 1
-invasion 1
-of 0
-Europe. 0
+Anti-jihadist 0 112 35
+activist 0 112 35
+Pamela 0 112 35
+Geller 0 112 35
+praised 0 112 35
+Orban 0 112 35
+for 0 112 35
+his 0 112 35
+honesty 0 112 35
+and 0 112 35
+wrote, 0 112 35
+"At 0 112 35
+last, 0 112 35
+a 0 112 35
+politician 0 112 35
+who 0 112 35
+speaks 0 112 35
+the 0 112 35
+truth 0 112 35
+about 0 112 35
+the 0 112 35
+Muslim 1 112 35
+invasion 1 112 35
+of 0 112 35
+Europe. 0 112 35
 
-And 0
-while 0
-Orban 0
-is 0
-right 0
-that 0
-these 0
-are 0
-'economic 0
-migrants,' 0
-they 0
-are 0
-also 0
-'Muslim 1
-invaders.'" 1
+And 0 112 36
+while 0 112 36
+Orban 0 112 36
+is 0 112 36
+right 0 112 36
+that 0 112 36
+these 0 112 36
+are 0 112 36
+'economic 0 112 36
+migrants,' 0 112 36
+they 0 112 36
+are 0 112 36
+also 0 112 36
+'Muslim 1 112 36
+invaders.'" 1 112 36
 
-"They 0
-don’t 0
-want 0
-a 0
-'German 0
-life' 0
-in 0
-Germany 0
-in 0
-the 0
-sense 0
-that 0
-they 0
-are 0
-willing 0
-to 0
-accept 0
-German 0
-values," 0
-she 0
-added. 0
+"They 0 112 37
+don’t 0 112 37
+want 0 112 37
+a 0 112 37
+'German 0 112 37
+life' 0 112 37
+in 0 112 37
+Germany 0 112 37
+in 0 112 37
+the 0 112 37
+sense 0 112 37
+that 0 112 37
+they 0 112 37
+are 0 112 37
+willing 0 112 37
+to 0 112 37
+accept 0 112 37
+German 0 112 37
+values," 0 112 37
+she 0 112 37
+added. 0 112 37
 
-"Many, 1
-all 1
-too 1
-many, 1
-of 0
-them 1
-want 1
-to 1
-overwhelm 1
-German 1
-values, 1
-and 1
-European 1
-values 1
-in 1
-general, 1
-with 1
-sharia 1
-values. 1
+"Many, 1 112 38
+all 1 112 38
+too 1 112 38
+many, 1 112 38
+of 0 112 38
+them 1 112 38
+want 1 112 38
+to 1 112 38
+overwhelm 1 112 38
+German 1 112 38
+values, 1 112 38
+and 1 112 38
+European 1 112 38
+values 1 112 38
+in 1 112 38
+general, 1 112 38
+with 1 112 38
+sharia 1 112 38
+values. 1 112 38
 
-They 1
-are 1
-in 1
-Europe 1
-to 1
-conquer 1
-and 1
-Islamize 1
-it, 1
-with 1
-willing 1
-and 1
-eager 1
-help 1
-from 1
-Europe’s 1
-short-sighted, 1
-self-serving, 1
-internationalist 1
-intelligentsia." 1
+They 1 112 39
+are 1 112 39
+in 1 112 39
+Europe 1 112 39
+to 1 112 39
+conquer 1 112 39
+and 1 112 39
+Islamize 1 112 39
+it, 1 112 39
+with 1 112 39
+willing 1 112 39
+and 1 112 39
+eager 1 112 39
+help 1 112 39
+from 1 112 39
+Europe’s 1 112 39
+short-sighted, 1 112 39
+self-serving, 1 112 39
+internationalist 1 112 39
+intelligentsia." 1 112 39
 
-Indeed! 1
+Indeed! 1 112 40
 
-Thank 1
-you 1
-Prime 1
-Minister 1
-Orban 1
-for 1
-saying 1
-what 1
-needed 1
-to 1
-be 1
-said! 1
+Thank 1 112 40
+
+you 1 112 40
+
+Prime 1 112 40
+
+Minister 1 112 40
+
+Orban 1 112 40
+
+for 1 112 40
+
+saying 1 112 40
+
+what 1 112 40
+
+needed 1 112 40
+
+to 1 112 40
+
+be 1 112 40
+
+said! 1 112 40

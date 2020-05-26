@@ -1,1122 +1,1126 @@
-Google 0
-Was 0
-‘Working 0
-To 0
-Get 0
-Hillary 0
-Clinton 0
-Elected’ 0
+Google 0 342 0
+Was 0 342 0
+‘Working 0 342 0
+To 0 342 0
+Get 0 342 0
+Hillary 0 342 0
+Clinton 0 342 0
+Elected’ 0 342 0
 
-Tucker 0
-Carlson 0
-just 0
-blew 1
-the 1
-cover 1
-off 1
-the 1
-2016 1
-election 1
-influence 1
-charade, 1
-after 0
-he 0
-read 0
-an 0
-internal 0
-email 0
-on 0
-Monday 0
-night’s 0
-show 0
-from 0
-a 0
-senior 0
-Google 0
-employee 0
-who 0
-admitted 0
-to 0
-using 0
-company 0
-resources 0
-to 0
-make 0
-a 1
-“silent 1
-donation” 1
-to 0
-a 0
-liberal 0
-group 0
-that 0
-was 0
-creating 0
-ads 0
-and 0
-donating 0
-funds 0
-to 0
-bus 0
-Latinos 0
-to 0
-voting 0
-stations 0
-during 0
-the 0
-2016 0
-election 0
-in 0
-key 0
-swing 0
-states, 0
-in 0
-an 0
-effort 0
-to 0
-help 0
-Hillary 0
-Clinton 0
-win. 0
+Tucker 0 342 1
+Carlson 0 342 1
+just 0 342 1
+blew 1 342 1
+the 1 342 1
+cover 1 342 1
+off 1 342 1
+the 1 342 1
+2016 1 342 1
+election 1 342 1
+influence 1 342 1
+charade, 1 342 1
+after 0 342 1
+he 0 342 1
+read 0 342 1
+an 0 342 1
+internal 0 342 1
+email 0 342 1
+on 0 342 1
+Monday 0 342 1
+night’s 0 342 1
+show 0 342 1
+from 0 342 1
+a 0 342 1
+senior 0 342 1
+Google 0 342 1
+employee 0 342 1
+who 0 342 1
+admitted 0 342 1
+to 0 342 1
+using 0 342 1
+company 0 342 1
+resources 0 342 1
+to 0 342 1
+make 0 342 1
+a 1 342 1
+“silent 1 342 1
+donation” 1 342 1
+to 0 342 1
+a 0 342 1
+liberal 0 342 1
+group 0 342 1
+that 0 342 1
+was 0 342 1
+creating 0 342 1
+ads 0 342 1
+and 0 342 1
+donating 0 342 1
+funds 0 342 1
+to 0 342 1
+bus 0 342 1
+Latinos 0 342 1
+to 0 342 1
+voting 0 342 1
+stations 0 342 1
+during 0 342 1
+the 0 342 1
+2016 0 342 1
+election 0 342 1
+in 0 342 1
+key 0 342 1
+swing 0 342 1
+states, 0 342 1
+in 0 342 1
+an 0 342 1
+effort 0 342 1
+to 0 342 1
+help 0 342 1
+Hillary 0 342 1
+Clinton 0 342 1
+win. 0 342 1
 
-The 0
-email 0
-was 0
-sent 0
-by 0
-the 0
-former 0
-head 0
-of 0
-Google’s 0
-multicultural 0
-marketing 0
-department, 0
-Eliana 0
-Mario, 0
-on 0
-November 0
-9, 0
-2016. 0
+The 0 342 2
+email 0 342 2
+was 0 342 2
+sent 0 342 2
+by 0 342 2
+the 0 342 2
+former 0 342 2
+head 0 342 2
+of 0 342 2
+Google’s 0 342 2
+multicultural 0 342 2
+marketing 0 342 2
+department, 0 342 2
+Eliana 0 342 2
+Mario, 0 342 2
+on 0 342 2
+November 0 342 2
+9, 0 342 2
+2016. 0 342 2
 
-“That 0
-email 0
-was 0
-subsequently 0
-forwarded 0
-by 0
-two 0
-Google 0
-VP’s 0
-to 0
-more 0
-staff 0
-members 0
-throughout 0
-the 0
-company,” 0
-says 0
-Carlson, 0
-adding 0
-“In 0
-her 0
-email, 0
-Mario 1
-touts 1
-Google’s 1
-multi-faceted 1
-efforts 1
-to 0
-boost 0
-Hispanic 0
-turnout 0
-in 0
-the 0
-election. 0
+“That 0 342 3
+email 0 342 3
+was 0 342 3
+subsequently 0 342 3
+forwarded 0 342 3
+by 0 342 3
+two 0 342 3
+Google 0 342 3
+VP’s 0 342 3
+to 0 342 3
+more 0 342 3
+staff 0 342 3
+members 0 342 3
+throughout 0 342 3
+the 0 342 3
+company,” 0 342 3
+says 0 342 3
+Carlson, 0 342 3
+adding 0 342 3
+“In 0 342 3
+her 0 342 3
+email, 0 342 3
+Mario 1 342 3
+touts 1 342 3
+Google’s 1 342 3
+multi-faceted 1 342 3
+efforts 1 342 3
+to 0 342 3
+boost 0 342 3
+Hispanic 0 342 3
+turnout 0 342 3
+in 0 342 3
+the 0 342 3
+election. 0 342 3
 
-She 0
-noticed 0
-that 0
-Latino 0
-voters 0
-did 1
-record-breaking 1
-numbers, 1
-especially 0
-in 0
-states 0
-like 0
-Florida, 0
-Nevada 0
-and 0
-Arizona 0
-– 0
-the 0
-last 0
-of 0
-which 0
-she 0
-describes 0
-as 0
-“a 0
-key 0
-state 0
-for 0
-us.” 0
-She 1
-brags 1
-that 0
-the 0
-company 0
-used 0
-its 0
-power 0
-to 0
-ensure 0
-that 0
-millions 0
-of 0
-people 0
-saw 0
-certain 0
-hashtags 0
-and 0
-social 0
-media 0
-impressions, 0
-with 0
-the 0
-goal 0
-of 0
-influencing 0
-their 0
-behavior 0
-during 0
-the 0
-election.” 0
+She 0 342 4
+noticed 0 342 4
+that 0 342 4
+Latino 0 342 4
+voters 0 342 4
+did 1 342 4
+record-breaking 1 342 4
+numbers, 1 342 4
+especially 0 342 4
+in 0 342 4
+states 0 342 4
+like 0 342 4
+Florida, 0 342 4
+Nevada 0 342 4
+and 0 342 4
+Arizona 0 342 4
+– 0 342 4
+the 0 342 4
+last 0 342 4
+of 0 342 4
+which 0 342 4
+she 0 342 4
+describes 0 342 4
+as 0 342 4
+“a 0 342 4
+key 0 342 4
+state 0 342 4
+for 0 342 4
+us.” 0 342 4
+She 1 342 4
+brags 1 342 4
+that 0 342 4
+the 0 342 4
+company 0 342 4
+used 0 342 4
+its 0 342 4
+power 0 342 4
+to 0 342 4
+ensure 0 342 4
+that 0 342 4
+millions 0 342 4
+of 0 342 4
+people 0 342 4
+saw 0 342 4
+certain 0 342 4
+hashtags 0 342 4
+and 0 342 4
+social 0 342 4
+media 0 342 4
+impressions, 0 342 4
+with 0 342 4
+the 0 342 4
+goal 0 342 4
+of 0 342 4
+influencing 0 342 4
+their 0 342 4
+behavior 0 342 4
+during 0 342 4
+the 0 342 4
+election.” 0 342 4
 
-Elsewhere 0
-in 0
-the 0
-email 0
-Mario 0
-says 0
-“Google 0
-supported 0
-partners 0
-like 0
-Voto 0
-Latino 0
-to 0
-pay 0
-for 0
-rides 0
-to 0
-the 0
-polls 0
-in 0
-key 0
-states 0
-.” 0
-Hillary 0
-the 0
-Other 0
-Woman 0
-Dolly 0
-Kyle 0
-Best 0
-Price: 0
-$3.06 0
-Buy 0
-New 0
-$8.93 0
-(as 0
-of 0
-01:15 0
-EDT 0
-- 0
-Details) 0
-She 0
-describes 0
-this 0
-assistance 0
-as 0
-a 1
-“silent 1
-donation” 1
-Mario 0
-then 0
-says 0
-that 0
-Google 0
-helped 0
-Voto 0
-Latino 0
-create 0
-ad 0
-campaigns 0
-to 0
-promote 0
-those 0
-rides. 0
+Elsewhere 0 342 5
+in 0 342 5
+the 0 342 5
+email 0 342 5
+Mario 0 342 5
+says 0 342 5
+“Google 0 342 5
+supported 0 342 5
+partners 0 342 5
+like 0 342 5
+Voto 0 342 5
+Latino 0 342 5
+to 0 342 5
+pay 0 342 5
+for 0 342 5
+rides 0 342 5
+to 0 342 5
+the 0 342 5
+polls 0 342 5
+in 0 342 5
+key 0 342 5
+states 0 342 5
+.” 0 342 5
+Hillary 0 342 5
+the 0 342 5
+Other 0 342 5
+Woman 0 342 5
+Dolly 0 342 5
+Kyle 0 342 5
+Best 0 342 5
+Price: 0 342 5
+$3.06 0 342 5
+Buy 0 342 5
+New 0 342 5
+$8.93 0 342 5
+(as 0 342 5
+of 0 342 5
+01:15 0 342 5
+EDT 0 342 5
+- 0 342 5
+Details) 0 342 5
+She 0 342 5
+describes 0 342 5
+this 0 342 5
+assistance 0 342 5
+as 0 342 5
+a 1 342 5
+“silent 1 342 5
+donation” 1 342 5
+Mario 0 342 5
+then 0 342 5
+says 0 342 5
+that 0 342 5
+Google 0 342 5
+helped 0 342 5
+Voto 0 342 5
+Latino 0 342 5
+create 0 342 5
+ad 0 342 5
+campaigns 0 342 5
+to 0 342 5
+promote 0 342 5
+those 0 342 5
+rides. 0 342 5
 
-Now 0
-officially 0
-Voto 0
-Latino 0
-is 0
-a 1
-non-partisan 1
-entity, 1
-but 0
-that 1
-is 1
-a 1
-sham. 1
+Now 0 342 6
+officially 0 342 6
+Voto 0 342 6
+Latino 0 342 6
+is 0 342 6
+a 1 342 6
+non-partisan 1 342 6
+entity, 1 342 6
+but 0 342 6
+that 1 342 6
+is 1 342 6
+a 1 342 6
+sham. 1 342 6
 
-Voto 0
-Latino 0
-is 0
-vocally 1
-partisan. 1
+Voto 0 342 7
+Latino 0 342 7
+is 0 342 7
+vocally 1 342 7
+partisan. 1 342 7
 
-Recently 0
-the 0
-group 0
-declared 0
-that 0
-Hispanics 1
-– 1
-ALL 1
-Hispanics 1
-are 1
-in 1
-President 1
-Trump’s 1
-“crosshairs.” 1
-They 0
-said 0
-they 0
-plan 0
-to 0
-respond 0
-to 0
-this 0
-by 0
-registering 0
-another 0
-million 0
-additional 0
-Hispanic 0
-voters 0
-in 0
-the 0
-next 0
-Presidential 0
-cycle. 0
+Recently 0 342 8
+the 0 342 8
+group 0 342 8
+declared 0 342 8
+that 0 342 8
+Hispanics 1 342 8
+– 1 342 8
+ALL 1 342 8
+Hispanics 1 342 8
+are 1 342 8
+in 1 342 8
+President 1 342 8
+Trump’s 1 342 8
+“crosshairs.” 1 342 8
+They 0 342 8
+said 0 342 8
+they 0 342 8
+plan 0 342 8
+to 0 342 8
+respond 0 342 8
+to 0 342 8
+this 0 342 8
+by 0 342 8
+registering 0 342 8
+another 0 342 8
+million 0 342 8
+additional 0 342 8
+Hispanic 0 342 8
+voters 0 342 8
+in 0 342 8
+the 0 342 8
+next 0 342 8
+Presidential 0 342 8
+cycle. 0 342 8
 
-… 0
-It 0
-was, 0
-in 0
-effect, 0
-an 0
-in-kind 0
-contribution 0
-to 0
-the 0
-Hillary 0
-Clinton 0
-for 0
-President 0
-campaign. 0
+… 0 342 9
+It 0 342 9
+was, 0 342 9
+in 0 342 9
+effect, 0 342 9
+an 0 342 9
+in-kind 0 342 9
+contribution 0 342 9
+to 0 342 9
+the 0 342 9
+Hillary 0 342 9
+Clinton 0 342 9
+for 0 342 9
+President 0 342 9
+campaign. 0 342 9
 
-… 0
-In 0
-the 0
-end, 0
-Google 0
-was 0
-disappointed. 0
+… 0 342 10
+In 0 342 10
+the 0 342 10
+end, 0 342 10
+Google 0 342 10
+was 0 342 10
+disappointed. 0 342 10
 
-As 0
-Mario 0
-herself 0
-conceded 0
-“ultimately 0
-after 0
-all 0
-was 0
-said 0
-and 0
-done, 0
-the 0
-Latino 0
-community 0
-did 0
-come 0
-out 0
-to 0
-vote, 0
-and 0
-completely 0
-surprised 0
-us. 0
+As 0 342 11
+Mario 0 342 11
+herself 0 342 11
+conceded 0 342 11
+“ultimately 0 342 11
+after 0 342 11
+all 0 342 11
+was 0 342 11
+said 0 342 11
+and 0 342 11
+done, 0 342 11
+the 0 342 11
+Latino 0 342 11
+community 0 342 11
+did 0 342 11
+come 0 342 11
+out 0 342 11
+to 0 342 11
+vote, 0 342 11
+and 0 342 11
+completely 0 342 11
+surprised 0 342 11
+us. 0 342 11
 
-We 0
-never 0
-anticipated 0
-that 0
-29% 0
-of 0
-Latinos 0
-would 0
-vote 0
-for 0
-Trump. 0
+We 0 342 12
+never 0 342 12
+anticipated 0 342 12
+that 0 342 12
+29% 0 342 12
+of 0 342 12
+Latinos 0 342 12
+would 0 342 12
+vote 0 342 12
+for 0 342 12
+Trump. 0 342 12
 
-No 1
-one 1
-did. 1
+No 1 342 13
+one 1 342 13
+did. 1 342 13
 
-–Tucker 0
-Carlson 0
+–Tucker 0 342 14
+Carlson 0 342 14
 
-Watch: 0
+Watch: 0 342 15
 
-﻿ 0
+﻿ 0 342 16
 
-So 0
-it 0
-looks 0
-like 0
-@Google 0
-executives 0
-have 0
-been 0
-caught 1
-red-handed 1
-trying 0
-to 0
-throw 0
-the 0
-election 0
-to 0
-Hillary 0
-Clinton 0
-in 0
-2016. 0
+So 0 342 17
+it 0 342 17
+looks 0 342 17
+like 0 342 17
+@Google 0 342 17
+executives 0 342 17
+have 0 342 17
+been 0 342 17
+caught 1 342 17
+red-handed 1 342 17
+trying 0 342 17
+to 0 342 17
+throw 0 342 17
+the 0 342 17
+election 0 342 17
+to 0 342 17
+Hillary 0 342 17
+Clinton 0 342 17
+in 0 342 17
+2016. 0 342 17
 
-Maybe 1
-that’s 1
-why 1
-they 1
-refused 1
-to 1
-appear 1
-before 1
-Congress 1
-last 1
-week?https://t.co/1YELagt8hH 0
-— 0
-Andrew 0
-Surabian 0
-(@Surabees) 0
-September 0
-11, 0
-2018 0
+Maybe 1 342 18
+that’s 1 342 18
+why 1 342 18
+they 1 342 18
+refused 1 342 18
+to 1 342 18
+appear 1 342 18
+before 1 342 18
+Congress 1 342 18
+last 1 342 18
+week?https://t.co/1YELagt8hH 0 342 18
+— 0 342 18
+Andrew 0 342 18
+Surabian 0 342 18
+(@Surabees) 0 342 18
+September 0 342 18
+11, 0 342 18
+2018 0 342 18
 
-This, 0
-of 0
-course, 0
-isn’t 0
-the 0
-first 0
-evidence 0
-of 0
-Google 0
-doing 0
-all 0
-they 0
-could 0
-to 0
-help 0
-Hillary 0
-win 0
-the 0
-election. 0
+This, 0 342 19
+of 0 342 19
+course, 0 342 19
+isn’t 0 342 19
+the 0 342 19
+first 0 342 19
+evidence 0 342 19
+of 0 342 19
+Google 0 342 19
+doing 0 342 19
+all 0 342 19
+they 0 342 19
+could 0 342 19
+to 0 342 19
+help 0 342 19
+Hillary 0 342 19
+win 0 342 19
+the 0 342 19
+election. 0 342 19
 
-In 0
-an 0
-April 0
-15, 0
-2014 0
-email 0
-from 0
-Google’s 0
-then-Executive 0
-Chairman 0
-Eric 0
-Schmidt 0
-found 0
-in 0
-the 0
-WikiLeaked 0
-Podesta 0
-emails, 0
-titled 0
-“Notes 0
-for 0
-a 0
-2016 0
-Democratic 0
-Campaign,” 0
-Schmidt 0
-tells 0
-Cheryl 0
-Mills 0
-that 0
-“I 0
-have 0
-put 0
-together 0
-my 0
-thoughts 0
-on 0
-the 0
-campaign 0
-ideas 0
-and 0
-I 0
-have 0
-scheduled 0
-some 0
-meetings 0
-in 0
-the 0
-next 0
-few 0
-weeks 0
-for 0
-veterans 0
-of 0
-the 0
-campaign 0
-to 0
-tell 0
-me 0
-how 0
-to 0
-make 0
-these 0
-ideas 0
-better. 0
+In 0 342 20
+an 0 342 20
+April 0 342 20
+15, 0 342 20
+2014 0 342 20
+email 0 342 20
+from 0 342 20
+Google’s 0 342 20
+then-Executive 0 342 20
+Chairman 0 342 20
+Eric 0 342 20
+Schmidt 0 342 20
+found 0 342 20
+in 0 342 20
+the 0 342 20
+WikiLeaked 0 342 20
+Podesta 0 342 20
+emails, 0 342 20
+titled 0 342 20
+“Notes 0 342 20
+for 0 342 20
+a 0 342 20
+2016 0 342 20
+Democratic 0 342 20
+Campaign,” 0 342 20
+Schmidt 0 342 20
+tells 0 342 20
+Cheryl 0 342 20
+Mills 0 342 20
+that 0 342 20
+“I 0 342 20
+have 0 342 20
+put 0 342 20
+together 0 342 20
+my 0 342 20
+thoughts 0 342 20
+on 0 342 20
+the 0 342 20
+campaign 0 342 20
+ideas 0 342 20
+and 0 342 20
+I 0 342 20
+have 0 342 20
+scheduled 0 342 20
+some 0 342 20
+meetings 0 342 20
+in 0 342 20
+the 0 342 20
+next 0 342 20
+few 0 342 20
+weeks 0 342 20
+for 0 342 20
+veterans 0 342 20
+of 0 342 20
+the 0 342 20
+campaign 0 342 20
+to 0 342 20
+tell 0 342 20
+me 0 342 20
+how 0 342 20
+to 0 342 20
+make 0 342 20
+these 0 342 20
+ideas 0 342 20
+better. 0 342 20
 
-This 0
-is 0
-simply 0
-a 0
-draft 0
-but 0
-do 0
-let 0
-me 0
-know 0
-if 0
-this 0
-is 0
-a 0
-helpful 0
-process 0
-for 0
-you 0
-all.” 0
+This 0 342 21
+is 0 342 21
+simply 0 342 21
+a 0 342 21
+draft 0 342 21
+but 0 342 21
+do 0 342 21
+let 0 342 21
+me 0 342 21
+know 0 342 21
+if 0 342 21
+this 0 342 21
+is 0 342 21
+a 0 342 21
+helpful 0 342 21
+process 0 342 21
+for 0 342 21
+you 0 342 21
+all.” 0 342 21
 
-While 0
-there 0
-are 0
-numerous 0
-curious 0
-nuances 0
-in 0
-the 0
-plan, 0
-presented 0
-below 0
-in 0
-its 0
-entirety, 0
-the 0
-one 0
-section 0
-that 0
-caught 0
-our 0
-– 0
-and 0
-Wikileaks’ 0
-attention 0
-– 0
-is 0
-the 0
-following 0
-which 0
-implicitly 0
-suggests 0
-Google 0
-planned 0
-the 0
-creation 0
-of 0
-a 0
-voter 0
-tracking 0
-database, 0
-using 0
-smart 0
-phones: 0
-Guilty 1
-as 1
-Sin: 1
-Uncover... 0
-Edward 0
-Klein 0
-Best 0
-Price: 0
-$2.30 0
-Buy 0
-New 0
-$3.99 0
-(as 0
-of 0
-12:05 0
-EDT 0
-- 0
-Details) 0
+While 0 342 22
+there 0 342 22
+are 0 342 22
+numerous 0 342 22
+curious 0 342 22
+nuances 0 342 22
+in 0 342 22
+the 0 342 22
+plan, 0 342 22
+presented 0 342 22
+below 0 342 22
+in 0 342 22
+its 0 342 22
+entirety, 0 342 22
+the 0 342 22
+one 0 342 22
+section 0 342 22
+that 0 342 22
+caught 0 342 22
+our 0 342 22
+– 0 342 22
+and 0 342 22
+Wikileaks’ 0 342 22
+attention 0 342 22
+– 0 342 22
+is 0 342 22
+the 0 342 22
+following 0 342 22
+which 0 342 22
+implicitly 0 342 22
+suggests 0 342 22
+Google 0 342 22
+planned 0 342 22
+the 0 342 22
+creation 0 342 22
+of 0 342 22
+a 0 342 22
+voter 0 342 22
+tracking 0 342 22
+database, 0 342 22
+using 0 342 22
+smart 0 342 22
+phones: 0 342 22
+Guilty 1 342 22
+as 1 342 22
+Sin: 1 342 22
+Uncover... 0 342 22
+Edward 0 342 22
+Klein 0 342 22
+Best 0 342 22
+Price: 0 342 22
+$2.30 0 342 22
+Buy 0 342 22
+New 0 342 22
+$3.99 0 342 22
+(as 0 342 22
+of 0 342 22
+12:05 0 342 22
+EDT 0 342 22
+- 0 342 22
+Details) 0 342 22
 
-Key 0
-is 0
-the 0
-development 0
-of 0
-a 0
-single 0
-record 0
-for 0
-a 0
-voter 0
-that 0
-aggregates 0
-all 0
-that 0
-is 0
-known 0
-about 0
-them. 0
+Key 0 342 23
+is 0 342 23
+the 0 342 23
+development 0 342 23
+of 0 342 23
+a 0 342 23
+single 0 342 23
+record 0 342 23
+for 0 342 23
+a 0 342 23
+voter 0 342 23
+that 0 342 23
+aggregates 0 342 23
+all 0 342 23
+that 0 342 23
+is 0 342 23
+known 0 342 23
+about 0 342 23
+them. 0 342 23
 
-In 0
-2016 0
-smart 0
-phones 0
-will 0
-be 0
-used 0
-to 0
-identify, 0
-meet, 0
-and 0
-update 0
-profiles 0
-on 0
-the 0
-voter. 0
+In 0 342 24
+2016 0 342 24
+smart 0 342 24
+phones 0 342 24
+will 0 342 24
+be 0 342 24
+used 0 342 24
+to 0 342 24
+identify, 0 342 24
+meet, 0 342 24
+and 0 342 24
+update 0 342 24
+profiles 0 342 24
+on 0 342 24
+the 0 342 24
+voter. 0 342 24
 
-A 0
-dynamic 0
-volunteer 0
-can 0
-easily 0
-speak 0
-with 0
-a 0
-voter 0
-and, 0
-with 0
-their 0
-email 0
-or 0
-other 0
-digital 0
-handle, 0
-get 0
-the 0
-voter 0
-videos 0
-and 0
-other 0
-answers 0
-to 0
-areas 0
-they 0
-care 0
-about 0
-(“the 0
-benefits 0
-of 0
-ACA 0
-to 0
-you” 0
-etc.) 0
+A 0 342 25
+dynamic 0 342 25
+volunteer 0 342 25
+can 0 342 25
+easily 0 342 25
+speak 0 342 25
+with 0 342 25
+a 0 342 25
+voter 0 342 25
+and, 0 342 25
+with 0 342 25
+their 0 342 25
+email 0 342 25
+or 0 342 25
+other 0 342 25
+digital 0 342 25
+handle, 0 342 25
+get 0 342 25
+the 0 342 25
+voter 0 342 25
+videos 0 342 25
+and 0 342 25
+other 0 342 25
+answers 0 342 25
+to 0 342 25
+areas 0 342 25
+they 0 342 25
+care 0 342 25
+about 0 342 25
+(“the 0 342 25
+benefits 0 342 25
+of 0 342 25
+ACA 0 342 25
+to 0 342 25
+you” 0 342 25
+etc.) 0 342 25
 
-As 0
-a 0
-reminder, 0
-in 0
-late 0
-October 0
-of 0
-2016 0
-it 0
-was 0
-revealed 0
-that 0
-just 0
-days 0
-prior 0
-to 0
-the 0
-April 0
-15, 0
-2014 0
-email, 0
-Schmidt 0
-had 0
-sent 0
-another 0
-email 0
-in 0
-which 0
-he 0
-expressed 0
-his 0
-eagerness 0
-to 0
-“fund” 0
-the 0
-campaign 0
-efforts 0
-and 0
-wants 0
-to 0
-be 0
-a 0
-“head 0
-outside 0
-advisor.” 0
-In 0
-the 0
-email 0
-from 0
-John 0
-Podesta 0
-to 0
-Robby 0
-Mook 0
-we 0
-learned 0
-that: 0
+As 0 342 26
+a 0 342 26
+reminder, 0 342 26
+in 0 342 26
+late 0 342 26
+October 0 342 26
+of 0 342 26
+2016 0 342 26
+it 0 342 26
+was 0 342 26
+revealed 0 342 26
+that 0 342 26
+just 0 342 26
+days 0 342 26
+prior 0 342 26
+to 0 342 26
+the 0 342 26
+April 0 342 26
+15, 0 342 26
+2014 0 342 26
+email, 0 342 26
+Schmidt 0 342 26
+had 0 342 26
+sent 0 342 26
+another 0 342 26
+email 0 342 26
+in 0 342 26
+which 0 342 26
+he 0 342 26
+expressed 0 342 26
+his 0 342 26
+eagerness 0 342 26
+to 0 342 26
+“fund” 0 342 26
+the 0 342 26
+campaign 0 342 26
+efforts 0 342 26
+and 0 342 26
+wants 0 342 26
+to 0 342 26
+be 0 342 26
+a 0 342 26
+“head 0 342 26
+outside 0 342 26
+advisor.” 0 342 26
+In 0 342 26
+the 0 342 26
+email 0 342 26
+from 0 342 26
+John 0 342 26
+Podesta 0 342 26
+to 0 342 26
+Robby 0 342 26
+Mook 0 342 26
+we 0 342 26
+learned 0 342 26
+that: 0 342 26
 
-I 0
-met 0
-with 0
-Eric 0
-Schmidt 0
-tonight. 0
+I 0 342 27
+met 0 342 27
+with 0 342 27
+Eric 0 342 27
+Schmidt 0 342 27
+tonight. 0 342 27
 
-As 0
-David 0
-reported, 0
-he’s 0
-ready 0
-to 0
-fund, 0
-advise 0
-recruit 0
-talent, 0
-etc. 0
+As 0 342 28
+David 0 342 28
+reported, 0 342 28
+he’s 0 342 28
+ready 0 342 28
+to 0 342 28
+fund, 0 342 28
+advise 0 342 28
+recruit 0 342 28
+talent, 0 342 28
+etc. 0 342 28
 
-He 0
-was 0
-more 0
-deferential 0
-on 0
-structure 0
-than 0
-I 0
-expected. 0
+He 0 342 29
+was 0 342 29
+more 0 342 29
+deferential 0 342 29
+on 0 342 29
+structure 0 342 29
+than 0 342 29
+I 0 342 29
+expected. 0 342 29
 
-Wasn’t 0
-pushing 0
-to 0
-run 0
-through 0
-one 0
-of 0
-his 0
-existing 0
-firms. 0
+Wasn’t 0 342 30
+pushing 0 342 30
+to 0 342 30
+run 0 342 30
+through 0 342 30
+one 0 342 30
+of 0 342 30
+his 0 342 30
+existing 0 342 30
+firms. 0 342 30
 
-Clearly 0
-wants 0
-to 0
-be 0
-head 0
-outside 0
-advisor, 0
-but 0
-didn’t 0
-seem 0
-like 0
-he 0
-wanted 0
-to 0
-push 0
-others 0
-out. 0
+Clearly 0 342 31
+wants 0 342 31
+to 0 342 31
+be 0 342 31
+head 0 342 31
+outside 0 342 31
+advisor, 0 342 31
+but 0 342 31
+didn’t 0 342 31
+seem 0 342 31
+like 0 342 31
+he 0 342 31
+wanted 0 342 31
+to 0 342 31
+push 0 342 31
+others 0 342 31
+out. 0 342 31
 
-Clearly 0
-wants 0
-to 0
-get 0
-going. 0
+Clearly 0 342 32
+wants 0 342 32
+to 0 342 32
+get 0 342 32
+going. 0 342 32
 
-He’s 0
-still 0
-in 0
-DC 0
-tomorrow 0
-and 0
-would 0
-like 0
-to 0
-meet 0
-with 0
-you 0
-if 0
-you 0
-are 0
-in 0
-DC 0
-in 0
-the 0
-afternoon. 0
+He’s 0 342 33
+still 0 342 33
+in 0 342 33
+DC 0 342 33
+tomorrow 0 342 33
+and 0 342 33
+would 0 342 33
+like 0 342 33
+to 0 342 33
+meet 0 342 33
+with 0 342 33
+you 0 342 33
+if 0 342 33
+you 0 342 33
+are 0 342 33
+in 0 342 33
+DC 0 342 33
+in 0 342 33
+the 0 342 33
+afternoon. 0 342 33
 
-I 0
-think 0
-it’s 0
-worth 0
-doing. 0
+I 0 342 34
+think 0 342 34
+it’s 0 342 34
+worth 0 342 34
+doing. 0 342 34
 
-You 0
-around? 0
+You 0 342 35
+around? 0 342 35
 
-If 0
-you 0
-are, 0
-and 0
-want 0
-to 0
-meet 0
-with 0
-him, 0
-maybe 0
-the 0
-four 0
-of 0
-us 0
-can 0
-get 0
-on 0
-t 0
+If 0 342 36
+you 0 342 36
+are, 0 342 36
+and 0 342 36
+want 0 342 36
+to 0 342 36
+meet 0 342 36
+with 0 342 36
+him, 0 342 36
+maybe 0 342 36
+the 0 342 36
+four 0 342 36
+of 0 342 36
+us 0 342 36
+can 0 342 36
+get 0 342 36
+on 0 342 36
+t 0 342 36
 
-Another 0
-email 0
-from 0
-February 0
-2015 0
-suggested 0
-that 0
-the 0
-Google 0
-Chairman 0
-remained 0
-active 0
-in 0
-its 0
-collaboration 0
-with 0
-the 0
-Clinton 0
-campaign: 0
-John 0
-Podesta 0
-wrote 0
-that 0
-Eric 0
-Schmidt 0
-met 0
-with 0
-HR 0
-“about 0
-the 0
-business 0
-he 0
-proposes 0
-to 0
-do 0
-with 0
-the 0
-campaign. 0
+Another 0 342 37
+email 0 342 37
+from 0 342 37
+February 0 342 37
+2015 0 342 37
+suggested 0 342 37
+that 0 342 37
+the 0 342 37
+Google 0 342 37
+Chairman 0 342 37
+remained 0 342 37
+active 0 342 37
+in 0 342 37
+its 0 342 37
+collaboration 0 342 37
+with 0 342 37
+the 0 342 37
+Clinton 0 342 37
+campaign: 0 342 37
+John 0 342 37
+Podesta 0 342 37
+wrote 0 342 37
+that 0 342 37
+Eric 0 342 37
+Schmidt 0 342 37
+met 0 342 37
+with 0 342 37
+HR 0 342 37
+“about 0 342 37
+the 0 342 37
+business 0 342 37
+he 0 342 37
+proposes 0 342 37
+to 0 342 37
+do 0 342 37
+with 0 342 37
+the 0 342 37
+campaign. 0 342 37
 
-He 0
-says 0
-he’s 0
-met 0
-with 0
-HRC” 0
-and 0
-adds 0
-that 0
-“FYI. 0
+He 0 342 38
+says 0 342 38
+he’s 0 342 38
+met 0 342 38
+with 0 342 38
+HRC” 0 342 38
+and 0 342 38
+adds 0 342 38
+that 0 342 38
+“FYI. 0 342 38
 
-They 0
-are 0
-donating 0
-the 0
-Google 0
-plane 0
-for 0
-the 0
-Africa 0
-trip” 0
+They 0 342 39
+are 0 342 39
+donating 0 342 39
+the 0 342 39
+Google 0 342 39
+plane 0 342 39
+for 0 342 39
+the 0 342 39
+Africa 0 342 39
+trip” 0 342 39
 
-Meanwhile, 0
-according 1
-to 1
-a 1
-Breitbart 1
-report 1
-by 1
-Allum 1
-Bokhari, 1
-“By 0
-inserting 0
-negative 0
-search 0
-suggestions 0
-under 0
-the 0
-name 0
-of 0
-a 0
-candidate, 0
-search 0
-engines 0
-like 0
-Google 0
-can 0
-shift 0
-the 0
-opinions 0
-of 0
-undecided 0
-voters 0
-by 0
-up 0
-to 0
-43.4 0
-percent, 0
-according 0
-to 0
-new 0
-research 0
-by 0
-a 0
-team 0
-at 0
-the 0
-American 0
-Institute 0
-for 0
-Behavioral 0
-Research 0
-and 0
-Technology 0
-and 0
-reported 0
-exclusively 0
-by 0
-Breitbart 0
-News.” 0
+Meanwhile, 0 342 40
+according 1 342 40
+to 1 342 40
+a 1 342 40
+Breitbart 1 342 40
+report 1 342 40
+by 1 342 40
+Allum 1 342 40
+Bokhari, 1 342 40
+“By 0 342 40
+inserting 0 342 40
+negative 0 342 40
+search 0 342 40
+suggestions 0 342 40
+under 0 342 40
+the 0 342 40
+name 0 342 40
+of 0 342 40
+a 0 342 40
+candidate, 0 342 40
+search 0 342 40
+engines 0 342 40
+like 0 342 40
+Google 0 342 40
+can 0 342 40
+shift 0 342 40
+the 0 342 40
+opinions 0 342 40
+of 0 342 40
+undecided 0 342 40
+voters 0 342 40
+by 0 342 40
+up 0 342 40
+to 0 342 40
+43.4 0 342 40
+percent, 0 342 40
+according 0 342 40
+to 0 342 40
+new 0 342 40
+research 0 342 40
+by 0 342 40
+a 0 342 40
+team 0 342 40
+at 0 342 40
+the 0 342 40
+American 0 342 40
+Institute 0 342 40
+for 0 342 40
+Behavioral 0 342 40
+Research 0 342 40
+and 0 342 40
+Technology 0 342 40
+and 0 342 40
+reported 0 342 40
+exclusively 0 342 40
+by 0 342 40
+Breitbart 0 342 40
+News.” 0 342 40
 
-The 0
-lead 0
-author 0
-of 0
-the 0
-study, 0
-Dr. 0
-Robert 0
-Epstein, 0
-has 0
-previously 0
-conducted 0
-research 0
-into 0
-what 0
-he 0
-calls 0
-the 0
-Search 0
-Engine 0
-Manipulation 0
-Effect 0
-(SEME). 0
+The 0 342 41
+lead 0 342 41
+author 0 342 41
+of 0 342 41
+the 0 342 41
+study, 0 342 41
+Dr. 0 342 41
+Robert 0 342 41
+Epstein, 0 342 41
+has 0 342 41
+previously 0 342 41
+conducted 0 342 41
+research 0 342 41
+into 0 342 41
+what 0 342 41
+he 0 342 41
+calls 0 342 41
+the 0 342 41
+Search 0 342 41
+Engine 0 342 41
+Manipulation 0 342 41
+Effect 0 342 41
+(SEME). 0 342 41
 
-This 0
-research 0
-showed 0
-that 0
-the 0
-manipulation 0
-of 0
-results 0
-pages 0
-in 0
-search 0
-engines 0
-can 0
-shift 0
-the 0
-voting 0
-preferences 0
-of 0
-undecideds 0
-by 0
-anywhere 0
-between 0
-20 0
-and 0
-80 0
-percent, 0
-depending 0
-on 0
-the 0
-demographic. 0
+This 0 342 42
+research 0 342 42
+showed 0 342 42
+that 0 342 42
+the 0 342 42
+manipulation 0 342 42
+of 0 342 42
+results 0 342 42
+pages 0 342 42
+in 0 342 42
+search 0 342 42
+engines 0 342 42
+can 0 342 42
+shift 0 342 42
+the 0 342 42
+voting 0 342 42
+preferences 0 342 42
+of 0 342 42
+undecideds 0 342 42
+by 0 342 42
+anywhere 0 342 42
+between 0 342 42
+20 0 342 42
+and 0 342 42
+80 0 342 42
+percent, 0 342 42
+depending 0 342 42
+on 0 342 42
+the 0 342 42
+demographic. 0 342 42
 
-His 0
-latest 0
-research 0
-looks 0
-at 0
-how 0
-search 0
-engines 0
-can 0
-affect 0
-voters 0
-by 0
-suggesting 0
-negative 0
-or 0
-positive 0
-search 0
-terms 0
-when 0
-a 0
-political 0
-candidate’s 0
-name 0
-is 0
-entered 0
-into 0
-the 0
-search 0
-bar. 0
+His 0 342 43
+latest 0 342 43
+research 0 342 43
+looks 0 342 43
+at 0 342 43
+how 0 342 43
+search 0 342 43
+engines 0 342 43
+can 0 342 43
+affect 0 342 43
+voters 0 342 43
+by 0 342 43
+suggesting 0 342 43
+negative 0 342 43
+or 0 342 43
+positive 0 342 43
+search 0 342 43
+terms 0 342 43
+when 0 342 43
+a 0 342 43
+political 0 342 43
+candidate’s 0 342 43
+name 0 342 43
+is 0 342 43
+entered 0 342 43
+into 0 342 43
+the 0 342 43
+search 0 342 43
+bar. 0 342 43
 
-Dr. 0
-Epstein’s 0
-research 0
-found 0
-that 0
-when 0
-negative 0
-search 0
-terms 0
-are 0
-suggested 0
-for 0
-a 0
-candidate, 0
-it 0
-can 0
-have 0
-a 1
-dramatic 1
-effect 1
-on 0
-voter 0
-opinion. 0
+Dr. 0 342 44
+Epstein’s 0 342 44
+research 0 342 44
+found 0 342 44
+that 0 342 44
+when 0 342 44
+negative 0 342 44
+search 0 342 44
+terms 0 342 44
+are 0 342 44
+suggested 0 342 44
+for 0 342 44
+a 0 342 44
+candidate, 0 342 44
+it 0 342 44
+can 0 342 44
+have 0 342 44
+a 1 342 44
+dramatic 1 342 44
+effect 1 342 44
+on 0 342 44
+voter 0 342 44
+opinion. 0 342 44
 
-–Breitbart 0
+–Breitbart 0 342 45
 
-So, 0
-despite 0
-Google’s 0
-best 0
-efforts 0
-to 0
-help 0
-Clinton 0
-win 0
-the 0
-election, 0
-it 0
-simply 0
-wasn’t 0
-enough. 0
+So, 0 342 46
+despite 0 342 46
+Google’s 0 342 46
+best 0 342 46
+efforts 0 342 46
+to 0 342 46
+help 0 342 46
+Clinton 0 342 46
+win 0 342 46
+the 0 342 46
+election, 0 342 46
+it 0 342 46
+simply 0 342 46
+wasn’t 0 342 46
+enough. 0 342 46
 
-Meanwhile, 0
-Google 1
-has 1
-yet 1
-to 1
-answer 1
-why 1
-their 1
-search 1
-results 1
-for 1
-the 1
-word 1
-“Idiot” 1
-are 1
-vastly 1
-different 1
-from 1
-DuckDuckGo: 1
+Meanwhile, 0 342 47
+Google 1 342 47
+has 1 342 47
+yet 1 342 47
+to 1 342 47
+answer 1 342 47
+why 1 342 47
+their 1 342 47
+search 1 342 47
+results 1 342 47
+for 1 342 47
+the 1 342 47
+word 1 342 47
+“Idiot” 1 342 47
+are 1 342 47
+vastly 1 342 47
+different 1 342 47
+from 1 342 47
+DuckDuckGo: 1 342 47
 
-VS: 0
+VS: 0 342 48
 
-Reprinted 0
-with 0
-permission 0
-from 0
-Zero 0
-Hedge. 0
+Reprinted 0 342 49
+with 0 342 49
+permission 0 342 49
+from 0 342 49
+Zero 0 342 49
+Hedge. 0 342 49
 
-The 0
-Best 0
-of 0
-Tyler 0
-Durden 0
+The 0 342 49
+
+Best 0 342 49
+
+of 0 342 49
+
+Tyler 0 342 49
+
+Durden 0 342 49

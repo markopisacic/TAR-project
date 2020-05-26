@@ -1,764 +1,793 @@
-Texan 0
-behind 0
-3D-printed 0
-guns 0
-vows 0
-legal 0
-fight 0
-as 0
-White 0
-House 0
-endorses 0
-court 0
-ruling 0
-| 0
-Bangkok 0
-Post: 0
-news 0
+Texan 0 309 0
+behind 0 309 0
+3D-printed 0 309 0
+guns 0 309 0
+vows 0 309 0
+legal 0 309 0
+fight 0 309 0
+as 0 309 0
+White 0 309 0
+House 0 309 0
+endorses 0 309 0
+court 0 309 0
+ruling 0 309 0
+| 0 309 0
+Bangkok 0 309 0
+Post: 0 309 0
+news 0 309 0
 
-CHICAGO 0
-- 0
-A 0
-US 0
-gun 0
-rights 0
-advocate 0
-began 0
-gearing 0
-up 0
-for 0
-a 0
-legal 0
-fight 0
-Wednesday 0
-to 0
-be 0
-able 0
-to 0
-publish 0
-online 0
-blueprints 0
-for 0
-3D-printed 0
-firearms, 0
-as 0
-the 0
-White 0
-House 0
-signaled 0
-support 0
-for 0
-a 0
-federal 0
-judge's 0
-decision 0
-to 0
-block 0
-the 0
-venture. 0
+CHICAGO 0 309 1
+- 0 309 1
+A 0 309 1
+US 0 309 1
+gun 0 309 1
+rights 0 309 1
+advocate 0 309 1
+began 0 309 1
+gearing 0 309 1
+up 0 309 1
+for 0 309 1
+a 0 309 1
+legal 0 309 1
+fight 0 309 1
+Wednesday 0 309 1
+to 0 309 1
+be 0 309 1
+able 0 309 1
+to 0 309 1
+publish 0 309 1
+online 0 309 1
+blueprints 0 309 1
+for 0 309 1
+3D-printed 0 309 1
+firearms, 0 309 1
+as 0 309 1
+the 0 309 1
+White 0 309 1
+House 0 309 1
+signaled 0 309 1
+support 0 309 1
+for 0 309 1
+a 0 309 1
+federal 0 309 1
+judge's 0 309 1
+decision 0 309 1
+to 0 309 1
+block 0 309 1
+the 0 309 1
+venture. 0 309 1
 
-Eight 0
-US 0
-states 0
-and 0
-the 0
-District 0
-of 0
-Columbia 0
-have 0
-argued 0
-in 0
-court 0
-that 0
-the 0
-blueprints 0
-available 0
-online 0
-to 0
-make 0
-untraceable, 0
-undetectable 0
-plastic 0
-weapons 0
-like 0
-this 0
-single-shot 0
-"Liberator" 0
-handgun 0
-could 0
-fall 0
-into 0
-the 0
-wrong 0
-hands 0
+Eight 0 309 2
+US 0 309 2
+states 0 309 2
+and 0 309 2
+the 0 309 2
+District 0 309 2
+of 0 309 2
+Columbia 0 309 2
+have 0 309 2
+argued 0 309 2
+in 0 309 2
+court 0 309 2
+that 0 309 2
+the 0 309 2
+blueprints 0 309 2
+available 0 309 2
+online 0 309 2
+to 0 309 2
+make 0 309 2
+untraceable, 0 309 2
+undetectable 0 309 2
+plastic 0 309 2
+weapons 0 309 2
+like 0 309 2
+this 0 309 2
+single-shot 0 309 2
+"Liberator" 0 309 2
+handgun 0 309 2
+could 0 309 2
+fall 0 309 2
+into 0 309 2
+the 0 309 2
+wrong 0 309 2
+hands 0 309 2
 
-Cody 0
-Wilson's 0
-Texas-based 0
-company 0
-Defense 0
-Distributed 0
-had 0
-briefly 0
-made 0
-the 0
-blueprints 0
-available 0
-online, 0
-but 0
-Seattle-based 0
-US 0
-District 0
-Judge 0
-Robert 0
-Lasnik 0
-granted 0
-an 0
-injunction 0
-Tuesday 0
-to 0
-take 0
-the 0
-material 0
-down. 0
+Cody 0 309 3
+Wilson's 0 309 3
+Texas-based 0 309 3
+company 0 309 3
+Defense 0 309 3
+Distributed 0 309 3
+had 0 309 3
+briefly 0 309 3
+made 0 309 3
+the 0 309 3
+blueprints 0 309 3
+available 0 309 3
+online, 0 309 3
+but 0 309 3
+Seattle-based 0 309 3
+US 0 309 3
+District 0 309 3
+Judge 0 309 3
+Robert 0 309 3
+Lasnik 0 309 3
+granted 0 309 3
+an 0 309 3
+injunction 0 309 3
+Tuesday 0 309 3
+to 0 309 3
+take 0 309 3
+the 0 309 3
+material 0 309 3
+down. 0 309 3
 
-The 0
-Donald 0
-Trump 0
-administration 0
-last 0
-month 0
-gave 0
-permission 0
-for 0
-Wilson 0
-to 0
-publish 0
-the 0
-blueprints, 0
-but 0
-the 0
-White 0
-House 0
-said 0
-Wednesday 0
-the 0
-president 0
-was 0
-unaware 0
-of 0
-the 0
-decision 0
-and 0
-was 0
-glad 0
-it 0
-was 0
-being 0
-reviewed. 0
+The 0 309 4
+Donald 0 309 4
+Trump 0 309 4
+administration 0 309 4
+last 0 309 4
+month 0 309 4
+gave 0 309 4
+permission 0 309 4
+for 0 309 4
+Wilson 0 309 4
+to 0 309 4
+publish 0 309 4
+the 0 309 4
+blueprints, 0 309 4
+but 0 309 4
+the 0 309 4
+White 0 309 4
+House 0 309 4
+said 0 309 4
+Wednesday 0 309 4
+the 0 309 4
+president 0 309 4
+was 0 309 4
+unaware 0 309 4
+of 0 309 4
+the 0 309 4
+decision 0 309 4
+and 0 309 4
+was 0 309 4
+glad 0 309 4
+it 0 309 4
+was 0 309 4
+being 0 309 4
+reviewed. 0 309 4
 
-Eight 0
-US 0
-states 0
-and 0
-the 0
-District 0
-of 0
-Columbia 0
-sued, 0
-arguing 0
-the 0
-blueprints 0
-could 0
-allow 0
-anyone 0
--- 0
-from 0
-a 0
-teen 0
-to 0
-a 0
-'lone 0
-wolf' 0
-gunman 0
--- 0
-to 0
-make 0
-untraceable, 1
-undetectable 1
-plastic 1
-weapons. 1
+Eight 0 309 5
+US 0 309 5
+states 0 309 5
+and 0 309 5
+the 0 309 5
+District 0 309 5
+of 0 309 5
+Columbia 0 309 5
+sued, 0 309 5
+arguing 0 309 5
+the 0 309 5
+blueprints 0 309 5
+could 0 309 5
+allow 0 309 5
+anyone 0 309 5
+-- 0 309 5
+from 0 309 5
+a 0 309 5
+teen 0 309 5
+to 0 309 5
+a 0 309 5
+'lone 0 309 5
+wolf' 0 309 5
+gunman 0 309 5
+-- 0 309 5
+to 0 309 5
+make 0 309 5
+untraceable, 1 309 5
+undetectable 1 309 5
+plastic 1 309 5
+weapons. 1 309 5
 
-Wilson 0
-complied 0
-with 0
-the 0
-judge's 0
-order, 0
-but 0
-put 0
-out 0
-a 0
-call 0
-for 0
-financial 0
-support 0
-for 0
-the 0
-legal 0
-battle 0
-ahead, 0
-including 0
-a 0
-scheduled 0
-August 0
-10 0
-court 0
-hearing. 0
+Wilson 0 309 6
+complied 0 309 6
+with 0 309 6
+the 0 309 6
+judge's 0 309 6
+order, 0 309 6
+but 0 309 6
+put 0 309 6
+out 0 309 6
+a 0 309 6
+call 0 309 6
+for 0 309 6
+financial 0 309 6
+support 0 309 6
+for 0 309 6
+the 0 309 6
+legal 0 309 6
+battle 0 309 6
+ahead, 0 309 6
+including 0 309 6
+a 0 309 6
+scheduled 0 309 6
+August 0 309 6
+10 0 309 6
+court 0 309 6
+hearing. 0 309 6
 
-He 0
-told 0
-CBS 0
-News 0
-ahead 0
-of 0
-the 0
-injunction 0
-that 0
-he 0
-believes 0
-"access 0
-to 0
-firearms 0
-is 0
-a 0
-fundamental 0
-human 0
-dignity. 0
+He 0 309 7
+told 0 309 7
+CBS 0 309 7
+News 0 309 7
+ahead 0 309 7
+of 0 309 7
+the 0 309 7
+injunction 0 309 7
+that 0 309 7
+he 0 309 7
+believes 0 309 7
+"access 0 309 7
+to 0 309 7
+firearms 0 309 7
+is 0 309 7
+a 0 309 7
+fundamental 0 309 7
+human 0 309 7
+dignity. 0 309 7
 
-It's 0
-a 0
-fundamental 0
-human 0
-right." 0
+It's 0 309 8
+a 0 309 8
+fundamental 0 309 8
+human 0 309 8
+right." 0 309 8
 
-"What 0
-I'm 0
-doing 0
-is 0
-legally 0
-protected," 0
-he 0
-said. 0
+"What 0 309 9
+I'm 0 309 9
+doing 0 309 9
+is 0 309 9
+legally 0 309 9
+protected," 0 309 9
+he 0 309 9
+said. 0 309 9
 
-"I 0
-will 0
-go 0
-to 0
-the 0
-appellate 0
-level. 0
+"I 0 309 10
+will 0 309 10
+go 0 309 10
+to 0 309 10
+the 0 309 10
+appellate 0 309 10
+level. 0 309 10
 
-I 0
-will 0
-go 0
-to 0
-the 0
-Supreme 0
-Court. 0
+I 0 309 11
+will 0 309 11
+go 0 309 11
+to 0 309 11
+the 0 309 11
+Supreme 0 309 11
+Court. 0 309 11
 
-I 0
-will 0
-waste 0
-all 0
-my 0
-time." 0
+I 0 309 12
+will 0 309 12
+waste 0 309 12
+all 0 309 12
+my 0 309 12
+time." 0 309 12
 
-- 0
-President 0
-'glad' 0
-for 0
-review 0
-- 0
+- 0 309 13
+President 0 309 13
+'glad' 0 309 13
+for 0 309 13
+review 0 309 13
+- 0 309 13
 
-As 0
-uproar 0
-was 0
-building 0
-Tuesday 0
-over 0
-Wilson's 0
-efforts, 0
-the 0
-president 0
-tweeted 0
-that 0
-making 0
-plastic 0
-3D-printed 0
-guns 0
-publicly 0
-available 0
-"doesn't 0
-seem 0
-to 0
-make 0
-much 0
-sense." 0
+As 0 309 14
+uproar 0 309 14
+was 0 309 14
+building 0 309 14
+Tuesday 0 309 14
+over 0 309 14
+Wilson's 0 309 14
+efforts, 0 309 14
+the 0 309 14
+president 0 309 14
+tweeted 0 309 14
+that 0 309 14
+making 0 309 14
+plastic 0 309 14
+3D-printed 0 309 14
+guns 0 309 14
+publicly 0 309 14
+available 0 309 14
+"doesn't 0 309 14
+seem 0 309 14
+to 0 309 14
+make 0 309 14
+much 0 309 14
+sense." 0 309 14
 
-White 0
-House 0
-spokeswoman 0
-Sarah 0
-Sanders 0
-elaborated 0
-Wednesday, 0
-saying 0
-the 0
-administration's 0
-Justice 0
-Department 0
-had 0
-acted 0
-on 0
-its 0
-own 0
-in 0
-granting 0
-Wilson 0
-permission 0
-to 0
-publish 0
-the 0
-blueprints 0
-on 0
-his 0
-Defcad 0
-website 0
--- 0
-settling 0
-a 0
-five-year 0
-legal 0
-battle. 0
+White 0 309 15
+House 0 309 15
+spokeswoman 0 309 15
+Sarah 0 309 15
+Sanders 0 309 15
+elaborated 0 309 15
+Wednesday, 0 309 15
+saying 0 309 15
+the 0 309 15
+administration's 0 309 15
+Justice 0 309 15
+Department 0 309 15
+had 0 309 15
+acted 0 309 15
+on 0 309 15
+its 0 309 15
+own 0 309 15
+in 0 309 15
+granting 0 309 15
+Wilson 0 309 15
+permission 0 309 15
+to 0 309 15
+publish 0 309 15
+the 0 309 15
+blueprints 0 309 15
+on 0 309 15
+his 0 309 15
+Defcad 0 309 15
+website 0 309 15
+-- 0 309 15
+settling 0 309 15
+a 0 309 15
+five-year 0 309 15
+legal 0 309 15
+battle. 0 309 15
 
-"The 0
-Department 0
-of 0
-Justice 0
-made 0
-a 0
-deal 0
-without 0
-the 0
-president's 0
-approval," 0
-Sanders 0
-said. 0
+"The 0 309 16
+Department 0 309 16
+of 0 309 16
+Justice 0 309 16
+made 0 309 16
+a 0 309 16
+deal 0 309 16
+without 0 309 16
+the 0 309 16
+president's 0 309 16
+approval," 0 309 16
+Sanders 0 309 16
+said. 0 309 16
 
-"The 0
-president's 0
-glad 0
-this 0
-effort 0
-was 0
-delayed 0
-to 0
-give 0
-more 0
-time 0
-to 0
-review 0
-the 0
-issue." 0
+"The 0 309 17
+president's 0 309 17
+glad 0 309 17
+this 0 309 17
+effort 0 309 17
+was 0 309 17
+delayed 0 309 17
+to 0 309 17
+give 0 309 17
+more 0 309 17
+time 0 309 17
+to 0 309 17
+review 0 309 17
+the 0 309 17
+issue." 0 309 17
 
-Sanders 0
-also 0
-repeated 0
-the 0
-administration's 0
-claim 0
-from 0
-a 0
-day 0
-earlier 0
-that 0
-existing 0
-law 0
-already 0
-prohibits 0
-plastic 0
-firearms. 0
+Sanders 0 309 18
+also 0 309 18
+repeated 0 309 18
+the 0 309 18
+administration's 0 309 18
+claim 0 309 18
+from 0 309 18
+a 0 309 18
+day 0 309 18
+earlier 0 309 18
+that 0 309 18
+existing 0 309 18
+law 0 309 18
+already 0 309 18
+prohibits 0 309 18
+plastic 0 309 18
+firearms. 0 309 18
 
-The 0
-National 0
-Rifle 0
-Association, 0
-the 0
-nation's 0
-most 0
-politically 0
-influential 0
-gun 0
-rights 0
-group, 0
-echoed 0
-that 0
-claim, 0
-contending 0
-that 0
-the 0
-1988 0
-law 0
-made 0
-the 0
-current 0
-3D-printed 0
-gun 0
-issue 0
-moot. 0
+The 0 309 19
+National 0 309 19
+Rifle 0 309 19
+Association, 0 309 19
+the 0 309 19
+nation's 0 309 19
+most 0 309 19
+politically 0 309 19
+influential 0 309 19
+gun 0 309 19
+rights 0 309 19
+group, 0 309 19
+echoed 0 309 19
+that 0 309 19
+claim, 0 309 19
+contending 0 309 19
+that 0 309 19
+the 0 309 19
+1988 0 309 19
+law 0 309 19
+made 0 309 19
+the 0 309 19
+current 0 309 19
+3D-printed 0 309 19
+gun 0 309 19
+issue 0 309 19
+moot. 0 309 19
 
-"Regardless 0
-of 0
-what 0
-a 0
-person 0
-may 0
-be 0
-able 0
-to 0
-publish 0
-on 0
-the 0
-Internet, 0
-undetectable 0
-plastic 0
-guns 0
-have 0
-been 0
-illegal 0
-for 0
-30 0
-years," 0
-the 0
-NRA 0
-said 0
-in 0
-a 0
-statement. 0
+"Regardless 0 309 20
+of 0 309 20
+what 0 309 20
+a 0 309 20
+person 0 309 20
+may 0 309 20
+be 0 309 20
+able 0 309 20
+to 0 309 20
+publish 0 309 20
+on 0 309 20
+the 0 309 20
+Internet, 0 309 20
+undetectable 0 309 20
+plastic 0 309 20
+guns 0 309 20
+have 0 309 20
+been 0 309 20
+illegal 0 309 20
+for 0 309 20
+30 0 309 20
+years," 0 309 20
+the 0 309 20
+NRA 0 309 20
+said 0 309 20
+in 0 309 20
+a 0 309 20
+statement. 0 309 20
 
-But 0
-Wilson 0
-has 0
-gotten 0
-around 0
-the 0
-legal 0
-prohibition 0
-by 0
-providing 0
-instructions 0
-with 0
-the 0
-digital 0
-files 0
-for 0
-3D 0
-printing 0
-his 0
-"Liberator" 0
-plastic 0
-gun 0
-that 0
-call 0
-for 0
-an 0
-approximately 0
-six-ounce 0
-block 0
-of 0
-steel 0
-to 0
-be 0
-affixed 0
-to 0
-the 0
-weapon. 0
+But 0 309 21
+Wilson 0 309 21
+has 0 309 21
+gotten 0 309 21
+around 0 309 21
+the 0 309 21
+legal 0 309 21
+prohibition 0 309 21
+by 0 309 21
+providing 0 309 21
+instructions 0 309 21
+with 0 309 21
+the 0 309 21
+digital 0 309 21
+files 0 309 21
+for 0 309 21
+3D 0 309 21
+printing 0 309 21
+his 0 309 21
+"Liberator" 0 309 21
+plastic 0 309 21
+gun 0 309 21
+that 0 309 21
+call 0 309 21
+for 0 309 21
+an 0 309 21
+approximately 0 309 21
+six-ounce 0 309 21
+block 0 309 21
+of 0 309 21
+steel 0 309 21
+to 0 309 21
+be 0 309 21
+affixed 0 309 21
+to 0 309 21
+the 0 309 21
+weapon. 0 309 21
 
-Should 0
-those 0
-who 0
-print 0
-the 0
-gun 0
-follow 0
-those 0
-instructions, 0
-metal 0
-detectors 0
-would 0
-pick 0
-up 0
-the 0
-weapons, 0
-thus 0
-complying 0
-with 0
-the 0
-law. 0
+Should 0 309 22
+those 0 309 22
+who 0 309 22
+print 0 309 22
+the 0 309 22
+gun 0 309 22
+follow 0 309 22
+those 0 309 22
+instructions, 0 309 22
+metal 0 309 22
+detectors 0 309 22
+would 0 309 22
+pick 0 309 22
+up 0 309 22
+the 0 309 22
+weapons, 0 309 22
+thus 0 309 22
+complying 0 309 22
+with 0 309 22
+the 0 309 22
+law. 0 309 22
 
-But 0
-while 0
-users 0
-can 0
-build 0
-the 0
-gun, 0
-there 0
-is 0
-no 0
-way 0
-to 0
-ensure 0
-they 0
-affix 0
-metal 0
-to 0
-it. 0
+But 0 309 23
+while 0 309 23
+users 0 309 23
+can 0 309 23
+build 0 309 23
+the 0 309 23
+gun, 0 309 23
+there 0 309 23
+is 0 309 23
+no 0 309 23
+way 0 309 23
+to 0 309 23
+ensure 0 309 23
+they 0 309 23
+affix 0 309 23
+metal 0 309 23
+to 0 309 23
+it. 0 309 23
 
-- 0
-'The 0
-debate 0
-is 0
-over' 0
-- 0
+- 0 309 24
+'The 0 309 24
+debate 0 309 24
+is 0 309 24
+over' 0 309 24
+- 0 309 24
 
-Late 0
-Tuesday, 0
-dozens 0
-of 0
-Democratic 0
-senators 0
-introduced 0
-legislation 0
-to 0
-prohibit 0
-the 0
-publication 0
-of 0
-3D-printable 0
-firearm 0
-designs, 0
-a 0
-move 0
-gun 0
-control 0
-groups 0
-applauded. 0
+Late 0 309 25
+Tuesday, 0 309 25
+dozens 0 309 25
+of 0 309 25
+Democratic 0 309 25
+senators 0 309 25
+introduced 0 309 25
+legislation 0 309 25
+to 0 309 25
+prohibit 0 309 25
+the 0 309 25
+publication 0 309 25
+of 0 309 25
+3D-printable 0 309 25
+firearm 0 309 25
+designs, 0 309 25
+a 0 309 25
+move 0 309 25
+gun 0 309 25
+control 0 309 25
+groups 0 309 25
+applauded. 0 309 25
 
-But 0
-some 0
-damage 0
-was 0
-already 0
-done. 0
+But 0 309 26
+some 0 309 26
+damage 0 309 26
+was 0 309 26
+already 0 309 26
+done. 0 309 26
 
-Wilson's 0
-blueprints 0
-had 0
-been 0
-posted 0
-on 0
-Defcad 0
-before 0
-the 0
-court 0
-order 0
-took 0
-effect 0
-and 0
-had 0
-already 0
-been 0
-downloaded 0
-thousands 0
-of 0
-times. 0
+Wilson's 0 309 27
+blueprints 0 309 27
+had 0 309 27
+been 0 309 27
+posted 0 309 27
+on 0 309 27
+Defcad 0 309 27
+before 0 309 27
+the 0 309 27
+court 0 309 27
+order 0 309 27
+took 0 309 27
+effect 0 309 27
+and 0 309 27
+had 0 309 27
+already 0 309 27
+been 0 309 27
+downloaded 0 309 27
+thousands 0 309 27
+of 0 309 27
+times. 0 309 27
 
-"The 0
-debate 0
-is 0
-over. 0
+"The 0 309 28
+debate 0 309 28
+is 0 309 28
+over. 0 309 28
 
-The 0
-guns 0
-are 0
-downloadable. 0
+The 0 309 29
+guns 0 309 29
+are 0 309 29
+downloadable. 0 309 29
 
-The 0
-files 0
-are 0
-in 0
-the 0
-public 0
-domain 0
--- 0
-you 0
-cannot 0
-take 0
-them 0
-back," 0
-Wilson 0
-told 0
-CBS. 0
+The 0 309 30
+files 0 309 30
+are 0 309 30
+in 0 309 30
+the 0 309 30
+public 0 309 30
+domain 0 309 30
+-- 0 309 30
+you 0 309 30
+cannot 0 309 30
+take 0 309 30
+them 0 309 30
+back," 0 309 30
+Wilson 0 309 30
+told 0 309 30
+CBS. 0 309 30
 
-Gun 0
-control 0
-groups 0
-nevertheless 0
-were 0
-relieved 0
-by 0
-the 0
-judge's 0
-decision, 0
-with 0
-the 0
-Brady 0
-Campaign 0
-to 0
-Prevent 0
-Gun 0
-Violence 0
-calling 0
-3D-printed 0
-firearms 0
-"nothing 1
-short 1
-of 1
-a 1
-menace 1
-to 0
-society." 0
+Gun 0 309 31
+control 0 309 31
+groups 0 309 31
+nevertheless 0 309 31
+were 0 309 31
+relieved 0 309 31
+by 0 309 31
+the 0 309 31
+judge's 0 309 31
+decision, 0 309 31
+with 0 309 31
+the 0 309 31
+Brady 0 309 31
+Campaign 0 309 31
+to 0 309 31
+Prevent 0 309 31
+Gun 0 309 31
+Violence 0 309 31
+calling 0 309 31
+3D-printed 0 309 31
+firearms 0 309 31
+"nothing 1 309 31
+short 1 309 31
+of 1 309 31
+a 1 309 31
+menace 1 309 31
+to 0 309 31
+society." 0 309 31
 
-"There 0
-is 0
-simply 0
-no 0
-way 0
-of 0
-telling 0
-how 0
-much 0
-damage 0
-has 0
-already 0
-been 0
-done 0
-by 0
-Cody 0
-Wilson's 0
-dangerous 1
-and 1
-reckless 1
-actions," 0
-Brady 0
-Campaign 0
-co-president 0
-Kris 0
-Brown 0
-said 0
-in 0
-a 0
-statement. 0
+"There 0 309 32
+is 0 309 32
+simply 0 309 32
+no 0 309 32
+way 0 309 32
+of 0 309 32
+telling 0 309 32
+how 0 309 32
+much 0 309 32
+damage 0 309 32
+has 0 309 32
+already 0 309 32
+been 0 309 32
+done 0 309 32
+by 0 309 32
+Cody 0 309 32
+Wilson's 0 309 32
+dangerous 1 309 32
+and 1 309 32
+reckless 1 309 32
+actions," 0 309 32
+Brady 0 309 32
+Campaign 0 309 32
+co-president 0 309 32
+Kris 0 309 32
+Brown 0 309 32
+said 0 309 32
+in 0 309 32
+a 0 309 32
+statement. 0 309 32
 
-"This 0
-is 0
-a 0
-strong 0
-step 0
-and 0
-a 0
-clear 0
-victory 0
-for 0
-the 0
-entire 0
-gun 0
-safety 0
-movement, 0
-but 0
-we 0
-simply 0
-can't 0
-let 0
-up." 0
+"This 0 309 33
+is 0 309 33
+a 0 309 33
+strong 0 309 33
+step 0 309 33
+and 0 309 33
+a 0 309 33
+clear 0 309 33
+victory 0 309 33
+for 0 309 33
+the 0 309 33
+entire 0 309 33
+gun 0 309 33
+safety 0 309 33
+movement, 0 309 33
+but 0 309 33
+we 0 309 33
+simply 0 309 33
+can't 0 309 33
+let 0 309 33
+up." 0 309 33
 
-Prior 0
-to 0
-last 0
-month, 0
-Wilson 0
-had 0
-actually 0
-been 0
-losing 0
-his 0
-drawn-out 0
-legal 0
-battle, 0
-after 0
-both 0
-a 0
-federal 0
-district 0
-court 0
-and 0
-an 0
-appellate 0
-court 0
-ruled 0
-against 0
-him. 0
+Prior 0 309 34
+to 0 309 34
+last 0 309 34
+month, 0 309 34
+Wilson 0 309 34
+had 0 309 34
+actually 0 309 34
+been 0 309 34
+losing 0 309 34
+his 0 309 34
+drawn-out 0 309 34
+legal 0 309 34
+battle, 0 309 34
+after 0 309 34
+both 0 309 34
+a 0 309 34
+federal 0 309 34
+district 0 309 34
+court 0 309 34
+and 0 309 34
+an 0 309 34
+appellate 0 309 34
+court 0 309 34
+ruled 0 309 34
+against 0 309 34
+him. 0 309 34
 
-The 0
-US 0
-Supreme 0
-Court 0
-declined 0
-to 0
-take 0
-up 0
-his 0
-case. 0
+The 0 309 35
+US 0 309 35
+Supreme 0 309 35
+Court 0 309 35
+declined 0 309 35
+to 0 309 35
+take 0 309 35
+up 0 309 35
+his 0 309 35
+case. 0 309 35
 
-But 0
-in 0
-a 0
-sign 0
-of 0
-his 0
-determination 0
-to 0
-continue 0
-the 0
-legal 0
-fight, 0
-a 0
-message 0
-on 0
-the 0
-Defense 0
-Distributed 0
-website 0
-made 0
-a 0
-public 0
-appeal 0
-for 0
-financial 0
-support 0
-"to 0
-uncensor 0
-the 0
-site." 0
+But 0 309 35
+
+in 0 309 35
+
+a 0 309 35
+
+sign 0 309 35
+
+of 0 309 35
+
+his 0 309 35
+
+determination 0 309 35
+
+to 0 309 35
+
+continue 0 309 35
+
+the 0 309 35
+
+legal 0 309 35
+
+fight, 0 309 35
+
+a 0 309 35
+
+message 0 309 35
+
+on 0 309 35
+
+the 0 309 35
+
+Defense 0 309 35
+
+Distributed 0 309 35
+
+website 0 309 35
+
+made 0 309 35
+
+a 0 309 35
+
+public 0 309 35
+
+appeal 0 309 35
+
+for 0 309 35
+
+financial 0 309 35
+
+support 0 309 35
+
+"to 0 309 35
+
+uncensor 0 309 35
+
+the 0 309 35
+
+site." 0 309 35

@@ -1,668 +1,668 @@
-Student 0
-says 0
-anti-Semitism 0
-still 0
-an 0
-issue 0
-in 0
-McGill 0
-student 0
-government 0
+Student 0 151 0
+says 0 151 0
+anti-Semitism 0 151 0
+still 0 151 0
+an 0 151 0
+issue 0 151 0
+in 0 151 0
+McGill 0 151 0
+student 0 151 0
+government 0 151 0
 
-The 0
-McGill 0
-student 0
-at 0
-the 0
-centre 0
-of 0
-anti-Semitic 0
-allegations 0
-says 0
-he’s 0
-certain 0
-the 0
-climate 0
-within 0
-student 0
-government 0
-will 0
-improve, 0
-after 0
-a 0
-report 0
-into 0
-the 0
-incident 0
-was 0
-made 0
-public 0
-this 0
-week. 0
+The 0 151 1
+McGill 0 151 1
+student 0 151 1
+at 0 151 1
+the 0 151 1
+centre 0 151 1
+of 0 151 1
+anti-Semitic 0 151 1
+allegations 0 151 1
+says 0 151 1
+he’s 0 151 1
+certain 0 151 1
+the 0 151 1
+climate 0 151 1
+within 0 151 1
+student 0 151 1
+government 0 151 1
+will 0 151 1
+improve, 0 151 1
+after 0 151 1
+a 0 151 1
+report 0 151 1
+into 0 151 1
+the 0 151 1
+incident 0 151 1
+was 0 151 1
+made 0 151 1
+public 0 151 1
+this 0 151 1
+week. 0 151 1
 
-Noah 0
-Lew 0
-and 0
-two 0
-other 0
-students 0
-were 0
-voted 0
-off 0
-the 0
-Students’ 0
-Society 0
-of 0
-McGill 0
-University 0
-last 0
-October 0
-after 0
-they 0
-were 0
-identified 0
-as 0
-having 0
-pro-Israel 0
-viewpoints. 0
+Noah 0 151 2
+Lew 0 151 2
+and 0 151 2
+two 0 151 2
+other 0 151 2
+students 0 151 2
+were 0 151 2
+voted 0 151 2
+off 0 151 2
+the 0 151 2
+Students’ 0 151 2
+Society 0 151 2
+of 0 151 2
+McGill 0 151 2
+University 0 151 2
+last 0 151 2
+October 0 151 2
+after 0 151 2
+they 0 151 2
+were 0 151 2
+identified 0 151 2
+as 0 151 2
+having 0 151 2
+pro-Israel 0 151 2
+viewpoints. 0 151 2
 
-They 0
-were 0
-since 0
-reinstated. 0
+They 0 151 3
+were 0 151 3
+since 0 151 3
+reinstated. 0 151 3
 
-A 0
-report 0
-made 0
-public 0
-this 0
-week 0
-by 0
-Spencer 0
-Boudreau 0
-concluded 0
-he 0
-could 0
-not 0
-determine 0
-if 0
-students 0
-who 0
-organized 0
-against 0
-the 0
-three 0
-board 0
-members 0
-had 0
-anti-Semitic 0
-intentions. 0
+A 0 151 4
+report 0 151 4
+made 0 151 4
+public 0 151 4
+this 0 151 4
+week 0 151 4
+by 0 151 4
+Spencer 0 151 4
+Boudreau 0 151 4
+concluded 0 151 4
+he 0 151 4
+could 0 151 4
+not 0 151 4
+determine 0 151 4
+if 0 151 4
+students 0 151 4
+who 0 151 4
+organized 0 151 4
+against 0 151 4
+the 0 151 4
+three 0 151 4
+board 0 151 4
+members 0 151 4
+had 0 151 4
+anti-Semitic 0 151 4
+intentions. 0 151 4
 
-Boudreau, 0
-a 0
-retired 0
-professor 0
-of 0
-education 0
-and 0
-former 0
-ombudsperson 0
-for 0
-students, 0
-however, 0
-said 0
-he 0
-understood 0
-why 0
-the 0
-students 0
-felt 0
-they 0
-were 0
-targeted 0
-because 0
-they 0
-are 0
-Jewish. 0
+Boudreau, 0 151 5
+a 0 151 5
+retired 0 151 5
+professor 0 151 5
+of 0 151 5
+education 0 151 5
+and 0 151 5
+former 0 151 5
+ombudsperson 0 151 5
+for 0 151 5
+students, 0 151 5
+however, 0 151 5
+said 0 151 5
+he 0 151 5
+understood 0 151 5
+why 0 151 5
+the 0 151 5
+students 0 151 5
+felt 0 151 5
+they 0 151 5
+were 0 151 5
+targeted 0 151 5
+because 0 151 5
+they 0 151 5
+are 0 151 5
+Jewish. 0 151 5
 
-After 0
-criticism 0
-from 0
-several 0
-Jewish 0
-groups 0
-both 0
-on 0
-and 0
-off 0
-campus, 0
-Boudreau 0
-issued 0
-a 0
-clarification 0
-to 0
-the 0
-report, 0
-saying 0
-he 0
-could 0
-not 0
-determine 0
-if 0
-the 0
-vote 0
-was 0
-motivated 0
-by 0
-anti-Semitism, 0
-but 0
-he 0
-acknowledged 0
-there 0
-were 0
-“in 0
-fact 0
-anti-Semitic 0
-effects 0
-felt 0
-by 0
-members 0
-of 0
-the 0
-Jewish 0
-community.” 0
+After 0 151 6
+criticism 0 151 6
+from 0 151 6
+several 0 151 6
+Jewish 0 151 6
+groups 0 151 6
+both 0 151 6
+on 0 151 6
+and 0 151 6
+off 0 151 6
+campus, 0 151 6
+Boudreau 0 151 6
+issued 0 151 6
+a 0 151 6
+clarification 0 151 6
+to 0 151 6
+the 0 151 6
+report, 0 151 6
+saying 0 151 6
+he 0 151 6
+could 0 151 6
+not 0 151 6
+determine 0 151 6
+if 0 151 6
+the 0 151 6
+vote 0 151 6
+was 0 151 6
+motivated 0 151 6
+by 0 151 6
+anti-Semitism, 0 151 6
+but 0 151 6
+he 0 151 6
+acknowledged 0 151 6
+there 0 151 6
+were 0 151 6
+“in 0 151 6
+fact 0 151 6
+anti-Semitic 0 151 6
+effects 0 151 6
+felt 0 151 6
+by 0 151 6
+members 0 151 6
+of 0 151 6
+the 0 151 6
+Jewish 0 151 6
+community.” 0 151 6
 
-Speaking 0
-to 0
-the 0
-Montreal 0
-Gazette 0
-on 0
-Friday, 0
-Lew, 0
-the 0
-SSMU’s 0
-vice-president 0
-of 0
-finance 0
-for 0
-the 0
-Arts, 0
-said 0
-he 0
-was 0
-initially 0
-upset 0
-with 0
-the 0
-report, 0
-but 0
-felt 0
-vindicated 0
-by 0
-Boudreau’s 0
-clarification. 0
+Speaking 0 151 7
+to 0 151 7
+the 0 151 7
+Montreal 0 151 7
+Gazette 0 151 7
+on 0 151 7
+Friday, 0 151 7
+Lew, 0 151 7
+the 0 151 7
+SSMU’s 0 151 7
+vice-president 0 151 7
+of 0 151 7
+finance 0 151 7
+for 0 151 7
+the 0 151 7
+Arts, 0 151 7
+said 0 151 7
+he 0 151 7
+was 0 151 7
+initially 0 151 7
+upset 0 151 7
+with 0 151 7
+the 0 151 7
+report, 0 151 7
+but 0 151 7
+felt 0 151 7
+vindicated 0 151 7
+by 0 151 7
+Boudreau’s 0 151 7
+clarification. 0 151 7
 
-“I 0
-thought 0
-this 0
-acknowledgement 0
-was 0
-very 0
-important 0
-and 0
-I 0
-really 0
-did 0
-appreciate 0
-that 0
-he 0
-clarified 0
-the 0
-matter,” 0
-he 0
-said. 0
+“I 0 151 8
+thought 0 151 8
+this 0 151 8
+acknowledgement 0 151 8
+was 0 151 8
+very 0 151 8
+important 0 151 8
+and 0 151 8
+I 0 151 8
+really 0 151 8
+did 0 151 8
+appreciate 0 151 8
+that 0 151 8
+he 0 151 8
+clarified 0 151 8
+the 0 151 8
+matter,” 0 151 8
+he 0 151 8
+said. 0 151 8
 
-Jewish 0
-groups 0
-had 0
-criticized 0
-Boudreau’s 0
-report, 0
-saying 0
-it 0
-ignored 0
-anti-Semitic 0
-language 0
-used 0
-on 0
-Facebook 0
-by 0
-a 0
-group 0
-called 0
-Democratize 0
-SSMU. 0
+Jewish 0 151 9
+groups 0 151 9
+had 0 151 9
+criticized 0 151 9
+Boudreau’s 0 151 9
+report, 0 151 9
+saying 0 151 9
+it 0 151 9
+ignored 0 151 9
+anti-Semitic 0 151 9
+language 0 151 9
+used 0 151 9
+on 0 151 9
+Facebook 0 151 9
+by 0 151 9
+a 0 151 9
+group 0 151 9
+called 0 151 9
+Democratize 0 151 9
+SSMU. 0 151 9
 
-The 0
-group 0
-was 0
-urging 0
-students 0
-to 0
-vote 0
-against 0
-Lew, 0
-and 0
-two 0
-other 0
-board 0
-members 0
-who 0
-were 0
-deemed 0
-to 0
-be 0
-pro-Israel, 0
-alleging 1
-“layers 1
-of 1
-corruption” 1
-within 1
-the 1
-student 1
-government 1
-and 1
-favouritism 1
-in 1
-appointing 1
-board 1
-members, 1
-then 0
-singled 0
-out 0
-three 0
-members 0
-of 0
-the 0
-board 0
-“who 0
-are 0
-all 0
-either 0
-fellows 0
-at 0
-the 0
-Canadian 0
-Jewish 0
-Political 0
-Affairs 0
-Committee, 0
-an 0
-organization 0
-whose 0
-explicit 0
-mandate 0
-is 0
-to 0
-promote 0
-pro-Israel 0
-discourse 0
-in 0
-Canadian 0
-politics, 0
-or 0
-primary 0
-organizers 0
-for 0
-the 0
-anti-BDS 0
-initiative 0
-at 0
-McGill.” 0
+The 0 151 10
+group 0 151 10
+was 0 151 10
+urging 0 151 10
+students 0 151 10
+to 0 151 10
+vote 0 151 10
+against 0 151 10
+Lew, 0 151 10
+and 0 151 10
+two 0 151 10
+other 0 151 10
+board 0 151 10
+members 0 151 10
+who 0 151 10
+were 0 151 10
+deemed 0 151 10
+to 0 151 10
+be 0 151 10
+pro-Israel, 0 151 10
+alleging 1 151 10
+“layers 1 151 10
+of 1 151 10
+corruption” 1 151 10
+within 1 151 10
+the 1 151 10
+student 1 151 10
+government 1 151 10
+and 1 151 10
+favouritism 1 151 10
+in 1 151 10
+appointing 1 151 10
+board 1 151 10
+members, 1 151 10
+then 0 151 10
+singled 0 151 10
+out 0 151 10
+three 0 151 10
+members 0 151 10
+of 0 151 10
+the 0 151 10
+board 0 151 10
+“who 0 151 10
+are 0 151 10
+all 0 151 10
+either 0 151 10
+fellows 0 151 10
+at 0 151 10
+the 0 151 10
+Canadian 0 151 10
+Jewish 0 151 10
+Political 0 151 10
+Affairs 0 151 10
+Committee, 0 151 10
+an 0 151 10
+organization 0 151 10
+whose 0 151 10
+explicit 0 151 10
+mandate 0 151 10
+is 0 151 10
+to 0 151 10
+promote 0 151 10
+pro-Israel 0 151 10
+discourse 0 151 10
+in 0 151 10
+Canadian 0 151 10
+politics, 0 151 10
+or 0 151 10
+primary 0 151 10
+organizers 0 151 10
+for 0 151 10
+the 0 151 10
+anti-BDS 0 151 10
+initiative 0 151 10
+at 0 151 10
+McGill.” 0 151 10
 
-Boudreau 0
-made 0
-his 0
-clarification 0
-after 0
-it 0
-was 0
-pointed 0
-out 0
-the 0
-anti-Semitic 0
-language 0
-was 0
-published 0
-prior 0
-to 0
-the 0
-vote. 0
+Boudreau 0 151 11
+made 0 151 11
+his 0 151 11
+clarification 0 151 11
+after 0 151 11
+it 0 151 11
+was 0 151 11
+pointed 0 151 11
+out 0 151 11
+the 0 151 11
+anti-Semitic 0 151 11
+language 0 151 11
+was 0 151 11
+published 0 151 11
+prior 0 151 11
+to 0 151 11
+the 0 151 11
+vote. 0 151 11
 
-While 0
-Democratize 0
-SSMU 0
-later 0
-apologized 0
-for 0
-the 0
-language 0
-and 0
-deleted 0
-it 0
-from 0
-its 0
-site, 0
-the 0
-damage 0
-had 0
-already 0
-been 0
-done, 0
-Boudreau 0
-concluded. 0
+While 0 151 12
+Democratize 0 151 12
+SSMU 0 151 12
+later 0 151 12
+apologized 0 151 12
+for 0 151 12
+the 0 151 12
+language 0 151 12
+and 0 151 12
+deleted 0 151 12
+it 0 151 12
+from 0 151 12
+its 0 151 12
+site, 0 151 12
+the 0 151 12
+damage 0 151 12
+had 0 151 12
+already 0 151 12
+been 0 151 12
+done, 0 151 12
+Boudreau 0 151 12
+concluded. 0 151 12
 
-Lew 0
-said 0
-he 0
-feels 0
-vindicated 0
-to 0
-some 0
-extent, 0
-but 0
-is 0
-concerned 0
-anti-Semitism 0
-is 0
-still 0
-a 0
-problem 0
-within 0
-student 0
-government. 0
+Lew 0 151 13
+said 0 151 13
+he 0 151 13
+feels 0 151 13
+vindicated 0 151 13
+to 0 151 13
+some 0 151 13
+extent, 0 151 13
+but 0 151 13
+is 0 151 13
+concerned 0 151 13
+anti-Semitism 0 151 13
+is 0 151 13
+still 0 151 13
+a 0 151 13
+problem 0 151 13
+within 0 151 13
+student 0 151 13
+government. 0 151 13
 
-“There 0
-have 0
-been 0
-some 0
-steps 0
-taken 0
-by 0
-the 0
-administration 0
-and 0
-the 0
-student 0
-body 0
-in 0
-the 0
-right 0
-direction, 0
-but 0
-it’s 0
-certainly 0
-not 0
-over,” 0
-he 0
-said. 0
+“There 0 151 14
+have 0 151 14
+been 0 151 14
+some 0 151 14
+steps 0 151 14
+taken 0 151 14
+by 0 151 14
+the 0 151 14
+administration 0 151 14
+and 0 151 14
+the 0 151 14
+student 0 151 14
+body 0 151 14
+in 0 151 14
+the 0 151 14
+right 0 151 14
+direction, 0 151 14
+but 0 151 14
+it’s 0 151 14
+certainly 0 151 14
+not 0 151 14
+over,” 0 151 14
+he 0 151 14
+said. 0 151 14
 
-In 0
-the 0
-months 0
-leading 0
-up 0
-to 0
-the 0
-vote, 0
-there 0
-had 0
-been 0
-other 0
-anti-Semitic 0
-incidents, 0
-including 0
-a 0
-tweet 0
-by 0
-Igor 0
-Sadikov, 0
-an 0
-elected 0
-representative 0
-of 0
-students 0
-in 0
-McGill’s 0
-faculty 0
-of 0
-arts, 0
-saying: 0
-“punch 1
-a 1
-zionist.” 1
+In 0 151 15
+the 0 151 15
+months 0 151 15
+leading 0 151 15
+up 0 151 15
+to 0 151 15
+the 0 151 15
+vote, 0 151 15
+there 0 151 15
+had 0 151 15
+been 0 151 15
+other 0 151 15
+anti-Semitic 0 151 15
+incidents, 0 151 15
+including 0 151 15
+a 0 151 15
+tweet 0 151 15
+by 0 151 15
+Igor 0 151 15
+Sadikov, 0 151 15
+an 0 151 15
+elected 0 151 15
+representative 0 151 15
+of 0 151 15
+students 0 151 15
+in 0 151 15
+McGill’s 0 151 15
+faculty 0 151 15
+of 0 151 15
+arts, 0 151 15
+saying: 0 151 15
+“punch 1 151 15
+a 1 151 15
+zionist.” 1 151 15
 
-Among 0
-the 0
-measures 0
-taken 0
-by 0
-SSMU 0
-after 0
-the 0
-October 0
-vote 0
-was 0
-the 0
-creation 0
-of 0
-a 0
-committee 0
-looking 0
-into 0
-the 0
-issue 0
-of 0
-anti-Semitism 0
-within 0
-the 0
-student 0
-government, 0
-which 0
-Lew 0
-sits 0
-on. 0
+Among 0 151 16
+the 0 151 16
+measures 0 151 16
+taken 0 151 16
+by 0 151 16
+SSMU 0 151 16
+after 0 151 16
+the 0 151 16
+October 0 151 16
+vote 0 151 16
+was 0 151 16
+the 0 151 16
+creation 0 151 16
+of 0 151 16
+a 0 151 16
+committee 0 151 16
+looking 0 151 16
+into 0 151 16
+the 0 151 16
+issue 0 151 16
+of 0 151 16
+anti-Semitism 0 151 16
+within 0 151 16
+the 0 151 16
+student 0 151 16
+government, 0 151 16
+which 0 151 16
+Lew 0 151 16
+sits 0 151 16
+on. 0 151 16
 
-On 0
-Wednesday, 0
-McGill 0
-Principal 0
-Suzanne 0
-Fortier 0
-said 0
-the 0
-University 0
-wants 0
-to 0
-ensure 0
-a 0
-safe 0
-space 0
-for 0
-all 0
-students. 0
+On 0 151 17
+Wednesday, 0 151 17
+McGill 0 151 17
+Principal 0 151 17
+Suzanne 0 151 17
+Fortier 0 151 17
+said 0 151 17
+the 0 151 17
+University 0 151 17
+wants 0 151 17
+to 0 151 17
+ensure 0 151 17
+a 0 151 17
+safe 0 151 17
+space 0 151 17
+for 0 151 17
+all 0 151 17
+students. 0 151 17
 
-“I 0
-would 0
-like 0
-to 0
-take 0
-this 0
-opportunity 0
-to 0
-make 0
-it 0
-clear 0
-that 0
-there 1
-is 1
-absolutely 1
-no 1
-place 1
-for 0
-anti-Semitism 0
-at 0
-McGill 0
-University 0
-and 0
-that, 0
-as 0
-principal 0
-and 0
-vice-chancellor, 0
-I 0
-will 0
-remain 0
-vigilant 0
-to 0
-ensure 0
-that 0
-all 0
-members 0
-of 0
-our 0
-community 0
-feel 0
-safe, 0
-welcomed 0
-and 0
-respected 0
-on 0
-our 0
-campuses.” 0
+“I 0 151 18
+would 0 151 18
+like 0 151 18
+to 0 151 18
+take 0 151 18
+this 0 151 18
+opportunity 0 151 18
+to 0 151 18
+make 0 151 18
+it 0 151 18
+clear 0 151 18
+that 0 151 18
+there 1 151 18
+is 1 151 18
+absolutely 1 151 18
+no 1 151 18
+place 1 151 18
+for 0 151 18
+anti-Semitism 0 151 18
+at 0 151 18
+McGill 0 151 18
+University 0 151 18
+and 0 151 18
+that, 0 151 18
+as 0 151 18
+principal 0 151 18
+and 0 151 18
+vice-chancellor, 0 151 18
+I 0 151 18
+will 0 151 18
+remain 0 151 18
+vigilant 0 151 18
+to 0 151 18
+ensure 0 151 18
+that 0 151 18
+all 0 151 18
+members 0 151 18
+of 0 151 18
+our 0 151 18
+community 0 151 18
+feel 0 151 18
+safe, 0 151 18
+welcomed 0 151 18
+and 0 151 18
+respected 0 151 18
+on 0 151 18
+our 0 151 18
+campuses.” 0 151 18
 
-In 0
-addition 0
-to 0
-ordering 0
-the 0
-report, 0
-Fortier 0
-set 0
-up 0
-a 0
-hotline 0
-to 0
-report 0
-incidents 0
-of 0
-of 0
-intolerance 0
-and 0
-a 0
-task 0
-force 0
-to 0
-investigate 0
-incidents 0
-of 0
-academic 0
-freedom 0
-and 0
-equity. 0
+In 0 151 19
+addition 0 151 19
+to 0 151 19
+ordering 0 151 19
+the 0 151 19
+report, 0 151 19
+Fortier 0 151 19
+set 0 151 19
+up 0 151 19
+a 0 151 19
+hotline 0 151 19
+to 0 151 19
+report 0 151 19
+incidents 0 151 19
+of 0 151 19
+of 0 151 19
+intolerance 0 151 19
+and 0 151 19
+a 0 151 19
+task 0 151 19
+force 0 151 19
+to 0 151 19
+investigate 0 151 19
+incidents 0 151 19
+of 0 151 19
+academic 0 151 19
+freedom 0 151 19
+and 0 151 19
+equity. 0 151 19
 
-Rabbi 0
-Reuben 0
-Poupko, 0
-the 0
-co-chair 0
-for 0
-Quebec 0
-of 0
-the 0
-Centre 0
-for 0
-Israel 0
-and 0
-Jewish 0
-Affairs, 0
-said 0
-it 0
-should 0
-be 0
-noted 0
-McGill 0
-in 0
-general 0
-is 0
-a 0
-safe 0
-space 0
-for 0
-Jewish 0
-students. 0
+Rabbi 0 151 20
+Reuben 0 151 20
+Poupko, 0 151 20
+the 0 151 20
+co-chair 0 151 20
+for 0 151 20
+Quebec 0 151 20
+of 0 151 20
+the 0 151 20
+Centre 0 151 20
+for 0 151 20
+Israel 0 151 20
+and 0 151 20
+Jewish 0 151 20
+Affairs, 0 151 20
+said 0 151 20
+it 0 151 20
+should 0 151 20
+be 0 151 20
+noted 0 151 20
+McGill 0 151 20
+in 0 151 20
+general 0 151 20
+is 0 151 20
+a 0 151 20
+safe 0 151 20
+space 0 151 20
+for 0 151 20
+Jewish 0 151 20
+students. 0 151 20
 
-However, 1
-he 1
-said 1
-any 1
-Jewish 1
-students 1
-thinking 1
-of 1
-being 1
-involved 1
-in 1
-student 1
-politics 1
-or 1
-activism 1
-“will 1
-have 1
-encounters 1
-that 1
-are 1
-profoundly 1
-disturbing 1
-and 1
-unpleasant.” 1
+However, 1 151 21
+he 1 151 21
+said 1 151 21
+any 1 151 21
+Jewish 1 151 21
+students 1 151 21
+thinking 1 151 21
+of 1 151 21
+being 1 151 21
+involved 1 151 21
+in 1 151 21
+student 1 151 21
+politics 1 151 21
+or 1 151 21
+activism 1 151 21
+“will 1 151 21
+have 1 151 21
+encounters 1 151 21
+that 1 151 21
+are 1 151 21
+profoundly 1 151 21
+disturbing 1 151 21
+and 1 151 21
+unpleasant.” 1 151 21
 
-He 1
-said 1
-McGill 1
-is 1
-not 1
-alone 1
-in 1
-this 1
-respect, 1
-as 1
-this 1
-is 1
-a 1
-continent-wide 1
-phenomenon 1
-within 1
-student 1
-politics. 1
+He 1 151 22
+said 1 151 22
+McGill 1 151 22
+is 1 151 22
+not 1 151 22
+alone 1 151 22
+in 1 151 22
+this 1 151 22
+respect, 1 151 22
+as 1 151 22
+this 1 151 22
+is 1 151 22
+a 1 151 22
+continent-wide 1 151 22
+phenomenon 1 151 22
+within 1 151 22
+student 1 151 22
+politics. 1 151 22
 
-Democratize 0
-SSMU 0
-did 0
-not 0
-respond 0
-to 0
-a 0
-request 0
-for 0
-an 0
-interview. 0
+Democratize 0 151 23
+SSMU 0 151 23
+did 0 151 23
+not 0 151 23
+respond 0 151 23
+to 0 151 23
+a 0 151 23
+request 0 151 23
+for 0 151 23
+an 0 151 23
+interview. 0 151 23
 
-Related 0
+Related 0 151 24
 
-jmagder@postmedia.com 0
+jmagder@postmedia.com 0 151 25
 
-Twitter.com/JasonMagder 0
+Twitter.com/JasonMagder 0 151 26
 
-Facebook.com/JasonMagderJournalist 0
+Facebook.com/JasonMagderJournalist 0 151 26

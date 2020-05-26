@@ -1,529 +1,550 @@
-As 0
-Honduran 0
-Caravan 0
-Reaches 0
-The 0
-Border, 0
-Trump 0
-Threatens 0
-To 0
-Send 0
-In 0
-The 0
-Military 0
+As 0 388 0
+Honduran 0 388 0
+Caravan 0 388 0
+Reaches 0 388 0
+The 0 388 0
+Border, 0 388 0
+Trump 0 388 0
+Threatens 0 388 0
+To 0 388 0
+Send 0 388 0
+In 0 388 0
+The 0 388 0
+Military 0 388 0
 
-President 0
-Donald 0
-Trump 0
-has 0
-threatened 0
-to 0
-send 0
-the 0
-military 0
-to 0
-the 0
-United 0
-States’ 0
-southern 0
-border 0
-with 0
-Mexico 0
-to 0
-stop 0
-a 0
-caravan 0
-of 0
-illegal 0
-immigrants 0
-coming 0
-from 0
-Honduras. 0
+President 0 388 1
+Donald 0 388 1
+Trump 0 388 1
+has 0 388 1
+threatened 0 388 1
+to 0 388 1
+send 0 388 1
+the 0 388 1
+military 0 388 1
+to 0 388 1
+the 0 388 1
+United 0 388 1
+States’ 0 388 1
+southern 0 388 1
+border 0 388 1
+with 0 388 1
+Mexico 0 388 1
+to 0 388 1
+stop 0 388 1
+a 0 388 1
+caravan 0 388 1
+of 0 388 1
+illegal 0 388 1
+immigrants 0 388 1
+coming 0 388 1
+from 0 388 1
+Honduras. 0 388 1
 
-As 0
-of 0
-now, 0
-the 0
-migrant 0
-caravan 0
-has 0
-grown 0
-in 0
-size 0
-to 0
-over 0
-4,000 0
-people. 0
+As 0 388 2
+of 0 388 2
+now, 0 388 2
+the 0 388 2
+migrant 0 388 2
+caravan 0 388 2
+has 0 388 2
+grown 0 388 2
+in 0 388 2
+size 0 388 2
+to 0 388 2
+over 0 388 2
+4,000 0 388 2
+people. 0 388 2
 
-“I 0
-must, 0
-in 0
-the 1
-strongest 1
-of 0
-terms, 0
-ask 0
-Mexico 0
-to 0
-stop 0
-this 0
-onslaught 1
-– 0
-and 0
-if 1
-unable 1
-to 1
-do 1
-so 1
-I 1
-will 1
-call 1
-up 1
-the 1
-U.S. 1
-Military 1
-and 1
-CLOSE 1
-OUR 1
-SOUTHERN 1
-BORDER!” 1
-Trump 0
-wrote 0
-of 0
-the 0
-caravan 0
-in 0
-a 0
-series 0
-of 0
-tweets 0
-on 0
-Twitter. 0
+“I 0 388 3
+must, 0 388 3
+in 0 388 3
+the 1 388 3
+strongest 1 388 3
+of 0 388 3
+terms, 0 388 3
+ask 0 388 3
+Mexico 0 388 3
+to 0 388 3
+stop 0 388 3
+this 0 388 3
+onslaught 1 388 3
+– 0 388 3
+and 0 388 3
+if 1 388 3
+unable 1 388 3
+to 1 388 3
+do 1 388 3
+so 1 388 3
+I 1 388 3
+will 1 388 3
+call 1 388 3
+up 1 388 3
+the 1 388 3
+U.S. 1 388 3
+Military 1 388 3
+and 1 388 3
+CLOSE 1 388 3
+OUR 1 388 3
+SOUTHERN 1 388 3
+BORDER!” 1 388 3
+Trump 0 388 3
+wrote 0 388 3
+of 0 388 3
+the 0 388 3
+caravan 0 388 3
+in 0 388 3
+a 0 388 3
+series 0 388 3
+of 0 388 3
+tweets 0 388 3
+on 0 388 3
+Twitter. 0 388 3
 
-….In 0
-addition 0
-to 0
-stopping 0
-all 0
-payments 0
-to 0
-these 0
-countries, 0
-which 0
-seem 0
-to 0
-have 0
-almost 0
-no 0
-control 0
-over 0
-their 0
-population, 0
-I 0
-must, 0
-in 0
-the 0
-strongest 0
-of 0
-terms, 0
-ask 0
-Mexico 0
-to 0
-stop 0
-this 0
-onslaught 0
-– 0
-and 0
-if 0
-unable 0
-to 0
-do 0
-so 0
-I 0
-will 0
-call 0
-up 0
-the 0
-U.S. 0
-Military 0
-and 0
-CLOSE 0
-OUR 0
-SOUTHERN 0
-BORDER!.. 0
+….In 0 388 4
+addition 0 388 4
+to 0 388 4
+stopping 0 388 4
+all 0 388 4
+payments 0 388 4
+to 0 388 4
+these 0 388 4
+countries, 0 388 4
+which 0 388 4
+seem 0 388 4
+to 0 388 4
+have 0 388 4
+almost 0 388 4
+no 0 388 4
+control 0 388 4
+over 0 388 4
+their 0 388 4
+population, 0 388 4
+I 0 388 4
+must, 0 388 4
+in 0 388 4
+the 0 388 4
+strongest 0 388 4
+of 0 388 4
+terms, 0 388 4
+ask 0 388 4
+Mexico 0 388 4
+to 0 388 4
+stop 0 388 4
+this 0 388 4
+onslaught 0 388 4
+– 0 388 4
+and 0 388 4
+if 0 388 4
+unable 0 388 4
+to 0 388 4
+do 0 388 4
+so 0 388 4
+I 0 388 4
+will 0 388 4
+call 0 388 4
+up 0 388 4
+the 0 388 4
+U.S. 0 388 4
+Military 0 388 4
+and 0 388 4
+CLOSE 0 388 4
+OUR 0 388 4
+SOUTHERN 0 388 4
+BORDER!.. 0 388 4
 
-— 0
-Donald 0
-J. 0
-Trump 0
-(@realDonaldTrump) 0
-October 0
-18, 0
-2018 0
+— 0 388 5
+Donald 0 388 5
+J. 0 388 5
+Trump 0 388 5
+(@realDonaldTrump) 0 388 5
+October 0 388 5
+18, 0 388 5
+2018 0 388 5
 
-According 0
-to 0
-Breitbart, 0
-the 0
-caravan 0
-of 0
-migrants 0
-that 0
-began 0
-in 0
-Honduras 0
-has 0
-grown 0
-to 0
-several 0
-thousand 0
-people 0
-after 0
-passing 0
-into 0
-Guatemala 0
-as 0
-it 0
-heads 0
-for 0
-the 0
-Mexican 0
-border. 0
+According 0 388 6
+to 0 388 6
+Breitbart, 0 388 6
+the 0 388 6
+caravan 0 388 6
+of 0 388 6
+migrants 0 388 6
+that 0 388 6
+began 0 388 6
+in 0 388 6
+Honduras 0 388 6
+has 0 388 6
+grown 0 388 6
+to 0 388 6
+several 0 388 6
+thousand 0 388 6
+people 0 388 6
+after 0 388 6
+passing 0 388 6
+into 0 388 6
+Guatemala 0 388 6
+as 0 388 6
+it 0 388 6
+heads 0 388 6
+for 0 388 6
+the 0 388 6
+Mexican 0 388 6
+border. 0 388 6
 
-Other 0
-Hondurans 0
-are 0
-leaving 0
-the 0
-country 0
-to 0
-join 0
-the 0
-caravan 0
-of 0
-illegal 0
-immigrants 0
-attempting 0
-to 0
-illegally 0
-enter 0
-the 0
-United 0
-States 0
-against 0
-president 0
-Trump’s 0
-wishes. 0
+Other 0 388 7
+Hondurans 0 388 7
+are 0 388 7
+leaving 0 388 7
+the 0 388 7
+country 0 388 7
+to 0 388 7
+join 0 388 7
+the 0 388 7
+caravan 0 388 7
+of 0 388 7
+illegal 0 388 7
+immigrants 0 388 7
+attempting 0 388 7
+to 0 388 7
+illegally 0 388 7
+enter 0 388 7
+the 0 388 7
+United 0 388 7
+States 0 388 7
+against 0 388 7
+president 0 388 7
+Trump’s 0 388 7
+wishes. 0 388 7
 
-I 0
-am 0
-watching 0
-the 0
-Democrat 0
-Party 0
-led 0
-(because 0
-they 0
-want 0
-Open 0
-Borders 0
-and 0
-existing 0
-weak 0
-laws) 0
-assault 0
-on 0
-our 0
-country 0
-by 0
-Guatemala, 0
-Honduras 0
-and 0
-El 0
-Salvador, 0
-whose 0
-leaders 0
-are 0
-doing 0
-little 0
-to 0
-stop 0
-this 0
-large 0
-flow 0
-of 0
-people, 0
-INCLUDING 1
-MANY 1
-CRIMINALS, 1
-from 0
-entering 0
-Mexico 0
-to 0
-U.S….. 0
-— 0
-Donald 0
-J. 0
-Trump 0
-(@realDonaldTrump) 0
-October 0
-18, 0
-2018 0
+I 0 388 8
+am 0 388 8
+watching 0 388 8
+the 0 388 8
+Democrat 0 388 8
+Party 0 388 8
+led 0 388 8
+(because 0 388 8
+they 0 388 8
+want 0 388 8
+Open 0 388 8
+Borders 0 388 8
+and 0 388 8
+existing 0 388 8
+weak 0 388 8
+laws) 0 388 8
+assault 0 388 8
+on 0 388 8
+our 0 388 8
+country 0 388 8
+by 0 388 8
+Guatemala, 0 388 8
+Honduras 0 388 8
+and 0 388 8
+El 0 388 8
+Salvador, 0 388 8
+whose 0 388 8
+leaders 0 388 8
+are 0 388 8
+doing 0 388 8
+little 0 388 8
+to 0 388 8
+stop 0 388 8
+this 0 388 8
+large 0 388 8
+flow 0 388 8
+of 0 388 8
+people, 0 388 8
+INCLUDING 1 388 8
+MANY 1 388 8
+CRIMINALS, 1 388 8
+from 0 388 8
+entering 0 388 8
+Mexico 0 388 8
+to 0 388 8
+U.S….. 0 388 8
+— 0 388 8
+Donald 0 388 8
+J. 0 388 8
+Trump 0 388 8
+(@realDonaldTrump) 0 388 8
+October 0 388 8
+18, 0 388 8
+2018 0 388 8
 
-Trump 0
-also 0
-threatened 0
-to 0
-stop 0
-all 0
-federal 0
-foreign 0
-aid 0
-payments 0
-to 0
-Guatemala, 0
-Honduras, 0
-and 0
-El 0
-Salvador 0
-if 0
-the 0
-countries 0
-failed 0
-to 0
-block 0
-the 0
-flow 0
-of 0
-illegal 0
-immigrants 0
-and 0
-blamed 0
-Democrats 0
-for 0
-rejecting 0
-a 0
-reform 0
-of 0
-immigration 0
-laws 0
-allowing 0
-them 0
-to 0
-claim 0
-asylum. 0
+Trump 0 388 9
+also 0 388 9
+threatened 0 388 9
+to 0 388 9
+stop 0 388 9
+all 0 388 9
+federal 0 388 9
+foreign 0 388 9
+aid 0 388 9
+payments 0 388 9
+to 0 388 9
+Guatemala, 0 388 9
+Honduras, 0 388 9
+and 0 388 9
+El 0 388 9
+Salvador 0 388 9
+if 0 388 9
+the 0 388 9
+countries 0 388 9
+failed 0 388 9
+to 0 388 9
+block 0 388 9
+the 0 388 9
+flow 0 388 9
+of 0 388 9
+illegal 0 388 9
+immigrants 0 388 9
+and 0 388 9
+blamed 0 388 9
+Democrats 0 388 9
+for 0 388 9
+rejecting 0 388 9
+a 0 388 9
+reform 0 388 9
+of 0 388 9
+immigration 0 388 9
+laws 0 388 9
+allowing 0 388 9
+them 0 388 9
+to 0 388 9
+claim 0 388 9
+asylum. 0 388 9
 
-He 0
-also 0
-claimed 0
-that 0
-the 0
-caravan 0
-included 0
-criminals. 0
+He 0 388 10
+also 0 388 10
+claimed 0 388 10
+that 0 388 10
+the 0 388 10
+caravan 0 388 10
+included 0 388 10
+criminals. 0 388 10
 
-Trump 0
-appeared 0
-willing 0
-to 0
-end 0
-his 0
-new 0
-trade 0
-deal 0
-with 0
-Mexico 0
-as 0
-well 0
-if 0
-the 0
-caravan 0
-was 0
-not 0
-stopped. 0
+Trump 0 388 11
+appeared 0 388 11
+willing 0 388 11
+to 0 388 11
+end 0 388 11
+his 0 388 11
+new 0 388 11
+trade 0 388 11
+deal 0 388 11
+with 0 388 11
+Mexico 0 388 11
+as 0 388 11
+well 0 388 11
+if 0 388 11
+the 0 388 11
+caravan 0 388 11
+was 0 388 11
+not 0 388 11
+stopped. 0 388 11
 
-….The 0
-assault 1
-on 0
-our 1
-country 1
-at 0
-our 1
-Southern 1
-Border, 1
-including 0
-the 0
-Criminal 0
-elements 0
-and 0
-DRUGS 0
-pouring 0
-in, 0
-is 0
-far 0
-more 0
-important 0
-to 0
-me, 0
-as 0
-President, 0
-than 0
-Trade 0
-or 0
-the 0
-USMCA. 0
+….The 0 388 12
+assault 1 388 12
+on 0 388 12
+our 1 388 12
+country 1 388 12
+at 0 388 12
+our 1 388 12
+Southern 1 388 12
+Border, 1 388 12
+including 0 388 12
+the 0 388 12
+Criminal 0 388 12
+elements 0 388 12
+and 0 388 12
+DRUGS 0 388 12
+pouring 0 388 12
+in, 0 388 12
+is 0 388 12
+far 0 388 12
+more 0 388 12
+important 0 388 12
+to 0 388 12
+me, 0 388 12
+as 0 388 12
+President, 0 388 12
+than 0 388 12
+Trade 0 388 12
+or 0 388 12
+the 0 388 12
+USMCA. 0 388 12
 
-Hopefully 0
-Mexico 0
-will 0
-stop 0
-this 0
-onslaught 1
-at 0
-their 0
-Northern 0
-Border. 0
+Hopefully 0 388 13
+Mexico 0 388 13
+will 0 388 13
+stop 0 388 13
+this 0 388 13
+onslaught 1 388 13
+at 0 388 13
+their 0 388 13
+Northern 0 388 13
+Border. 0 388 13
 
-All 0
-Democrats 0
-fault 0
-for 0
-weak 0
-laws! 0
+All 0 388 14
+Democrats 0 388 14
+fault 0 388 14
+for 0 388 14
+weak 0 388 14
+laws! 0 388 14
 
-— 0
-Donald 0
-J. 0
-Trump 0
-(@realDonaldTrump) 0
-October 0
-18, 0
-2018 0
+— 0 388 15
+Donald 0 388 15
+J. 0 388 15
+Trump 0 388 15
+(@realDonaldTrump) 0 388 15
+October 0 388 15
+18, 0 388 15
+2018 0 388 15
 
-According 0
-to 0
-NBC 0
-News, 0
-the 0
-caravan 0
-has 0
-increased 0
-in 0
-size 0
-to 0
-over 0
-4,000. 0
+According 0 388 16
+to 0 388 16
+NBC 0 388 16
+News, 0 388 16
+the 0 388 16
+caravan 0 388 16
+has 0 388 16
+increased 0 388 16
+in 0 388 16
+size 0 388 16
+to 0 388 16
+over 0 388 16
+4,000. 0 388 16
 
-The 0
-media 0
-outlet 0
-also 0
-reported 0
-that 0
-the 0
-Mexican 0
-government 0
-has 0
-sent 0
-500 0
-additional 0
-federal 0
-police 0
-to 0
-its 0
-border 0
-with 0
-Guatemala 0
-in 0
-anticipation 0
-of 0
-their 0
-arrival, 0
-according 0
-to 0
-U.S. 0
-government 0
-documents 0
-obtained 0
-by 0
-NBC 0
-News. 0
+The 0 388 17
+media 0 388 17
+outlet 0 388 17
+also 0 388 17
+reported 0 388 17
+that 0 388 17
+the 0 388 17
+Mexican 0 388 17
+government 0 388 17
+has 0 388 17
+sent 0 388 17
+500 0 388 17
+additional 0 388 17
+federal 0 388 17
+police 0 388 17
+to 0 388 17
+its 0 388 17
+border 0 388 17
+with 0 388 17
+Guatemala 0 388 17
+in 0 388 17
+anticipation 0 388 17
+of 0 388 17
+their 0 388 17
+arrival, 0 388 17
+according 0 388 17
+to 0 388 17
+U.S. 0 388 17
+government 0 388 17
+documents 0 388 17
+obtained 0 388 17
+by 0 388 17
+NBC 0 388 17
+News. 0 388 17
 
-Part 0
-of 0
-the 0
-caravan, 0
-which 0
-has 0
-split 0
-into 0
-two 0
-groups, 0
-is 0
-approaching 0
-the 0
-Mexico-Guatemala 0
-border 0
-amid 0
-a 0
-surge 0
-in 0
-border 0
-crossings 0
-on 0
-the 0
-U.S.-Mexico 0
-border. 0
+Part 0 388 18
+of 0 388 18
+the 0 388 18
+caravan, 0 388 18
+which 0 388 18
+has 0 388 18
+split 0 388 18
+into 0 388 18
+two 0 388 18
+groups, 0 388 18
+is 0 388 18
+approaching 0 388 18
+the 0 388 18
+Mexico-Guatemala 0 388 18
+border 0 388 18
+amid 0 388 18
+a 0 388 18
+surge 0 388 18
+in 0 388 18
+border 0 388 18
+crossings 0 388 18
+on 0 388 18
+the 0 388 18
+U.S.-Mexico 0 388 18
+border. 0 388 18
 
-In 0
-September, 0
-U.S. 0
-Border 0
-Patrol 0
-agents 0
-apprehended 0
-more 0
-than 0
-41,400 0
-undocumented 0
-immigrants, 0
-up 0
-from 0
-37,544 0
-in 0
-August, 0
-according 0
-to 0
-numbers 0
-not 0
-yet 0
-released 0
-publicly 0
-but 0
-obtained 0
-by 0
-NBC 0
-News. 0
+In 0 388 19
+September, 0 388 19
+U.S. 0 388 19
+Border 0 388 19
+Patrol 0 388 19
+agents 0 388 19
+apprehended 0 388 19
+more 0 388 19
+than 0 388 19
+41,400 0 388 19
+undocumented 0 388 19
+immigrants, 0 388 19
+up 0 388 19
+from 0 388 19
+37,544 0 388 19
+in 0 388 19
+August, 0 388 19
+according 0 388 19
+to 0 388 19
+numbers 0 388 19
+not 0 388 19
+yet 0 388 19
+released 0 388 19
+publicly 0 388 19
+but 0 388 19
+obtained 0 388 19
+by 0 388 19
+NBC 0 388 19
+News. 0 388 19
 
-The 0
-Washington 0
-Post 0
-reported 0
-Wednesday 0
-that 0
-the 0
-numbers 0
-of 0
-families 0
-and 0
-children 0
-traveling 0
-on 0
-their 0
-own 0
-surged 0
-to 0
-record 0
-levels 0
-in 0
-September. 0
+The 0 388 19
+
+Washington 0 388 19
+
+Post 0 388 19
+
+reported 0 388 19
+
+Wednesday 0 388 19
+
+that 0 388 19
+
+the 0 388 19
+
+numbers 0 388 19
+
+of 0 388 19
+
+families 0 388 19
+
+and 0 388 19
+
+children 0 388 19
+
+traveling 0 388 19
+
+on 0 388 19
+
+their 0 388 19
+
+own 0 388 19
+
+surged 0 388 19
+
+to 0 388 19
+
+record 0 388 19
+
+levels 0 388 19
+
+in 0 388 19
+
+September. 0 388 19

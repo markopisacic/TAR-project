@@ -1,830 +1,846 @@
-Assange 0
-Never 0
-Met 0
-Manafort. 0
-Luke 0
-Harding 0
-and 0
-the 0
-Guardian 0
-Publish 0
-Still 0
-More 0
-Blatant 1
-MI6 1
-Lies 1
+Assange 0 414 0
+Never 0 414 0
+Met 0 414 0
+Manafort. 0 414 0
 
-The 1
+Luke 0 414 1
+Harding 0 414 1
+and 0 414 1
+the 0 414 1
+Guardian 0 414 1
+Publish 0 414 1
+Still 0 414 1
+More 0 414 1
+Blatant 1 414 1
+MI6 1 414 1
+Lies 1 414 1
 
-right 1
-wing 1
-Ecuadorean 1
-government 1
-of 1
-President 1
-Moreno 1
-continues 1
-to 1
-churn 1
-out 1
-its 1
-production 1
-line 1
-of 1
-fake 1
-documents 1
-regarding 1
-Julian 1
-Assange, 1
-and 1
-channel 1
-them 1
-straight 1
-to 1
-MI6 1
-mouthpiece 1
-Luke 1
-Harding 1
-of 1
-the 1
-Guardian. 1
+The 1 414 2
+right 1 414 2
+wing 1 414 2
+Ecuadorean 1 414 2
+government 1 414 2
+of 1 414 2
+President 1 414 2
+Moreno 1 414 2
+continues 1 414 2
+to 1 414 2
+churn 1 414 2
+out 1 414 2
+its 1 414 2
+production 1 414 2
+line 1 414 2
+of 1 414 2
+fake 1 414 2
+documents 1 414 2
+regarding 1 414 2
+Julian 1 414 2
+Assange, 1 414 2
+and 1 414 2
+channel 1 414 2
+them 1 414 2
+straight 1 414 2
+to 1 414 2
+MI6 1 414 2
+mouthpiece 1 414 2
+Luke 1 414 2
+Harding 1 414 2
+of 1 414 2
+the 1 414 2
+Guardian. 1 414 2
 
-Amazingly, 0
-more 0
-Ecuadorean 0
-Government 0
-documents 0
-have 0
-just 0
-been 0
-discovered 0
-for 0
-the 0
-Guardian, 0
-this 0
-time 0
-spy 0
-agency 0
-reports 0
-detailing 0
-visits 0
-of 0
-Paul 0
-Manafort 0
-and 0
-unspecified 1
-“Russians” 1
-to 0
-the 0
-Embassy. 0
+Amazingly, 0 414 3
+more 0 414 3
+Ecuadorean 0 414 3
+Government 0 414 3
+documents 0 414 3
+have 0 414 3
+just 0 414 3
+been 0 414 3
+discovered 0 414 3
+for 0 414 3
+the 0 414 3
+Guardian, 0 414 3
+this 0 414 3
+time 0 414 3
+spy 0 414 3
+agency 0 414 3
+reports 0 414 3
+detailing 0 414 3
+visits 0 414 3
+of 0 414 3
+Paul 0 414 3
+Manafort 0 414 3
+and 0 414 3
+unspecified 1 414 3
+“Russians” 1 414 3
+to 0 414 3
+the 0 414 3
+Embassy. 0 414 3
 
-By 1
-a 1
-wonderful 1
-coincidence 1
-of 1
-timing, 1
-this 0
-is 0
-the 0
-day 0
-after 0
-Mueller 0
-announced 0
-that 0
-Manafort’s 0
-plea 0
-deal 0
-was 0
-over. 0
+By 1 414 4
+a 1 414 4
+wonderful 1 414 4
+coincidence 1 414 4
+of 1 414 4
+timing, 1 414 4
+this 0 414 4
+is 0 414 4
+the 0 414 4
+day 0 414 4
+after 0 414 4
+Mueller 0 414 4
+announced 0 414 4
+that 0 414 4
+Manafort’s 0 414 4
+plea 0 414 4
+deal 0 414 4
+was 0 414 4
+over. 0 414 4
 
-The 0
-problem 0
-with 0
-this 0
-latest 0
-fabrication 0
-is 0
-that 0
-Moreno 0
-had 0
-already 0
-released 0
-the 0
-visitor 0
-logs 0
-to 0
-the 0
-Mueller 0
-inquiry. 0
+The 0 414 5
+problem 0 414 5
+with 0 414 5
+this 0 414 5
+latest 0 414 5
+fabrication 0 414 5
+is 0 414 5
+that 0 414 5
+Moreno 0 414 5
+had 0 414 5
+already 0 414 5
+released 0 414 5
+the 0 414 5
+visitor 0 414 5
+logs 0 414 5
+to 0 414 5
+the 0 414 5
+Mueller 0 414 5
+inquiry. 0 414 5
 
-Neither 0
-Manafort 0
-nor 0
-these 0
-“Russians” 1
-are 0
-in 0
-the 0
-visitor 0
-logs. 0
+Neither 0 414 6
+Manafort 0 414 6
+nor 0 414 6
+these 0 414 6
+“Russians” 1 414 6
+are 0 414 6
+in 0 414 6
+the 0 414 6
+visitor 0 414 6
+logs. 0 414 6
 
-This 0
-is 0
-impossible. 0
+This 0 414 7
+is 0 414 7
+impossible. 0 414 7
 
-The 0
-visitor 0
-logs 0
-were 0
-not 0
-kept 0
-by 0
-Wikileaks, 0
-but 0
-by 0
-the 0
-very 0
-strict 0
-Ecuadorean 0
-security. 0
+The 0 414 8
+visitor 0 414 8
+logs 0 414 8
+were 0 414 8
+not 0 414 8
+kept 0 414 8
+by 0 414 8
+Wikileaks, 0 414 8
+but 0 414 8
+by 0 414 8
+the 0 414 8
+very 0 414 8
+strict 0 414 8
+Ecuadorean 0 414 8
+security. 0 414 8
 
-Nobody 0
-was 0
-ever 0
-admitted 0
-without 0
-being 0
-entered 0
-in 0
-the 0
-logs. 0
+Nobody 0 414 9
+was 0 414 9
+ever 0 414 9
+admitted 0 414 9
+without 0 414 9
+being 0 414 9
+entered 0 414 9
+in 0 414 9
+the 0 414 9
+logs. 0 414 9
 
-The 0
-procedure 0
-was 0
-very 0
-thorough. 0
+The 0 414 10
+procedure 0 414 10
+was 0 414 10
+very 0 414 10
+thorough. 0 414 10
 
-To 0
-go 0
-in, 0
-you 0
-had 0
-to 0
-submit 0
-your 0
-passport 0
-(no 0
-other 0
-type 0
-of 0
-document 0
-was 0
-accepted). 0
+To 0 414 11
+go 0 414 11
+in, 0 414 11
+you 0 414 11
+had 0 414 11
+to 0 414 11
+submit 0 414 11
+your 0 414 11
+passport 0 414 11
+(no 0 414 11
+other 0 414 11
+type 0 414 11
+of 0 414 11
+document 0 414 11
+was 0 414 11
+accepted). 0 414 11
 
-A 0
-copy 0
-of 0
-your 0
-passport 0
-was 0
-taken 0
-and 0
-the 0
-passport 0
-details 0
-entered 0
-into 0
-the 0
-log. 0
+A 0 414 12
+copy 0 414 12
+of 0 414 12
+your 0 414 12
+passport 0 414 12
+was 0 414 12
+taken 0 414 12
+and 0 414 12
+the 0 414 12
+passport 0 414 12
+details 0 414 12
+entered 0 414 12
+into 0 414 12
+the 0 414 12
+log. 0 414 12
 
-Your 0
-passport, 0
-along 0
-with 0
-your 0
-mobile 0
-phone 0
-and 0
-any 0
-other 0
-electronic 0
-equipment, 0
-was 0
-retained 0
-until 0
-you 0
-left, 0
-along 0
-with 0
-your 0
-bag 0
-and 0
-coat. 0
+Your 0 414 13
+passport, 0 414 13
+along 0 414 13
+with 0 414 13
+your 0 414 13
+mobile 0 414 13
+phone 0 414 13
+and 0 414 13
+any 0 414 13
+other 0 414 13
+electronic 0 414 13
+equipment, 0 414 13
+was 0 414 13
+retained 0 414 13
+until 0 414 13
+you 0 414 13
+left, 0 414 13
+along 0 414 13
+with 0 414 13
+your 0 414 13
+bag 0 414 13
+and 0 414 13
+coat. 0 414 13
 
-I 0
-feature 0
-in 0
-the 0
-logs 0
-every 0
-time 0
-I 0
-visited. 0
+I 0 414 14
+feature 0 414 14
+in 0 414 14
+the 0 414 14
+logs 0 414 14
+every 0 414 14
+time 0 414 14
+I 0 414 14
+visited. 0 414 14
 
-There 0
-were 0
-no 0
-exceptions. 0
+There 0 414 15
+were 0 414 15
+no 0 414 15
+exceptions. 0 414 15
 
-For 0
-an 0
-exception 0
-to 0
-be 0
-made 0
-for 0
-Manafort 0
-and 0
-the 1
-“Russians” 1
-would 0
-have 0
-had 0
-to 0
-be 0
-a 0
-decision 0
-of 0
-the 0
-Government 0
-of 0
-Ecuador, 0
-not 0
-of 0
-Wikileaks, 0
-and 0
-that 0
-would 0
-be 0
-so 0
-exceptional 0
-the 0
-reason 0
-for 0
-it 0
-would 0
-surely 0
-have 0
-been 0
-noted 0
-in 0
-the 0
-now 0
-leaked 0
-supposed 0
-Ecuadorean 0
-“intelligence 0
-report” 0
-of 0
-the 0
-visits. 0
+For 0 414 16
+an 0 414 16
+exception 0 414 16
+to 0 414 16
+be 0 414 16
+made 0 414 16
+for 0 414 16
+Manafort 0 414 16
+and 0 414 16
+the 1 414 16
+“Russians” 1 414 16
+would 0 414 16
+have 0 414 16
+had 0 414 16
+to 0 414 16
+be 0 414 16
+a 0 414 16
+decision 0 414 16
+of 0 414 16
+the 0 414 16
+Government 0 414 16
+of 0 414 16
+Ecuador, 0 414 16
+not 0 414 16
+of 0 414 16
+Wikileaks, 0 414 16
+and 0 414 16
+that 0 414 16
+would 0 414 16
+be 0 414 16
+so 0 414 16
+exceptional 0 414 16
+the 0 414 16
+reason 0 414 16
+for 0 414 16
+it 0 414 16
+would 0 414 16
+surely 0 414 16
+have 0 414 16
+been 0 414 16
+noted 0 414 16
+in 0 414 16
+the 0 414 16
+now 0 414 16
+leaked 0 414 16
+supposed 0 414 16
+Ecuadorean 0 414 16
+“intelligence 0 414 16
+report” 0 414 16
+of 0 414 16
+the 0 414 16
+visits. 0 414 16
 
-What 0
-possible 0
-motive 0
-would 0
-the 0
-Ecuadorean 0
-government 0
-have 0
-for 0
-facilitating 0
-secret 0
-unrecorded 0
-visits 0
-by 0
-Paul 0
-Manafort? 0
+What 0 414 17
+possible 0 414 17
+motive 0 414 17
+would 0 414 17
+the 0 414 17
+Ecuadorean 0 414 17
+government 0 414 17
+have 0 414 17
+for 0 414 17
+facilitating 0 414 17
+secret 0 414 17
+unrecorded 0 414 17
+visits 0 414 17
+by 0 414 17
+Paul 0 414 17
+Manafort? 0 414 17
 
-Furthermore 0
-it 0
-is 0
-impossible 0
-that 0
-the 0
-intelligence 0
-agency 0
-– 0
-who 0
-were 0
-in 0
-charge 0
-of 0
-the 0
-security 0
-– 0
-would 0
-not 0
-know 0
-the 0
-identity 0
-of 0
-these 0
-alleged 0
-“Russians”. 1
+Furthermore 0 414 18
+it 0 414 18
+is 0 414 18
+impossible 0 414 18
+that 0 414 18
+the 0 414 18
+intelligence 0 414 18
+agency 0 414 18
+– 0 414 18
+who 0 414 18
+were 0 414 18
+in 0 414 18
+charge 0 414 18
+of 0 414 18
+the 0 414 18
+security 0 414 18
+– 0 414 18
+would 0 414 18
+not 0 414 18
+know 0 414 18
+the 0 414 18
+identity 0 414 18
+of 0 414 18
+these 0 414 18
+alleged 0 414 18
+“Russians”. 1 414 18
 
-Previously 1
-Harding 1
-and 1
-the 1
-Guardian 1
-have 1
-published 1
-documents 1
-faked 1
-by 1
-the 1
-Moreno 1
-government 1
-regarding 1
-a 1
-diplomatic 1
-appointment 1
-to 1
-Russia 1
-for 1
-Assange 1
-of 1
-which 1
-he 1
-had 1
-no 1
-knowledge. 1
+Previously 1 414 19
+Harding 1 414 19
+and 1 414 19
+the 1 414 19
+Guardian 1 414 19
+have 1 414 19
+published 1 414 19
+documents 1 414 19
+faked 1 414 19
+by 1 414 19
+the 1 414 19
+Moreno 1 414 19
+government 1 414 19
+regarding 1 414 19
+a 1 414 19
+diplomatic 1 414 19
+appointment 1 414 19
+to 1 414 19
+Russia 1 414 19
+for 1 414 19
+Assange 1 414 19
+of 1 414 19
+which 1 414 19
+he 1 414 19
+had 1 414 19
+no 1 414 19
+knowledge. 1 414 19
 
-Now 1
-they 1
-follow 1
-this 1
-up 1
-with 1
-more 1
-documents 1
-aimed 1
-to 1
-provide 1
-fictitious 1
-evidence 1
-to 1
-bolster 1
-Mueller’s 1
-pathetically 1
-failed 1
-attempt 1
-to 1
-substantiate 1
-the 1
-story 1
-that 1
-Russia 1
-deprived 1
-Hillary 1
-of 1
-the 1
-Presidency. 1
+Now 1 414 20
+they 1 414 20
+follow 1 414 20
+this 1 414 20
+up 1 414 20
+with 1 414 20
+more 1 414 20
+documents 1 414 20
+aimed 1 414 20
+to 1 414 20
+provide 1 414 20
+fictitious 1 414 20
+evidence 1 414 20
+to 1 414 20
+bolster 1 414 20
+Mueller’s 1 414 20
+pathetically 1 414 20
+failed 1 414 20
+attempt 1 414 20
+to 1 414 20
+substantiate 1 414 20
+the 1 414 20
+story 1 414 20
+that 1 414 20
+Russia 1 414 20
+deprived 1 414 20
+Hillary 1 414 20
+of 1 414 20
+the 1 414 20
+Presidency. 1 414 20
 
-My 0
-friend 0
-William 0
-Binney, 0
-probably 1
-the 1
-world’s 1
-greatest 1
-expert 1
-on 1
-electronic 1
-surveillance, 1
-former 0
-Technical 0
-Director 0
-of 0
-the 0
-NSA, 0
-has 0
-stated 0
-that 0
-it 0
-is 0
-impossible 0
-the 0
-DNC 0
-servers 0
-were 0
-hacked, 0
-the 0
-technical 0
-evidence 0
-shows 0
-it 0
-was 0
-a 0
-download 0
-to 0
-a 0
-directly 0
-connected 0
-memory 0
-stick. 0
+My 0 414 21
+friend 0 414 21
+William 0 414 21
+Binney, 0 414 21
+probably 1 414 21
+the 1 414 21
+world’s 1 414 21
+greatest 1 414 21
+expert 1 414 21
+on 1 414 21
+electronic 1 414 21
+surveillance, 1 414 21
+former 0 414 21
+Technical 0 414 21
+Director 0 414 21
+of 0 414 21
+the 0 414 21
+NSA, 0 414 21
+has 0 414 21
+stated 0 414 21
+that 0 414 21
+it 0 414 21
+is 0 414 21
+impossible 0 414 21
+the 0 414 21
+DNC 0 414 21
+servers 0 414 21
+were 0 414 21
+hacked, 0 414 21
+the 0 414 21
+technical 0 414 21
+evidence 0 414 21
+shows 0 414 21
+it 0 414 21
+was 0 414 21
+a 0 414 21
+download 0 414 21
+to 0 414 21
+a 0 414 21
+directly 0 414 21
+connected 0 414 21
+memory 0 414 21
+stick. 0 414 21
 
-I 1
-knew 1
-the 1
-US 1
-security 1
-services 1
-were 1
-conducting 1
-a 1
-fake 1
-investigation 1
-the 1
-moment 1
-it 1
-became 1
-clear 1
-that 1
-the 1
-FBI 1
-did 1
-not 1
-even 1
-themselves 1
-look 1
-at 1
-the 1
-DNC 1
-servers, 1
-instead 1
-accepting 1
-a 1
-report 1
-from 1
-the 1
-Clinton 1
-linked 1
-DNC 1
-“security 1
-consultants” 1
-Crowdstrike. 1
+I 1 414 22
+knew 1 414 22
+the 1 414 22
+US 1 414 22
+security 1 414 22
+services 1 414 22
+were 1 414 22
+conducting 1 414 22
+a 1 414 22
+fake 1 414 22
+investigation 1 414 22
+the 1 414 22
+moment 1 414 22
+it 1 414 22
+became 1 414 22
+clear 1 414 22
+that 1 414 22
+the 1 414 22
+FBI 1 414 22
+did 1 414 22
+not 1 414 22
+even 1 414 22
+themselves 1 414 22
+look 1 414 22
+at 1 414 22
+the 1 414 22
+DNC 1 414 22
+servers, 1 414 22
+instead 1 414 22
+accepting 1 414 22
+a 1 414 22
+report 1 414 22
+from 1 414 22
+the 1 414 22
+Clinton 1 414 22
+linked 1 414 22
+DNC 1 414 22
+“security 1 414 22
+consultants” 1 414 22
+Crowdstrike. 1 414 22
 
-I 0
-would 0
-love 0
-to 0
-believe 0
-that 0
-the 0
-fact 0
-Julian 0
-has 0
-never 0
-met 0
-Manafort 0
-is 0
-bound 0
-to 0
-be 0
-established. 0
+I 0 414 23
+would 0 414 23
+love 0 414 23
+to 0 414 23
+believe 0 414 23
+that 0 414 23
+the 0 414 23
+fact 0 414 23
+Julian 0 414 23
+has 0 414 23
+never 0 414 23
+met 0 414 23
+Manafort 0 414 23
+is 0 414 23
+bound 0 414 23
+to 0 414 23
+be 0 414 23
+established. 0 414 23
 
-But 1
-I 1
-fear 1
-that 1
-state 1
-control 1
-of 1
-propaganda 1
-may 1
-be 1
-such 1
-that 1
-this 1
-massive 1
-“Big 1
-Lie” 1
-will 1
-come 1
-to 1
-enter 1
-public 1
-consciousness 1
-in 1
-the 1
-same 1
-way 1
-as 1
-the 1
-non-existent 1
-Russian 1
-hack 1
-of 1
-the 1
-DNC 1
-servers. 1
+But 1 414 24
+I 1 414 24
+fear 1 414 24
+that 1 414 24
+state 1 414 24
+control 1 414 24
+of 1 414 24
+propaganda 1 414 24
+may 1 414 24
+be 1 414 24
+such 1 414 24
+that 1 414 24
+this 1 414 24
+massive 1 414 24
+“Big 1 414 24
+Lie” 1 414 24
+will 1 414 24
+come 1 414 24
+to 1 414 24
+enter 1 414 24
+public 1 414 24
+consciousness 1 414 24
+in 1 414 24
+the 1 414 24
+same 1 414 24
+way 1 414 24
+as 1 414 24
+the 1 414 24
+non-existent 1 414 24
+Russian 1 414 24
+hack 1 414 24
+of 1 414 24
+the 1 414 24
+DNC 1 414 24
+servers. 1 414 24
 
-Assange 1
-never 1
-met 1
-Manafort. 1
+Assange 1 414 25
+never 1 414 25
+met 1 414 25
+Manafort. 1 414 25
 
-The 1
-DNC 1
-emails 1
-were 1
-downloaded 1
-by 1
-an 1
-insider. 1
+The 1 414 26
+DNC 1 414 26
+emails 1 414 26
+were 1 414 26
+downloaded 1 414 26
+by 1 414 26
+an 1 414 26
+insider. 1 414 26
 
-Assange 1
-never 1
-even 1
-considered 1
-fleeing 1
-to 1
-Russia. 1
+Assange 1 414 27
+never 1 414 27
+even 1 414 27
+considered 1 414 27
+fleeing 1 414 27
+to 1 414 27
+Russia. 1 414 27
 
-Those 1
-are 1
-the 1
-facts, 1
-and 1
-I 1
-am 1
-in 1
-a 1
-position 1
-to 1
-give 1
-you 1
-a 1
-personal 1
-assurance 1
-of 1
-them. 1
+Those 1 414 28
+are 1 414 28
+the 1 414 28
+facts, 1 414 28
+and 1 414 28
+I 1 414 28
+am 1 414 28
+in 1 414 28
+a 1 414 28
+position 1 414 28
+to 1 414 28
+give 1 414 28
+you 1 414 28
+a 1 414 28
+personal 1 414 28
+assurance 1 414 28
+of 1 414 28
+them. 1 414 28
 
-I 1
-can 1
-also 1
-assure 1
-you 1
-that 1
-Luke 1
-Harding, 1
-the 1
-Guardian, 1
-Washington 1
-Post 1
-and 1
-New 1
-York 1
-Times 1
-have 1
-been 1
-publishing 1
-a 1
-stream 1
-of 1
-deliberate 1
-lies, 1
-in 1
-collusion 1
-with 1
-the 1
-security 1
-services. 1
+I 1 414 29
+can 1 414 29
+also 1 414 29
+assure 1 414 29
+you 1 414 29
+that 1 414 29
+Luke 1 414 29
+Harding, 1 414 29
+the 1 414 29
+Guardian, 1 414 29
+Washington 1 414 29
+Post 1 414 29
+and 1 414 29
+New 1 414 29
+York 1 414 29
+Times 1 414 29
+have 1 414 29
+been 1 414 29
+publishing 1 414 29
+a 1 414 29
+stream 1 414 29
+of 1 414 29
+deliberate 1 414 29
+lies, 1 414 29
+in 1 414 29
+collusion 1 414 29
+with 1 414 29
+the 1 414 29
+security 1 414 29
+services. 1 414 29
 
-I 0
-am 0
-not 0
-a 0
-fan 0
-of 0
-Donald 0
-Trump. 0
+I 0 414 30
+am 0 414 30
+not 0 414 30
+a 0 414 30
+fan 0 414 30
+of 0 414 30
+Donald 0 414 30
+Trump. 0 414 30
 
-But 1
-to 1
-see 1
-the 1
-partisans 1
-of 1
-the 1
-defeated 1
-candidate 1
-(and 1
-a 1
-particularly 1
-obnoxious 1
-defeated 1
-candidate) 1
-manipulate 1
-the 1
-security 1
-services 1
-and 1
-the 1
-media 1
-to 1
-create 1
-an 1
-entirely 1
-false 1
-public 1
-perception, 1
-in 1
-order 1
-to 1
-attempt 1
-to 1
-overturn 1
-the 1
-result 1
-of 1
-the 1
-US 1
-Presidential 1
-election, 1
-is 1
-the 1
-most 1
-astonishing 1
-thing 1
-I 1
-have 1
-witnessed 1
-in 1
-my 1
-lifetime. 1
+But 1 414 31
+to 1 414 31
+see 1 414 31
+the 1 414 31
+partisans 1 414 31
+of 1 414 31
+the 1 414 31
+defeated 1 414 31
+candidate 1 414 31
+(and 1 414 31
+a 1 414 31
+particularly 1 414 31
+obnoxious 1 414 31
+defeated 1 414 31
+candidate) 1 414 31
+manipulate 1 414 31
+the 1 414 31
+security 1 414 31
+services 1 414 31
+and 1 414 31
+the 1 414 31
+media 1 414 31
+to 1 414 31
+create 1 414 31
+an 1 414 31
+entirely 1 414 31
+false 1 414 31
+public 1 414 31
+perception, 1 414 31
+in 1 414 31
+order 1 414 31
+to 1 414 31
+attempt 1 414 31
+to 1 414 31
+overturn 1 414 31
+the 1 414 31
+result 1 414 31
+of 1 414 31
+the 1 414 31
+US 1 414 31
+Presidential 1 414 31
+election, 1 414 31
+is 1 414 31
+the 1 414 31
+most 1 414 31
+astonishing 1 414 31
+thing 1 414 31
+I 1 414 31
+have 1 414 31
+witnessed 1 414 31
+in 1 414 31
+my 1 414 31
+lifetime. 1 414 31
 
-Plainly 1
-the 1
-government 1
-of 1
-Ecuador 1
-is 1
-releasing 1
-lies 1
-about 1
-Assange 1
-to 1
-curry 1
-favour 1
-with 1
-the 1
-security 1
-establishment 1
-of 1
-the 1
-USA 1
-and 1
-UK, 1
-and 1
-to 1
-damage 1
-Assange’s 1
-support 1
-prior 1
-to 1
-expelling 1
-him 1
-from 1
-the 1
-Embassy. 1
+Plainly 1 414 32
+the 1 414 32
+government 1 414 32
+of 1 414 32
+Ecuador 1 414 32
+is 1 414 32
+releasing 1 414 32
+lies 1 414 32
+about 1 414 32
+Assange 1 414 32
+to 1 414 32
+curry 1 414 32
+favour 1 414 32
+with 1 414 32
+the 1 414 32
+security 1 414 32
+establishment 1 414 32
+of 1 414 32
+the 1 414 32
+USA 1 414 32
+and 1 414 32
+UK, 1 414 32
+and 1 414 32
+to 1 414 32
+damage 1 414 32
+Assange’s 1 414 32
+support 1 414 32
+prior 1 414 32
+to 1 414 32
+expelling 1 414 32
+him 1 414 32
+from 1 414 32
+the 1 414 32
+Embassy. 1 414 32
 
-He 1
-will 1
-then 1
-be 1
-extradited 1
-from 1
-London 1
-to 1
-the 1
-USA 1
-on 1
-charges 1
-of 1
-espionage. 1
+He 1 414 33
+will 1 414 33
+then 1 414 33
+be 1 414 33
+extradited 1 414 33
+from 1 414 33
+London 1 414 33
+to 1 414 33
+the 1 414 33
+USA 1 414 33
+on 1 414 33
+charges 1 414 33
+of 1 414 33
+espionage. 1 414 33
 
-Assange 0
-is 0
-not 0
-a 1
-whistleblower 1
-or 1
-a 1
-spy 1
-– 0
-he 0
-is 0
-the 1
-greatest 1
-publisher 1
-of 1
-his 1
-age, 1
-and 1
-has 1
-done 1
-more 1
-to 1
-bring 1
-the 1
-crimes 1
-of 1
-governments 1
-to 1
-light 1
-than 1
-the 1
-mainstream 1
-media 1
-will 1
-ever 1
-be 1
-motivated 1
-to 1
-achieve. 1
+Assange 0 414 34
+is 0 414 34
+not 0 414 34
+a 1 414 34
+whistleblower 1 414 34
+or 1 414 34
+a 1 414 34
+spy 1 414 34
+– 0 414 34
+he 0 414 34
+is 0 414 34
+the 1 414 34
+greatest 1 414 34
+publisher 1 414 34
+of 1 414 34
+his 1 414 34
+age, 1 414 34
+and 1 414 34
+has 1 414 34
+done 1 414 34
+more 1 414 34
+to 1 414 34
+bring 1 414 34
+the 1 414 34
+crimes 1 414 34
+of 1 414 34
+governments 1 414 34
+to 1 414 34
+light 1 414 34
+than 1 414 34
+the 1 414 34
+mainstream 1 414 34
+media 1 414 34
+will 1 414 34
+ever 1 414 34
+be 1 414 34
+motivated 1 414 34
+to 1 414 34
+achieve. 1 414 34
 
-That 1
-supposedly 1
-great 1
-newspaper 1
-titles 1
-like 1
-the 1
-Guardian, 1
-New 1
-York 1
-Times 1
-and 1
-Washington 1
-Post 1
-are 1
-involved 1
-in 1
-the 1
-spreading 1
-of 1
-lies 1
-to 1
-damage 1
-Assange, 1
-and 1
-are 1
-seeking 1
-his 1
-imprisonment 1
-for 1
-publishing 1
-state 1
-secrets, 1
-is 1
-clear 1
-evidence 1
-that 1
-the 1
-idea 1
-of 1
-the 1
-“liberal 1
-media” 1
-no 1
-longer 1
-exists 1
-in 1
-the 1
-new 1
-plutocratic 1
-age. 1
+That 1 414 35
+supposedly 1 414 35
+great 1 414 35
+newspaper 1 414 35
+titles 1 414 35
+like 1 414 35
+the 1 414 35
+Guardian, 1 414 35
+New 1 414 35
+York 1 414 35
+Times 1 414 35
+and 1 414 35
+Washington 1 414 35
+Post 1 414 35
+are 1 414 35
+involved 1 414 35
+in 1 414 35
+the 1 414 35
+spreading 1 414 35
+of 1 414 35
+lies 1 414 35
+to 1 414 35
+damage 1 414 35
+Assange, 1 414 35
+and 1 414 35
+are 1 414 35
+seeking 1 414 35
+his 1 414 35
+imprisonment 1 414 35
+for 1 414 35
+publishing 1 414 35
+state 1 414 35
+secrets, 1 414 35
+is 1 414 35
+clear 1 414 35
+evidence 1 414 35
+that 1 414 35
+the 1 414 35
+idea 1 414 35
+of 1 414 35
+the 1 414 35
+“liberal 1 414 35
+media” 1 414 35
+no 1 414 35
+longer 1 414 35
+exists 1 414 35
+in 1 414 35
+the 1 414 35
+new 1 414 35
+plutocratic 1 414 35
+age. 1 414 35
 
-The 1
-press 1
-are 1
-not 1
-on 1
-the 1
-side 1
-of 1
-the 1
-people, 1
-they 1
-are 1
-an 1
-instrument 1
-of 1
-elite 1
-control. 1
+The 1 414 35
+
+press 1 414 35
+
+are 1 414 35
+
+not 1 414 35
+
+on 1 414 35
+
+the 1 414 35
+
+side 1 414 35
+
+of 1 414 35
+
+the 1 414 35
+
+people, 1 414 35
+
+they 1 414 35
+
+are 1 414 35
+
+an 1 414 35
+
+instrument 1 414 35
+
+of 1 414 35
+
+elite 1 414 35
+
+control. 1 414 35

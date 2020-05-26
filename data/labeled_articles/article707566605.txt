@@ -1,446 +1,485 @@
-Madagascar 0
-Outbreak: 0
-It 1
-Is 1
-‘Inevitable’ 1
-The 1
-Plague 1
-Becomes 1
-Resistant 1
-To 1
-Drugs 1
+Madagascar 0 91 0
+Outbreak: 0 91 0
+It 1 91 0
+Is 1 91 0
+‘Inevitable’ 1 91 0
+The 1 91 0
+Plague 1 91 0
+Becomes 1 91 0
+Resistant 1 91 0
+To 1 91 0
+Drugs 1 91 0
 
-The 0
-newest 0
-warning 0
-about 0
-the 0
-outbreak 0
-of 0
-the 0
-airborne 0
-pneumonic 0
-plague, 0
-or 0
-black 1
-death, 1
-in 0
-Madagascar 0
-has 0
-been 0
-released. 0
+The 0 91 1
+newest 0 91 1
+warning 0 91 1
+about 0 91 1
+the 0 91 1
+outbreak 0 91 1
+of 0 91 1
+the 0 91 1
+airborne 0 91 1
+pneumonic 0 91 1
+plague, 0 91 1
+or 0 91 1
+black 1 91 1
+death, 1 91 1
+in 0 91 1
+Madagascar 0 91 1
+has 0 91 1
+been 0 91 1
+released. 0 91 1
 
-Officials 0
-warn 0
-that 0
-it’s 1
-inevitable 1
-that 1
-this 1
-bacterial 1
-infection 1
-that’s 0
-infected 0
-over 0
-2000 0
-people 0
-will 0
-become 0
-resistant 0
-to 0
-antibiotics. 0
+Officials 0 91 2
+warn 0 91 2
+that 0 91 2
+it’s 1 91 2
+inevitable 1 91 2
+that 1 91 2
+this 1 91 2
+bacterial 1 91 2
+infection 1 91 2
+that’s 0 91 2
+infected 0 91 2
+over 0 91 2
+2000 0 91 2
+people 0 91 2
+will 0 91 2
+become 0 91 2
+resistant 0 91 2
+to 0 91 2
+antibiotics. 0 91 2
 
-The 0
-only 0
-way 0
-to 0
-treat 0
-a 0
-person 0
-who 0
-has 0
-contracted 0
-the 0
-plague 0
-is 0
-with 0
-antibiotics. 0
+The 0 91 3
+only 0 91 3
+way 0 91 3
+to 0 91 3
+treat 0 91 3
+a 0 91 3
+person 0 91 3
+who 0 91 3
+has 0 91 3
+contracted 0 91 3
+the 0 91 3
+plague 0 91 3
+is 0 91 3
+with 0 91 3
+antibiotics. 0 91 3
 
-But 0
-experts 0
-now 0
-warn 0
-that 0
-because 0
-they 0
-are 0
-being 0
-used 0
-so 0
-much 0
-to 0
-treat 0
-the 0
-infection, 0
-antibiotics 1
-resistance 1
-is 1
-inevitable 1
-and 0
-making 1
-this 1
-disease 1
-much 1
-more 1
-terrifying. 1
+But 0 91 4
+experts 0 91 4
+now 0 91 4
+warn 0 91 4
+that 0 91 4
+because 0 91 4
+they 0 91 4
+are 0 91 4
+being 0 91 4
+used 0 91 4
+so 0 91 4
+much 0 91 4
+to 0 91 4
+treat 0 91 4
+the 0 91 4
+infection, 0 91 4
+antibiotics 1 91 4
+resistance 1 91 4
+is 1 91 4
+inevitable 1 91 4
+and 0 91 4
+making 1 91 4
+this 1 91 4
+disease 1 91 4
+much 1 91 4
+more 1 91 4
+terrifying. 1 91 4
 
-Once 0
-the 0
-bacteria 0
-is 0
-resistant, 0
-the 0
-Madagascar 0
-healthcare 0
-system 0
-will 0
-be 0
-overwhelmed, 0
-and 0
-the 0
-disease 0
-will 0
-have 0
-control 0
-of 0
-the 0
-nation. 0
+Once 0 91 5
+the 0 91 5
+bacteria 0 91 5
+is 0 91 5
+resistant, 0 91 5
+the 0 91 5
+Madagascar 0 91 5
+healthcare 0 91 5
+system 0 91 5
+will 0 91 5
+be 0 91 5
+overwhelmed, 0 91 5
+and 0 91 5
+the 0 91 5
+disease 0 91 5
+will 0 91 5
+have 0 91 5
+control 0 91 5
+of 0 91 5
+the 0 91 5
+nation. 0 91 5
 
-According 0
-to 0
-the 0
-Daily 0
-Mail, 0
-Madagascar’s 1
-healthcare 1
-system 1
-will 1
-be 1
-unable 1
-to 1
-cope 1
-if 1
-the 1
-deadly 1
-plague 1
-outbreak 1
-continues 1
-to 1
-escalate, 1
-a 0
-scientist 0
-has 0
-warned. 0
+According 0 91 6
+to 0 91 6
+the 0 91 6
+Daily 0 91 6
+Mail, 0 91 6
+Madagascar’s 1 91 6
+healthcare 1 91 6
+system 1 91 6
+will 1 91 6
+be 1 91 6
+unable 1 91 6
+to 1 91 6
+cope 1 91 6
+if 1 91 6
+the 1 91 6
+deadly 1 91 6
+plague 1 91 6
+outbreak 1 91 6
+continues 1 91 6
+to 1 91 6
+escalate, 1 91 6
+a 0 91 6
+scientist 0 91 6
+has 0 91 6
+warned. 0 91 6
 
-Scores 0
-of 0
-doctors 0
-and 0
-nurses 0
-have 0
-been 0
-struck 0
-down 0
-with 0
-the 0
-disease, 0
-which 0
-is 0
-predicted 0
-to 0
-gather 0
-momentum 0
-in 0
-the 0
-coming 0
-weeks 0
-and 0
-there 0
-are 0
-growing 0
-fears 0
-hospitals 0
-will 0
-be 0
-unable 0
-to 0
-meet 0
-the 0
-illness’ 0
-burden. 0
+Scores 0 91 7
+of 0 91 7
+doctors 0 91 7
+and 0 91 7
+nurses 0 91 7
+have 0 91 7
+been 0 91 7
+struck 0 91 7
+down 0 91 7
+with 0 91 7
+the 0 91 7
+disease, 0 91 7
+which 0 91 7
+is 0 91 7
+predicted 0 91 7
+to 0 91 7
+gather 0 91 7
+momentum 0 91 7
+in 0 91 7
+the 0 91 7
+coming 0 91 7
+weeks 0 91 7
+and 0 91 7
+there 0 91 7
+are 0 91 7
+growing 0 91 7
+fears 0 91 7
+hospitals 0 91 7
+will 0 91 7
+be 0 91 7
+unable 0 91 7
+to 0 91 7
+meet 0 91 7
+the 0 91 7
+illness’ 0 91 7
+burden. 0 91 7
 
-Official 0
-figures 0
-reveal 0
-at 0
-least 0
-2,034 0
-people 0
-have 0
-been 0
-infected 0
-with 0
-the 0
-“medieval 0
-disease” 0
-so 0
-far 0
-in 0
-what 0
-has 0
-been 0
-described 0
-as 0
-the 1
-“worst 1
-outbreak 1
-in 1
-50 1
-years.” 1
-The 0
-black 1
-death 1
-outbreak 0
-has 0
-so 0
-far 0
-claimed 0
-at 0
-least 0
-165 0
-lives. 0
+Official 0 91 8
+figures 0 91 8
+reveal 0 91 8
+at 0 91 8
+least 0 91 8
+2,034 0 91 8
+people 0 91 8
+have 0 91 8
+been 0 91 8
+infected 0 91 8
+with 0 91 8
+the 0 91 8
+“medieval 0 91 8
+disease” 0 91 8
+so 0 91 8
+far 0 91 8
+in 0 91 8
+what 0 91 8
+has 0 91 8
+been 0 91 8
+described 0 91 8
+as 0 91 8
+the 1 91 8
+“worst 1 91 8
+outbreak 1 91 8
+in 1 91 8
+50 1 91 8
+years.” 1 91 8
+The 0 91 8
+black 1 91 8
+death 1 91 8
+outbreak 0 91 8
+has 0 91 8
+so 0 91 8
+far 0 91 8
+claimed 0 91 8
+at 0 91 8
+least 0 91 8
+165 0 91 8
+lives. 0 91 8
 
-Although 0
-the 0
-plague 0
-is 0
-responding 0
-well 0
-to 0
-antibiotics 0
-right 0
-now, 0
-drug 1
-resistance 1
-is 1
-also 1
-an 1
-increasing 1
-concern 1
-amongst 0
-experts 0
-who 0
-predict 0
-it 0
-will 0
-vastly 0
-accelerate 0
-the 0
-disease’s 0
-death 0
-toll. 0
+Although 0 91 9
+the 0 91 9
+plague 0 91 9
+is 0 91 9
+responding 0 91 9
+well 0 91 9
+to 0 91 9
+antibiotics 0 91 9
+right 0 91 9
+now, 0 91 9
+drug 1 91 9
+resistance 1 91 9
+is 1 91 9
+also 1 91 9
+an 1 91 9
+increasing 1 91 9
+concern 1 91 9
+amongst 0 91 9
+experts 0 91 9
+who 0 91 9
+predict 0 91 9
+it 0 91 9
+will 0 91 9
+vastly 0 91 9
+accelerate 0 91 9
+the 0 91 9
+disease’s 0 91 9
+death 0 91 9
+toll. 0 91 9
 
-Professor 0
-John 0
-Joe 0
-McFadden 0
-from 0
-the 0
-University 0
-of 0
-Surrey 0
-told 0
-MailOnline: 0
-“Fortunately 0
-in 0
-[the] 0
-plague, 0
-it 0
-has 0
-not 0
-developed 0
-much 0
-antibiotic 0
-resistance. 0
+Professor 0 91 10
+John 0 91 10
+Joe 0 91 10
+McFadden 0 91 10
+from 0 91 10
+the 0 91 10
+University 0 91 10
+of 0 91 10
+Surrey 0 91 10
+told 0 91 10
+MailOnline: 0 91 10
+“Fortunately 0 91 10
+in 0 91 10
+[the] 0 91 10
+plague, 0 91 10
+it 0 91 10
+has 0 91 10
+not 0 91 10
+developed 0 91 10
+much 0 91 10
+antibiotic 0 91 10
+resistance. 0 91 10
 
-If 1
-that 1
-kicks 1
-in, 1
-the 1
-plague 1
-will 1
-be 1
-far, 1
-far 1
-scarier. 1
+If 1 91 11
+that 1 91 11
+kicks 1 91 11
+in, 1 91 11
+the 1 91 11
+plague 1 91 11
+will 1 91 11
+be 1 91 11
+far, 1 91 11
+far 1 91 11
+scarier. 1 91 11
 
-If 0
-you 0
-throw 0
-more 0
-and 0
-more 0
-antibiotics 0
-at 0
-patients, 0
-antibiotic 1
-resistance 1
-is 1
-more 1
-or 1
-less 1
-inevitable.” 1
+If 0 91 12
+you 0 91 12
+throw 0 91 12
+more 0 91 12
+and 0 91 12
+more 0 91 12
+antibiotics 0 91 12
+at 0 91 12
+patients, 0 91 12
+antibiotic 1 91 12
+resistance 1 91 12
+is 1 91 12
+more 1 91 12
+or 1 91 12
+less 1 91 12
+inevitable.” 1 91 12
 
-Dr. 0
-Derek 0
-Gatherer, 0
-from 0
-Lancaster 0
-University’s 0
-biomedical 0
-and 0
-life-sciences 0
-department, 0
-told 0
-MailOnline 0
-the 0
-country 0
-would 0
-struggle 0
-“to 0
-cope” 0
-if 0
-cases 0
-continue 0
-to 0
-spiral. 0
+Dr. 0 91 13
+Derek 0 91 13
+Gatherer, 0 91 13
+from 0 91 13
+Lancaster 0 91 13
+University’s 0 91 13
+biomedical 0 91 13
+and 0 91 13
+life-sciences 0 91 13
+department, 0 91 13
+told 0 91 13
+MailOnline 0 91 13
+the 0 91 13
+country 0 91 13
+would 0 91 13
+struggle 0 91 13
+“to 0 91 13
+cope” 0 91 13
+if 0 91 13
+cases 0 91 13
+continue 0 91 13
+to 0 91 13
+spiral. 0 91 13
 
-“Madagascar, 0
-typically 0
-like 0
-many 0
-African 0
-countries, 0
-doesn’t 0
-have 0
-many 0
-doctors. 0
+“Madagascar, 0 91 14
+typically 0 91 14
+like 0 91 14
+many 0 91 14
+African 0 91 14
+countries, 0 91 14
+doesn’t 0 91 14
+have 0 91 14
+many 0 91 14
+doctors. 0 91 14
 
-There 0
-are 0
-around 0
-three-and-a-half 0
-thousand 0
-doctors 0
-for 0
-22 0
-million 0
-people. 0
+There 0 91 15
+are 0 91 15
+around 0 91 15
+three-and-a-half 0 91 15
+thousand 0 91 15
+doctors 0 91 15
+for 0 91 15
+22 0 91 15
+million 0 91 15
+people. 0 91 15
 
-They 0
-only 0
-have 0
-around 0
-6,000 0
-hospital 0
-beds, 0
-so 0
-they 0
-aren’t 0
-particularly 0
-well 0
-positioned 0
-to 0
-cope 0
-with 0
-these 0
-kind 0
-of 0
-events. 0
+They 0 91 16
+only 0 91 16
+have 0 91 16
+around 0 91 16
+6,000 0 91 16
+hospital 0 91 16
+beds, 0 91 16
+so 0 91 16
+they 0 91 16
+aren’t 0 91 16
+particularly 0 91 16
+well 0 91 16
+positioned 0 91 16
+to 0 91 16
+cope 0 91 16
+with 0 91 16
+these 0 91 16
+kind 0 91 16
+of 0 91 16
+events. 0 91 16
 
-And 0
-if 0
-it 0
-wasn’t 0
-for 0
-the 0
-international 0
-aid 0
-coming 0
-in 0
-things 0
-would 0
-definitely 0
-be 0
-much 0
-worse 0
-for 0
-them.” 0
+And 0 91 17
+if 0 91 17
+it 0 91 17
+wasn’t 0 91 17
+for 0 91 17
+the 0 91 17
+international 0 91 17
+aid 0 91 17
+coming 0 91 17
+in 0 91 17
+things 0 91 17
+would 0 91 17
+definitely 0 91 17
+be 0 91 17
+much 0 91 17
+worse 0 91 17
+for 0 91 17
+them.” 0 91 17
 
-And 0
-experts 0
-continue 0
-to 0
-fear 0
-the 0
-healthcare 0
-system 0
-is 0
-on 0
-the 0
-brink 0
-of 0
-being 0
-overwhelmed. 0
+And 0 91 18
+experts 0 91 18
+continue 0 91 18
+to 0 91 18
+fear 0 91 18
+the 0 91 18
+healthcare 0 91 18
+system 0 91 18
+is 0 91 18
+on 0 91 18
+the 0 91 18
+brink 0 91 18
+of 0 91 18
+being 0 91 18
+overwhelmed. 0 91 18
 
-Should 0
-the 0
-disease 0
-actually 0
-spread 0
-to 0
-the 0
-African 0
-mainland, 0
-it 0
-will 0
-be 0
-all 0
-but 0
-impossible 0
-to 0
-control 0
-and 0
-the 0
-health 0
-care 0
-system 0
-would 0
-certainly 0
-be 0
-unable 0
-to 0
-handle 0
-the 0
-outbreak 0
-at 0
-that 0
-point, 0
-making 1
-a 1
-global 1
-pandemic 1
-much 1
-more 1
-likely. 1
+Should 0 91 18
+
+the 0 91 18
+
+disease 0 91 18
+
+actually 0 91 18
+
+spread 0 91 18
+
+to 0 91 18
+
+the 0 91 18
+
+African 0 91 18
+
+mainland, 0 91 18
+
+it 0 91 18
+
+will 0 91 18
+
+be 0 91 18
+
+all 0 91 18
+
+but 0 91 18
+
+impossible 0 91 18
+
+to 0 91 18
+
+control 0 91 18
+
+and 0 91 18
+
+the 0 91 18
+
+health 0 91 18
+
+care 0 91 18
+
+system 0 91 18
+
+would 0 91 18
+
+certainly 0 91 18
+
+be 0 91 18
+
+unable 0 91 18
+
+to 0 91 18
+
+handle 0 91 18
+
+the 0 91 18
+
+outbreak 0 91 18
+
+at 0 91 18
+
+that 0 91 18
+
+point, 0 91 18
+
+making 1 91 18
+
+a 1 91 18
+
+global 1 91 18
+
+pandemic 1 91 18
+
+much 1 91 18
+
+more 1 91 18
+
+likely. 1 91 18

@@ -1,1020 +1,1043 @@
-Dallas 0
-Police 0
-Officer 0
-Finally 0
-Arrested 0
-After 0
-Entering 0
-Wrong 0
-Apartment 0
-& 0
-Killing 0
-Man 0
+Dallas 0 80 0
+Police 0 80 0
+Officer 0 80 0
+Finally 0 80 0
+Arrested 0 80 0
+After 0 80 0
+Entering 0 80 0
+Wrong 0 80 0
+Apartment 0 80 0
+& 0 80 0
+Killing 0 80 0
+Man 0 80 0
 
-Last 0
-week, 0
-it 0
-was 0
-reported 0
-that 0
-Dallas 0
-Police 0
-Officer 0
-Amber 0
-Guyger 0
-entered 0
-an 0
-apartment 0
-she 0
-claims 0
-that 0
-she 0
-thought 0
-was 0
-hers 0
-and 0
-subsequently 0
-found 0
-the 0
-occupant 0
-of 0
-that 0
-apartment 0
-home 0
-and 0
-shot 0
-and 0
-killed 0
-him, 0
-claiming 0
-she 0
-thought 0
-he 0
-was 0
-an 0
-intruder. 0
+Last 0 80 1
+week, 0 80 1
+it 0 80 1
+was 0 80 1
+reported 0 80 1
+that 0 80 1
+Dallas 0 80 1
+Police 0 80 1
+Officer 0 80 1
+Amber 0 80 1
+Guyger 0 80 1
+entered 0 80 1
+an 0 80 1
+apartment 0 80 1
+she 0 80 1
+claims 0 80 1
+that 0 80 1
+she 0 80 1
+thought 0 80 1
+was 0 80 1
+hers 0 80 1
+and 0 80 1
+subsequently 0 80 1
+found 0 80 1
+the 0 80 1
+occupant 0 80 1
+of 0 80 1
+that 0 80 1
+apartment 0 80 1
+home 0 80 1
+and 0 80 1
+shot 0 80 1
+and 0 80 1
+killed 0 80 1
+him, 0 80 1
+claiming 0 80 1
+she 0 80 1
+thought 0 80 1
+he 0 80 1
+was 0 80 1
+an 0 80 1
+intruder. 0 80 1
 
-Now, 0
-after 0
-several 0
-days 0
-of 0
-outcry 0
-from 0
-the 0
-community, 0
-Guyger 0
-has 0
-been 0
-arrested 0
-and 0
-Charged 0
-with 0
-manslaughter 0
-in 0
-the 0
-death 0
-of 0
-26-year-old 0
-Botham 0
-Jean. 0
+Now, 0 80 2
+after 0 80 2
+several 0 80 2
+days 0 80 2
+of 0 80 2
+outcry 0 80 2
+from 0 80 2
+the 0 80 2
+community, 0 80 2
+Guyger 0 80 2
+has 0 80 2
+been 0 80 2
+arrested 0 80 2
+and 0 80 2
+Charged 0 80 2
+with 0 80 2
+manslaughter 0 80 2
+in 0 80 2
+the 0 80 2
+death 0 80 2
+of 0 80 2
+26-year-old 0 80 2
+Botham 0 80 2
+Jean. 0 80 2
 
-In 0
-a 0
-statement 0
-released 0
-on 0
-Friday, 0
-Dallas 0
-police 0
-said 0
-their 0
-officer 0
-called 0
-them 0
-after 0
-shooting 0
-Jean 0
-and 0
-told 0
-responding 0
-officers 0
-that 0
-“she 0
-entered 0
-the 0
-victim’s 0
-apartment 0
-believing 0
-that 0
-it 0
-was 0
-her 0
-own.” 0
+In 0 80 3
+a 0 80 3
+statement 0 80 3
+released 0 80 3
+on 0 80 3
+Friday, 0 80 3
+Dallas 0 80 3
+police 0 80 3
+said 0 80 3
+their 0 80 3
+officer 0 80 3
+called 0 80 3
+them 0 80 3
+after 0 80 3
+shooting 0 80 3
+Jean 0 80 3
+and 0 80 3
+told 0 80 3
+responding 0 80 3
+officers 0 80 3
+that 0 80 3
+“she 0 80 3
+entered 0 80 3
+the 0 80 3
+victim’s 0 80 3
+apartment 0 80 3
+believing 0 80 3
+that 0 80 3
+it 0 80 3
+was 0 80 3
+her 0 80 3
+own.” 0 80 3
 
-On 0
-September 0
-6, 0
-2018 0
-at 0
-about 0
-9:59 0
-p.m., 0
-an 0
-off 0
-duty 0
-Dallas 0
-Police 0
-officer 0
-called 0
-police 0
-dispatch 0
-and 0
-said 0
-she 0
-was 0
-involved 0
-in 0
-a 0
-shooting 0
-at 0
-the 0
-apartments 0
-located 0
-at 0
-1210 0
-S. 0
-Lamar. 0
+On 0 80 4
+September 0 80 4
+6, 0 80 4
+2018 0 80 4
+at 0 80 4
+about 0 80 4
+9:59 0 80 4
+p.m., 0 80 4
+an 0 80 4
+off 0 80 4
+duty 0 80 4
+Dallas 0 80 4
+Police 0 80 4
+officer 0 80 4
+called 0 80 4
+police 0 80 4
+dispatch 0 80 4
+and 0 80 4
+said 0 80 4
+she 0 80 4
+was 0 80 4
+involved 0 80 4
+in 0 80 4
+a 0 80 4
+shooting 0 80 4
+at 0 80 4
+the 0 80 4
+apartments 0 80 4
+located 0 80 4
+at 0 80 4
+1210 0 80 4
+S. 0 80 4
+Lamar. 0 80 4
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+take 0 80 5
+our 0 80 5
+poll 0 80 5
+- 0 80 5
+story 0 80 5
+continues 0 80 5
+below 0 80 5
+Who 0 80 5
+should 0 80 5
+replace 0 80 5
+Nikki 0 80 5
+Haley 0 80 5
+as 0 80 5
+our 0 80 5
+ambassador 0 80 5
+to 0 80 5
+the 0 80 5
+U.N.? 0 80 5
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 80 6
+should 0 80 6
+replace 0 80 6
+Nikki 0 80 6
+Haley 0 80 6
+as 0 80 6
+our 0 80 6
+ambassador 0 80 6
+to 0 80 6
+the 0 80 6
+U.N.? 0 80 6
 
-Who 0
-should 0
-replace 0
-Nikki 0
-Haley 0
-as 0
-our 0
-ambassador 0
-to 0
-the 0
-U.N.? 0
+Who 0 80 7
+should 0 80 7
+replace 0 80 7
+Nikki 0 80 7
+Haley 0 80 7
+as 0 80 7
+our 0 80 7
+ambassador 0 80 7
+to 0 80 7
+the 0 80 7
+U.N.? 0 80 7
 
-* 0
-John 0
-Bolton 0
-Richard 0
-Grenell 0
-Dina 0
-Powell 0
-Heather 0
-Nauert 0
-Ivanka 0
-Trump 0
+* 0 80 8
+John 0 80 8
+Bolton 0 80 8
+Richard 0 80 8
+Grenell 0 80 8
+Dina 0 80 8
+Powell 0 80 8
+Heather 0 80 8
+Nauert 0 80 8
+Ivanka 0 80 8
+Trump 0 80 8
 
-Email 0
-* 0
+Email 0 80 9
+* 0 80 9
 
-Email 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Email 0 80 10
+This 0 80 10
+field 0 80 10
+is 0 80 10
+for 0 80 10
+validation 0 80 10
+purposes 0 80 10
+and 0 80 10
+should 0 80 10
+be 0 80 10
+left 0 80 10
+unchanged. 0 80 10
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 80 11
+this 0 80 11
+poll 0 80 11
+grants 0 80 11
+you 0 80 11
+access 0 80 11
+to 0 80 11
+Freedom 0 80 11
+Outpost 0 80 11
+updates 0 80 11
+free 0 80 11
+of 0 80 11
+charge. 0 80 11
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 80 12
+may 0 80 12
+opt 0 80 12
+out 0 80 12
+at 0 80 12
+anytime. 0 80 12
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 80 13
+also 0 80 13
+agree 0 80 13
+to 0 80 13
+this 0 80 13
+site's 0 80 13
+Privacy 0 80 13
+Policy 0 80 13
+and 0 80 13
+Terms 0 80 13
+of 0 80 13
+Use. 0 80 13
 
-Preliminary 0
-information 0
-suggests 0
-that 0
-the 0
-officer 0
-arrived 0
-home 0
-in 0
-full 0
-uniform 0
-after 0
-working 0
-a 0
-full 0
-shift. 0
+Preliminary 0 80 14
+information 0 80 14
+suggests 0 80 14
+that 0 80 14
+the 0 80 14
+officer 0 80 14
+arrived 0 80 14
+home 0 80 14
+in 0 80 14
+full 0 80 14
+uniform 0 80 14
+after 0 80 14
+working 0 80 14
+a 0 80 14
+full 0 80 14
+shift. 0 80 14
 
-The 0
-officer 0
-reported 0
-to 0
-the 0
-responding 0
-officers 0
-that 0
-she 0
-entered 0
-the 0
-victim’s 0
-apartment 0
-believing 0
-that 0
-it 0
-was 0
-her 0
-own. 0
+The 0 80 15
+officer 0 80 15
+reported 0 80 15
+to 0 80 15
+the 0 80 15
+responding 0 80 15
+officers 0 80 15
+that 0 80 15
+she 0 80 15
+entered 0 80 15
+the 0 80 15
+victim’s 0 80 15
+apartment 0 80 15
+believing 0 80 15
+that 0 80 15
+it 0 80 15
+was 0 80 15
+her 0 80 15
+own. 0 80 15
 
-At 0
-some 0
-point, 0
-the 0
-officer 0
-fired 0
-her 0
-weapon 0
-striking 0
-the 0
-victim. 0
+At 0 80 16
+some 0 80 16
+point, 0 80 16
+the 0 80 16
+officer 0 80 16
+fired 0 80 16
+her 0 80 16
+weapon 0 80 16
+striking 0 80 16
+the 0 80 16
+victim. 0 80 16
 
-Responding 0
-officers 0
-administered 0
-aid 0
-to 0
-the 0
-victim, 0
-a 0
-26-year-old 0
-male, 0
-at 0
-the 0
-scene. 0
+Responding 0 80 17
+officers 0 80 17
+administered 0 80 17
+aid 0 80 17
+to 0 80 17
+the 0 80 17
+victim, 0 80 17
+a 0 80 17
+26-year-old 0 80 17
+male, 0 80 17
+at 0 80 17
+the 0 80 17
+scene. 0 80 17
 
-The 0
-victim 0
-was 0
-then 0
-transported 0
-to 0
-the 0
-hospital 0
-and 0
-pronounced 0
-deceased. 0
+The 0 80 18
+victim 0 80 18
+was 0 80 18
+then 0 80 18
+transported 0 80 18
+to 0 80 18
+the 0 80 18
+hospital 0 80 18
+and 0 80 18
+pronounced 0 80 18
+deceased. 0 80 18
 
-Next 0
-of 0
-kin 0
-notification 0
-has 0
-not 0
-been 0
-made 0
-at 0
-this 0
-time. 0
+Next 0 80 19
+of 0 80 19
+kin 0 80 19
+notification 0 80 19
+has 0 80 19
+not 0 80 19
+been 0 80 19
+made 0 80 19
+at 0 80 19
+this 0 80 19
+time. 0 80 19
 
-The 0
-officer 0
-was 0
-not 0
-injured 0
-and 0
-will 0
-be 0
-placed 0
-on 0
-administrative 0
-leave 0
-pending 0
-the 0
-outcome 0
-of 0
-the 0
-investigation. 0
+The 0 80 20
+officer 0 80 20
+was 0 80 20
+not 0 80 20
+injured 0 80 20
+and 0 80 20
+will 0 80 20
+be 0 80 20
+placed 0 80 20
+on 0 80 20
+administrative 0 80 20
+leave 0 80 20
+pending 0 80 20
+the 0 80 20
+outcome 0 80 20
+of 0 80 20
+the 0 80 20
+investigation. 0 80 20
 
-The 0
-Dallas 0
-Police 0
-Department 0
-is 0
-conducting 0
-a 0
-joint 0
-investigation 0
-with 0
-the 0
-District 0
-Attorney’s 0
-Office. 0
+The 0 80 21
+Dallas 0 80 21
+Police 0 80 21
+Department 0 80 21
+is 0 80 21
+conducting 0 80 21
+a 0 80 21
+joint 0 80 21
+investigation 0 80 21
+with 0 80 21
+the 0 80 21
+District 0 80 21
+Attorney’s 0 80 21
+Office. 0 80 21
 
-This 0
-investigation 0
-is 0
-ongoing 0
-and 0
-we 0
-will 0
-release 0
-additional 0
-details 0
-as 0
-they 0
-become 0
-available 0
-and 0
-it 0
-is 0
-appropriate 0
-to 0
-do 0
-so. 0
+This 0 80 22
+investigation 0 80 22
+is 0 80 22
+ongoing 0 80 22
+and 0 80 22
+we 0 80 22
+will 0 80 22
+release 0 80 22
+additional 0 80 22
+details 0 80 22
+as 0 80 22
+they 0 80 22
+become 0 80 22
+available 0 80 22
+and 0 80 22
+it 0 80 22
+is 0 80 22
+appropriate 0 80 22
+to 0 80 22
+do 0 80 22
+so. 0 80 22
 
-I 0
-have 0
-no 0
-idea 0
-how 0
-you 0
-can 0
-enter 0
-an 0
-apartment 0
-mistakenly. 0
+I 0 80 23
+have 0 80 23
+no 0 80 23
+idea 0 80 23
+how 0 80 23
+you 0 80 23
+can 0 80 23
+enter 0 80 23
+an 0 80 23
+apartment 0 80 23
+mistakenly. 0 80 23
 
-Does 0
-Guyger 0
-leave 0
-her 0
-door 0
-unlocked? 0
+Does 0 80 24
+Guyger 0 80 24
+leave 0 80 24
+her 0 80 24
+door 0 80 24
+unlocked? 0 80 24
 
-Furthermore, 0
-The 0
-Dallas 0
-News 0
-reports: 0
+Furthermore, 0 80 25
+The 0 80 25
+Dallas 0 80 25
+News 0 80 25
+reports: 0 80 25
 
-Jean, 0
-who 0
-lived 0
-on 0
-the 0
-fourth 0
-floor 0
-of 0
-the 0
-South 0
-Side 0
-Flats 0
-in 0
-the 0
-Cedars, 0
-was 0
-home 0
-alone 0
-when 0
-Guyger 0
-mistook 0
-his 0
-apartment 0
-for 0
-hers, 0
-the 1
-affidavit 1
-says. 1
+Jean, 0 80 26
+who 0 80 26
+lived 0 80 26
+on 0 80 26
+the 0 80 26
+fourth 0 80 26
+floor 0 80 26
+of 0 80 26
+the 0 80 26
+South 0 80 26
+Side 0 80 26
+Flats 0 80 26
+in 0 80 26
+the 0 80 26
+Cedars, 0 80 26
+was 0 80 26
+home 0 80 26
+alone 0 80 26
+when 0 80 26
+Guyger 0 80 26
+mistook 0 80 26
+his 0 80 26
+apartment 0 80 26
+for 0 80 26
+hers, 0 80 26
+the 1 80 26
+affidavit 1 80 26
+says. 1 80 26
 
-Guyger 0
-lived 0
-on 0
-the 0
-third 0
-floor, 0
-directly 0
-beneath 0
-his 0
-apartment, 0
-and 0
-mistakenly 0
-parked 0
-on 0
-the 0
-fourth 0
-floor 0
-after 0
-finishing 0
-a 0
-shift 0
-at 0
-the 0
-Dallas 0
-Police 0
-Department, 0
-the 1
-affidavit 1
-says. 1
+Guyger 0 80 27
+lived 0 80 27
+on 0 80 27
+the 0 80 27
+third 0 80 27
+floor, 0 80 27
+directly 0 80 27
+beneath 0 80 27
+his 0 80 27
+apartment, 0 80 27
+and 0 80 27
+mistakenly 0 80 27
+parked 0 80 27
+on 0 80 27
+the 0 80 27
+fourth 0 80 27
+floor 0 80 27
+after 0 80 27
+finishing 0 80 27
+a 0 80 27
+shift 0 80 27
+at 0 80 27
+the 0 80 27
+Dallas 0 80 27
+Police 0 80 27
+Department, 0 80 27
+the 1 80 27
+affidavit 1 80 27
+says. 1 80 27
 
-When 0
-she 0
-arrived 0
-at 0
-Jean's 0
-door, 0
-Guyger 0
-entered 0
-a 0
-unique 0
-door 0
-key 0
-with 0
-an 0
-electronic 0
-chip 0
-into 0
-the 0
-keyhole, 0
-the 1
-affidavit 1
-says. 1
+When 0 80 28
+she 0 80 28
+arrived 0 80 28
+at 0 80 28
+Jean's 0 80 28
+door, 0 80 28
+Guyger 0 80 28
+entered 0 80 28
+a 0 80 28
+unique 0 80 28
+door 0 80 28
+key 0 80 28
+with 0 80 28
+an 0 80 28
+electronic 0 80 28
+chip 0 80 28
+into 0 80 28
+the 0 80 28
+keyhole, 0 80 28
+the 1 80 28
+affidavit 1 80 28
+says. 1 80 28
 
-The 0
-door 0
-was 0
-already 0
-ajar, 0
-so 0
-the 0
-force 0
-of 0
-pushing 0
-the 0
-key 0
-inside 0
-opened 0
-the 0
-door, 0
-according 0
-to 0
-the 0
-affidavit. 0
+The 0 80 29
+door 0 80 29
+was 0 80 29
+already 0 80 29
+ajar, 0 80 29
+so 0 80 29
+the 0 80 29
+force 0 80 29
+of 0 80 29
+pushing 0 80 29
+the 0 80 29
+key 0 80 29
+inside 0 80 29
+opened 0 80 29
+the 0 80 29
+door, 0 80 29
+according 0 80 29
+to 0 80 29
+the 0 80 29
+affidavit. 0 80 29
 
-The 1
-affidavit 1
-says 1
-the 0
-apartments' 0
-"respective 0
-interior 0
-floorplans 0
-are 0
-in 0
-most 0
-ways 0
-identical 0
-or 0
-extremely 0
-similar." 0
+The 1 80 30
+affidavit 1 80 30
+says 1 80 30
+the 0 80 30
+apartments' 0 80 30
+"respective 0 80 30
+interior 0 80 30
+floorplans 0 80 30
+are 0 80 30
+in 0 80 30
+most 0 80 30
+ways 0 80 30
+identical 0 80 30
+or 0 80 30
+extremely 0 80 30
+similar." 0 80 30
 
-The 0
-apartment 0
-was 0
-dark 0
-and 0
-when 0
-she 0
-saw 0
-"a 0
-large 0
-silhouette," 0
-Guyger 0
-thought 0
-she 0
-was 0
-being 0
-burglarized, 0
-the 1
-affidavit 1
-says. 1
+The 0 80 31
+apartment 0 80 31
+was 0 80 31
+dark 0 80 31
+and 0 80 31
+when 0 80 31
+she 0 80 31
+saw 0 80 31
+"a 0 80 31
+large 0 80 31
+silhouette," 0 80 31
+Guyger 0 80 31
+thought 0 80 31
+she 0 80 31
+was 0 80 31
+being 0 80 31
+burglarized, 0 80 31
+the 1 80 31
+affidavit 1 80 31
+says. 1 80 31
 
-The 1
-affidavit 1
-says 1
-Guyger 0
-drew 0
-her 0
-gun, 0
-"gave 0
-verbal 0
-commands 0
-that 0
-were 0
-ignored" 0
-and 0
-fired 0
-twice. 0
+The 1 80 32
+affidavit 1 80 32
+says 1 80 32
+Guyger 0 80 32
+drew 0 80 32
+her 0 80 32
+gun, 0 80 32
+"gave 0 80 32
+verbal 0 80 32
+commands 0 80 32
+that 0 80 32
+were 0 80 32
+ignored" 0 80 32
+and 0 80 32
+fired 0 80 32
+twice. 0 80 32
 
-Jean 0
-was 0
-struck 0
-once 0
-in 0
-the 0
-torso. 0
+Jean 0 80 33
+was 0 80 33
+struck 0 80 33
+once 0 80 33
+in 0 80 33
+the 0 80 33
+torso. 0 80 33
 
-Guyger 0
-then 0
-called 0
-911 0
-from 0
-her 0
-cellphone 0
-and 0
-started 0
-performing 0
-first 0
-aid. 0
+Guyger 0 80 34
+then 0 80 34
+called 0 80 34
+911 0 80 34
+from 0 80 34
+her 0 80 34
+cellphone 0 80 34
+and 0 80 34
+started 0 80 34
+performing 0 80 34
+first 0 80 34
+aid. 0 80 34
 
-She 0
-turned 0
-on 0
-the 0
-lights, 0
-then 0
-went 0
-to 0
-the 0
-front 0
-door 0
-again 0
-and 0
-realized 0
-the 0
-apartment 0
-wasn't 0
-hers, 0
-the 1
-affidavit 1
-says. 1
+She 0 80 35
+turned 0 80 35
+on 0 80 35
+the 0 80 35
+lights, 0 80 35
+then 0 80 35
+went 0 80 35
+to 0 80 35
+the 0 80 35
+front 0 80 35
+door 0 80 35
+again 0 80 35
+and 0 80 35
+realized 0 80 35
+the 0 80 35
+apartment 0 80 35
+wasn't 0 80 35
+hers, 0 80 35
+the 1 80 35
+affidavit 1 80 35
+says. 1 80 35
 
-She 0
-told 0
-the 0
-911 0
-operator 0
-as 0
-well 0
-as 0
-responding 0
-officers 0
-that 0
-she 0
-thought 0
-she 0
-was 0
-at 0
-her 0
-apartment 0
-when 0
-she 0
-shot 0
-Jean, 0
-according 1
-to 1
-the 1
-affidavit. 1
+She 0 80 36
+told 0 80 36
+the 0 80 36
+911 0 80 36
+operator 0 80 36
+as 0 80 36
+well 0 80 36
+as 0 80 36
+responding 0 80 36
+officers 0 80 36
+that 0 80 36
+she 0 80 36
+thought 0 80 36
+she 0 80 36
+was 0 80 36
+at 0 80 36
+her 0 80 36
+apartment 0 80 36
+when 0 80 36
+she 0 80 36
+shot 0 80 36
+Jean, 0 80 36
+according 1 80 36
+to 1 80 36
+the 1 80 36
+affidavit. 1 80 36
 
-Ok, 0
-some 0
-of 0
-this 0
-seems 0
-plausible, 0
-but 0
-I 0
-still 0
-am 0
-left 0
-wondering 0
-about 0
-the 0
-door 0
-being 0
-ajar. 0
+Ok, 0 80 37
+some 0 80 37
+of 0 80 37
+this 0 80 37
+seems 0 80 37
+plausible, 0 80 37
+but 0 80 37
+I 0 80 37
+still 0 80 37
+am 0 80 37
+left 0 80 37
+wondering 0 80 37
+about 0 80 37
+the 0 80 37
+door 0 80 37
+being 0 80 37
+ajar. 0 80 37
 
-Is 0
-this 0
-something 0
-people 0
-are 0
-prone 0
-to 0
-do 0
-at 0
-1o 0
-o'clock 0
-at 0
-night 0
-in 0
-Dallas? 0
+Is 0 80 38
+this 0 80 38
+something 0 80 38
+people 0 80 38
+are 0 80 38
+prone 0 80 38
+to 0 80 38
+do 0 80 38
+at 0 80 38
+1o 0 80 38
+o'clock 0 80 38
+at 0 80 38
+night 0 80 38
+in 0 80 38
+Dallas? 0 80 38
 
-In 0
-any 0
-case, 0
-we 0
-all 0
-know 0
-that 0
-any 0
-of 0
-us 0
-who 0
-did 0
-the 0
-same 0
-thing 0
-would 0
-have 0
-immediately 0
-been 0
-taken 0
-into 0
-custody. 0
+In 0 80 39
+any 0 80 39
+case, 0 80 39
+we 0 80 39
+all 0 80 39
+know 0 80 39
+that 0 80 39
+any 0 80 39
+of 0 80 39
+us 0 80 39
+who 0 80 39
+did 0 80 39
+the 0 80 39
+same 0 80 39
+thing 0 80 39
+would 0 80 39
+have 0 80 39
+immediately 0 80 39
+been 0 80 39
+taken 0 80 39
+into 0 80 39
+custody. 0 80 39
 
-This 0
-was 0
-not 0
-the 0
-case 0
-with 0
-Guyger, 0
-though 0
-one 0
-officer 0
-close 0
-to 0
-her 0
-said, 0
-"she 0
-is 0
-devastated." 0
+This 0 80 40
+was 0 80 40
+not 0 80 40
+the 0 80 40
+case 0 80 40
+with 0 80 40
+Guyger, 0 80 40
+though 0 80 40
+one 0 80 40
+officer 0 80 40
+close 0 80 40
+to 0 80 40
+her 0 80 40
+said, 0 80 40
+"she 0 80 40
+is 0 80 40
+devastated." 0 80 40
 
-Knowing 0
-this 0
-provoked 0
-outrage 0
-across 0
-the 0
-nation 0
-over 0
-the 0
-weekend. 0
+Knowing 0 80 41
+this 0 80 41
+provoked 0 80 41
+outrage 0 80 41
+across 0 80 41
+the 0 80 41
+nation 0 80 41
+over 0 80 41
+the 0 80 41
+weekend. 0 80 41
 
-In 0
-fact, 0
-this 0
-is 0
-not 0
-her 0
-first 0
-shooting. 0
+In 0 80 42
+fact, 0 80 42
+this 0 80 42
+is 0 80 42
+not 0 80 42
+her 0 80 42
+first 0 80 42
+shooting. 0 80 42
 
-As 0
-a 0
-four-year 0
-veteran 0
-of 0
-the 0
-force, 0
-she 0
-was 0
-also 0
-involved 0
-in 0
-the 0
-shooting 0
-of 0
-another 0
-suspect 0
-in 0
-2017. 0
+As 0 80 43
+a 0 80 43
+four-year 0 80 43
+veteran 0 80 43
+of 0 80 43
+the 0 80 43
+force, 0 80 43
+she 0 80 43
+was 0 80 43
+also 0 80 43
+involved 0 80 43
+in 0 80 43
+the 0 80 43
+shooting 0 80 43
+of 0 80 43
+another 0 80 43
+suspect 0 80 43
+in 0 80 43
+2017. 0 80 43
 
-The 0
-Dallas 0
-News 0
-reported: 0
+The 0 80 44
+Dallas 0 80 44
+News 0 80 44
+reported: 0 80 44
 
-In 0
-2017, 0
-Guyger 0
-shot 0
-47-year-old 0
-Uvaldo 0
-Perez, 0
-who 0
-had 0
-wrestled 0
-a 0
-Taser 0
-away 0
-from 0
-her. 0
+In 0 80 45
+2017, 0 80 45
+Guyger 0 80 45
+shot 0 80 45
+47-year-old 0 80 45
+Uvaldo 0 80 45
+Perez, 0 80 45
+who 0 80 45
+had 0 80 45
+wrestled 0 80 45
+a 0 80 45
+Taser 0 80 45
+away 0 80 45
+from 0 80 45
+her. 0 80 45
 
-Another 0
-officer 0
-had 0
-been 0
-in 0
-a 0
-Pleasant 0
-Grove 0
-neighborhood 0
-looking 0
-for 0
-a 0
-woman 0
-who 0
-had 0
-a 0
-warrant 0
-out 0
-for 0
-her 0
-arrest. 0
+Another 0 80 46
+officer 0 80 46
+had 0 80 46
+been 0 80 46
+in 0 80 46
+a 0 80 46
+Pleasant 0 80 46
+Grove 0 80 46
+neighborhood 0 80 46
+looking 0 80 46
+for 0 80 46
+a 0 80 46
+woman 0 80 46
+who 0 80 46
+had 0 80 46
+a 0 80 46
+warrant 0 80 46
+out 0 80 46
+for 0 80 46
+her 0 80 46
+arrest. 0 80 46
 
-When 0
-the 0
-officer 0
-thought 0
-he 0
-saw 0
-the 0
-woman 0
-in 0
-a 0
-car 0
-with 0
-two 0
-men 0
-in 0
-the 0
-8300 0
-block 0
-of 0
-Reva 0
-Street, 0
-the 0
-officer 0
-asked 0
-for 0
-backup 0
-from 0
-Guyger 0
-and 0
-another 0
-officer, 0
-according 0
-to 0
-an 0
-affidavit. 0
+When 0 80 47
+the 0 80 47
+officer 0 80 47
+thought 0 80 47
+he 0 80 47
+saw 0 80 47
+the 0 80 47
+woman 0 80 47
+in 0 80 47
+a 0 80 47
+car 0 80 47
+with 0 80 47
+two 0 80 47
+men 0 80 47
+in 0 80 47
+the 0 80 47
+8300 0 80 47
+block 0 80 47
+of 0 80 47
+Reva 0 80 47
+Street, 0 80 47
+the 0 80 47
+officer 0 80 47
+asked 0 80 47
+for 0 80 47
+backup 0 80 47
+from 0 80 47
+Guyger 0 80 47
+and 0 80 47
+another 0 80 47
+officer, 0 80 47
+according 0 80 47
+to 0 80 47
+an 0 80 47
+affidavit. 0 80 47
 
-One 0
-of 0
-the 0
-officers 0
-was 0
-trying 0
-to 0
-search 0
-Perez 0
-when 0
-he 0
-became 0
-combative, 0
-the 1
-affidavit 1
-said. 1
+One 0 80 48
+of 0 80 48
+the 0 80 48
+officers 0 80 48
+was 0 80 48
+trying 0 80 48
+to 0 80 48
+search 0 80 48
+Perez 0 80 48
+when 0 80 48
+he 0 80 48
+became 0 80 48
+combative, 0 80 48
+the 1 80 48
+affidavit 1 80 48
+said. 1 80 48
 
-Guyger 0
-deployed 0
-her 0
-Taser 0
-before 0
-Perez 0
-was 0
-able 0
-to 0
-take 0
-it 0
-from 0
-her. 0
+Guyger 0 80 49
+deployed 0 80 49
+her 0 80 49
+Taser 0 80 49
+before 0 80 49
+Perez 0 80 49
+was 0 80 49
+able 0 80 49
+to 0 80 49
+take 0 80 49
+it 0 80 49
+from 0 80 49
+her. 0 80 49
 
-After 0
-Perez 0
-had 0
-the 0
-Taser, 0
-Guyger 0
-fired 0
-her 0
-gun 0
-once, 0
-striking 0
-him 0
-in 0
-the 0
-abdomen, 0
-the 0
-affidavit 0
-said. 0
+After 0 80 50
+Perez 0 80 50
+had 0 80 50
+the 0 80 50
+Taser, 0 80 50
+Guyger 0 80 50
+fired 0 80 50
+her 0 80 50
+gun 0 80 50
+once, 0 80 50
+striking 0 80 50
+him 0 80 50
+in 0 80 50
+the 0 80 50
+abdomen, 0 80 50
+the 0 80 50
+affidavit 0 80 50
+said. 0 80 50
 
-Neither 0
-Guyger 0
-nor 0
-the 0
-other 0
-officers 0
-were 0
-injured 0
-in 0
-the 0
-2017 0
-shooting. 0
+Neither 0 80 51
+Guyger 0 80 51
+nor 0 80 51
+the 0 80 51
+other 0 80 51
+officers 0 80 51
+were 0 80 51
+injured 0 80 51
+in 0 80 51
+the 0 80 51
+2017 0 80 51
+shooting. 0 80 51
 
-Police 0
-arrested 0
-Perez 0
-on 0
-a 0
-charge 0
-of 0
-taking 0
-a 0
-weapon 0
-from 0
-an 0
-officer, 0
-as 0
-well 0
-as 0
-charges 0
-for 0
-possession 0
-of 0
-methamphetamine, 0
-marijuana 0
-and 0
-violating 0
-his 0
-parole. 0
+Police 0 80 52
+arrested 0 80 52
+Perez 0 80 52
+on 0 80 52
+a 0 80 52
+charge 0 80 52
+of 0 80 52
+taking 0 80 52
+a 0 80 52
+weapon 0 80 52
+from 0 80 52
+an 0 80 52
+officer, 0 80 52
+as 0 80 52
+well 0 80 52
+as 0 80 52
+charges 0 80 52
+for 0 80 52
+possession 0 80 52
+of 0 80 52
+methamphetamine, 0 80 52
+marijuana 0 80 52
+and 0 80 52
+violating 0 80 52
+his 0 80 52
+parole. 0 80 52
 
-In 0
-February 0
-2018, 0
-Perez 0
-signed 0
-a 0
-plea 0
-agreement 0
-for 0
-the 0
-charge 0
-of 0
-taking 0
-an 0
-officer's 0
-weapon 0
-and 0
-was 0
-sentenced 0
-to 0
-two 0
-years 0
-in 0
-prison. 0
+In 0 80 53
+February 0 80 53
+2018, 0 80 53
+Perez 0 80 53
+signed 0 80 53
+a 0 80 53
+plea 0 80 53
+agreement 0 80 53
+for 0 80 53
+the 0 80 53
+charge 0 80 53
+of 0 80 53
+taking 0 80 53
+an 0 80 53
+officer's 0 80 53
+weapon 0 80 53
+and 0 80 53
+was 0 80 53
+sentenced 0 80 53
+to 0 80 53
+two 0 80 53
+years 0 80 53
+in 0 80 53
+prison. 0 80 53
 
-The 0
-Texas 0
-Rangers 0
-are 0
-also 0
-involved 0
-in 0
-the 0
-investigation. 0
+The 0 80 54
+Texas 0 80 54
+Rangers 0 80 54
+are 0 80 54
+also 0 80 54
+involved 0 80 54
+in 0 80 54
+the 0 80 54
+investigation. 0 80 54
 
-USA 0
-Today 0
-reports 0
-that 0
-Guyger 0
-was 0
-freed 0
-on 0
-bail 0
-on 0
-Sunday 0
-after 0
-being 0
-charged 0
-with 0
-manslaughter, 0
-and 0
-faces 0
-two 0
-20-year 0
-sentences 0
-and 0
-up 0
-to 0
-a 0
-$10,000 0
-fine. 0
+USA 0 80 55
+Today 0 80 55
+reports 0 80 55
+that 0 80 55
+Guyger 0 80 55
+was 0 80 55
+freed 0 80 55
+on 0 80 55
+bail 0 80 55
+on 0 80 55
+Sunday 0 80 55
+after 0 80 55
+being 0 80 55
+charged 0 80 55
+with 0 80 55
+manslaughter, 0 80 55
+and 0 80 55
+faces 0 80 55
+two 0 80 55
+20-year 0 80 55
+sentences 0 80 55
+and 0 80 55
+up 0 80 55
+to 0 80 55
+a 0 80 55
+$10,000 0 80 55
+fine. 0 80 55
 
-A 0
-charge 0
-of 0
-murder 0
-may 0
-be 0
-forthcoming 0
-once 0
-the 0
-case 0
-is 0
-taken 0
-to 0
-a 0
-grand 0
-jury, 0
-according 0
-to 0
-Dallas 0
-County 0
-District 0
-Attorney 0
-Faith 0
-Johnson. 0
+A 0 80 55
+
+charge 0 80 55
+
+of 0 80 55
+
+murder 0 80 55
+
+may 0 80 55
+
+be 0 80 55
+
+forthcoming 0 80 55
+
+once 0 80 55
+
+the 0 80 55
+
+case 0 80 55
+
+is 0 80 55
+
+taken 0 80 55
+
+to 0 80 55
+
+a 0 80 55
+
+grand 0 80 55
+
+jury, 0 80 55
+
+according 0 80 55
+
+to 0 80 55
+
+Dallas 0 80 55
+
+County 0 80 55
+
+District 0 80 55
+
+Attorney 0 80 55
+
+Faith 0 80 55
+
+Johnson. 0 80 55

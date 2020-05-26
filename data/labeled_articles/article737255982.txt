@@ -1,498 +1,499 @@
-J 0
-Street 0
-"Kapos" 0
-May 0
-Un-Endorse 0
-Dem 0
-Rep 0
-Over 0
-"Jewish 1
-Question" 1
+J 0 188 0
+Street 0 188 0
+"Kapos" 0 188 0
+May 0 188 0
+Un-Endorse 0 188 0
+Dem 0 188 0
+Rep 0 188 0
+Over 0 188 0
+"Jewish 1 188 0
+Question" 1 188 0
 
-Anti-Israel 0
-activist 0
-group 0
-J 0
-Street 0
-was 1
-very 1
-outraged 1
-when 0
-its 0
-leaders 0
-were 0
-described 0
-as 0
-"Kapos". 1
+Anti-Israel 0 188 1
+activist 0 188 1
+group 0 188 1
+J 0 188 1
+Street 0 188 1
+was 1 188 1
+very 1 188 1
+outraged 1 188 1
+when 0 188 1
+its 0 188 1
+leaders 0 188 1
+were 0 188 1
+described 0 188 1
+as 0 188 1
+"Kapos". 1 188 1
 
-The 0
-comparison 0
-of 0
-the 0
-Soros 0
-funded 0
-group 0
-that 0
-has 0
-stood 0
-with 0
-Hamas 0
-over 0
-Israel 0
-with 0
-Jews 0
-who 0
-were 0
-forced 0
-to 0
-collaborate 0
-with 0
-the 0
-Nazis 0
-during 0
-the 0
-Holocaust 0
-was 0
-indeed 0
-insulting. 0
+The 0 188 2
+comparison 0 188 2
+of 0 188 2
+the 0 188 2
+Soros 0 188 2
+funded 0 188 2
+group 0 188 2
+that 0 188 2
+has 0 188 2
+stood 0 188 2
+with 0 188 2
+Hamas 0 188 2
+over 0 188 2
+Israel 0 188 2
+with 0 188 2
+Jews 0 188 2
+who 0 188 2
+were 0 188 2
+forced 0 188 2
+to 0 188 2
+collaborate 0 188 2
+with 0 188 2
+the 0 188 2
+Nazis 0 188 2
+during 0 188 2
+the 0 188 2
+Holocaust 0 188 2
+was 0 188 2
+indeed 0 188 2
+insulting. 0 188 2
 
-To 0
-Kapos. 0
+To 0 188 3
+Kapos. 0 188 3
 
-Jews 0
-under 0
-Nazi 0
-rule 0
-may 0
-have 0
-been 0
-forced 0
-to 0
-collaborate. 0
+Jews 0 188 4
+under 0 188 4
+Nazi 0 188 4
+rule 0 188 4
+may 0 188 4
+have 0 188 4
+been 0 188 4
+forced 0 188 4
+to 0 188 4
+collaborate. 0 188 4
 
-No 0
-one 0
-forced 0
-J 0
-Street 0
-to 0
-collaborate 0
-with 0
-anti-Semites. 0
+No 0 188 5
+one 0 188 5
+forced 0 188 5
+J 0 188 5
+Street 0 188 5
+to 0 188 5
+collaborate 0 188 5
+with 0 188 5
+anti-Semites. 0 188 5
 
-And 0
-here's 0
-J 0
-Street 0
-trying 0
-to 0
-decide 0
-whether 0
-to 0
-stop 0
-endorsing 0
-a 1
-Democrat 1
-who 1
-pals 1
-around 1
-with 1
-Farrakhan 1
-and 0
-defended 0
-him 0
-by 0
-mentioning 0
-the 0
-"Jewish 1
-question." 1
+And 0 188 6
+here's 0 188 6
+J 0 188 6
+Street 0 188 6
+trying 0 188 6
+to 0 188 6
+decide 0 188 6
+whether 0 188 6
+to 0 188 6
+stop 0 188 6
+endorsing 0 188 6
+a 1 188 6
+Democrat 1 188 6
+who 1 188 6
+pals 1 188 6
+around 1 188 6
+with 1 188 6
+Farrakhan 1 188 6
+and 0 188 6
+defended 0 188 6
+him 0 188 6
+by 0 188 6
+mentioning 0 188 6
+the 0 188 6
+"Jewish 1 188 6
+question." 1 188 6
 
-Democratic 0
-Illinois 0
-Rep. 0
-Danny 0
-Davis 0
-defended 0
-Nation 0
-of 0
-Islam 0
-leader 0
-Louis 0
-Farrakhan 0
-as 0
-an 0
-“outstanding 0
-human 0
-being” 0
-on 0
-Monday. 0
+Democratic 0 188 7
+Illinois 0 188 7
+Rep. 0 188 7
+Danny 0 188 7
+Davis 0 188 7
+defended 0 188 7
+Nation 0 188 7
+of 0 188 7
+Islam 0 188 7
+leader 0 188 7
+Louis 0 188 7
+Farrakhan 0 188 7
+as 0 188 7
+an 0 188 7
+“outstanding 0 188 7
+human 0 188 7
+being” 0 188 7
+on 0 188 7
+Monday. 0 188 7
 
-Farrakhan’s 0
-history 0
-of 0
-racially 1
-extreme 1
-comments 1
-includes 0
-blaming 0
-Jews 0
-for 0
-the 0
-September 0
-11 0
-attacks, 0
-saying 0
-white 1
-people 1
-“deserve 1
-to 1
-die” 1
-and 0
-praising 1
-Adolf 1
-Hitler 1
-as 1
-a 1
-“very 1
-great 1
-man.” 1
-“I 0
-personally 0
-know 0
-[Farrakhan], 0
-I’ve 0
-been 0
-to 0
-his 0
-home, 0
-done 0
-meetings, 0
-participated 0
-in 0
-events 0
-with 0
-him,” 0
-Davis 0
-told 0
-TheDC. 0
+Farrakhan’s 0 188 8
+history 0 188 8
+of 0 188 8
+racially 1 188 8
+extreme 1 188 8
+comments 1 188 8
+includes 0 188 8
+blaming 0 188 8
+Jews 0 188 8
+for 0 188 8
+the 0 188 8
+September 0 188 8
+11 0 188 8
+attacks, 0 188 8
+saying 0 188 8
+white 1 188 8
+people 1 188 8
+“deserve 1 188 8
+to 1 188 8
+die” 1 188 8
+and 0 188 8
+praising 1 188 8
+Adolf 1 188 8
+Hitler 1 188 8
+as 1 188 8
+a 1 188 8
+“very 1 188 8
+great 1 188 8
+man.” 1 188 8
+“I 0 188 8
+personally 0 188 8
+know 0 188 8
+[Farrakhan], 0 188 8
+I’ve 0 188 8
+been 0 188 8
+to 0 188 8
+his 0 188 8
+home, 0 188 8
+done 0 188 8
+meetings, 0 188 8
+participated 0 188 8
+in 0 188 8
+events 0 188 8
+with 0 188 8
+him,” 0 188 8
+Davis 0 188 8
+told 0 188 8
+TheDC. 0 188 8
 
-The 0
-congressman 0
-wasn’t 0
-sure 0
-why 0
-the 0
-ADL 0
-wrote 0
-that 0
-he 0
-had 0
-been 0
-misquoted 0
-in 0
-his 0
-praise 0
-for 0
-the 0
-anti-Semite, 0
-and 0
-said 0
-he 0
-wasn’t 0
-sure 0
-if 0
-someone 0
-from 0
-his 0
-office 0
-had 0
-told 0
-the 0
-ADL 0
-he 0
-was 0
-misquoted, 0
-he 0
-told 0
-The 0
-Daily 0
-Caller 0
-News 0
-Foundation 0
-on 0
-Sunday. 0
+The 0 188 9
+congressman 0 188 9
+wasn’t 0 188 9
+sure 0 188 9
+why 0 188 9
+the 0 188 9
+ADL 0 188 9
+wrote 0 188 9
+that 0 188 9
+he 0 188 9
+had 0 188 9
+been 0 188 9
+misquoted 0 188 9
+in 0 188 9
+his 0 188 9
+praise 0 188 9
+for 0 188 9
+the 0 188 9
+anti-Semite, 0 188 9
+and 0 188 9
+said 0 188 9
+he 0 188 9
+wasn’t 0 188 9
+sure 0 188 9
+if 0 188 9
+someone 0 188 9
+from 0 188 9
+his 0 188 9
+office 0 188 9
+had 0 188 9
+told 0 188 9
+the 0 188 9
+ADL 0 188 9
+he 0 188 9
+was 0 188 9
+misquoted, 0 188 9
+he 0 188 9
+told 0 188 9
+The 0 188 9
+Daily 0 188 9
+Caller 0 188 9
+News 0 188 9
+Foundation 0 188 9
+on 0 188 9
+Sunday. 0 188 9
 
-“I 0
-think 0
-that 0
-was 0
-what 0
-they 0
-wanted 0
-to 0
-write. 0
+“I 0 188 10
+think 0 188 10
+that 0 188 10
+was 0 188 10
+what 0 188 10
+they 0 188 10
+wanted 0 188 10
+to 0 188 10
+write. 0 188 10
 
-Nah, 0
-I 0
-don’t 0
-have 0
-no 0
-problems 0
-with 0
-Farrakhan, 0
-I 0
-don’t 0
-spend 0
-a 0
-whole 0
-lot 0
-of 0
-my 0
-time 0
-dealing 0
-with 0
-those 0
-kind 0
-of 0
-things,” 0
-Davis 0
-said. 0
+Nah, 0 188 11
+I 0 188 11
+don’t 0 188 11
+have 0 188 11
+no 0 188 11
+problems 0 188 11
+with 0 188 11
+Farrakhan, 0 188 11
+I 0 188 11
+don’t 0 188 11
+spend 0 188 11
+a 0 188 11
+whole 0 188 11
+lot 0 188 11
+of 0 188 11
+my 0 188 11
+time 0 188 11
+dealing 0 188 11
+with 0 188 11
+those 0 188 11
+kind 0 188 11
+of 0 188 11
+things,” 0 188 11
+Davis 0 188 11
+said. 0 188 11
 
-“That’s 0
-just 0
-one 0
-segment 0
-of 0
-what 0
-goes 0
-on 0
-in 0
-our 0
-world. 0
+“That’s 0 188 12
+just 0 188 12
+one 0 188 12
+segment 0 188 12
+of 0 188 12
+what 0 188 12
+goes 0 188 12
+on 0 188 12
+in 0 188 12
+our 0 188 12
+world. 0 188 12
 
-The 1
-world 1
-is 1
-so 1
-much 1
-bigger 1
-than 1
-Farrakhan 1
-and 1
-the 1
-Jewish 1
-question 1
-and 1
-his 1
-position 1
-on 1
-that 1
-and 1
-so 1
-forth. 1
+The 1 188 13
+world 1 188 13
+is 1 188 13
+so 1 188 13
+much 1 188 13
+bigger 1 188 13
+than 1 188 13
+Farrakhan 1 188 13
+and 1 188 13
+the 1 188 13
+Jewish 1 188 13
+question 1 188 13
+and 1 188 13
+his 1 188 13
+position 1 188 13
+on 1 188 13
+that 1 188 13
+and 1 188 13
+so 1 188 13
+forth. 1 188 13
 
-For 0
-those 0
-heavy 0
-into 0
-it, 0
-that’s 0
-their 0
-thing, 0
-but 0
-it 0
-ain’t 0
-my 0
-thing,” 0
-he 0
-said 0
+For 0 188 14
+those 0 188 14
+heavy 0 188 14
+into 0 188 14
+it, 0 188 14
+that’s 0 188 14
+their 0 188 14
+thing, 0 188 14
+but 0 188 14
+it 0 188 14
+ain’t 0 188 14
+my 0 188 14
+thing,” 0 188 14
+he 0 188 14
+said 0 188 14
 
-The 0
-"Jewish 0
-Question" 0
-is 0
-a 0
-term 0
-generally 0
-used 0
-by 0
-anti-Semites 0
-today. 0
+The 0 188 15
+"Jewish 0 188 15
+Question" 0 188 15
+is 0 188 15
+a 0 188 15
+term 0 188 15
+generally 0 188 15
+used 0 188 15
+by 0 188 15
+anti-Semites 0 188 15
+today. 0 188 15
 
-But 0
-J 0
-Street 0
-is 0
-stuck 0
-with 0
-its 0
-own 0
-Jewish 0
-Question. 0
+But 0 188 16
+J 0 188 16
+Street 0 188 16
+is 0 188 16
+stuck 0 188 16
+with 0 188 16
+its 0 188 16
+own 0 188 16
+Jewish 0 188 16
+Question. 0 188 16
 
-How 0
-much 0
-anti-Semitism 0
-is 0
-too 0
-much 0
-even 0
-for 0
-it. 0
+How 0 188 17
+much 0 188 17
+anti-Semitism 0 188 17
+is 0 188 17
+too 0 188 17
+much 0 188 17
+even 0 188 17
+for 0 188 17
+it. 0 188 17
 
-Left-wing 0
-advocacy 0
-group 0
-J 0
-Street 0
-said 0
-it 0
-is 0
-re-evaluating 0
-its 0
-endorsement 0
-of 0
-a 0
-congressman 0
-who 0
-praised 0
-Nation 0
-of 0
-Islam 0
-leader 0
-Louis 0
-Farrakhan. 0
+Left-wing 0 188 18
+advocacy 0 188 18
+group 0 188 18
+J 0 188 18
+Street 0 188 18
+said 0 188 18
+it 0 188 18
+is 0 188 18
+re-evaluating 0 188 18
+its 0 188 18
+endorsement 0 188 18
+of 0 188 18
+a 0 188 18
+congressman 0 188 18
+who 0 188 18
+praised 0 188 18
+Nation 0 188 18
+of 0 188 18
+Islam 0 188 18
+leader 0 188 18
+Louis 0 188 18
+Farrakhan. 0 188 18
 
-JStreetPAC, 0
-the 0
-arm 0
-of 0
-the 0
-NGO 0
-that 0
-funds 0
-and 0
-endorses 0
-candidates, 0
-currently 0
-lists 0
-Rep. 0
-Danny 0
-Davis, 0
-an 0
-Illinois 0
-Democrat 0
-from 0
-the 0
-virulently 1
-anti-Semitic 1
-Farrakhan’s 0
-home 0
-base 0
-of 0
-Chicago, 0
-as 0
-a 0
-candidate 0
-it 0
-supports. 0
+JStreetPAC, 0 188 19
+the 0 188 19
+arm 0 188 19
+of 0 188 19
+the 0 188 19
+NGO 0 188 19
+that 0 188 19
+funds 0 188 19
+and 0 188 19
+endorses 0 188 19
+candidates, 0 188 19
+currently 0 188 19
+lists 0 188 19
+Rep. 0 188 19
+Danny 0 188 19
+Davis, 0 188 19
+an 0 188 19
+Illinois 0 188 19
+Democrat 0 188 19
+from 0 188 19
+the 0 188 19
+virulently 1 188 19
+anti-Semitic 1 188 19
+Farrakhan’s 0 188 19
+home 0 188 19
+base 0 188 19
+of 0 188 19
+Chicago, 0 188 19
+as 0 188 19
+a 0 188 19
+candidate 0 188 19
+it 0 188 19
+supports. 0 188 19
 
-The 0
-endorsement, 0
-first 0
-reported 0
-in 0
-the 0
-Forward, 0
-calls 0
-Davis 0
-“a 0
-longtime 0
-supporter 0
-of 0
-Israel 0
-and 0
-a 0
-two-state 0
-solution.” 0
+The 0 188 20
+endorsement, 0 188 20
+first 0 188 20
+reported 0 188 20
+in 0 188 20
+the 0 188 20
+Forward, 0 188 20
+calls 0 188 20
+Davis 0 188 20
+“a 0 188 20
+longtime 0 188 20
+supporter 0 188 20
+of 0 188 20
+Israel 0 188 20
+and 0 188 20
+a 0 188 20
+two-state 0 188 20
+solution.” 0 188 20
 
-In 0
-J 0
-Street's 0
-home 0
-dimension 0
-of 0
-Oceania, 0
-supporter 1
-of 1
-Israel 1
-means 1
-Farrakhan 1
-supporter. 1
+In 0 188 21
+J 0 188 21
+Street's 0 188 21
+home 0 188 21
+dimension 0 188 21
+of 0 188 21
+Oceania, 0 188 21
+supporter 1 188 21
+of 1 188 21
+Israel 1 188 21
+means 1 188 21
+Farrakhan 1 188 21
+supporter. 1 188 21
 
-“We 0
-take 0
-anti-Semitism 0
-quite 0
-seriously,” 0
-J 0
-Street’s 0
-statement 0
-read. 0
+“We 0 188 22
+take 0 188 22
+anti-Semitism 0 188 22
+quite 0 188 22
+seriously,” 0 188 22
+J 0 188 22
+Street’s 0 188 22
+statement 0 188 22
+read. 0 188 22
 
-“We 0
-are 0
-currently 0
-in 0
-conversation 0
-with 0
-Representative 0
-Davis’ 0
-office 0
-about 0
-this 0
-issue. 0
+“We 0 188 23
+are 0 188 23
+currently 0 188 23
+in 0 188 23
+conversation 0 188 23
+with 0 188 23
+Representative 0 188 23
+Davis’ 0 188 23
+office 0 188 23
+about 0 188 23
+this 0 188 23
+issue. 0 188 23
 
-We 0
-will 0
-get 0
-back 0
-to 0
-you 0
-shortly 0
-with 0
-a 0
-more 0
-extensive 0
-response.” 0
+We 0 188 24
+will 0 188 24
+get 0 188 24
+back 0 188 24
+to 0 188 24
+you 0 188 24
+shortly 0 188 24
+with 0 188 24
+a 0 188 24
+more 0 188 24
+extensive 0 188 24
+response.” 0 188 24
 
-So 1
-seriously 1
-that 1
-J 1
-Street 1
-can't 1
-decide 1
-what 0
-to 0
-do 0
-about 0
-a 0
-politician 0
-who 0
-defends 0
-a 1
-Hitler-lover 1
-and 0
-raises 0
-the 0
-Jewish 0
-Question. 0
+So 1 188 25
+seriously 1 188 25
+that 1 188 25
+J 1 188 25
+Street 1 188 25
+can't 1 188 25
+decide 1 188 25
+what 0 188 25
+to 0 188 25
+do 0 188 25
+about 0 188 25
+a 0 188 25
+politician 0 188 25
+who 0 188 25
+defends 0 188 25
+a 1 188 25
+Hitler-lover 1 188 25
+and 0 188 25
+raises 0 188 25
+the 0 188 25
+Jewish 0 188 25
+Question. 0 188 25
 
-That's 0
-serious 0
-all 0
-right. 0
+That's 0 188 26
+serious 0 188 26
+all 0 188 26
+right. 0 188 26
 
-Seriously 0
-Kapo. 0
+Seriously 0 188 26
+
+Kapo. 0 188 26

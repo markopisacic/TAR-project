@@ -1,399 +1,421 @@
-Solar 0
-Storm 0
-Will 0
-Strike 0
-Earth 0
-Tonight, 0
-‘Weak 0
-Power 0
-Grid 0
-Fluctuations’ 0
-Possible 0
+Solar 0 171 0
+Storm 0 171 0
+Will 0 171 0
+Strike 0 171 0
+Earth 0 171 0
+Tonight, 0 171 0
+‘Weak 0 171 0
+Power 0 171 0
+Grid 0 171 0
+Fluctuations’ 0 171 0
+Possible 0 171 0
 
-The 0
-NOAA 0
-Space 0
-Weather 0
-Prediction 0
-Center 0
-forecasts 0
-an 0
-aurora 0
-could 0
-light 0
-up 0
-the 0
-sky 0
-above 0
-areas 0
-in 0
-the 0
-United 0
-State 0
-including 0
-Michigan 0
-and 0
-Maine. 0
+The 0 171 1
+NOAA 0 171 1
+Space 0 171 1
+Weather 0 171 1
+Prediction 0 171 1
+Center 0 171 1
+forecasts 0 171 1
+an 0 171 1
+aurora 0 171 1
+could 0 171 1
+light 0 171 1
+up 0 171 1
+the 0 171 1
+sky 0 171 1
+above 0 171 1
+areas 0 171 1
+in 0 171 1
+the 0 171 1
+United 0 171 1
+State 0 171 1
+including 0 171 1
+Michigan 0 171 1
+and 0 171 1
+Maine. 0 171 1
 
-A 0
-solar 0
-storm, 0
-which 0
-occurred 0
-Monday, 0
-is 0
-expected 0
-to 0
-strike 0
-Earth 0
-tonight. 0
+A 0 171 2
+solar 0 171 2
+storm, 0 171 2
+which 0 171 2
+occurred 0 171 2
+Monday, 0 171 2
+is 0 171 2
+expected 0 171 2
+to 0 171 2
+strike 0 171 2
+Earth 0 171 2
+tonight. 0 171 2
 
-On 0
-Monday, 0
-the 0
-sun 0
-spit 0
-out 0
-a 0
-slew 0
-of 0
-charged 0
-particles 0
-in 0
-a 0
-moderate 0
-solar 0
-flare. 0
+On 0 171 3
+Monday, 0 171 3
+the 0 171 3
+sun 0 171 3
+spit 0 171 3
+out 0 171 3
+a 0 171 3
+slew 0 171 3
+of 0 171 3
+charged 0 171 3
+particles 0 171 3
+in 0 171 3
+a 0 171 3
+moderate 0 171 3
+solar 0 171 3
+flare. 0 171 3
 
-These 0
-particles 0
-are 0
-now 0
-making 0
-their 0
-way 0
-towards 0
-Earth. 0
+These 0 171 4
+particles 0 171 4
+are 0 171 4
+now 0 171 4
+making 0 171 4
+their 0 171 4
+way 0 171 4
+towards 0 171 4
+Earth. 0 171 4
 
-The 0
-planet’s 0
-magnetic 0
-field 0
-will 0
-block 0
-most 0
-of 0
-the 0
-particles, 0
-but 0
-some 0
-will 0
-make 0
-it 0
-into 0
-Earth’s 0
-atmosphere. 0
+The 0 171 5
+planet’s 0 171 5
+magnetic 0 171 5
+field 0 171 5
+will 0 171 5
+block 0 171 5
+most 0 171 5
+of 0 171 5
+the 0 171 5
+particles, 0 171 5
+but 0 171 5
+some 0 171 5
+will 0 171 5
+make 0 171 5
+it 0 171 5
+into 0 171 5
+Earth’s 0 171 5
+atmosphere. 0 171 5
 
-The 0
-particles 0
-collect 0
-at 0
-the 0
-north 0
-and 0
-south 0
-poles 0
-and 0
-interact 0
-with 0
-atmospheric 0
-gases 0
-to 0
-create 0
-the 0
-aurora 0
-borealis 0
-or 0
-the 0
-Northern 0
-Lights. 0
+The 0 171 6
+particles 0 171 6
+collect 0 171 6
+at 0 171 6
+the 0 171 6
+north 0 171 6
+and 0 171 6
+south 0 171 6
+poles 0 171 6
+and 0 171 6
+interact 0 171 6
+with 0 171 6
+atmospheric 0 171 6
+gases 0 171 6
+to 0 171 6
+create 0 171 6
+the 0 171 6
+aurora 0 171 6
+borealis 0 171 6
+or 0 171 6
+the 0 171 6
+Northern 0 171 6
+Lights. 0 171 6
 
-And 0
-some 0
-say 0
-this 0
-show 0
-could 0
-be 0
-quite 0
-spectacular. 0
+And 0 171 7
+some 0 171 7
+say 0 171 7
+this 0 171 7
+show 0 171 7
+could 0 171 7
+be 0 171 7
+quite 0 171 7
+spectacular. 0 171 7
 
-Solar 0
-flares 0
-have 0
-been 0
-known 0
-to 0
-cause 0
-power 0
-grid 0
-failures, 0
-but 0
-it 0
-looks 0
-like 0
-we’ll 0
-only 0
-get 0
-the 0
-light 0
-show 0
-this 0
-time. 0
+Solar 0 171 8
+flares 0 171 8
+have 0 171 8
+been 0 171 8
+known 0 171 8
+to 0 171 8
+cause 0 171 8
+power 0 171 8
+grid 0 171 8
+failures, 0 171 8
+but 0 171 8
+it 0 171 8
+looks 0 171 8
+like 0 171 8
+we’ll 0 171 8
+only 0 171 8
+get 0 171 8
+the 0 171 8
+light 0 171 8
+show 0 171 8
+this 0 171 8
+time. 0 171 8
 
-Although 0
-a 0
-grid 0
-failure 0
-is 0
-possible, 0
-it 0
-is 0
-unlikely. 0
+Although 0 171 9
+a 0 171 9
+grid 0 171 9
+failure 0 171 9
+is 0 171 9
+possible, 0 171 9
+it 0 171 9
+is 0 171 9
+unlikely. 0 171 9
 
-According 0
-to 0
-Seeker, 0
-the 0
-forecast 0
-calls 0
-for 0
-a 0
-high 0
-probability 0
-of 0
-a 0
-G-1 0
-or 0
-“minor” 0
-storm, 0
-which 0
-could 0
-strengthen 0
-to 0
-a 0
-G-2 0
-or 0
-“moderate” 0
-storm 0
-depending 0
-on 0
-how 0
-the 0
-stream 0
-of 0
-particles 0
-hit 0
-the 0
-Earth. 0
+According 0 171 10
+to 0 171 10
+Seeker, 0 171 10
+the 0 171 10
+forecast 0 171 10
+calls 0 171 10
+for 0 171 10
+a 0 171 10
+high 0 171 10
+probability 0 171 10
+of 0 171 10
+a 0 171 10
+G-1 0 171 10
+or 0 171 10
+“minor” 0 171 10
+storm, 0 171 10
+which 0 171 10
+could 0 171 10
+strengthen 0 171 10
+to 0 171 10
+a 0 171 10
+G-2 0 171 10
+or 0 171 10
+“moderate” 0 171 10
+storm 0 171 10
+depending 0 171 10
+on 0 171 10
+how 0 171 10
+the 0 171 10
+stream 0 171 10
+of 0 171 10
+particles 0 171 10
+hit 0 171 10
+the 0 171 10
+Earth. 0 171 10
 
-Geomagnetic 0
-storms 0
-are 0
-ranked 0
-on 0
-a 0
-scale, 0
-with 0
-G 0
-at 0
-the 0
-bottom, 0
-R 0
-in 0
-the 0
-middle, 0
-and 0
-S 0
-as 0
-the 0
-most 0
-severe. 0
+Geomagnetic 0 171 11
+storms 0 171 11
+are 0 171 11
+ranked 0 171 11
+on 0 171 11
+a 0 171 11
+scale, 0 171 11
+with 0 171 11
+G 0 171 11
+at 0 171 11
+the 0 171 11
+bottom, 0 171 11
+R 0 171 11
+in 0 171 11
+the 0 171 11
+middle, 0 171 11
+and 0 171 11
+S 0 171 11
+as 0 171 11
+the 0 171 11
+most 0 171 11
+severe. 0 171 11
 
-Forecasts 0
-now 0
-say 0
-the 0
-particles 0
-will 0
-give 0
-our 0
-planet 0
-a 0
-glancing 0
-blow. 0
+Forecasts 0 171 12
+now 0 171 12
+say 0 171 12
+the 0 171 12
+particles 0 171 12
+will 0 171 12
+give 0 171 12
+our 0 171 12
+planet 0 171 12
+a 0 171 12
+glancing 0 171 12
+blow. 0 171 12
 
-Although 0
-this 0
-storm 0
-has 0
-been 0
-categorized 0
-as 0
-“G-1,” 0
-which 0
-means 0
-it 0
-is 0
-minor, 0
-it 0
-could 0
-still 0
-cause 0
-some 0
-havoc 0
-down 0
-on 0
-Earth. 0
+Although 0 171 13
+this 0 171 13
+storm 0 171 13
+has 0 171 13
+been 0 171 13
+categorized 0 171 13
+as 0 171 13
+“G-1,” 0 171 13
+which 0 171 13
+means 0 171 13
+it 0 171 13
+is 0 171 13
+minor, 0 171 13
+it 0 171 13
+could 0 171 13
+still 0 171 13
+cause 0 171 13
+some 0 171 13
+havoc 0 171 13
+down 0 171 13
+on 0 171 13
+Earth. 0 171 13
 
-Solar 0
-flares 0
-and 0
-particle 0
-ejections 0
-are 0
-associated 0
-with 0
-sunspots 0
-— 0
-dark 0
-areas 0
-on 0
-the 0
-sun’s 0
-surface 0
-— 0
-that 0
-host 0
-intense 0
-magnetic 0
-activity. 0
+Solar 0 171 14
+flares 0 171 14
+and 0 171 14
+particle 0 171 14
+ejections 0 171 14
+are 0 171 14
+associated 0 171 14
+with 0 171 14
+sunspots 0 171 14
+— 0 171 14
+dark 0 171 14
+areas 0 171 14
+on 0 171 14
+the 0 171 14
+sun’s 0 171 14
+surface 0 171 14
+— 0 171 14
+that 0 171 14
+host 0 171 14
+intense 0 171 14
+magnetic 0 171 14
+activity. 0 171 14
 
-As 0
-the 0
-magnetic 0
-fields 0
-in 0
-a 0
-sunspot 0
-cross, 0
-NASA 0
-stated, 0
-this 0
-can 0
-cause 0
-a 0
-sudden 0
-energy 0
-explosion, 0
-also 0
-known 0
-as 0
-a 0
-solar 0
-flare. 0
+As 0 171 15
+the 0 171 15
+magnetic 0 171 15
+fields 0 171 15
+in 0 171 15
+a 0 171 15
+sunspot 0 171 15
+cross, 0 171 15
+NASA 0 171 15
+stated, 0 171 15
+this 0 171 15
+can 0 171 15
+cause 0 171 15
+a 0 171 15
+sudden 0 171 15
+energy 0 171 15
+explosion, 0 171 15
+also 0 171 15
+known 0 171 15
+as 0 171 15
+a 0 171 15
+solar 0 171 15
+flare. 0 171 15
 
-This 0
-sends 0
-radiation 0
-out 0
-into 0
-space, 0
-and 0
-that 0
-radiation 0
-can 0
-be 0
-hurled 0
-toward 0
-the 0
-Earth. 0
+This 0 171 16
+sends 0 171 16
+radiation 0 171 16
+out 0 171 16
+into 0 171 16
+space, 0 171 16
+and 0 171 16
+that 0 171 16
+radiation 0 171 16
+can 0 171 16
+be 0 171 16
+hurled 0 171 16
+toward 0 171 16
+the 0 171 16
+Earth. 0 171 16
 
-G1-level 0
-storms, 0
-such 0
-as 0
-Monday’s, 0
-may 0
-affect 0
-migratory 0
-animals, 0
-and 0
-can 0
-cause 0
-“weak 0
-power 0
-grid 0
-fluctuations.” 0
-The 0
-barrage 0
-of 0
-particles 0
-may 0
-even 0
-have 0
-a 0
-minor 0
-impact 0
-on 0
-satellites. 0
+G1-level 0 171 17
+storms, 0 171 17
+such 0 171 17
+as 0 171 17
+Monday’s, 0 171 17
+may 0 171 17
+affect 0 171 17
+migratory 0 171 17
+animals, 0 171 17
+and 0 171 17
+can 0 171 17
+cause 0 171 17
+“weak 0 171 17
+power 0 171 17
+grid 0 171 17
+fluctuations.” 0 171 17
+The 0 171 17
+barrage 0 171 17
+of 0 171 17
+particles 0 171 17
+may 0 171 17
+even 0 171 17
+have 0 171 17
+a 0 171 17
+minor 0 171 17
+impact 0 171 17
+on 0 171 17
+satellites. 0 171 17
 
-A 1
-gird 1
-failure 1
-would 1
-almost 1
-immediately 1
-fling 1
-the 1
-United 1
-States 1
-into 1
-a 1
-state 1
-of 1
-panic, 1
-and 1
-it’s 1
-always 1
-good 1
-to 1
-be 1
-prepared 1
-just 1
-in 1
-case. 1
+A 1 171 18
+gird 1 171 18
+failure 1 171 18
+would 1 171 18
+almost 1 171 18
+immediately 1 171 18
+fling 1 171 18
+the 1 171 18
+United 1 171 18
+States 1 171 18
+into 1 171 18
+a 1 171 18
+state 1 171 18
+of 1 171 18
+panic, 1 171 18
+and 1 171 18
+it’s 1 171 18
+always 1 171 18
+good 1 171 18
+to 1 171 18
+be 1 171 18
+prepared 1 171 18
+just 1 171 18
+in 1 171 18
+case. 1 171 18
 
-But 0
-it 0
-doesn’t 0
-look 0
-like 0
-there 0
-will 0
-be 0
-any 0
-serious 0
-damage 0
-to 0
-the 0
-power 0
-grid 0
-because 0
-of 0
-this 0
-storm 0
-as 0
-of 0
-right 0
-now. 0
+But 0 171 18
+
+it 0 171 18
+
+doesn’t 0 171 18
+
+look 0 171 18
+
+like 0 171 18
+
+there 0 171 18
+
+will 0 171 18
+
+be 0 171 18
+
+any 0 171 18
+
+serious 0 171 18
+
+damage 0 171 18
+
+to 0 171 18
+
+the 0 171 18
+
+power 0 171 18
+
+grid 0 171 18
+
+because 0 171 18
+
+of 0 171 18
+
+this 0 171 18
+
+storm 0 171 18
+
+as 0 171 18
+
+of 0 171 18
+
+right 0 171 18
+
+now. 0 171 18

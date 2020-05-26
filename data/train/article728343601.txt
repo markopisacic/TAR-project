@@ -1,932 +1,958 @@
-Chile 0
-'cover-up' 0
-letter 0
-contradicts 0
-Pope 0
+Chile 0 140 0
+'cover-up' 0 140 0
+letter 0 140 0
+contradicts 0 140 0
+Pope 0 140 0
 
-© 0
-EPA 0
-Pope 0
-Francis's 0
-trip 0
-to 0
-Chile 0
-and 0
-Peru 0
-was 0
-overshadowed 0
-by 0
-he 0
-row 0
+© 0 140 1
+EPA 0 140 1
+Pope 0 140 1
+Francis's 0 140 1
+trip 0 140 1
+to 0 140 1
+Chile 0 140 1
+and 0 140 1
+Peru 0 140 1
+was 0 140 1
+overshadowed 0 140 1
+by 0 140 1
+he 0 140 1
+row 0 140 1
 
-A 0
-victim 0
-of 0
-a 1
-paedophile 1
-priest 1
-in 0
-Chile 0
-has 0
-revealed 0
-he 0
-wrote 0
-to 0
-the 0
-Pope 0
-in 0
-2015 0
-about 0
-an 0
-alleged 0
-cover-up 0
-after 0
-Francis 0
-denied 0
-getting 0
-evidence. 0
+A 0 140 2
+victim 0 140 2
+of 0 140 2
+a 1 140 2
+paedophile 1 140 2
+priest 1 140 2
+in 0 140 2
+Chile 0 140 2
+has 0 140 2
+revealed 0 140 2
+he 0 140 2
+wrote 0 140 2
+to 0 140 2
+the 0 140 2
+Pope 0 140 2
+in 0 140 2
+2015 0 140 2
+about 0 140 2
+an 0 140 2
+alleged 0 140 2
+cover-up 0 140 2
+after 0 140 2
+Francis 0 140 2
+denied 0 140 2
+getting 0 140 2
+evidence. 0 140 2
 
-Juan 0
-Carlos 0
-Cruz, 0
-a 0
-victim 0
-of 0
-cleric 0
-Fernando 0
-Karadima 0
-in 0
-the 0
-1980s, 0
-accused 0
-fellow 0
-priest 0
-Juan 0
-Barros 0
-of 0
-witnessing 0
-the 0
-abuse 0
-and 0
-doing 0
-nothing. 0
+Juan 0 140 3
+Carlos 0 140 3
+Cruz, 0 140 3
+a 0 140 3
+victim 0 140 3
+of 0 140 3
+cleric 0 140 3
+Fernando 0 140 3
+Karadima 0 140 3
+in 0 140 3
+the 0 140 3
+1980s, 0 140 3
+accused 0 140 3
+fellow 0 140 3
+priest 0 140 3
+Juan 0 140 3
+Barros 0 140 3
+of 0 140 3
+witnessing 0 140 3
+the 0 140 3
+abuse 0 140 3
+and 0 140 3
+doing 0 140 3
+nothing. 0 140 3
 
-The 0
-Pope 0
-caused 0
-outrage 0
-after 0
-a 0
-visit 0
-to 0
-Chile 0
-last 0
-month 0
-by 0
-defending 0
-Bishop 0
-Barros, 0
-who 0
-was 0
-made 0
-a 0
-bishop 0
-in 0
-2015. 0
+The 0 140 4
+Pope 0 140 4
+caused 0 140 4
+outrage 0 140 4
+after 0 140 4
+a 0 140 4
+visit 0 140 4
+to 0 140 4
+Chile 0 140 4
+last 0 140 4
+month 0 140 4
+by 0 140 4
+defending 0 140 4
+Bishop 0 140 4
+Barros, 0 140 4
+who 0 140 4
+was 0 140 4
+made 0 140 4
+a 0 140 4
+bishop 0 140 4
+in 0 140 4
+2015. 0 140 4
 
-The 0
-Vatican 0
-refused 0
-to 0
-comment 0
-on 0
-the 0
-letter 0
-when 0
-approached 0
-by 0
-BBC 0
-News. 0
+The 0 140 5
+Vatican 0 140 5
+refused 0 140 5
+to 0 140 5
+comment 0 140 5
+on 0 140 5
+the 0 140 5
+letter 0 140 5
+when 0 140 5
+approached 0 140 5
+by 0 140 5
+BBC 0 140 5
+News. 0 140 5
 
-Pope 0
-Francis 0
-has 0
-said 0
-in 0
-the 0
-past 0
-that 0
-dealing 0
-with 0
-abuse 0
-is 0
-vital 0
-for 0
-the 0
-Church's 0
-credibility 0
-and 0
-perpetrators 0
-must 0
-face 0
-"sanctions". 0
+Pope 0 140 6
+Francis 0 140 6
+has 0 140 6
+said 0 140 6
+in 0 140 6
+the 0 140 6
+past 0 140 6
+that 0 140 6
+dealing 0 140 6
+with 0 140 6
+abuse 0 140 6
+is 0 140 6
+vital 0 140 6
+for 0 140 6
+the 0 140 6
+Church's 0 140 6
+credibility 0 140 6
+and 0 140 6
+perpetrators 0 140 6
+must 0 140 6
+face 0 140 6
+"sanctions". 0 140 6
 
-What 0
-allegations 0
-does 0
-the 0
-letter 0
-make? 0
+What 0 140 7
+allegations 0 140 7
+does 0 140 7
+the 0 140 7
+letter 0 140 7
+make? 0 140 7
 
-Mr 0
-Cruz 0
-sent 0
-the 0
-text 0
-of 0
-his 0
-letter 0
-(written 0
-in 0
-Spanish) 0
-to 0
-BBC 0
-News, 0
-showing 0
-it 0
-was 0
-addressed 0
-personally 0
-to 0
-Pope 0
-Francis 0
-and 0
-dated 0
-3 0
-March 0
-2015. 0
+Mr 0 140 8
+Cruz 0 140 8
+sent 0 140 8
+the 0 140 8
+text 0 140 8
+of 0 140 8
+his 0 140 8
+letter 0 140 8
+(written 0 140 8
+in 0 140 8
+Spanish) 0 140 8
+to 0 140 8
+BBC 0 140 8
+News, 0 140 8
+showing 0 140 8
+it 0 140 8
+was 0 140 8
+addressed 0 140 8
+personally 0 140 8
+to 0 140 8
+Pope 0 140 8
+Francis 0 140 8
+and 0 140 8
+dated 0 140 8
+3 0 140 8
+March 0 140 8
+2015. 0 140 8
 
-That 0
-was 0
-more 0
-than 0
-two 0
-weeks 0
-before 0
-the 0
-bishop's 0
-ordination 0
-in 0
-the 0
-south 0
-Chilean 0
-city 0
-of 0
-Osorno, 0
-an 0
-event 0
-dramatically 1
-disrupted 1
-by 0
-hundreds 0
-of 0
-protesters 0
-accusing 0
-Bishop 0
-Barros 0
-of 0
-covering 0
-up 0
-Karadima's 0
-sex 0
-attacks 0
-on 0
-young 0
-boys. 0
+That 0 140 9
+was 0 140 9
+more 0 140 9
+than 0 140 9
+two 0 140 9
+weeks 0 140 9
+before 0 140 9
+the 0 140 9
+bishop's 0 140 9
+ordination 0 140 9
+in 0 140 9
+the 0 140 9
+south 0 140 9
+Chilean 0 140 9
+city 0 140 9
+of 0 140 9
+Osorno, 0 140 9
+an 0 140 9
+event 0 140 9
+dramatically 1 140 9
+disrupted 1 140 9
+by 0 140 9
+hundreds 0 140 9
+of 0 140 9
+protesters 0 140 9
+accusing 0 140 9
+Bishop 0 140 9
+Barros 0 140 9
+of 0 140 9
+covering 0 140 9
+up 0 140 9
+Karadima's 0 140 9
+sex 0 140 9
+attacks 0 140 9
+on 0 140 9
+young 0 140 9
+boys. 0 140 9
 
-The 0
-bishop 0
-has 0
-denied 0
-ever 0
-knowing 0
-about 0
-"the 0
-serious 0
-abuses" 0
-committed 0
-by 0
-Karadima, 0
-who 0
-was 0
-never 0
-prosecuted 0
-in 0
-Chile 0
-because 0
-so 0
-much 0
-time 0
-had 0
-passed 0
-but 0
-was 0
-convicted 0
-and 0
-sentenced 0
-by 0
-the 0
-Vatican 0
-to 0
-a 0
-lifetime 0
-of 0
-"penance 0
-and 0
-prayer". 0
+The 0 140 10
+bishop 0 140 10
+has 0 140 10
+denied 0 140 10
+ever 0 140 10
+knowing 0 140 10
+about 0 140 10
+"the 0 140 10
+serious 0 140 10
+abuses" 0 140 10
+committed 0 140 10
+by 0 140 10
+Karadima, 0 140 10
+who 0 140 10
+was 0 140 10
+never 0 140 10
+prosecuted 0 140 10
+in 0 140 10
+Chile 0 140 10
+because 0 140 10
+so 0 140 10
+much 0 140 10
+time 0 140 10
+had 0 140 10
+passed 0 140 10
+but 0 140 10
+was 0 140 10
+convicted 0 140 10
+and 0 140 10
+sentenced 0 140 10
+by 0 140 10
+the 0 140 10
+Vatican 0 140 10
+to 0 140 10
+a 0 140 10
+lifetime 0 140 10
+of 0 140 10
+"penance 0 140 10
+and 0 140 10
+prayer". 0 140 10
 
-"Holy 0
-Father, 0
-I 0
-decided 0
-to 0
-write 0
-this 0
-letter 0
-to 0
-you 0
-because 0
-I'm 0
-tired 1
-of 1
-fighting, 1
-crying 1
-and 1
-suffering," 1
-Mr 0
-Cruz 0
-writes. 0
+"Holy 0 140 11
+Father, 0 140 11
+I 0 140 11
+decided 0 140 11
+to 0 140 11
+write 0 140 11
+this 0 140 11
+letter 0 140 11
+to 0 140 11
+you 0 140 11
+because 0 140 11
+I'm 0 140 11
+tired 1 140 11
+of 1 140 11
+fighting, 1 140 11
+crying 1 140 11
+and 1 140 11
+suffering," 1 140 11
+Mr 0 140 11
+Cruz 0 140 11
+writes. 0 140 11
 
-© 0
-AFP 0
-Cardinal 0
-O'Malley 0
-(centre) 0
-accompanied 0
-the 0
-Pope 0
-in 0
-Latin 0
-America 0
+© 0 140 12
+AFP 0 140 12
+Cardinal 0 140 12
+O'Malley 0 140 12
+(centre) 0 140 12
+accompanied 0 140 12
+the 0 140 12
+Pope 0 140 12
+in 0 140 12
+Latin 0 140 12
+America 0 140 12
 
-"Our 0
-story 0
-is 0
-well 0
-known 0
-and 0
-there's 0
-no 0
-point 0
-reminding 0
-you 0
-of 0
-it, 0
-except 0
-to 0
-tell 0
-you 0
-of 0
-the 0
-horror 1
-of 1
-having 1
-experienced 1
-this 1
-abuse 1
-and 1
-how 1
-I 1
-wanted 1
-to 1
-kill 1
-myself." 1
+"Our 0 140 13
+story 0 140 13
+is 0 140 13
+well 0 140 13
+known 0 140 13
+and 0 140 13
+there's 0 140 13
+no 0 140 13
+point 0 140 13
+reminding 0 140 13
+you 0 140 13
+of 0 140 13
+it, 0 140 13
+except 0 140 13
+to 0 140 13
+tell 0 140 13
+you 0 140 13
+of 0 140 13
+the 0 140 13
+horror 1 140 13
+of 1 140 13
+having 1 140 13
+experienced 1 140 13
+this 1 140 13
+abuse 1 140 13
+and 1 140 13
+how 1 140 13
+I 1 140 13
+wanted 1 140 13
+to 1 140 13
+kill 1 140 13
+myself." 1 140 13
 
-In 0
-his 0
-letter, 0
-he 0
-also 0
-attaches 0
-the 0
-full 0
-text 0
-of 0
-a 0
-previous 0
-letter 0
-written 0
-a 0
-month 0
-earlier 0
-to 0
-the 0
-Vatican's 0
-top 0
-diplomat 0
-in 0
-Chile, 0
-Archbishop 0
-Ivo 0
-Scapolo. 0
+In 0 140 14
+his 0 140 14
+letter, 0 140 14
+he 0 140 14
+also 0 140 14
+attaches 0 140 14
+the 0 140 14
+full 0 140 14
+text 0 140 14
+of 0 140 14
+a 0 140 14
+previous 0 140 14
+letter 0 140 14
+written 0 140 14
+a 0 140 14
+month 0 140 14
+earlier 0 140 14
+to 0 140 14
+the 0 140 14
+Vatican's 0 140 14
+top 0 140 14
+diplomat 0 140 14
+in 0 140 14
+Chile, 0 140 14
+Archbishop 0 140 14
+Ivo 0 140 14
+Scapolo. 0 140 14
 
-In 0
-that 0
-letter, 0
-Mr 0
-Cruz 0
-accuses 0
-Bishop 0
-Barros 0
-of 0
-"doing 1
-all 1
-the 1
-dirty 1
-work 1
-of 0
-Fernando 0
-Karadima", 0
-and 0
-describes 0
-the 0
-abuse 0
-he 0
-suffered 0
-and 0
-which 0
-Bishop 0
-Barros 0
-allegedly 0
-witnessed. 0
+In 0 140 15
+that 0 140 15
+letter, 0 140 15
+Mr 0 140 15
+Cruz 0 140 15
+accuses 0 140 15
+Bishop 0 140 15
+Barros 0 140 15
+of 0 140 15
+"doing 1 140 15
+all 1 140 15
+the 1 140 15
+dirty 1 140 15
+work 1 140 15
+of 0 140 15
+Fernando 0 140 15
+Karadima", 0 140 15
+and 0 140 15
+describes 0 140 15
+the 0 140 15
+abuse 0 140 15
+he 0 140 15
+suffered 0 140 15
+and 0 140 15
+which 0 140 15
+Bishop 0 140 15
+Barros 0 140 15
+allegedly 0 140 15
+witnessed. 0 140 15
 
-"When 0
-we 0
-were 0
-in 0
-a 0
-room 0
-with 0
-Karadima 0
-and 0
-Juan 0
-Barros, 0
-if 0
-he 0
-[Barros] 0
-wasn't 0
-kissing 0
-Karadima, 0
-he 0
-watched 0
-as 0
-one 0
-of 0
-us, 0
-the 0
-youngest, 0
-was 0
-touched 0
-by 0
-Karadima 0
-and 0
-forced 0
-to 0
-give 0
-him 0
-kisses," 0
-he 0
-writes. 0
+"When 0 140 16
+we 0 140 16
+were 0 140 16
+in 0 140 16
+a 0 140 16
+room 0 140 16
+with 0 140 16
+Karadima 0 140 16
+and 0 140 16
+Juan 0 140 16
+Barros, 0 140 16
+if 0 140 16
+he 0 140 16
+[Barros] 0 140 16
+wasn't 0 140 16
+kissing 0 140 16
+Karadima, 0 140 16
+he 0 140 16
+watched 0 140 16
+as 0 140 16
+one 0 140 16
+of 0 140 16
+us, 0 140 16
+the 0 140 16
+youngest, 0 140 16
+was 0 140 16
+touched 0 140 16
+by 0 140 16
+Karadima 0 140 16
+and 0 140 16
+forced 0 140 16
+to 0 140 16
+give 0 140 16
+him 0 140 16
+kisses," 0 140 16
+he 0 140 16
+writes. 0 140 16
 
-"Karadima 0
-would 0
-say 0
-to 0
-me: 0
-'Put 0
-your 0
-mouth 0
-next 0
-to 0
-mine 0
-and 0
-stick 0
-out 0
-your 0
-tongue.' 0
+"Karadima 0 140 17
+would 0 140 17
+say 0 140 17
+to 0 140 17
+me: 0 140 17
+'Put 0 140 17
+your 0 140 17
+mouth 0 140 17
+next 0 140 17
+to 0 140 17
+mine 0 140 17
+and 0 140 17
+stick 0 140 17
+out 0 140 17
+your 0 140 17
+tongue.' 0 140 17
 
-He'd 0
-stick 0
-out 0
-his 0
-and 0
-kiss 0
-us 0
-with 0
-his 0
-tongue. 0
+He'd 0 140 18
+stick 0 140 18
+out 0 140 18
+his 0 140 18
+and 0 140 18
+kiss 0 140 18
+us 0 140 18
+with 0 140 18
+his 0 140 18
+tongue. 0 140 18
 
-Juan 0
-Barros 0
-witnessed 0
-all 0
-of 0
-this 0
-on 0
-countless 0
-occasions, 0
-not 0
-just 0
-in 0
-my 0
-case 0
-but 0
-in 0
-the 0
-case 0
-of 0
-others 0
-as 0
-well." 0
+Juan 0 140 19
+Barros 0 140 19
+witnessed 0 140 19
+all 0 140 19
+of 0 140 19
+this 0 140 19
+on 0 140 19
+countless 0 140 19
+occasions, 0 140 19
+not 0 140 19
+just 0 140 19
+in 0 140 19
+my 0 140 19
+case 0 140 19
+but 0 140 19
+in 0 140 19
+the 0 140 19
+case 0 140 19
+of 0 140 19
+others 0 140 19
+as 0 140 19
+well." 0 140 19
 
-Addressing 0
-himself 0
-to 0
-Pope 0
-Francis, 0
-Mr 0
-Cruz 0
-says: 0
-"Holy 0
-Father, 0
-Juan 0
-Barros 0
-says 0
-he 0
-saw 0
-nothing 0
-and 0
-yet, 0
-there 0
-are 0
-dozens 0
-of 0
-us 0
-who 0
-can 0
-testify 0
-to 0
-the 0
-fact 0
-that 0
-not 0
-only 0
-was 0
-he 0
-present 0
-when 0
-Karadima 0
-abused 0
-us, 0
-but 0
-that 0
-he, 0
-too, 0
-kissed 0
-Karadima 0
-and 0
-they 0
-touched 0
-each 0
-other." 0
+Addressing 0 140 20
+himself 0 140 20
+to 0 140 20
+Pope 0 140 20
+Francis, 0 140 20
+Mr 0 140 20
+Cruz 0 140 20
+says: 0 140 20
+"Holy 0 140 20
+Father, 0 140 20
+Juan 0 140 20
+Barros 0 140 20
+says 0 140 20
+he 0 140 20
+saw 0 140 20
+nothing 0 140 20
+and 0 140 20
+yet, 0 140 20
+there 0 140 20
+are 0 140 20
+dozens 0 140 20
+of 0 140 20
+us 0 140 20
+who 0 140 20
+can 0 140 20
+testify 0 140 20
+to 0 140 20
+the 0 140 20
+fact 0 140 20
+that 0 140 20
+not 0 140 20
+only 0 140 20
+was 0 140 20
+he 0 140 20
+present 0 140 20
+when 0 140 20
+Karadima 0 140 20
+abused 0 140 20
+us, 0 140 20
+but 0 140 20
+that 0 140 20
+he, 0 140 20
+too, 0 140 20
+kissed 0 140 20
+Karadima 0 140 20
+and 0 140 20
+they 0 140 20
+touched 0 140 20
+each 0 140 20
+other." 0 140 20
 
-He 0
-concludes 0
-the 0
-letter 0
-with 0
-this 0
-appeal: 0
-"Please 0
-Holy 0
-Father, 0
-don't 1
-be 1
-like 1
-the 1
-others. 1
+He 0 140 21
+concludes 0 140 21
+the 0 140 21
+letter 0 140 21
+with 0 140 21
+this 0 140 21
+appeal: 0 140 21
+"Please 0 140 21
+Holy 0 140 21
+Father, 0 140 21
+don't 1 140 21
+be 1 140 21
+like 1 140 21
+the 1 140 21
+others. 1 140 21
 
-There 0
-are 0
-so 0
-many 0
-of 0
-us 0
-who 0
-despite 0
-everything 0
-think 0
-that 0
-you 0
-can 0
-do 0
-something. 0
+There 0 140 22
+are 0 140 22
+so 0 140 22
+many 0 140 22
+of 0 140 22
+us 0 140 22
+who 0 140 22
+despite 0 140 22
+everything 0 140 22
+think 0 140 22
+that 0 140 22
+you 0 140 22
+can 0 140 22
+do 0 140 22
+something. 0 140 22
 
-I 0
-treasure 0
-my 0
-faith, 0
-it's 0
-what 0
-sustains 0
-me, 0
-but 0
-it 0
-is 0
-slipping 0
-away 0
-from 0
-me." 0
+I 0 140 23
+treasure 0 140 23
+my 0 140 23
+faith, 0 140 23
+it's 0 140 23
+what 0 140 23
+sustains 0 140 23
+me, 0 140 23
+but 0 140 23
+it 0 140 23
+is 0 140 23
+slipping 0 140 23
+away 0 140 23
+from 0 140 23
+me." 0 140 23
 
-Hasn't 0
-the 0
-Pope 0
-already 0
-apologised? 0
+Hasn't 0 140 24
+the 0 140 24
+Pope 0 140 24
+already 0 140 24
+apologised? 0 140 24
 
-© 0
-AFP 0
-Karadima 0
-was 0
-only 0
-punished 0
-by 0
-the 0
-Vatican 0
+© 0 140 25
+AFP 0 140 25
+Karadima 0 140 25
+was 0 140 25
+only 0 140 25
+punished 0 140 25
+by 0 140 25
+the 0 140 25
+Vatican 0 140 25
 
-The 0
-remarks 0
-that 0
-the 0
-Pope 0
-had 0
-made 0
-in 0
-January 0
-that 0
-caused 0
-such 0
-offence 0
-were: 0
-"The 0
-day 0
-they 0
-bring 0
-me 0
-proof 0
-against 0
-Bishop 0
-Barros, 0
-then 0
-I 0
-will 0
-speak. 0
+The 0 140 26
+remarks 0 140 26
+that 0 140 26
+the 0 140 26
+Pope 0 140 26
+had 0 140 26
+made 0 140 26
+in 0 140 26
+January 0 140 26
+that 0 140 26
+caused 0 140 26
+such 0 140 26
+offence 0 140 26
+were: 0 140 26
+"The 0 140 26
+day 0 140 26
+they 0 140 26
+bring 0 140 26
+me 0 140 26
+proof 0 140 26
+against 0 140 26
+Bishop 0 140 26
+Barros, 0 140 26
+then 0 140 26
+I 0 140 26
+will 0 140 26
+speak. 0 140 26
 
-There 0
-is 0
-not 0
-a 0
-single 0
-piece 0
-of 0
-proof 0
-against 0
-him. 0
+There 0 140 27
+is 0 140 27
+not 0 140 27
+a 0 140 27
+single 0 140 27
+piece 0 140 27
+of 0 140 27
+proof 0 140 27
+against 0 140 27
+him. 0 140 27
 
-Everything 0
-is 0
-slander. 0
+Everything 0 140 28
+is 0 140 28
+slander. 0 140 28
 
-Is 0
-this 0
-clear?" 0
+Is 0 140 29
+this 0 140 29
+clear?" 0 140 29
 
-The 0
-Pope 0
-later 0
-apologised 0
-for 0
-hurting 0
-victims' 0
-feelings 0
-"without 0
-meaning 0
-to" 0
-but 0
-continued 0
-to 0
-insist 0
-there 0
-was 0
-"no 0
-evidence" 0
-against 0
-the 0
-bishop. 0
+The 0 140 30
+Pope 0 140 30
+later 0 140 30
+apologised 0 140 30
+for 0 140 30
+hurting 0 140 30
+victims' 0 140 30
+feelings 0 140 30
+"without 0 140 30
+meaning 0 140 30
+to" 0 140 30
+but 0 140 30
+continued 0 140 30
+to 0 140 30
+insist 0 140 30
+there 0 140 30
+was 0 140 30
+"no 0 140 30
+evidence" 0 140 30
+against 0 140 30
+the 0 140 30
+bishop. 0 140 30
 
-"In 0
-Barros's 0
-case, 0
-it 0
-was 0
-studied," 0
-he 0
-said. 0
+"In 0 140 31
+Barros's 0 140 31
+case, 0 140 31
+it 0 140 31
+was 0 140 31
+studied," 0 140 31
+he 0 140 31
+said. 0 140 31
 
-"It 0
-was 0
-restudied. 0
+"It 0 140 32
+was 0 140 32
+restudied. 0 140 32
 
-And 0
-there 0
-is 0
-no 0
-evidence... 0
+And 0 140 33
+there 0 140 33
+is 0 140 33
+no 0 140 33
+evidence... 0 140 33
 
-I 0
-don't 0
-have 0
-evidence 0
-to 0
-convict." 0
+I 0 140 34
+don't 0 140 34
+have 0 140 34
+evidence 0 140 34
+to 0 140 34
+convict." 0 140 34
 
-How 0
-far 0
-did 0
-the 0
-letter 0
-get? 0
+How 0 140 35
+far 0 140 35
+did 0 140 35
+the 0 140 35
+letter 0 140 35
+get? 0 140 35
 
-© 0
-Reuters 0
-Bishop 0
-Barros 0
-(centre) 0
-was 0
-greeted 0
-by 0
-angry 0
-protesters 0
-at 0
-his 0
-ordination 0
+© 0 140 36
+Reuters 0 140 36
+Bishop 0 140 36
+Barros 0 140 36
+(centre) 0 140 36
+was 0 140 36
+greeted 0 140 36
+by 0 140 36
+angry 0 140 36
+protesters 0 140 36
+at 0 140 36
+his 0 140 36
+ordination 0 140 36
 
-Members 0
-of 0
-the 0
-Pope's 0
-own 0
-Commission 0
-for 0
-the 0
-Protection 0
-of 0
-Minors, 0
-set 0
-up 0
-in 0
-2014 0
-as 0
-part 0
-of 0
-efforts 0
-to 0
-counter 0
-sex 0
-abuse 0
-by 0
-clergy, 0
-have 0
-told 0
-the 0
-Associated 0
-Press 0
-they 0
-hand-delivered 0
-the 0
-letter 0
-to 0
-Francis's 0
-top 0
-adviser 0
-on 0
-sex 0
-abuse, 0
-Cardinal 0
-Sean 0
-O'Malley, 0
-in 0
-April 0
-2015. 0
+Members 0 140 37
+of 0 140 37
+the 0 140 37
+Pope's 0 140 37
+own 0 140 37
+Commission 0 140 37
+for 0 140 37
+the 0 140 37
+Protection 0 140 37
+of 0 140 37
+Minors, 0 140 37
+set 0 140 37
+up 0 140 37
+in 0 140 37
+2014 0 140 37
+as 0 140 37
+part 0 140 37
+of 0 140 37
+efforts 0 140 37
+to 0 140 37
+counter 0 140 37
+sex 0 140 37
+abuse 0 140 37
+by 0 140 37
+clergy, 0 140 37
+have 0 140 37
+told 0 140 37
+the 0 140 37
+Associated 0 140 37
+Press 0 140 37
+they 0 140 37
+hand-delivered 0 140 37
+the 0 140 37
+letter 0 140 37
+to 0 140 37
+Francis's 0 140 37
+top 0 140 37
+adviser 0 140 37
+on 0 140 37
+sex 0 140 37
+abuse, 0 140 37
+Cardinal 0 140 37
+Sean 0 140 37
+O'Malley, 0 140 37
+in 0 140 37
+April 0 140 37
+2015. 0 140 37
 
-A 0
-photo 0
-in 0
-the 0
-AP 0
-report 0
-shows 0
-Marie 0
-Collins, 0
-a 0
-member 0
-of 0
-the 0
-commission 0
-at 0
-the 0
-time, 0
-handing 0
-the 0
-letter 0
-to 0
-the 0
-cardinal. 0
+A 0 140 38
+photo 0 140 38
+in 0 140 38
+the 0 140 38
+AP 0 140 38
+report 0 140 38
+shows 0 140 38
+Marie 0 140 38
+Collins, 0 140 38
+a 0 140 38
+member 0 140 38
+of 0 140 38
+the 0 140 38
+commission 0 140 38
+at 0 140 38
+the 0 140 38
+time, 0 140 38
+handing 0 140 38
+the 0 140 38
+letter 0 140 38
+to 0 140 38
+the 0 140 38
+cardinal. 0 140 38
 
-"When 0
-we 0
-gave 0
-him 0
-the 0
-letter 0
-for 0
-the 0
-Pope, 0
-he 0
-assured 0
-us 0
-he 0
-would 0
-give 0
-it 0
-to 0
-the 0
-Pope 0
-and 0
-speak 0
-of 0
-the 0
-concerns," 0
-she 0
-told 0
-AP. 0
+"When 0 140 39
+we 0 140 39
+gave 0 140 39
+him 0 140 39
+the 0 140 39
+letter 0 140 39
+for 0 140 39
+the 0 140 39
+Pope, 0 140 39
+he 0 140 39
+assured 0 140 39
+us 0 140 39
+he 0 140 39
+would 0 140 39
+give 0 140 39
+it 0 140 39
+to 0 140 39
+the 0 140 39
+Pope 0 140 39
+and 0 140 39
+speak 0 140 39
+of 0 140 39
+the 0 140 39
+concerns," 0 140 39
+she 0 140 39
+told 0 140 39
+AP. 0 140 39
 
-"And 0
-at 0
-a 0
-later 0
-date, 0
-he 0
-assured 0
-us 0
-that 0
-that 0
-had 0
-been 0
-done." 0
+"And 0 140 40
+at 0 140 40
+a 0 140 40
+later 0 140 40
+date, 0 140 40
+he 0 140 40
+assured 0 140 40
+us 0 140 40
+that 0 140 40
+that 0 140 40
+had 0 140 40
+been 0 140 40
+done." 0 140 40
 
-Mr 0
-Cruz 0
-told 0
-the 0
-BBC 0
-that 0
-Cardinal 0
-O'Malley 0
-had 0
-called 0
-him 0
-later 0
-in 0
-2015 0
-to 0
-say 0
-he 0
-had 0
-given 0
-the 0
-letter 0
-to 0
-the 0
-Pope. 0
+Mr 0 140 41
+Cruz 0 140 41
+told 0 140 41
+the 0 140 41
+BBC 0 140 41
+that 0 140 41
+Cardinal 0 140 41
+O'Malley 0 140 41
+had 0 140 41
+called 0 140 41
+him 0 140 41
+later 0 140 41
+in 0 140 41
+2015 0 140 41
+to 0 140 41
+say 0 140 41
+he 0 140 41
+had 0 140 41
+given 0 140 41
+the 0 140 41
+letter 0 140 41
+to 0 140 41
+the 0 140 41
+Pope. 0 140 41
 
-Cardinal 0
-O'Malley, 0
-whose 0
-spokesman 0
-referred 0
-requests 0
-for 0
-comment 0
-to 0
-the 0
-Vatican, 0
-has 0
-earned 0
-respect 0
-for 0
-his 0
-work 0
-in 0
-tackling 0
-sex 0
-abuse 0
-by 0
-clergy 0
-in 0
-Boston. 0
+Cardinal 0 140 42
+O'Malley, 0 140 42
+whose 0 140 42
+spokesman 0 140 42
+referred 0 140 42
+requests 0 140 42
+for 0 140 42
+comment 0 140 42
+to 0 140 42
+the 0 140 42
+Vatican, 0 140 42
+has 0 140 42
+earned 0 140 42
+respect 0 140 42
+for 0 140 42
+his 0 140 42
+work 0 140 42
+in 0 140 42
+tackling 0 140 42
+sex 0 140 42
+abuse 0 140 42
+by 0 140 42
+clergy 0 140 42
+in 0 140 42
+Boston. 0 140 42
 
-Cardinal 0
-O'Malley's 0
-disgraced 1
-predecessor, 1
-the 0
-late 0
-Cardinal 0
-Bernard 0
-Law, 0
-had 0
-moved 0
-paedophile 1
-priests 1
-between 0
-parishes 0
-rather 0
-than 0
-addressing 0
-victims' 0
-claims. 0
+Cardinal 0 140 43
+O'Malley's 0 140 43
+disgraced 1 140 43
+predecessor, 1 140 43
+the 0 140 43
+late 0 140 43
+Cardinal 0 140 43
+Bernard 0 140 43
+Law, 0 140 43
+had 0 140 43
+moved 0 140 43
+paedophile 1 140 43
+priests 1 140 43
+between 0 140 43
+parishes 0 140 43
+rather 0 140 43
+than 0 140 43
+addressing 0 140 43
+victims' 0 140 43
+claims. 0 140 43
 
-In 0
-an 0
-unusual 0
-step, 0
-Cardinal 0
-O'Malley 0
-openly 0
-criticised 0
-the 0
-Pope 0
-last 0
-month 0
-for 0
-his 0
-initial 0
-remarks 0
-in 0
-Chile, 0
-saying 0
-he 0
-had 0
-left 0
-victims 0
-feeling 0
-abandoned. 0
+In 0 140 44
+an 0 140 44
+unusual 0 140 44
+step, 0 140 44
+Cardinal 0 140 44
+O'Malley 0 140 44
+openly 0 140 44
+criticised 0 140 44
+the 0 140 44
+Pope 0 140 44
+last 0 140 44
+month 0 140 44
+for 0 140 44
+his 0 140 44
+initial 0 140 44
+remarks 0 140 44
+in 0 140 44
+Chile, 0 140 44
+saying 0 140 44
+he 0 140 44
+had 0 140 44
+left 0 140 44
+victims 0 140 44
+feeling 0 140 44
+abandoned. 0 140 44
 
-Pope 0
-Francis 0
-announced 0
-last 0
-week 0
-he 0
-was 0
-sending 0
-the 0
-Vatican's 0
-top 0
-expert 0
-on 0
-sexual 0
-abuse, 0
-Archbishop 0
-Charles 0
-Scicluna, 0
-to 0
-Chile 0
-to 0
-investigate 0
-the 0
-accusations 0
-against 0
-Bishop 0
-Barros. 0
+Pope 0 140 44
+
+Francis 0 140 44
+
+announced 0 140 44
+
+last 0 140 44
+
+week 0 140 44
+
+he 0 140 44
+
+was 0 140 44
+
+sending 0 140 44
+
+the 0 140 44
+
+Vatican's 0 140 44
+
+top 0 140 44
+
+expert 0 140 44
+
+on 0 140 44
+
+sexual 0 140 44
+
+abuse, 0 140 44
+
+Archbishop 0 140 44
+
+Charles 0 140 44
+
+Scicluna, 0 140 44
+
+to 0 140 44
+
+Chile 0 140 44
+
+to 0 140 44
+
+investigate 0 140 44
+
+the 0 140 44
+
+accusations 0 140 44
+
+against 0 140 44
+
+Bishop 0 140 44
+
+Barros. 0 140 44

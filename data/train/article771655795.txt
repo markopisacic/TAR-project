@@ -1,666 +1,684 @@
-Gun 1
-Control 1
-Is 1
-Now 1
-Truly 1
-Impossible 1
+Gun 1 292 0
+Control 1 292 0
+Is 1 292 0
+Now 1 292 0
+Truly 1 292 0
+Impossible 1 292 0
 
-Gun 0
-control 0
-is 0
-the 0
-dream 0
-of 0
-every 0
-wannabe 1
-statist 1
-dictator 1
-and 1
-naive 1
-do-gooder 1
-alike. 0
+Gun 0 292 1
+control 0 292 1
+is 0 292 1
+the 0 292 1
+dream 0 292 1
+of 0 292 1
+every 0 292 1
+wannabe 1 292 1
+statist 1 292 1
+dictator 1 292 1
+and 1 292 1
+naive 1 292 1
+do-gooder 1 292 1
+alike. 0 292 1
 
-The 1
-latter 1
-think 1
-that 1
-removing 1
-guns 1
-will 1
-suddenly 1
-force 1
-humanity 1
-to 1
-stop 1
-all 1
-animosity 1
-toward 1
-one 1
-another, 1
-hold 1
-hands, 1
-and 1
-sing 1
-Kumbaya. 1
+The 1 292 2
+latter 1 292 2
+think 1 292 2
+that 1 292 2
+removing 1 292 2
+guns 1 292 2
+will 1 292 2
+suddenly 1 292 2
+force 1 292 2
+humanity 1 292 2
+to 1 292 2
+stop 1 292 2
+all 1 292 2
+animosity 1 292 2
+toward 1 292 2
+one 1 292 2
+another, 1 292 2
+hold 1 292 2
+hands, 1 292 2
+and 1 292 2
+sing 1 292 2
+Kumbaya. 1 292 2
 
-The 1
-former 1
-recognizes 1
-that 1
-an 1
-armed 1
-populace 1
-is 1
-a 1
-threat 1
-to 1
-any 1
-tyrant 1
-and 1
-pushes 1
-for 1
-gun 1
-control 1
-out 1
-of 1
-self-preservation. 1
+The 1 292 3
+former 1 292 3
+recognizes 1 292 3
+that 1 292 3
+an 1 292 3
+armed 1 292 3
+populace 1 292 3
+is 1 292 3
+a 1 292 3
+threat 1 292 3
+to 1 292 3
+any 1 292 3
+tyrant 1 292 3
+and 1 292 3
+pushes 1 292 3
+for 1 292 3
+gun 1 292 3
+control 1 292 3
+out 1 292 3
+of 1 292 3
+self-preservation. 1 292 3
 
-However, 0
-a 0
-new 0
-ruling 0
-in 0
-a 0
-court 0
-case 0
-over 0
-3-D 0
-printer 0
-files 0
-of 0
-guns 0
-has 1
-now 1
-made 1
-gun 1
-control 1
-virtually 1
-impossible. 1
+However, 0 292 4
+a 0 292 4
+new 0 292 4
+ruling 0 292 4
+in 0 292 4
+a 0 292 4
+court 0 292 4
+case 0 292 4
+over 0 292 4
+3-D 0 292 4
+printer 0 292 4
+files 0 292 4
+of 0 292 4
+guns 0 292 4
+has 1 292 4
+now 1 292 4
+made 1 292 4
+gun 1 292 4
+control 1 292 4
+virtually 1 292 4
+impossible. 1 292 4
 
-FIVE 0
-YEARS 0
-AGO, 0
-25-year-old 0
-radical 0
-libertarian 0
-Cody 0
-Wilson 0
-stood 0
-on 0
-a 0
-remote 0
-central 0
-Texas 0
-gun 0
-range 0
-and 0
-pulled 0
-the 0
-trigger 0
-on 0
-the 0
-world’s 0
-first 0
-fully 0
-3-D-printed 0
-gun. 0
+FIVE 0 292 5
+YEARS 0 292 5
+AGO, 0 292 5
+25-year-old 0 292 5
+radical 0 292 5
+libertarian 0 292 5
+Cody 0 292 5
+Wilson 0 292 5
+stood 0 292 5
+on 0 292 5
+a 0 292 5
+remote 0 292 5
+central 0 292 5
+Texas 0 292 5
+gun 0 292 5
+range 0 292 5
+and 0 292 5
+pulled 0 292 5
+the 0 292 5
+trigger 0 292 5
+on 0 292 5
+the 0 292 5
+world’s 0 292 5
+first 0 292 5
+fully 0 292 5
+3-D-printed 0 292 5
+gun. 0 292 5
 
-When, 0
-to 0
-his 0
-relief, 0
-his 0
-plastic 0
-invention 0
-fired 0
-a 0
-.380-caliber 0
-bullet 0
-into 0
-a 0
-berm 0
-of 0
-dirt 0
-without 0
-jamming 0
-or 0
-exploding 0
-in 0
-his 0
-hands, 0
-he 0
-drove 0
-back 0
-to 0
-Austin 0
-and 0
-uploaded 0
-the 0
-blueprints 0
-for 0
-the 0
-pistol 0
-to 0
-his 0
-website, 0
-Defcad.com. 0
+When, 0 292 6
+to 0 292 6
+his 0 292 6
+relief, 0 292 6
+his 0 292 6
+plastic 0 292 6
+invention 0 292 6
+fired 0 292 6
+a 0 292 6
+.380-caliber 0 292 6
+bullet 0 292 6
+into 0 292 6
+a 0 292 6
+berm 0 292 6
+of 0 292 6
+dirt 0 292 6
+without 0 292 6
+jamming 0 292 6
+or 0 292 6
+exploding 0 292 6
+in 0 292 6
+his 0 292 6
+hands, 0 292 6
+he 0 292 6
+drove 0 292 6
+back 0 292 6
+to 0 292 6
+Austin 0 292 6
+and 0 292 6
+uploaded 0 292 6
+the 0 292 6
+blueprints 0 292 6
+for 0 292 6
+the 0 292 6
+pistol 0 292 6
+to 0 292 6
+his 0 292 6
+website, 0 292 6
+Defcad.com. 0 292 6
 
-Defend 0
-Yourself: 0
-A 0
-Com... 0
+Defend 0 292 7
+Yourself: 0 292 7
+A 0 292 7
+Com... 0 292 7
 
-Rob 0
-Pincus 0
-Best 0
-Price: 0
-$2.00 0
-Buy 0
-New 0
-$17.99 0
-(as 0
-of 0
-03:35 0
-EDT 0
-- 0
-Details) 0
-He’d 0
-launched 0
-the 0
-site 0
-months 0
-earlier 0
-along 0
-with 0
-an 1
-anarchist 1
-video 1
-manifesto, 1
-declaring 0
-that 0
-gun 1
-control 1
-would 1
-never 1
-be 1
-the 1
-same 1
-in 1
-an 1
-era 1
-when 1
-anyone 1
-can 1
-download 1
-and 1
-print 1
-their 1
-own 1
-firearm 1
-with 1
-a 1
-few 1
-clicks. 1
+Rob 0 292 8
+Pincus 0 292 8
+Best 0 292 8
+Price: 0 292 8
+$2.00 0 292 8
+Buy 0 292 8
+New 0 292 8
+$17.99 0 292 8
+(as 0 292 8
+of 0 292 8
+03:35 0 292 8
+EDT 0 292 8
+- 0 292 8
+Details) 0 292 8
+He’d 0 292 8
+launched 0 292 8
+the 0 292 8
+site 0 292 8
+months 0 292 8
+earlier 0 292 8
+along 0 292 8
+with 0 292 8
+an 1 292 8
+anarchist 1 292 8
+video 1 292 8
+manifesto, 1 292 8
+declaring 0 292 8
+that 0 292 8
+gun 1 292 8
+control 1 292 8
+would 1 292 8
+never 1 292 8
+be 1 292 8
+the 1 292 8
+same 1 292 8
+in 1 292 8
+an 1 292 8
+era 1 292 8
+when 1 292 8
+anyone 1 292 8
+can 1 292 8
+download 1 292 8
+and 1 292 8
+print 1 292 8
+their 1 292 8
+own 1 292 8
+firearm 1 292 8
+with 1 292 8
+a 1 292 8
+few 1 292 8
+clicks. 1 292 8
 
-In 0
-the 0
-days 0
-after 0
-that 0
-first 0
-test-firing, 0
-his 0
-gun 0
-was 0
-downloaded 0
-more 0
-than 0
-100,000 0
-times. 0
+In 0 292 9
+the 0 292 9
+days 0 292 9
+after 0 292 9
+that 0 292 9
+first 0 292 9
+test-firing, 0 292 9
+his 0 292 9
+gun 0 292 9
+was 0 292 9
+downloaded 0 292 9
+more 0 292 9
+than 0 292 9
+100,000 0 292 9
+times. 0 292 9
 
-Wilson 0
-made 0
-the 0
-decision 0
-to 0
-go 0
-all 0
-in 0
-on 0
-the 0
-project, 0
-dropping 0
-out 0
-of 0
-law 0
-school 0
-at 0
-the 0
-University 0
-of 0
-Texas, 0
-as 0
-if 0
-to 0
-confirm 0
-his 0
-belief 0
-that 0
-technology 0
-supersedes 0
-law. 0
+Wilson 0 292 10
+made 0 292 10
+the 0 292 10
+decision 0 292 10
+to 0 292 10
+go 0 292 10
+all 0 292 10
+in 0 292 10
+on 0 292 10
+the 0 292 10
+project, 0 292 10
+dropping 0 292 10
+out 0 292 10
+of 0 292 10
+law 0 292 10
+school 0 292 10
+at 0 292 10
+the 0 292 10
+University 0 292 10
+of 0 292 10
+Texas, 0 292 10
+as 0 292 10
+if 0 292 10
+to 0 292 10
+confirm 0 292 10
+his 0 292 10
+belief 0 292 10
+that 0 292 10
+technology 0 292 10
+supersedes 0 292 10
+law. 0 292 10
 
-The 0
-law 0
-caught 0
-up. 0
+The 0 292 11
+law 0 292 11
+caught 0 292 11
+up. 0 292 11
 
-Less 0
-than 0
-a 0
-week 0
-later, 0
-Wilson 0
-received 0
-a 0
-letter 0
-from 0
-the 0
-US 0
-State 0
-Department 0
-demanding 1
-that 1
-he 1
-take 1
-down 1
-his 1
-printable-gun 1
-blueprints 1
-or 1
-face 1
-prosecution 1
-for 1
-violating 1
-federal 1
-export 1
-controls. 1
+Less 0 292 12
+than 0 292 12
+a 0 292 12
+week 0 292 12
+later, 0 292 12
+Wilson 0 292 12
+received 0 292 12
+a 0 292 12
+letter 0 292 12
+from 0 292 12
+the 0 292 12
+US 0 292 12
+State 0 292 12
+Department 0 292 12
+demanding 1 292 12
+that 1 292 12
+he 1 292 12
+take 1 292 12
+down 1 292 12
+his 1 292 12
+printable-gun 1 292 12
+blueprints 1 292 12
+or 1 292 12
+face 1 292 12
+prosecution 1 292 12
+for 1 292 12
+violating 1 292 12
+federal 1 292 12
+export 1 292 12
+controls. 1 292 12
 
-Under 0
-an 0
-obscure 1
-set 1
-of 1
-US 1
-regulations 1
-known 0
-as 0
-the 0
-International 0
-Trade 0
-in 0
-Arms 0
-Regulations 0
-(ITAR), 0
-Wilson 1
-was 1
-accused 1
-of 1
-exporting 1
-weapons 1
-without 1
-a 1
-license, 1
-just 1
-as 1
-if 1
-he’d 1
-shipped 1
-his 1
-plastic 1
-gun 1
-to 1
-Mexico 1
-rather 1
-than 1
-put 1
-a 1
-digital 1
-version 1
-of 1
-it 1
-on 1
-the 1
-internet. 1
+Under 0 292 13
+an 0 292 13
+obscure 1 292 13
+set 1 292 13
+of 1 292 13
+US 1 292 13
+regulations 1 292 13
+known 0 292 13
+as 0 292 13
+the 0 292 13
+International 0 292 13
+Trade 0 292 13
+in 0 292 13
+Arms 0 292 13
+Regulations 0 292 13
+(ITAR), 0 292 13
+Wilson 1 292 13
+was 1 292 13
+accused 1 292 13
+of 1 292 13
+exporting 1 292 13
+weapons 1 292 13
+without 1 292 13
+a 1 292 13
+license, 1 292 13
+just 1 292 13
+as 1 292 13
+if 1 292 13
+he’d 1 292 13
+shipped 1 292 13
+his 1 292 13
+plastic 1 292 13
+gun 1 292 13
+to 1 292 13
+Mexico 1 292 13
+rather 1 292 13
+than 1 292 13
+put 1 292 13
+a 1 292 13
+digital 1 292 13
+version 1 292 13
+of 1 292 13
+it 1 292 13
+on 1 292 13
+the 1 292 13
+internet. 1 292 13
 
-He 0
-took 0
-Defcad.com 0
-offline, 0
-but 0
-his 0
-lawyer 0
-warned 0
-him 0
-that 0
-he 0
-still 0
-potentially 0
-faced 0
-millions 0
-of 0
-dollars 0
-in 0
-fines 0
-and 0
-years 0
-in 0
-prison 0
-simply 0
-for 0
-having 0
-made 0
-the 0
-file 0
-available 0
-to 0
-overseas 0
-downloaders 0
-for 0
-a 0
-few 0
-days. 0
+He 0 292 14
+took 0 292 14
+Defcad.com 0 292 14
+offline, 0 292 14
+but 0 292 14
+his 0 292 14
+lawyer 0 292 14
+warned 0 292 14
+him 0 292 14
+that 0 292 14
+he 0 292 14
+still 0 292 14
+potentially 0 292 14
+faced 0 292 14
+millions 0 292 14
+of 0 292 14
+dollars 0 292 14
+in 0 292 14
+fines 0 292 14
+and 0 292 14
+years 0 292 14
+in 0 292 14
+prison 0 292 14
+simply 0 292 14
+for 0 292 14
+having 0 292 14
+made 0 292 14
+the 0 292 14
+file 0 292 14
+available 0 292 14
+to 0 292 14
+overseas 0 292 14
+downloaders 0 292 14
+for 0 292 14
+a 0 292 14
+few 0 292 14
+days. 0 292 14
 
-“I 0
-thought 1
-my 1
-life 1
-was 1
-over,” 1
-Wilson 0
-says. 0
+“I 0 292 15
+thought 1 292 15
+my 1 292 15
+life 1 292 15
+was 1 292 15
+over,” 1 292 15
+Wilson 0 292 15
+says. 0 292 15
 
-… 0
+… 0 292 16
 
-Two 0
-months 0
-ago, 0
-the 0
-Department 0
-of 0
-Justice 0
-quietly 0
-offered 0
-Wilson 0
-a 0
-settlement 0
-to 0
-end 0
-a 0
-lawsuit 0
-he 0
-and 0
-a 0
-group 0
-of 0
-co-plaintiffs 0
-have 0
-pursued 0
-since 0
-2015 0
-against 0
-the 0
-United 0
-States 0
-government. 0
+Two 0 292 17
+months 0 292 17
+ago, 0 292 17
+the 0 292 17
+Department 0 292 17
+of 0 292 17
+Justice 0 292 17
+quietly 0 292 17
+offered 0 292 17
+Wilson 0 292 17
+a 0 292 17
+settlement 0 292 17
+to 0 292 17
+end 0 292 17
+a 0 292 17
+lawsuit 0 292 17
+he 0 292 17
+and 0 292 17
+a 0 292 17
+group 0 292 17
+of 0 292 17
+co-plaintiffs 0 292 17
+have 0 292 17
+pursued 0 292 17
+since 0 292 17
+2015 0 292 17
+against 0 292 17
+the 0 292 17
+United 0 292 17
+States 0 292 17
+government. 0 292 17
 
-Wilson 0
-and 0
-his 0
-team 0
-of 0
-lawyers 0
-focused 0
-their 0
-legal 0
-argument 0
-on 0
-a 0
-free 0
-speech 0
-claim: 0
-They 0
-pointed 0
-out 0
-that 0
-by 0
-forbidding 0
-Wilson 0
-from 0
-posting 0
-his 0
-3-D-printable 0
-data, 0
-the 0
-State 0
-Department 0
-was 0
-not 0
-only 0
-violating 0
-his 0
-right 0
-to 0
-bear 0
-arms 0
-but 0
-his 0
-right 0
-to 0
-freely 0
-share 0
-information. 0
+Wilson 0 292 18
+and 0 292 18
+his 0 292 18
+team 0 292 18
+of 0 292 18
+lawyers 0 292 18
+focused 0 292 18
+their 0 292 18
+legal 0 292 18
+argument 0 292 18
+on 0 292 18
+a 0 292 18
+free 0 292 18
+speech 0 292 18
+claim: 0 292 18
+They 0 292 18
+pointed 0 292 18
+out 0 292 18
+that 0 292 18
+by 0 292 18
+forbidding 0 292 18
+Wilson 0 292 18
+from 0 292 18
+posting 0 292 18
+his 0 292 18
+3-D-printable 0 292 18
+data, 0 292 18
+the 0 292 18
+State 0 292 18
+Department 0 292 18
+was 0 292 18
+not 0 292 18
+only 0 292 18
+violating 0 292 18
+his 0 292 18
+right 0 292 18
+to 0 292 18
+bear 0 292 18
+arms 0 292 18
+but 0 292 18
+his 0 292 18
+right 0 292 18
+to 0 292 18
+freely 0 292 18
+share 0 292 18
+information. 0 292 18
 
-By 0
-blurring 0
-the 0
-line 0
-between 0
-a 0
-gun 0
-and 0
-a 0
-digital 0
-file, 0
-Wilson 0
-had 0
-also 0
-successfully 0
-blurred 0
-the 0
-lines 0
-between 0
-the 0
-Second 0
-Amendment 0
-and 0
-the 0
-First. 0
+By 0 292 19
+blurring 0 292 19
+the 0 292 19
+line 0 292 19
+between 0 292 19
+a 0 292 19
+gun 0 292 19
+and 0 292 19
+a 0 292 19
+digital 0 292 19
+file, 0 292 19
+Wilson 0 292 19
+had 0 292 19
+also 0 292 19
+successfully 0 292 19
+blurred 0 292 19
+the 0 292 19
+lines 0 292 19
+between 0 292 19
+the 0 292 19
+Second 0 292 19
+Amendment 0 292 19
+and 0 292 19
+the 0 292 19
+First. 0 292 19
 
-Straight 0
-Talk 0
-on 0
-Armed... 0
-Best 0
-Price: 0
-$13.95 0
-Buy 0
-New 0
-$13.95 0
-(as 0
-of 0
-03:40 0
-EDT 0
-- 0
-Details) 0
+Straight 0 292 20
+Talk 0 292 20
+on 0 292 20
+Armed... 0 292 20
+Best 0 292 20
+Price: 0 292 20
+$13.95 0 292 20
+Buy 0 292 20
+New 0 292 20
+$13.95 0 292 20
+(as 0 292 20
+of 0 292 20
+03:40 0 292 20
+EDT 0 292 20
+- 0 292 20
+Details) 0 292 20
 
-“If 0
-code 0
-is 0
-speech, 0
-the 0
-constitutional 0
-contradictions 0
-are 0
-evident,” 0
-Wilson 0
-explained 0
-to 0
-WIRED 0
-when 0
-he 0
-first 0
-launched 0
-the 0
-lawsuit 0
-in 0
-2015. 0
+“If 0 292 21
+code 0 292 21
+is 0 292 21
+speech, 0 292 21
+the 0 292 21
+constitutional 0 292 21
+contradictions 0 292 21
+are 0 292 21
+evident,” 0 292 21
+Wilson 0 292 21
+explained 0 292 21
+to 0 292 21
+WIRED 0 292 21
+when 0 292 21
+he 0 292 21
+first 0 292 21
+launched 0 292 21
+the 0 292 21
+lawsuit 0 292 21
+in 0 292 21
+2015. 0 292 21
 
-“So 1
-what 1
-if 1
-this 1
-code 1
-is 1
-a 1
-gun?” 1
+“So 1 292 22
+what 1 292 22
+if 1 292 22
+this 1 292 22
+code 1 292 22
+is 1 292 22
+a 1 292 22
+gun?” 1 292 22
 
-The 0
-Department 0
-of 0
-Justice’s 0
-surprising 0
-settlement, 0
-confirmed 0
-in 0
-court 0
-documents 0
-earlier 0
-this 0
-month, 0
-essentially 0
-surrenders 0
-to 0
-that 0
-argument. 0
+The 0 292 23
+Department 0 292 23
+of 0 292 23
+Justice’s 0 292 23
+surprising 0 292 23
+settlement, 0 292 23
+confirmed 0 292 23
+in 0 292 23
+court 0 292 23
+documents 0 292 23
+earlier 0 292 23
+this 0 292 23
+month, 0 292 23
+essentially 0 292 23
+surrenders 0 292 23
+to 0 292 23
+that 0 292 23
+argument. 0 292 23
 
-It 0
-promises 0
-to 0
-change 0
-the 0
-export 0
-control 0
-rules 0
-surrounding 0
-any 0
-firearm 0
-below 0
-.50 0
-caliber—with 0
-a 0
-few 0
-exceptions 0
-like 0
-fully 0
-automatic 0
-weapons 0
-and 0
-rare 0
-gun 0
-designs 0
-that 0
-use 0
-caseless 0
-ammunition—and 0
-move 0
-their 0
-regulation 0
-to 0
-the 0
-Commerce 0
-Department, 0
-which 0
-won’t 0
-try 0
-to 0
-police 0
-technical 0
-data 0
-about 0
-the 0
-guns 0
-posted 0
-on 0
-the 0
-public 0
-internet. 0
+It 0 292 24
+promises 0 292 24
+to 0 292 24
+change 0 292 24
+the 0 292 24
+export 0 292 24
+control 0 292 24
+rules 0 292 24
+surrounding 0 292 24
+any 0 292 24
+firearm 0 292 24
+below 0 292 24
+.50 0 292 24
+caliber—with 0 292 24
+a 0 292 24
+few 0 292 24
+exceptions 0 292 24
+like 0 292 24
+fully 0 292 24
+automatic 0 292 24
+weapons 0 292 24
+and 0 292 24
+rare 0 292 24
+gun 0 292 24
+designs 0 292 24
+that 0 292 24
+use 0 292 24
+caseless 0 292 24
+ammunition—and 0 292 24
+move 0 292 24
+their 0 292 24
+regulation 0 292 24
+to 0 292 24
+the 0 292 24
+Commerce 0 292 24
+Department, 0 292 24
+which 0 292 24
+won’t 0 292 24
+try 0 292 24
+to 0 292 24
+police 0 292 24
+technical 0 292 24
+data 0 292 24
+about 0 292 24
+the 0 292 24
+guns 0 292 24
+posted 0 292 24
+on 0 292 24
+the 0 292 24
+public 0 292 24
+internet. 0 292 24
 
-In 0
-the 0
-meantime, 0
-it 0
-gives 0
-Wilson 0
-a 0
-unique 0
-license 0
-to 0
-publish 0
-data 0
-about 0
-those 0
-weapons 0
-anywhere 0
-he 0
-chooses. 0
+In 0 292 25
+the 0 292 25
+meantime, 0 292 25
+it 0 292 25
+gives 0 292 25
+Wilson 0 292 25
+a 0 292 25
+unique 0 292 25
+license 0 292 25
+to 0 292 25
+publish 0 292 25
+data 0 292 25
+about 0 292 25
+those 0 292 25
+weapons 0 292 25
+anywhere 0 292 25
+he 0 292 25
+chooses. 0 292 25
 
-“I 0
-consider 0
-it 0
-a 0
-truly 0
-grand 0
-thing,” 0
-Wilson 0
-says. 0
+“I 0 292 26
+consider 0 292 26
+it 0 292 26
+a 0 292 26
+truly 0 292 26
+grand 0 292 26
+thing,” 0 292 26
+Wilson 0 292 26
+says. 0 292 26
 
-“It 1
-will 1
-be 1
-an 1
-irrevocable 1
-part 1
-of 1
-political 1
-life 1
-that 1
-guns 1
-are 1
-downloadable, 1
-and 1
-we 1
-helped 1
-to 1
-do 1
-that.” 1
+“It 1 292 26
+
+will 1 292 26
+
+be 1 292 26
+
+an 1 292 26
+
+irrevocable 1 292 26
+
+part 1 292 26
+
+of 1 292 26
+
+political 1 292 26
+
+life 1 292 26
+
+that 1 292 26
+
+guns 1 292 26
+
+are 1 292 26
+
+downloadable, 1 292 26
+
+and 1 292 26
+
+we 1 292 26
+
+helped 1 292 26
+
+to 1 292 26
+
+do 1 292 26
+
+that.” 1 292 26

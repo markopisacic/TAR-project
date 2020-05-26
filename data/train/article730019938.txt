@@ -1,457 +1,479 @@
-America's 0
-Immigration 0
-Voice. 0
+America's 0 156 0
+Immigration 0 156 0
+Voice. 0 156 0
 
-Police 0
-identify 0
-suspect 0
-in 0
-death 0
-of 0
-2 0
-Ohio 0
-police 0
-officers 0
-by 0
-SARAH 0
-WYNN, 0
-WSYX/WTTE 0
-Saturday, 0
-February 0
-10th 0
-2018 0
-COLUMBUS, 0
-Ohio 0
-(WSYX/WTTE) 0
-- 0
-The 0
-Westerville 0
-Division 0
-of 0
-Police 0
-has 0
-identified 0
-the 0
-suspect 0
-in 0
-the 0
-death 0
-of 0
-two 0
-Westerville 0
-police 0
-officers 0
-as 0
-Quentin 0
-Lamar 0
-Smith. 0
+Police 0 156 1
+identify 0 156 1
+suspect 0 156 1
+in 0 156 1
+death 0 156 1
+of 0 156 1
+2 0 156 1
+Ohio 0 156 1
+police 0 156 1
+officers 0 156 1
+by 0 156 1
+SARAH 0 156 1
+WYNN, 0 156 1
+WSYX/WTTE 0 156 1
+Saturday, 0 156 1
+February 0 156 1
+10th 0 156 1
+2018 0 156 1
+COLUMBUS, 0 156 1
+Ohio 0 156 1
+(WSYX/WTTE) 0 156 1
+- 0 156 1
+The 0 156 1
+Westerville 0 156 1
+Division 0 156 1
+of 0 156 1
+Police 0 156 1
+has 0 156 1
+identified 0 156 1
+the 0 156 1
+suspect 0 156 1
+in 0 156 1
+the 0 156 1
+death 0 156 1
+of 0 156 1
+two 0 156 1
+Westerville 0 156 1
+police 0 156 1
+officers 0 156 1
+as 0 156 1
+Quentin 0 156 1
+Lamar 0 156 1
+Smith. 0 156 1
 
-According 0
-to 0
-police, 0
-a 0
-call 0
-came 0
-into 0
-the 0
-Westerville 0
-Emergency 0
-Dispatch 0
-911 0
-center 0
-Saturday 0
-as 0
-a 0
-hang-up. 0
+According 0 156 2
+to 0 156 2
+police, 0 156 2
+a 0 156 2
+call 0 156 2
+came 0 156 2
+into 0 156 2
+the 0 156 2
+Westerville 0 156 2
+Emergency 0 156 2
+Dispatch 0 156 2
+911 0 156 2
+center 0 156 2
+Saturday 0 156 2
+as 0 156 2
+a 0 156 2
+hang-up. 0 156 2
 
-When 0
-officers 0
-responded 0
-to 0
-Cross 0
-Wind 0
-Drive, 0
-shots 0
-were 0
-fired 0
-at 0
-them, 0
-killing 0
-Officer 0
-Anthony 0
-Morelli 0
-and 0
-Officer 0
-Eric 0
-Joering. 0
+When 0 156 3
+officers 0 156 3
+responded 0 156 3
+to 0 156 3
+Cross 0 156 3
+Wind 0 156 3
+Drive, 0 156 3
+shots 0 156 3
+were 0 156 3
+fired 0 156 3
+at 0 156 3
+them, 0 156 3
+killing 0 156 3
+Officer 0 156 3
+Anthony 0 156 3
+Morelli 0 156 3
+and 0 156 3
+Officer 0 156 3
+Eric 0 156 3
+Joering. 0 156 3
 
-The 0
-Westerville 0
-city 0
-manager 0
-said 0
-Joering, 0
-39, 0
-spent 0
-17 0
-years 0
-on 0
-the 0
-force. 0
+The 0 156 4
+Westerville 0 156 4
+city 0 156 4
+manager 0 156 4
+said 0 156 4
+Joering, 0 156 4
+39, 0 156 4
+spent 0 156 4
+17 0 156 4
+years 0 156 4
+on 0 156 4
+the 0 156 4
+force. 0 156 4
 
-Morelli, 0
-54, 0
-had 0
-30 0
-years 0
-with 0
-Westerville 0
-police. 0
+Morelli, 0 156 5
+54, 0 156 5
+had 0 156 5
+30 0 156 5
+years 0 156 5
+with 0 156 5
+Westerville 0 156 5
+police. 0 156 5
 
-The 0
-City 0
-of 0
-#Westerville 0
-suffered 0
-a 0
-tremendous 0
-loss 0
-today. 0
+The 0 156 6
+City 0 156 6
+of 0 156 6
+#Westerville 0 156 6
+suffered 0 156 6
+a 0 156 6
+tremendous 0 156 6
+loss 0 156 6
+today. 0 156 6
 
-@WestervillePD 0
-Officer 0
-Anthony 0
-Morelli 0
-and 0
-Officer 0
-Eric 0
-Joering 0
-were 0
-killed 0
-in 0
-the 0
-line 0
-of 0
-duty. 0
+@WestervillePD 0 156 7
+Officer 0 156 7
+Anthony 0 156 7
+Morelli 0 156 7
+and 0 156 7
+Officer 0 156 7
+Eric 0 156 7
+Joering 0 156 7
+were 0 156 7
+killed 0 156 7
+in 0 156 7
+the 0 156 7
+line 0 156 7
+of 0 156 7
+duty. 0 156 7
 
-Please 0
-keep 0
-our 0
-first 0
-responders 0
-and 0
-the 0
-officers’ 0
-families 0
-in 0
-your 0
-thoughts 0
-and 0
-prayers. 0
+Please 0 156 8
+keep 0 156 8
+our 0 156 8
+first 0 156 8
+responders 0 156 8
+and 0 156 8
+the 0 156 8
+officers’ 0 156 8
+families 0 156 8
+in 0 156 8
+your 0 156 8
+thoughts 0 156 8
+and 0 156 8
+prayers. 0 156 8
 
-#WestervilleStrong 0
-pic.twitter.com/GcN3Y4FRvr 0
-— 0
-City 0
-of 0
-Westerville 0
-(@tellwesterville) 0
-February 0
-11, 0
-2018 0
+#WestervilleStrong 0 156 9
+pic.twitter.com/GcN3Y4FRvr 0 156 9
+— 0 156 9
+City 0 156 9
+of 0 156 9
+Westerville 0 156 9
+(@tellwesterville) 0 156 9
+February 0 156 9
+11, 0 156 9
+2018 0 156 9
 
-Two 0
-white 1
-police 0
-officers 0
-were 0
-murdered 0
-when 0
-they 0
-went 0
-to 0
-a 0
-domestic 0
-violence 0
-call--someone 0
-had 0
-called 0
-911, 0
-and 0
-the 0
-call 0
-had 0
-been 0
-cut 0
-off 0
-in 0
-the 0
-middle. 0
+Two 0 156 10
+white 1 156 10
+police 0 156 10
+officers 0 156 10
+were 0 156 10
+murdered 0 156 10
+when 0 156 10
+they 0 156 10
+went 0 156 10
+to 0 156 10
+a 0 156 10
+domestic 0 156 10
+violence 0 156 10
+call--someone 0 156 10
+had 0 156 10
+called 0 156 10
+911, 0 156 10
+and 0 156 10
+the 0 156 10
+call 0 156 10
+had 0 156 10
+been 0 156 10
+cut 0 156 10
+off 0 156 10
+in 0 156 10
+the 0 156 10
+middle. 0 156 10
 
-The 0
-Latest: 0
-Police 0
-identify 0
-suspect 0
-in 0
-2 0
-officers' 0
-shootings 0
-By 0
-The 0
-Associated 0
-Press 0
-WESTERVILLE, 0
-Ohio 0
-— 0
-Feb 0
-10, 0
-2018 0
-Police 0
-in 0
-Ohio 0
-have 0
-identified 0
-a 0
-30-year-old 0
-man 0
-as 0
-a 0
-suspect 0
-in 0
-the 0
-fatal 0
-shooting 0
-of 0
-two 0
-police 0
-officers 0
-in 0
-a 0
-Columbus 0
-suburb, 0
-and 0
-released 0
-reports 0
-showing 0
-authorities 0
-have 0
-had 0
-several 0
-dealings 0
-with 0
-him, 0
-some 0
-involving 0
-alleged 0
-domestic 0
-violence. 0
+The 0 156 11
+Latest: 0 156 11
+Police 0 156 11
+identify 0 156 11
+suspect 0 156 11
+in 0 156 11
+2 0 156 11
+officers' 0 156 11
+shootings 0 156 11
+By 0 156 11
+The 0 156 11
+Associated 0 156 11
+Press 0 156 11
+WESTERVILLE, 0 156 11
+Ohio 0 156 11
+— 0 156 11
+Feb 0 156 11
+10, 0 156 11
+2018 0 156 11
+Police 0 156 11
+in 0 156 11
+Ohio 0 156 11
+have 0 156 11
+identified 0 156 11
+a 0 156 11
+30-year-old 0 156 11
+man 0 156 11
+as 0 156 11
+a 0 156 11
+suspect 0 156 11
+in 0 156 11
+the 0 156 11
+fatal 0 156 11
+shooting 0 156 11
+of 0 156 11
+two 0 156 11
+police 0 156 11
+officers 0 156 11
+in 0 156 11
+a 0 156 11
+Columbus 0 156 11
+suburb, 0 156 11
+and 0 156 11
+released 0 156 11
+reports 0 156 11
+showing 0 156 11
+authorities 0 156 11
+have 0 156 11
+had 0 156 11
+several 0 156 11
+dealings 0 156 11
+with 0 156 11
+him, 0 156 11
+some 0 156 11
+involving 0 156 11
+alleged 0 156 11
+domestic 0 156 11
+violence. 0 156 11
 
-Westerville 0
-police 0
-late 0
-Saturday 0
-confirmed 0
-that 0
-the 0
-suspect 0
-is 0
-Quentin 0
-Lamar 0
-Smith. 0
+Westerville 0 156 12
+police 0 156 12
+late 0 156 12
+Saturday 0 156 12
+confirmed 0 156 12
+that 0 156 12
+the 0 156 12
+suspect 0 156 12
+is 0 156 12
+Quentin 0 156 12
+Lamar 0 156 12
+Smith. 0 156 12
 
-Authorities 0
-released 0
-incident 0
-reports 0
-showing 0
-police 0
-had 0
-been 0
-to 0
-his 0
-home 0
-or 0
-had 0
-dealings 0
-with 0
-him 0
-several 0
-times 0
-since 0
-2017. 0
+Authorities 0 156 13
+released 0 156 13
+incident 0 156 13
+reports 0 156 13
+showing 0 156 13
+police 0 156 13
+had 0 156 13
+been 0 156 13
+to 0 156 13
+his 0 156 13
+home 0 156 13
+or 0 156 13
+had 0 156 13
+dealings 0 156 13
+with 0 156 13
+him 0 156 13
+several 0 156 13
+times 0 156 13
+since 0 156 13
+2017. 0 156 13
 
-In 0
-a 0
-Nov. 0
-29 0
-incident, 0
-police 0
-say 0
-his 0
-wife, 0
-33-year-old 0
-Candace 0
-Smith, 0
-asked 0
-about 0
-protection 0
-orders 0
-because 0
-she 0
-and 0
-Quentin 0
-Smith 0
-weren't 0
-getting 0
-along. 0
+In 0 156 14
+a 0 156 14
+Nov. 0 156 14
+29 0 156 14
+incident, 0 156 14
+police 0 156 14
+say 0 156 14
+his 0 156 14
+wife, 0 156 14
+33-year-old 0 156 14
+Candace 0 156 14
+Smith, 0 156 14
+asked 0 156 14
+about 0 156 14
+protection 0 156 14
+orders 0 156 14
+because 0 156 14
+she 0 156 14
+and 0 156 14
+Quentin 0 156 14
+Smith 0 156 14
+weren't 0 156 14
+getting 0 156 14
+along. 0 156 14
 
-She 0
-accused 0
-her 0
-husband 0
-of 0
-threatening 0
-to 0
-kill 0
-her, 0
-their 0
-daughter 0
-and 0
-himself. 0
+She 0 156 15
+accused 0 156 15
+her 0 156 15
+husband 0 156 15
+of 0 156 15
+threatening 0 156 15
+to 0 156 15
+kill 0 156 15
+her, 0 156 15
+their 0 156 15
+daughter 0 156 15
+and 0 156 15
+himself. 0 156 15
 
-She 0
-told 0
-police 0
-he 0
-had 0
-a 0
-gun. 0
+She 0 156 16
+told 0 156 16
+police 0 156 16
+he 0 156 16
+had 0 156 16
+a 0 156 16
+gun. 0 156 16
 
-Police 0
-say 0
-officers 0
-Eric 0
-Joering 0
-and 0
-Anthony 0
-Morelli 0
-were 0
-shot 0
-around 0
-noon 0
-after 0
-responding 0
-to 0
-a 0
-"potential 0
-domestic 0
-situation." 0
+Police 0 156 17
+say 0 156 17
+officers 0 156 17
+Eric 0 156 17
+Joering 0 156 17
+and 0 156 17
+Anthony 0 156 17
+Morelli 0 156 17
+were 0 156 17
+shot 0 156 17
+around 0 156 17
+noon 0 156 17
+after 0 156 17
+responding 0 156 17
+to 0 156 17
+a 0 156 17
+"potential 0 156 17
+domestic 0 156 17
+situation." 0 156 17
 
-[More] 0
+[More] 0 156 18
 
-The 0
-suspect, 0
-alive 0
-and 0
-injured, 0
-has 0
-been 0
-named 0
-as 0
-Quentin 0
-Lamar 0
-Smith:Neither 0
-the 0
-police 0
-nor 0
-the 0
-AP 0
-has 0
-published 0
-a 0
-picture 0
-of 0
-Quentin 0
-Lamar 0
-Smith, 0
-but 0
-internet 0
-detectives 0
-have 0
-found 0
-this 0
-guy 0
-as 0
-the 0
-likely 0
-perp: 0
+The 0 156 19
+suspect, 0 156 19
+alive 0 156 19
+and 0 156 19
+injured, 0 156 19
+has 0 156 19
+been 0 156 19
+named 0 156 19
+as 0 156 19
+Quentin 0 156 19
+Lamar 0 156 19
+Smith:Neither 0 156 19
+the 0 156 19
+police 0 156 19
+nor 0 156 19
+the 0 156 19
+AP 0 156 19
+has 0 156 19
+published 0 156 19
+a 0 156 19
+picture 0 156 19
+of 0 156 19
+Quentin 0 156 19
+Lamar 0 156 19
+Smith, 0 156 19
+but 0 156 19
+internet 0 156 19
+detectives 0 156 19
+have 0 156 19
+found 0 156 19
+this 0 156 19
+guy 0 156 19
+as 0 156 19
+the 0 156 19
+likely 0 156 19
+perp: 0 156 19
 
-Arrest 0
-Information: 0
+Arrest 0 156 20
+Information: 0 156 20
 
-Name: 0
-Quentin 0
-Lamar 0
-Smith 0
+Name: 0 156 21
+Quentin 0 156 21
+Lamar 0 156 21
+Smith 0 156 21
 
-Location: 0
-Westerville, 0
-Ohio 0
+Location: 0 156 22
+Westerville, 0 156 22
+Ohio 0 156 22
 
-Age: 0
-30 0
-years 0
+Age: 0 156 23
+30 0 156 23
+years 0 156 23
 
-Processing 0
-Date: 0
-06-22-2017 0
+Processing 0 156 24
+Date: 0 156 24
+06-22-2017 0 156 24
 
-Booking 0
-Charge: 0
+Booking 0 156 25
+Charge: 0 156 25
 
-PROHIBITED 0
-ACTS 0
+PROHIBITED 0 156 26
+ACTS 0 156 26
 
-A 0
-reminder 0
-that 0
-the 0
-Associated 0
-Press 0
-has 0
-an 0
-official 0
-policy 0
-of 0
-"not 0
-reporting 0
-race" 0
-when 0
-it's 0
-not 0
-"relevant". 0
+A 0 156 27
+reminder 0 156 27
+that 0 156 27
+the 0 156 27
+Associated 0 156 27
+Press 0 156 27
+has 0 156 27
+an 0 156 27
+official 0 156 27
+policy 0 156 27
+of 0 156 27
+"not 0 156 27
+reporting 0 156 27
+race" 0 156 27
+when 0 156 27
+it's 0 156 27
+not 0 156 27
+"relevant". 0 156 27
 
-I 1
-can't 1
-think 1
-of 1
-anything 1
-less 1
-irrelevant 1
-than 1
-a 1
-black 1
-gunman 1
-shooting 1
-two 1
-white 1
-cops--after 1
-five 1
-years 1
-of 1
-the 1
-"Blacks 1
-Lives 1
-Matter" 1
-movement. 1
+I 1 156 27
+
+can't 1 156 27
+
+think 1 156 27
+
+of 1 156 27
+
+anything 1 156 27
+
+less 1 156 27
+
+irrelevant 1 156 27
+
+than 1 156 27
+
+a 1 156 27
+
+black 1 156 27
+
+gunman 1 156 27
+
+shooting 1 156 27
+
+two 1 156 27
+
+white 1 156 27
+
+cops--after 1 156 27
+
+five 1 156 27
+
+years 1 156 27
+
+of 1 156 27
+
+the 1 156 27
+
+"Blacks 1 156 27
+
+Lives 1 156 27
+
+Matter" 1 156 27
+
+movement. 1 156 27

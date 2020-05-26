@@ -1,393 +1,400 @@
-Black 1
-Death 1
-Warning: 0
-The 1
-Plague 1
-Is 1
-Impossible 1
-To 1
-Eradicate 1
+Black 1 94 0
+Death 1 94 0
+Warning: 0 94 0
+The 1 94 0
+Plague 1 94 0
+Is 1 94 0
+Impossible 1 94 0
+To 1 94 0
+Eradicate 1 94 0
 
-Face 0
-masks 0
-are 0
-placed 0
-on 0
-children 0
-in 0
-Antananarivo, 0
-Madagascar 0
-(AP 0
-Photo/Alexander 0
-JOE) 0
+Face 0 94 1
+masks 0 94 1
+are 0 94 1
+placed 0 94 1
+on 0 94 1
+children 0 94 1
+in 0 94 1
+Antananarivo, 0 94 1
+Madagascar 0 94 1
+(AP 0 94 1
+Photo/Alexander 0 94 1
+JOE) 0 94 1
 
-An 0
-expert 0
-is 0
-warning 1
-the 1
-plague 1
-that 1
-has 1
-sickened 1
-over 1
-2000 1
-people 1
-in 1
-Madagascar 1
-since 1
-August 1
-is 1
-impossible 1
-to 1
-eradicate. 1
+An 0 94 2
+expert 0 94 2
+is 0 94 2
+warning 1 94 2
+the 1 94 2
+plague 1 94 2
+that 1 94 2
+has 1 94 2
+sickened 1 94 2
+over 1 94 2
+2000 1 94 2
+people 1 94 2
+in 1 94 2
+Madagascar 1 94 2
+since 1 94 2
+August 1 94 2
+is 1 94 2
+impossible 1 94 2
+to 1 94 2
+eradicate. 1 94 2
 
-Even 0
-though 0
-the 0
-number 0
-of 0
-those 0
-infected 0
-has 0
-dropped 0
-in 0
-recent 0
-weeks, 0
-the 1
-plague 1
-will 1
-never 1
-truly 1
-be 1
-gone. 1
+Even 0 94 3
+though 0 94 3
+the 0 94 3
+number 0 94 3
+of 0 94 3
+those 0 94 3
+infected 0 94 3
+has 0 94 3
+dropped 0 94 3
+in 0 94 3
+recent 0 94 3
+weeks, 0 94 3
+the 1 94 3
+plague 1 94 3
+will 1 94 3
+never 1 94 3
+truly 1 94 3
+be 1 94 3
+gone. 1 94 3
 
-Since 0
-the 0
-airborne 0
-version 0
-of 0
-the 0
-plague 0
-can 0
-kill 0
-a 0
-person 0
-in 0
-just 0
-three 0
-hours, 0
-experts 0
-warn 0
-that 0
-its 0
-too 0
-soon 0
-to 0
-think 0
-that 0
-since 0
-there 0
-hasn’t 0
-been 0
-a 0
-person 0
-infected 0
-in 0
-recent 0
-days, 0
-that 0
-it 0
-won’t 0
-pop 0
-up 0
-again. 0
+Since 0 94 4
+the 0 94 4
+airborne 0 94 4
+version 0 94 4
+of 0 94 4
+the 0 94 4
+plague 0 94 4
+can 0 94 4
+kill 0 94 4
+a 0 94 4
+person 0 94 4
+in 0 94 4
+just 0 94 4
+three 0 94 4
+hours, 0 94 4
+experts 0 94 4
+warn 0 94 4
+that 0 94 4
+its 0 94 4
+too 0 94 4
+soon 0 94 4
+to 0 94 4
+think 0 94 4
+that 0 94 4
+since 0 94 4
+there 0 94 4
+hasn’t 0 94 4
+been 0 94 4
+a 0 94 4
+person 0 94 4
+infected 0 94 4
+in 0 94 4
+recent 0 94 4
+days, 0 94 4
+that 0 94 4
+it 0 94 4
+won’t 0 94 4
+pop 0 94 4
+up 0 94 4
+again. 0 94 4
 
-That’s 0
-because 0
-the 1
-bacteria 1
-that 1
-causes 1
-plague 1
-is 1
-now 1
-so 1
-widespread 1
-in 1
-wildlife, 1
-that 1
-humans 1
-can’t 1
-do 1
-anything 1
-to 1
-get 1
-rid 1
-of 1
-it, 1
-said 0
-Dr. 0
-Allen 0
-Cheng, 0
-Professor 0
-of 0
-Infectious 0
-Diseases 0
-Epidemiology 0
-at 0
-Monash 0
-University 0
-in 0
-Melbourne. 0
+That’s 0 94 5
+because 0 94 5
+the 1 94 5
+bacteria 1 94 5
+that 1 94 5
+causes 1 94 5
+plague 1 94 5
+is 1 94 5
+now 1 94 5
+so 1 94 5
+widespread 1 94 5
+in 1 94 5
+wildlife, 1 94 5
+that 1 94 5
+humans 1 94 5
+can’t 1 94 5
+do 1 94 5
+anything 1 94 5
+to 1 94 5
+get 1 94 5
+rid 1 94 5
+of 1 94 5
+it, 1 94 5
+said 0 94 5
+Dr. 0 94 5
+Allen 0 94 5
+Cheng, 0 94 5
+Professor 0 94 5
+of 0 94 5
+Infectious 0 94 5
+Diseases 0 94 5
+Epidemiology 0 94 5
+at 0 94 5
+Monash 0 94 5
+University 0 94 5
+in 0 94 5
+Melbourne. 0 94 5
 
-“It’s 1
-not 1
-possible 1
-to 1
-eradicate 1
-plague, 1
-as 0
-it 0
-is 0
-widespread 0
-in 0
-wildlife 0
-rodents 0
-outside 0
-the 0
-sphere 0
-of 0
-human 0
-influence,” 0
-Cheng 0
-wrote 0
-on 0
-The 0
-Conversation. 0
+“It’s 1 94 6
+not 1 94 6
+possible 1 94 6
+to 1 94 6
+eradicate 1 94 6
+plague, 1 94 6
+as 0 94 6
+it 0 94 6
+is 0 94 6
+widespread 0 94 6
+in 0 94 6
+wildlife 0 94 6
+rodents 0 94 6
+outside 0 94 6
+the 0 94 6
+sphere 0 94 6
+of 0 94 6
+human 0 94 6
+influence,” 0 94 6
+Cheng 0 94 6
+wrote 0 94 6
+on 0 94 6
+The 0 94 6
+Conversation. 0 94 6
 
-“Outbreaks, 0
-generally, 0
-are 0
-managed 0
-reactively 0
-by 0
-‘firefighting 0
-teams’, 0
-deployed 0
-to 0
-clear 0
-houses 0
-of 0
-fleas, 0
-identify 0
-and 0
-treat 0
-cases 0
-and 0
-give 0
-pre-emptive 0
-treatment 0
-to 0
-contacts 0
-at 0
-risk. 0
+“Outbreaks, 0 94 7
+generally, 0 94 7
+are 0 94 7
+managed 0 94 7
+reactively 0 94 7
+by 0 94 7
+‘firefighting 0 94 7
+teams’, 0 94 7
+deployed 0 94 7
+to 0 94 7
+clear 0 94 7
+houses 0 94 7
+of 0 94 7
+fleas, 0 94 7
+identify 0 94 7
+and 0 94 7
+treat 0 94 7
+cases 0 94 7
+and 0 94 7
+give 0 94 7
+pre-emptive 0 94 7
+treatment 0 94 7
+to 0 94 7
+contacts 0 94 7
+at 0 94 7
+risk. 0 94 7
 
-A 0
-more 0
-preventative 0
-approach, 0
-such 0
-as 0
-the 0
-identification 0
-of 0
-areas 0
-at 0
-risk 0
-using 0
-climate 0
-models 0
-and 0
-animal 0
-surveys 0
-to 0
-focus 0
-flea 0
-and 0
-rat 0
-control 0
-efforts, 0
-would 0
-be 0
-better,” 0
-he 0
-said. 0
+A 0 94 8
+more 0 94 8
+preventative 0 94 8
+approach, 0 94 8
+such 0 94 8
+as 0 94 8
+the 0 94 8
+identification 0 94 8
+of 0 94 8
+areas 0 94 8
+at 0 94 8
+risk 0 94 8
+using 0 94 8
+climate 0 94 8
+models 0 94 8
+and 0 94 8
+animal 0 94 8
+surveys 0 94 8
+to 0 94 8
+focus 0 94 8
+flea 0 94 8
+and 0 94 8
+rat 0 94 8
+control 0 94 8
+efforts, 0 94 8
+would 0 94 8
+be 0 94 8
+better,” 0 94 8
+he 0 94 8
+said. 0 94 8
 
-“But, 0
-this 0
-requires 0
-a 0
-better 0
-understanding 0
-of 0
-transmission 0
-pathways 0
-in 0
-each 0
-region 0
-where 0
-disease 0
-persists.” 0
+“But, 0 94 9
+this 0 94 9
+requires 0 94 9
+a 0 94 9
+better 0 94 9
+understanding 0 94 9
+of 0 94 9
+transmission 0 94 9
+pathways 0 94 9
+in 0 94 9
+each 0 94 9
+region 0 94 9
+where 0 94 9
+disease 0 94 9
+persists.” 0 94 9
 
-The 0
-best 0
-way 0
-to 0
-stop 0
-the 0
-plague 0
-spreading 0
-was 0
-to 0
-focus 0
-on 0
-flea 0
-and 0
-rat 0
-control 0
-in 0
-the 0
-most 0
-at-risk 0
-areas, 0
-he 0
-said. 0
+The 0 94 10
+best 0 94 10
+way 0 94 10
+to 0 94 10
+stop 0 94 10
+the 0 94 10
+plague 0 94 10
+spreading 0 94 10
+was 0 94 10
+to 0 94 10
+focus 0 94 10
+on 0 94 10
+flea 0 94 10
+and 0 94 10
+rat 0 94 10
+control 0 94 10
+in 0 94 10
+the 0 94 10
+most 0 94 10
+at-risk 0 94 10
+areas, 0 94 10
+he 0 94 10
+said. 0 94 10
 
-Cheng’s 0
-comments 0
-came 0
-after 0
-at 0
-least 0
-171 0
-people 0
-died 0
-in 0
-Madagascar 0
-over 0
-an 0
-outbreak 0
-of 0
-plague. 0
+Cheng’s 0 94 11
+comments 0 94 11
+came 0 94 11
+after 0 94 11
+at 0 94 11
+least 0 94 11
+171 0 94 11
+people 0 94 11
+died 0 94 11
+in 0 94 11
+Madagascar 0 94 11
+over 0 94 11
+an 0 94 11
+outbreak 0 94 11
+of 0 94 11
+plague. 0 94 11
 
-Nine 0
-countries 0
-were 0
-urged 0
-by 0
-the 0
-World 0
-Health 0
-Organisation 0
-(WHO) 0
-to 0
-prepare 1
-for 1
-a 1
-black 1
-death 1
-attack, 1
-at 0
-the 0
-end 0
-of 0
-October. 0
+Nine 0 94 12
+countries 0 94 12
+were 0 94 12
+urged 0 94 12
+by 0 94 12
+the 0 94 12
+World 0 94 12
+Health 0 94 12
+Organisation 0 94 12
+(WHO) 0 94 12
+to 0 94 12
+prepare 1 94 12
+for 1 94 12
+a 1 94 12
+black 1 94 12
+death 1 94 12
+attack, 1 94 12
+at 0 94 12
+the 0 94 12
+end 0 94 12
+of 0 94 12
+October. 0 94 12
 
-It’s 0
-been 0
-reported 0
-that 0
-plague 0
-has 0
-been 0
-transmitted 0
-to 0
-humans 0
-by 0
-camels, 0
-goats, 0
-prairie 0
-dogs, 0
-rock 0
-squirrels 0
-and 0
-guinea 0
-pigs 0
-since 0
-the 0
-1960’s. 0
+It’s 0 94 13
+been 0 94 13
+reported 0 94 13
+that 0 94 13
+plague 0 94 13
+has 0 94 13
+been 0 94 13
+transmitted 0 94 13
+to 0 94 13
+humans 0 94 13
+by 0 94 13
+camels, 0 94 13
+goats, 0 94 13
+prairie 0 94 13
+dogs, 0 94 13
+rock 0 94 13
+squirrels 0 94 13
+and 0 94 13
+guinea 0 94 13
+pigs 0 94 13
+since 0 94 13
+the 0 94 13
+1960’s. 0 94 13
 
-There 0
-are 0
-only 0
-a 0
-few 0
-remaining 0
-hotspots 0
-for 0
-plague 0
-in 0
-the 0
-world 0
-– 0
-Madagascar 0
-being 0
-one 0
-of 0
-them. 0
+There 0 94 14
+are 0 94 14
+only 0 94 14
+a 0 94 14
+few 0 94 14
+remaining 0 94 14
+hotspots 0 94 14
+for 0 94 14
+plague 0 94 14
+in 0 94 14
+the 0 94 14
+world 0 94 14
+– 0 94 14
+Madagascar 0 94 14
+being 0 94 14
+one 0 94 14
+of 0 94 14
+them. 0 94 14
 
-This 0
-outbreak 0
-was 0
-also 0
-highly 0
-“unusual”, 0
-in 0
-that 0
-several 0
-different 0
-parts 0
-of 0
-the 0
-island 0
-were 0
-affected, 0
-including 0
-areas 0
-with 0
-lots 0
-of 0
-people. 0
+This 0 94 15
+outbreak 0 94 15
+was 0 94 15
+also 0 94 15
+highly 0 94 15
+“unusual”, 0 94 15
+in 0 94 15
+that 0 94 15
+several 0 94 15
+different 0 94 15
+parts 0 94 15
+of 0 94 15
+the 0 94 15
+island 0 94 15
+were 0 94 15
+affected, 0 94 15
+including 0 94 15
+areas 0 94 15
+with 0 94 15
+lots 0 94 15
+of 0 94 15
+people. 0 94 15
 
-WHO 0
-has 0
-reported 0
-2119 0
-cases 0
-of 0
-the 0
-plague 0
-as 0
-of 0
-November 0
-10. 0
+WHO 0 94 16
+has 0 94 16
+reported 0 94 16
+2119 0 94 16
+cases 0 94 16
+of 0 94 16
+the 0 94 16
+plague 0 94 16
+as 0 94 16
+of 0 94 16
+November 0 94 16
+10. 0 94 16
 
-171 0
-have 0
-died 0
-of 0
-the 0
-disease 0
-so 0
-far. 0
+171 0 94 16
+
+have 0 94 16
+
+died 0 94 16
+
+of 0 94 16
+
+the 0 94 16
+
+disease 0 94 16
+
+so 0 94 16
+
+far. 0 94 16

@@ -25,7 +25,7 @@ def is_in_span(spans, pos):
     return 0
 
 
-for filename in os.listdir(LABELS_DIR):
+for doc_idx, filename in enumerate(os.listdir(LABELS_DIR)):
     spans = []
     with open(LABELS_DIR + '/' + filename) as file:
         for line in file:
@@ -33,18 +33,19 @@ for filename in os.listdir(LABELS_DIR):
     spans = sorted(spans, key = lambda x: x[0])
 
     with open(ARTICLES_DIR + '/' + filename) as file: text = file.read()
-    newlines = [m.start() for m in re.finditer('\n', text)]
     labels = []
     for w, o1, o2 in split_with_offsets(text):
         labels.append((w, o1, is_in_span(spans, (o1 + o2) / 2)))
 
+    text = os.linesep.join([s for s in text.splitlines() if s])
+    newlines = [m.start() for m in re.finditer('\n', text)]
     out_file = open(OUT_DIR + '/' + filename, "w")
-    current_newline_idx = 1
+    current_newline_idx = 0
     for w,o,l in labels:
         if o > newlines[current_newline_idx]:
             current_newline_idx = current_newline_idx+1 if current_newline_idx < len(newlines)-1 else len(newlines)-1
             out_file.write('\n')
-        out_file.write(w + " " + str(l) + "\n")
+        out_file.write(w + " " + str(l) + " " + str(doc_idx) + " " + str(current_newline_idx) + "\n")
     out_file.close()
 
 

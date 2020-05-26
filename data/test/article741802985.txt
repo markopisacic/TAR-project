@@ -1,680 +1,686 @@
-Willfully 1
-Ignorant 1
-FBI 1
-Can't 1
-Discover 1
-Motive 1
-For 1
-Muslim 1
-Jihadi 1
-Who 1
-Drove 1
-Into 1
-Propane 1
-Tanks 1
-At 1
-Travis 1
-Air 1
-Force 1
-Base 1
+Willfully 1 203 0
+Ignorant 1 203 0
+FBI 1 203 0
+Can't 1 203 0
+Discover 1 203 0
+Motive 1 203 0
+For 1 203 0
+Muslim 1 203 0
+Jihadi 1 203 0
+Who 1 203 0
+Drove 1 203 0
+Into 1 203 0
+Propane 1 203 0
+Tanks 1 203 0
+At 1 203 0
+Travis 1 203 0
+Air 1 203 0
+Force 1 203 0
+Base 1 203 0
 
-“We 0
-don’t 0
-have 0
-any 0
-nexus 0
-of 0
-terrorism 0
-at 0
-this 0
-point,” 0
-Ragan 0
-said. 0
+“We 0 203 1
+don’t 0 203 1
+have 0 203 1
+any 0 203 1
+nexus 0 203 1
+of 0 203 1
+terrorism 0 203 1
+at 0 203 1
+this 0 203 1
+point,” 0 203 1
+Ragan 0 203 1
+said. 0 203 1
 
-That 0
-means 0
-they 0
-didn’t 0
-find 0
-an 0
-ISIS 0
-membership 0
-card 0
-in 0
-his 0
-wallet, 0
-or 0
-lots 0
-of 0
-phone 0
-calls 0
-to 0
-Iraq 0
-or 0
-Syria, 0
-or 0
-a 0
-note 0
-from 0
-Kazi 0
-reading, 0
-“I 0
-did 0
-this 0
-for 0
-Allah 0
-and 0
-Islam. 0
+That 0 203 2
+means 0 203 2
+they 0 203 2
+didn’t 0 203 2
+find 0 203 2
+an 0 203 2
+ISIS 0 203 2
+membership 0 203 2
+card 0 203 2
+in 0 203 2
+his 0 203 2
+wallet, 0 203 2
+or 0 203 2
+lots 0 203 2
+of 0 203 2
+phone 0 203 2
+calls 0 203 2
+to 0 203 2
+Iraq 0 203 2
+or 0 203 2
+Syria, 0 203 2
+or 0 203 2
+a 0 203 2
+note 0 203 2
+from 0 203 2
+Kazi 0 203 2
+reading, 0 203 2
+“I 0 203 2
+did 0 203 2
+this 0 203 2
+for 0 203 2
+Allah 0 203 2
+and 0 203 2
+Islam. 0 203 2
 
-Allahu 1
-akbar.” 1
+Allahu 1 203 3
+akbar.” 1 203 3
 
-Of 1
-course, 1
-even 1
-if 1
-they 1
-had 1
-found 1
-those 1
-things, 1
-given 1
-their 1
-track 1
-record 1
-of 1
-denial 1
-and 1
-deception, 1
-they 1
-may 1
-still 1
-be 1
-searching 1
-for 1
-Kazi’s 1
-motive. 1
+Of 1 203 4
+course, 1 203 4
+even 1 203 4
+if 1 203 4
+they 1 203 4
+had 1 203 4
+found 1 203 4
+those 1 203 4
+things, 1 203 4
+given 1 203 4
+their 1 203 4
+track 1 203 4
+record 1 203 4
+of 1 203 4
+denial 1 203 4
+and 1 203 4
+deception, 1 203 4
+they 1 203 4
+may 1 203 4
+still 1 203 4
+be 1 203 4
+searching 1 203 4
+for 1 203 4
+Kazi’s 1 203 4
+motive. 1 203 4
 
-In 1
-any 1
-case, 1
-a 1
-larger 1
-point 1
-is 1
-being 1
-lost 1
-here. 1
+In 1 203 5
+any 1 203 5
+case, 1 203 5
+a 1 203 5
+larger 1 203 5
+point 1 203 5
+is 1 203 5
+being 1 203 5
+lost 1 203 5
+here. 1 203 5
 
-And 1
-that 1
-is 1
-that 1
-there 1
-is 1
-a 1
-war 1
-going 1
-on. 1
+And 1 203 6
+that 1 203 6
+is 1 203 6
+that 1 203 6
+there 1 203 6
+is 1 203 6
+a 1 203 6
+war 1 203 6
+going 1 203 6
+on. 1 203 6
 
-We 1
-know 1
-that 1
-the 1
-Islamic 1
-State, 1
-al-Qaeda 1
-and 1
-other 1
-groups 1
-have 1
-called 1
-upon 1
-Muslims 1
-in 1
-the 1
-U.S. 1
-to 1
-try 1
-to 1
-kill 1
-military 1
-personnel 1
-and 1
-police, 1
-as 1
-well 1
-as 1
-civilians. 1
+We 1 203 7
+know 1 203 7
+that 1 203 7
+the 1 203 7
+Islamic 1 203 7
+State, 1 203 7
+al-Qaeda 1 203 7
+and 1 203 7
+other 1 203 7
+groups 1 203 7
+have 1 203 7
+called 1 203 7
+upon 1 203 7
+Muslims 1 203 7
+in 1 203 7
+the 1 203 7
+U.S. 1 203 7
+to 1 203 7
+try 1 203 7
+to 1 203 7
+kill 1 203 7
+military 1 203 7
+personnel 1 203 7
+and 1 203 7
+police, 1 203 7
+as 1 203 7
+well 1 203 7
+as 1 203 7
+civilians. 1 203 7
 
-We 0
-know 0
-that 0
-Kazi, 0
-with 0
-all 0
-the 0
-propane 0
-and 0
-gas 0
-tanks 0
-in 0
-his 0
-car, 0
-was 0
-clearly 0
-trying 0
-to 0
-set 0
-off 0
-a 0
-major 0
-fire 0
-that 0
-would 0
-kill 0
-more 0
-people 0
-than 0
-just 0
-himself. 0
+We 0 203 8
+know 0 203 8
+that 0 203 8
+Kazi, 0 203 8
+with 0 203 8
+all 0 203 8
+the 0 203 8
+propane 0 203 8
+and 0 203 8
+gas 0 203 8
+tanks 0 203 8
+in 0 203 8
+his 0 203 8
+car, 0 203 8
+was 0 203 8
+clearly 0 203 8
+trying 0 203 8
+to 0 203 8
+set 0 203 8
+off 0 203 8
+a 0 203 8
+major 0 203 8
+fire 0 203 8
+that 0 203 8
+would 0 203 8
+kill 0 203 8
+more 0 203 8
+people 0 203 8
+than 0 203 8
+just 0 203 8
+himself. 0 203 8
 
-Even 0
-if 0
-he 0
-wasn’t 0
-on 0
-the 0
-phone 0
-to 0
-Baghdadi, 0
-the 0
-likelihood 0
-is 0
-that 0
-when 0
-a 0
-Muslim 0
-drives 0
-into 0
-a 0
-U.S. 0
-Air 0
-Force 0
-Base 0
-with 0
-a 0
-car 0
-full 0
-of 0
-incendiaries, 0
-probably 0
-this 0
-has 0
-something 0
-to 0
-do 0
-with 0
-the 0
-global 0
-jihad. 0
+Even 0 203 9
+if 0 203 9
+he 0 203 9
+wasn’t 0 203 9
+on 0 203 9
+the 0 203 9
+phone 0 203 9
+to 0 203 9
+Baghdadi, 0 203 9
+the 0 203 9
+likelihood 0 203 9
+is 0 203 9
+that 0 203 9
+when 0 203 9
+a 0 203 9
+Muslim 0 203 9
+drives 0 203 9
+into 0 203 9
+a 0 203 9
+U.S. 0 203 9
+Air 0 203 9
+Force 0 203 9
+Base 0 203 9
+with 0 203 9
+a 0 203 9
+car 0 203 9
+full 0 203 9
+of 0 203 9
+incendiaries, 0 203 9
+probably 0 203 9
+this 0 203 9
+has 0 203 9
+something 0 203 9
+to 0 203 9
+do 0 203 9
+with 0 203 9
+the 0 203 9
+global 0 203 9
+jihad. 0 203 9
 
-The 0
-FBI’s 0
-bafflement 0
-here 0
-is 0
-part 0
-of 0
-its 0
-deep, 0
-deep 0
-corruption. 0
+The 0 203 10
+FBI’s 0 203 10
+bafflement 0 203 10
+here 0 203 10
+is 0 203 10
+part 0 203 10
+of 0 203 10
+its 0 203 10
+deep, 0 203 10
+deep 0 203 10
+corruption. 0 203 10
 
-The 0
-FBI 0
-doesn’t 0
-acknowledge 0
-that 0
-there 0
-is 0
-a 0
-global 0
-jihad, 0
-or 0
-that 0
-Islam 0
-has 0
-anything 0
-to 0
-do 0
-with 0
-terrorism. 0
+The 0 203 11
+FBI 0 203 11
+doesn’t 0 203 11
+acknowledge 0 203 11
+that 0 203 11
+there 0 203 11
+is 0 203 11
+a 0 203 11
+global 0 203 11
+jihad, 0 203 11
+or 0 203 11
+that 0 203 11
+Islam 0 203 11
+has 0 203 11
+anything 0 203 11
+to 0 203 11
+do 0 203 11
+with 0 203 11
+terrorism. 0 203 11
 
-It 0
-doesn’t 0
-admit 0
-that 0
-there 0
-is 0
-a 0
-war 0
-going 0
-on, 0
-and 0
-treats 0
-each 0
-act 0
-of 0
-Islamic 0
-terror 0
-as 0
-if 0
-it 0
-were 0
-a 0
-separate 0
-and 0
-discrete 0
-criminal 0
-event, 0
-unrelated 0
-to 0
-all 0
-the 0
-others. 0
+It 0 203 12
+doesn’t 0 203 12
+admit 0 203 12
+that 0 203 12
+there 0 203 12
+is 0 203 12
+a 0 203 12
+war 0 203 12
+going 0 203 12
+on, 0 203 12
+and 0 203 12
+treats 0 203 12
+each 0 203 12
+act 0 203 12
+of 0 203 12
+Islamic 0 203 12
+terror 0 203 12
+as 0 203 12
+if 0 203 12
+it 0 203 12
+were 0 203 12
+a 0 203 12
+separate 0 203 12
+and 0 203 12
+discrete 0 203 12
+criminal 0 203 12
+event, 0 203 12
+unrelated 0 203 12
+to 0 203 12
+all 0 203 12
+the 0 203 12
+others. 0 203 12
 
-So, 0
-each 0
-time 0
-something 0
-like 0
-this 0
-happens, 0
-they’re 0
-back 0
-at 0
-Square 0
-One, 0
-trying 0
-to 0
-figure 0
-out 0
-motive. 0
+So, 0 203 13
+each 0 203 13
+time 0 203 13
+something 0 203 13
+like 0 203 13
+this 0 203 13
+happens, 0 203 13
+they’re 0 203 13
+back 0 203 13
+at 0 203 13
+Square 0 203 13
+One, 0 203 13
+trying 0 203 13
+to 0 203 13
+figure 0 203 13
+out 0 203 13
+motive. 0 203 13
 
-It’s 0
-as 0
-if 0
-the 0
-U.S. 0
-Army 0
-stopped 0
-to 0
-interrogate 0
-every 0
-German 0
-soldier 0
-who 0
-crashed 0
-through 0
-the 0
-Ardennes 0
-Forest 0
-at 0
-the 0
-beginning 0
-of 0
-the 0
-Battle 0
-of 0
-the 0
-Bulge 0
-in 0
-1944, 0
-to 0
-see 0
-if 0
-each 0
-one’s 0
-actions 0
-had 0
-anything 0
-to 0
-do 0
-with 0
-the 0
-German 1
-Army 1
-and 1
-Adolf 1
-Hitler’s 1
-war 0
-aims. 0
+It’s 0 203 14
+as 0 203 14
+if 0 203 14
+the 0 203 14
+U.S. 0 203 14
+Army 0 203 14
+stopped 0 203 14
+to 0 203 14
+interrogate 0 203 14
+every 0 203 14
+German 0 203 14
+soldier 0 203 14
+who 0 203 14
+crashed 0 203 14
+through 0 203 14
+the 0 203 14
+Ardennes 0 203 14
+Forest 0 203 14
+at 0 203 14
+the 0 203 14
+beginning 0 203 14
+of 0 203 14
+the 0 203 14
+Battle 0 203 14
+of 0 203 14
+the 0 203 14
+Bulge 0 203 14
+in 0 203 14
+1944, 0 203 14
+to 0 203 14
+see 0 203 14
+if 0 203 14
+each 0 203 14
+one’s 0 203 14
+actions 0 203 14
+had 0 203 14
+anything 0 203 14
+to 0 203 14
+do 0 203 14
+with 0 203 14
+the 0 203 14
+German 1 203 14
+Army 1 203 14
+and 1 203 14
+Adolf 1 203 14
+Hitler’s 1 203 14
+war 0 203 14
+aims. 0 203 14
 
-This 0
-willful 0
-ignorance 0
-leads 0
-to 0
-a 0
-diversion 0
-and 0
-waste 0
-of 0
-resources 0
-that 0
-is 0
-astronomical 1
-and 1
-catastrophic. 1
+This 0 203 15
+willful 0 203 15
+ignorance 0 203 15
+leads 0 203 15
+to 0 203 15
+a 0 203 15
+diversion 0 203 15
+and 0 203 15
+waste 0 203 15
+of 0 203 15
+resources 0 203 15
+that 0 203 15
+is 0 203 15
+astronomical 1 203 15
+and 1 203 15
+catastrophic. 1 203 15
 
-“Motive 0
-a 0
-mystery 0
-in 0
-car 0
-explosion 0
-at 0
-Travis 0
-Air 0
-Force 0
-Base,” 0
-by 0
-Phil 0
-Willon, 0
-Los 0
-Angeles 0
-Times, 0
-March 0
-23, 0
-2018: 0
+“Motive 0 203 16
+a 0 203 16
+mystery 0 203 16
+in 0 203 16
+car 0 203 16
+explosion 0 203 16
+at 0 203 16
+Travis 0 203 16
+Air 0 203 16
+Force 0 203 16
+Base,” 0 203 16
+by 0 203 16
+Phil 0 203 16
+Willon, 0 203 16
+Los 0 203 16
+Angeles 0 203 16
+Times, 0 203 16
+March 0 203 16
+23, 0 203 16
+2018: 0 203 16
 
-Federal 0
-investigators 0
-on 0
-Friday 0
-said 0
-that 0
-the 0
-person 0
-who 0
-drove 0
-a 0
-burning 0
-minivan 0
-filled 0
-with 0
-propane 0
-and 0
-gas 0
-tanks 0
-into 0
-the 0
-front 0
-gate 0
-of 0
-Travis 0
-Air 0
-Force 0
-Base 0
-in 0
-Northern 0
-California 0
-was 0
-a 0
-51-year-old 0
-Bay 0
-Area 0
-man 0
-originally 0
-from 0
-India. 0
+Federal 0 203 17
+investigators 0 203 17
+on 0 203 17
+Friday 0 203 17
+said 0 203 17
+that 0 203 17
+the 0 203 17
+person 0 203 17
+who 0 203 17
+drove 0 203 17
+a 0 203 17
+burning 0 203 17
+minivan 0 203 17
+filled 0 203 17
+with 0 203 17
+propane 0 203 17
+and 0 203 17
+gas 0 203 17
+tanks 0 203 17
+into 0 203 17
+the 0 203 17
+front 0 203 17
+gate 0 203 17
+of 0 203 17
+Travis 0 203 17
+Air 0 203 17
+Force 0 203 17
+Base 0 203 17
+in 0 203 17
+Northern 0 203 17
+California 0 203 17
+was 0 203 17
+a 0 203 17
+51-year-old 0 203 17
+Bay 0 203 17
+Area 0 203 17
+man 0 203 17
+originally 0 203 17
+from 0 203 17
+India. 0 203 17
 
-Hafiz 0
-Kazi 0
-was 0
-a 0
-legal 0
-permanent 0
-resident 0
-and 0
-had 0
-lived 0
-in 0
-the 0
-United 0
-States 0
-since 0
-1993, 0
-said 0
-Sean 0
-Ragan, 0
-FBI 0
-special 0
-agent 0
-in 0
-charge 0
-of 0
-the 0
-Sacramento 0
-field 0
-office. 0
+Hafiz 0 203 18
+Kazi 0 203 18
+was 0 203 18
+a 0 203 18
+legal 0 203 18
+permanent 0 203 18
+resident 0 203 18
+and 0 203 18
+had 0 203 18
+lived 0 203 18
+in 0 203 18
+the 0 203 18
+United 0 203 18
+States 0 203 18
+since 0 203 18
+1993, 0 203 18
+said 0 203 18
+Sean 0 203 18
+Ragan, 0 203 18
+FBI 0 203 18
+special 0 203 18
+agent 0 203 18
+in 0 203 18
+charge 0 203 18
+of 0 203 18
+the 0 203 18
+Sacramento 0 203 18
+field 0 203 18
+office. 0 203 18
 
-Kazi 0
-had 0
-lived 0
-in 0
-the 0
-Bay 0
-Area, 0
-including 0
-Sausalito, 0
-Ragan 0
-said, 0
-but 0
-his 0
-most 0
-recent 0
-place 0
-of 0
-residence 0
-was 0
-not 0
-known. 0
+Kazi 0 203 19
+had 0 203 19
+lived 0 203 19
+in 0 203 19
+the 0 203 19
+Bay 0 203 19
+Area, 0 203 19
+including 0 203 19
+Sausalito, 0 203 19
+Ragan 0 203 19
+said, 0 203 19
+but 0 203 19
+his 0 203 19
+most 0 203 19
+recent 0 203 19
+place 0 203 19
+of 0 203 19
+residence 0 203 19
+was 0 203 19
+not 0 203 19
+known. 0 203 19
 
-Investigators 0
-have 0
-yet 0
-to 0
-determine 0
-a 0
-motive 0
-for 0
-the 0
-Wednesday 0
-night 0
-attack 0
-or 0
-evidence 0
-that 0
-anyone 0
-else 0
-was 0
-involved. 0
+Investigators 0 203 20
+have 0 203 20
+yet 0 203 20
+to 0 203 20
+determine 0 203 20
+a 0 203 20
+motive 0 203 20
+for 0 203 20
+the 0 203 20
+Wednesday 0 203 20
+night 0 203 20
+attack 0 203 20
+or 0 203 20
+evidence 0 203 20
+that 0 203 20
+anyone 0 203 20
+else 0 203 20
+was 0 203 20
+involved. 0 203 20
 
-“We 0
-don’t 0
-have 0
-any 0
-nexus 0
-of 0
-terrorism 0
-at 0
-this 0
-point,” 0
-Ragan 0
-said, 0
-adding 0
-that 0
-aspect 0
-of 0
-the 0
-case 0
-was 0
-still 0
-being 0
-investigated. 0
+“We 0 203 21
+don’t 0 203 21
+have 0 203 21
+any 0 203 21
+nexus 0 203 21
+of 0 203 21
+terrorism 0 203 21
+at 0 203 21
+this 0 203 21
+point,” 0 203 21
+Ragan 0 203 21
+said, 0 203 21
+adding 0 203 21
+that 0 203 21
+aspect 0 203 21
+of 0 203 21
+the 0 203 21
+case 0 203 21
+was 0 203 21
+still 0 203 21
+being 0 203 21
+investigated. 0 203 21
 
-“Now 0
-the 0
-question 0
-is, 0
-why. 0
+“Now 0 203 22
+the 0 203 22
+question 0 203 22
+is, 0 203 22
+why. 0 203 22
 
-Why 0
-was 0
-he 0
-there? 0
+Why 0 203 23
+was 0 203 23
+he 0 203 23
+there? 0 203 23
 
-What 0
-led 0
-him 0
-there? 0
+What 0 203 24
+led 0 203 24
+him 0 203 24
+there? 0 203 24
 
-And 0
-we 0
-don’t 0
-know 0
-answers 0
-to 0
-that, 0
-quite 0
-frankly.” 0
-Kazi 0
-drove 0
-the 0
-Kia 0
-minivan 0
-through 0
-the 0
-front 0
-gate 0
-of 0
-the 0
-military 0
-base, 0
-which 0
-is 0
-near 0
-Fairfield, 0
-around 0
-7 0
-p.m. 0
-Wednesday. 0
+And 0 203 25
+we 0 203 25
+don’t 0 203 25
+know 0 203 25
+answers 0 203 25
+to 0 203 25
+that, 0 203 25
+quite 0 203 25
+frankly.” 0 203 25
+Kazi 0 203 25
+drove 0 203 25
+the 0 203 25
+Kia 0 203 25
+minivan 0 203 25
+through 0 203 25
+the 0 203 25
+front 0 203 25
+gate 0 203 25
+of 0 203 25
+the 0 203 25
+military 0 203 25
+base, 0 203 25
+which 0 203 25
+is 0 203 25
+near 0 203 25
+Fairfield, 0 203 25
+around 0 203 25
+7 0 203 25
+p.m. 0 203 25
+Wednesday. 0 203 25
 
-Security 0
-personnel 0
-saw 0
-flames 0
-inside 0
-the 0
-van, 0
-which 0
-crashed 0
-shortly 0
-after 0
-going 0
-through 0
-the 0
-gate, 0
-Ragan 0
-said. 0
+Security 0 203 26
+personnel 0 203 26
+saw 0 203 26
+flames 0 203 26
+inside 0 203 26
+the 0 203 26
+van, 0 203 26
+which 0 203 26
+crashed 0 203 26
+shortly 0 203 26
+after 0 203 26
+going 0 203 26
+through 0 203 26
+the 0 203 26
+gate, 0 203 26
+Ragan 0 203 26
+said. 0 203 26
 
-Emergency 0
-responders 0
-initially 0
-did 0
-not 0
-know 0
-if 0
-it 0
-was 0
-an 0
-attack 0
-or 0
-some 0
-sort 0
-of 0
-mishap. 0
+Emergency 0 203 27
+responders 0 203 27
+initially 0 203 27
+did 0 203 27
+not 0 203 27
+know 0 203 27
+if 0 203 27
+it 0 203 27
+was 0 203 27
+an 0 203 27
+attack 0 203 27
+or 0 203 27
+some 0 203 27
+sort 0 203 27
+of 0 203 27
+mishap. 0 203 27
 
-But 0
-when 0
-they 0
-opened 0
-the 0
-doors 0
-to 0
-the 0
-minivan 0
-they 0
-found 0
-five 0
-propane 0
-tanks, 0
-three 0
-plastic 0
-one-gallon 0
-gas 0
-cans, 0
-several 0
-lighters, 0
-three 0
-phones 0
-and 0
-a 0
-gym 0
-bag 0
-with 0
-personal 0
-items, 0
-Ragan 0
-said…. 0
+But 0 203 28
+when 0 203 28
+they 0 203 28
+opened 0 203 28
+the 0 203 28
+doors 0 203 28
+to 0 203 28
+the 0 203 28
+minivan 0 203 28
+they 0 203 28
+found 0 203 28
+five 0 203 28
+propane 0 203 28
+tanks, 0 203 28
+three 0 203 28
+plastic 0 203 28
+one-gallon 0 203 28
+gas 0 203 28
+cans, 0 203 28
+several 0 203 28
+lighters, 0 203 28
+three 0 203 28
+phones 0 203 28
+and 0 203 28
+a 0 203 28
+gym 0 203 28
+bag 0 203 28
+with 0 203 28
+personal 0 203 28
+items, 0 203 28
+Ragan 0 203 28
+said…. 0 203 28
 
-The 0
-dead 0
-man’s 0
-religious 0
-beliefs 0
-and 0
-affiliation 0
-are 0
-not 0
-known 0
-at 0
-this 0
-point, 0
-said 0
-Ragan, 0
-who 0
-debunked 0
-a 0
-rumor 0
-that 0
-some 0
-sort 0
-of 0
-“jihad” 0
-video 0
-was 0
-found 0
-on 0
-Kazi’s 0
-phone…. 0
+The 0 203 29
+dead 0 203 29
+man’s 0 203 29
+religious 0 203 29
+beliefs 0 203 29
+and 0 203 29
+affiliation 0 203 29
+are 0 203 29
+not 0 203 29
+known 0 203 29
+at 0 203 29
+this 0 203 29
+point, 0 203 29
+said 0 203 29
+Ragan, 0 203 29
+who 0 203 29
+debunked 0 203 29
+a 0 203 29
+rumor 0 203 29
+that 0 203 29
+some 0 203 29
+sort 0 203 29
+of 0 203 29
+“jihad” 0 203 29
+video 0 203 29
+was 0 203 29
+found 0 203 29
+on 0 203 29
+Kazi’s 0 203 29
+phone…. 0 203 29
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-Robert 0
-Spencer 0
+Article 0 203 29
+
+posted 0 203 29
+
+with 0 203 29
+
+permission 0 203 29
+
+from 0 203 29
+
+Robert 0 203 29
+
+Spencer 0 203 29

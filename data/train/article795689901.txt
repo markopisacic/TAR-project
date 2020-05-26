@@ -1,329 +1,349 @@
-Trump 0
-threatens 0
-military 0
-closure 0
-at 0
-US 0
-border 0
-to 0
-stop 0
-migrants 0
+Trump 0 386 0
+threatens 0 386 0
+military 0 386 0
+closure 0 386 0
+at 0 386 0
+US 0 386 0
+border 0 386 0
+to 0 386 0
+stop 0 386 0
+migrants 0 386 0
 
-Personal 0
-Liberty 0
-Poll 0
-Exercise 0
-your 0
-right 0
-to 0
-vote. 0
+Personal 0 386 1
+Liberty 0 386 1
+Poll 0 386 1
+Exercise 0 386 1
+your 0 386 1
+right 0 386 1
+to 0 386 1
+vote. 0 386 1
 
-President 0
-Donald 0
-Trump 0
-said 0
-he’ll 0
-mobilize 0
-the 0
-U.S. 0
-military 0
-to 0
-close 0
-the 0
-border 0
-with 0
-Mexico 0
-to 0
-stop 0
-an 1
-“assault” 1
-on 1
-the 1
-nation 1
-by 0
-a 0
-caravan 0
-of 0
-migrants 0
-from 0
-Central 0
-America, 0
-according 0
-to 0
-a 0
-report 0
-by 0
-Bloomberg.com. 0
+President 0 386 2
+Donald 0 386 2
+Trump 0 386 2
+said 0 386 2
+he’ll 0 386 2
+mobilize 0 386 2
+the 0 386 2
+U.S. 0 386 2
+military 0 386 2
+to 0 386 2
+close 0 386 2
+the 0 386 2
+border 0 386 2
+with 0 386 2
+Mexico 0 386 2
+to 0 386 2
+stop 0 386 2
+an 1 386 2
+“assault” 1 386 2
+on 1 386 2
+the 1 386 2
+nation 1 386 2
+by 0 386 2
+a 0 386 2
+caravan 0 386 2
+of 0 386 2
+migrants 0 386 2
+from 0 386 2
+Central 0 386 2
+America, 0 386 2
+according 0 386 2
+to 0 386 2
+a 0 386 2
+report 0 386 2
+by 0 386 2
+Bloomberg.com. 0 386 2
 
-Trump, 0
-who 0
-ran 0
-in 0
-2016 0
-promising 0
-to 0
-tighten 0
-U.S. 0
-immigration 0
-laws 0
-and 0
-stanch 0
-the 0
-inflow 0
-of 0
-undocumented 0
-migrants, 0
-has 0
-called 0
-for 0
-cutting 0
-off 0
-foreign 0
-aid 0
-to 0
-Guatemala, 0
-Honduras 0
-and 0
-El 0
-Salvador 0
-if 0
-they 0
-don’t 0
-stop 0
-the 0
-migrants. 0
+Trump, 0 386 3
+who 0 386 3
+ran 0 386 3
+in 0 386 3
+2016 0 386 3
+promising 0 386 3
+to 0 386 3
+tighten 0 386 3
+U.S. 0 386 3
+immigration 0 386 3
+laws 0 386 3
+and 0 386 3
+stanch 0 386 3
+the 0 386 3
+inflow 0 386 3
+of 0 386 3
+undocumented 0 386 3
+migrants, 0 386 3
+has 0 386 3
+called 0 386 3
+for 0 386 3
+cutting 0 386 3
+off 0 386 3
+foreign 0 386 3
+aid 0 386 3
+to 0 386 3
+Guatemala, 0 386 3
+Honduras 0 386 3
+and 0 386 3
+El 0 386 3
+Salvador 0 386 3
+if 0 386 3
+they 0 386 3
+don’t 0 386 3
+stop 0 386 3
+the 0 386 3
+migrants. 0 386 3
 
-He 0
-claimed 0
-Thursday 0
-— 0
-without 0
-providing 0
-evidence 0
-— 0
-that 0
-Democrats 0
-are 0
-backing 0
-the 0
-human 0
-movement 0
-to 0
-bolster 0
-their 0
-case 0
-for 0
-“open 0
-borders 0
-and 0
-existing 0
-weak 0
-laws.” 0
+He 0 386 4
+claimed 0 386 4
+Thursday 0 386 4
+— 0 386 4
+without 0 386 4
+providing 0 386 4
+evidence 0 386 4
+— 0 386 4
+that 0 386 4
+Democrats 0 386 4
+are 0 386 4
+backing 0 386 4
+the 0 386 4
+human 0 386 4
+movement 0 386 4
+to 0 386 4
+bolster 0 386 4
+their 0 386 4
+case 0 386 4
+for 0 386 4
+“open 0 386 4
+borders 0 386 4
+and 0 386 4
+existing 0 386 4
+weak 0 386 4
+laws.” 0 386 4
 
-“In 0
-addition 0
-to 0
-stopping 0
-all 0
-payments 0
-to 0
-these 0
-countries, 0
-which 0
-seem 0
-to 0
-have 0
-almost 0
-no 0
-control 0
-over 0
-their 0
-population, 0
-I 0
-must, 0
-in 0
-the 1
-strongest 1
-of 0
-terms, 0
-ask 0
-Mexico 0
-to 0
-stop 0
-this 0
-onslaught 1
-— 0
-and 0
-if 0
-unable 0
-to 0
-do 0
-so 0
-I 0
-will 0
-call 0
-up 0
-the 0
-U.S. 0
-Military 0
-and 0
-CLOSE 0
-OUR 1
-SOUTHERN 1
-BORDER!” 1
-Trump 0
-said 0
-on 0
-Twitter. 0
+“In 0 386 5
+addition 0 386 5
+to 0 386 5
+stopping 0 386 5
+all 0 386 5
+payments 0 386 5
+to 0 386 5
+these 0 386 5
+countries, 0 386 5
+which 0 386 5
+seem 0 386 5
+to 0 386 5
+have 0 386 5
+almost 0 386 5
+no 0 386 5
+control 0 386 5
+over 0 386 5
+their 0 386 5
+population, 0 386 5
+I 0 386 5
+must, 0 386 5
+in 0 386 5
+the 1 386 5
+strongest 1 386 5
+of 0 386 5
+terms, 0 386 5
+ask 0 386 5
+Mexico 0 386 5
+to 0 386 5
+stop 0 386 5
+this 0 386 5
+onslaught 1 386 5
+— 0 386 5
+and 0 386 5
+if 0 386 5
+unable 0 386 5
+to 0 386 5
+do 0 386 5
+so 0 386 5
+I 0 386 5
+will 0 386 5
+call 0 386 5
+up 0 386 5
+the 0 386 5
+U.S. 0 386 5
+Military 0 386 5
+and 0 386 5
+CLOSE 0 386 5
+OUR 1 386 5
+SOUTHERN 1 386 5
+BORDER!” 1 386 5
+Trump 0 386 5
+said 0 386 5
+on 0 386 5
+Twitter. 0 386 5
 
-Days 0
-ago 0
-the 0
-president 0
-threatened 0
-to 0
-withhold 0
-American 0
-aid 0
-from 0
-Honduras, 0
-Guatemala 0
-and 0
-El 0
-Salvador 0
-if 0
-the 0
-flow 0
-of 0
-immigrants 0
-wasn’t 0
-stopped. 0
+Days 0 386 6
+ago 0 386 6
+the 0 386 6
+president 0 386 6
+threatened 0 386 6
+to 0 386 6
+withhold 0 386 6
+American 0 386 6
+aid 0 386 6
+from 0 386 6
+Honduras, 0 386 6
+Guatemala 0 386 6
+and 0 386 6
+El 0 386 6
+Salvador 0 386 6
+if 0 386 6
+the 0 386 6
+flow 0 386 6
+of 0 386 6
+immigrants 0 386 6
+wasn’t 0 386 6
+stopped. 0 386 6
 
-This 0
-prompted 0
-the 0
-Honduran 0
-Foreign 0
-Ministry 0
-to 0
-urge 0
-its 0
-citizens 0
-not 0
-to 0
-join 0
-the 0
-group, 0
-according 0
-to 0
-Reuters. 0
+This 0 386 7
+prompted 0 386 7
+the 0 386 7
+Honduran 0 386 7
+Foreign 0 386 7
+Ministry 0 386 7
+to 0 386 7
+urge 0 386 7
+its 0 386 7
+citizens 0 386 7
+not 0 386 7
+to 0 386 7
+join 0 386 7
+the 0 386 7
+group, 0 386 7
+according 0 386 7
+to 0 386 7
+Reuters. 0 386 7
 
-Honduran 0
-president 0
-Juan 0
-Orlando 0
-Hernandez 0
-said 0
-in 0
-a 0
-public 0
-address 0
-on 0
-Tuesday 0
-evening 0
-some 0
-Hondurans 0
-in 0
-the 0
-caravan 0
-had 0
-already 0
-returned 0
-home 0
-and 0
-the 0
-government 0
-was 0
-preparing 0
-to 0
-support 0
-them. 0
+Honduran 0 386 8
+president 0 386 8
+Juan 0 386 8
+Orlando 0 386 8
+Hernandez 0 386 8
+said 0 386 8
+in 0 386 8
+a 0 386 8
+public 0 386 8
+address 0 386 8
+on 0 386 8
+Tuesday 0 386 8
+evening 0 386 8
+some 0 386 8
+Hondurans 0 386 8
+in 0 386 8
+the 0 386 8
+caravan 0 386 8
+had 0 386 8
+already 0 386 8
+returned 0 386 8
+home 0 386 8
+and 0 386 8
+the 0 386 8
+government 0 386 8
+was 0 386 8
+preparing 0 386 8
+to 0 386 8
+support 0 386 8
+them. 0 386 8
 
-He 0
-did 0
-not 0
-specify 0
-how 0
-many 0
-had 0
-turned 0
-back. 0
+He 0 386 9
+did 0 386 9
+not 0 386 9
+specify 0 386 9
+how 0 386 9
+many 0 386 9
+had 0 386 9
+turned 0 386 9
+back. 0 386 9
 
-Still, 0
-the 0
-caravan 0
-had 0
-grown 0
-to 0
-about 0
-4,000 0
-people 0
-today. 0
+Still, 0 386 10
+the 0 386 10
+caravan 0 386 10
+had 0 386 10
+grown 0 386 10
+to 0 386 10
+about 0 386 10
+4,000 0 386 10
+people 0 386 10
+today. 0 386 10
 
-NBC 0
-News 0
-reported 0
-that 0
-many 0
-of 0
-those 0
-in 0
-the 0
-caravan 0
-are 0
-unaccompanied 0
-children. 0
+NBC 0 386 11
+News 0 386 11
+reported 0 386 11
+that 0 386 11
+many 0 386 11
+of 0 386 11
+those 0 386 11
+in 0 386 11
+the 0 386 11
+caravan 0 386 11
+are 0 386 11
+unaccompanied 0 386 11
+children. 0 386 11
 
-Mexico 0
-is 0
-said 0
-to 0
-have 0
-deployed 0
-500 0
-additional 0
-federal 0
-police 0
-to 0
-its 0
-border 0
-with 0
-Guatemala 0
-in 0
-anticipation 0
-of 0
-the 0
-caravan’s 0
-arrival. 0
+Mexico 0 386 12
+is 0 386 12
+said 0 386 12
+to 0 386 12
+have 0 386 12
+deployed 0 386 12
+500 0 386 12
+additional 0 386 12
+federal 0 386 12
+police 0 386 12
+to 0 386 12
+its 0 386 12
+border 0 386 12
+with 0 386 12
+Guatemala 0 386 12
+in 0 386 12
+anticipation 0 386 12
+of 0 386 12
+the 0 386 12
+caravan’s 0 386 12
+arrival. 0 386 12
 
-On 0
-Wednesday, 0
-Congressman 0
-Matt 0
-Gaeetz 0
-said 0
-video 0
-footage 0
-shows 0
-Honduran 0
-women 0
-and 0
-children 0
-were 0
-being 0
-given 0
-cash 0
-to 0
-join 0
-the 0
-caravan. 0
+On 0 386 12
+
+Wednesday, 0 386 12
+
+Congressman 0 386 12
+
+Matt 0 386 12
+
+Gaeetz 0 386 12
+
+said 0 386 12
+
+video 0 386 12
+
+footage 0 386 12
+
+shows 0 386 12
+
+Honduran 0 386 12
+
+women 0 386 12
+
+and 0 386 12
+
+children 0 386 12
+
+were 0 386 12
+
+being 0 386 12
+
+given 0 386 12
+
+cash 0 386 12
+
+to 0 386 12
+
+join 0 386 12
+
+the 0 386 12
+
+caravan. 0 386 12

@@ -1,419 +1,447 @@
-Deadly 0
-Plague 1
-Could 1
-MUTATE 1
-And 1
-Become 1
-Untreatable 1
-As 1
-It 1
-Spreads 1
-Globally 1
+Deadly 0 63 0
+Plague 1 63 0
+Could 1 63 0
+MUTATE 1 63 0
+And 1 63 0
+Become 1 63 0
+Untreatable 1 63 0
+As 1 63 0
+It 1 63 0
+Spreads 1 63 0
+Globally 1 63 0
 
-The 0
-pneumonic 0
-plague 0
-has 0
-already 0
-infected 0
-2,000 0
-in 0
-Madagascar 0
-and 0
-killed 0
-143 0
-in 0
-the 0
-country’s 0
-worst 0
-outbreak 0
-in 0
-50 0
-years. 0
+The 0 63 1
+pneumonic 0 63 1
+plague 0 63 1
+has 0 63 1
+already 0 63 1
+infected 0 63 1
+2,000 0 63 1
+in 0 63 1
+Madagascar 0 63 1
+and 0 63 1
+killed 0 63 1
+143 0 63 1
+in 0 63 1
+the 0 63 1
+country’s 0 63 1
+worst 0 63 1
+outbreak 0 63 1
+in 0 63 1
+50 0 63 1
+years. 0 63 1
 
-But 0
-health 0
-officials 0
-are 0
-now 0
-warning 0
-the 1
-deadly 1
-bacteria 1
-could 1
-mutate 1
-and 1
-become 1
-untreatable 1
-as 0
-it 0
-spreads 0
-across 0
-the 0
-globe. 0
+But 0 63 2
+health 0 63 2
+officials 0 63 2
+are 0 63 2
+now 0 63 2
+warning 0 63 2
+the 1 63 2
+deadly 1 63 2
+bacteria 1 63 2
+could 1 63 2
+mutate 1 63 2
+and 1 63 2
+become 1 63 2
+untreatable 1 63 2
+as 0 63 2
+it 0 63 2
+spreads 0 63 2
+across 0 63 2
+the 0 63 2
+globe. 0 63 2
 
-Coupled 0
-with 0
-the 0
-high 0
-likelihood 0
-that 0
-this 0
-disease 0
-could 0
-spread 0
-globally 0
-by 0
-an 0
-infected 0
-traveler 0
-getting 0
-on 0
-a 0
-plane 0
-to 0
-Europe 0
-or 0
-America, 0
-health 0
-officials 0
-are 0
-now 0
-warning 0
-that 0
-the 0
-strain 0
-of 0
-plague 0
-which 0
-has 0
-already 0
-killed 0
-more 0
-than 0
-140 0
-Madagascar 0
-could 1
-mutate 1
-and 1
-become 1
-untreatable. 1
+Coupled 0 63 3
+with 0 63 3
+the 0 63 3
+high 0 63 3
+likelihood 0 63 3
+that 0 63 3
+this 0 63 3
+disease 0 63 3
+could 0 63 3
+spread 0 63 3
+globally 0 63 3
+by 0 63 3
+an 0 63 3
+infected 0 63 3
+traveler 0 63 3
+getting 0 63 3
+on 0 63 3
+a 0 63 3
+plane 0 63 3
+to 0 63 3
+Europe 0 63 3
+or 0 63 3
+America, 0 63 3
+health 0 63 3
+officials 0 63 3
+are 0 63 3
+now 0 63 3
+warning 0 63 3
+that 0 63 3
+the 0 63 3
+strain 0 63 3
+of 0 63 3
+plague 0 63 3
+which 0 63 3
+has 0 63 3
+already 0 63 3
+killed 0 63 3
+more 0 63 3
+than 0 63 3
+140 0 63 3
+Madagascar 0 63 3
+could 1 63 3
+mutate 1 63 3
+and 1 63 3
+become 1 63 3
+untreatable. 1 63 3
 
-Professor 0
-Paul 0
-Hunter 0
-has 0
-warned 0
-that, 0
-while 0
-it 0
-would 0
-be 0
-rather 0
-easy 0
-for 0
-an 0
-advanced 0
-country 0
-to 0
-contain 0
-the 0
-disease 0
-in 0
-its 0
-current 0
-form, 0
-he 1
-fears 1
-that 1
-it 1
-could 1
-evolve 1
-into 1
-something 1
-far 1
-more 1
-dangerous. 1
+Professor 0 63 4
+Paul 0 63 4
+Hunter 0 63 4
+has 0 63 4
+warned 0 63 4
+that, 0 63 4
+while 0 63 4
+it 0 63 4
+would 0 63 4
+be 0 63 4
+rather 0 63 4
+easy 0 63 4
+for 0 63 4
+an 0 63 4
+advanced 0 63 4
+country 0 63 4
+to 0 63 4
+contain 0 63 4
+the 0 63 4
+disease 0 63 4
+in 0 63 4
+its 0 63 4
+current 0 63 4
+form, 0 63 4
+he 1 63 4
+fears 1 63 4
+that 1 63 4
+it 1 63 4
+could 1 63 4
+evolve 1 63 4
+into 1 63 4
+something 1 63 4
+far 1 63 4
+more 1 63 4
+dangerous. 1 63 4
 
-Hunter, 0
-who 0
-is 0
-a 0
-disease 0
-expert 0
-at 0
-the 0
-University 0
-of 0
-East 0
-Anglia, 0
-told 0
-the 0
-Daily 0
-Star: 0
-“If 0
-it 0
-reaches 0
-the 0
-UK, 0
-Europe 0
-or 0
-the 0
-US 0
-it 0
-would 0
-be 0
-similar 0
-to 0
-the 0
-Ebola 0
-outbreak. 0
+Hunter, 0 63 5
+who 0 63 5
+is 0 63 5
+a 0 63 5
+disease 0 63 5
+expert 0 63 5
+at 0 63 5
+the 0 63 5
+University 0 63 5
+of 0 63 5
+East 0 63 5
+Anglia, 0 63 5
+told 0 63 5
+the 0 63 5
+Daily 0 63 5
+Star: 0 63 5
+“If 0 63 5
+it 0 63 5
+reaches 0 63 5
+the 0 63 5
+UK, 0 63 5
+Europe 0 63 5
+or 0 63 5
+the 0 63 5
+US 0 63 5
+it 0 63 5
+would 0 63 5
+be 0 63 5
+similar 0 63 5
+to 0 63 5
+the 0 63 5
+Ebola 0 63 5
+outbreak. 0 63 5
 
-We 0
-would 0
-have 0
-a 0
-few 0
-isolated 0
-cases 0
-but 0
-it 0
-shouldn’t 0
-spread 0
-like 0
-it 0
-has 0
-in 0
-Madagascar.” 0
-But 0
-he 0
-had 0
-more 0
-to 0
-add. 0
+We 0 63 6
+would 0 63 6
+have 0 63 6
+a 0 63 6
+few 0 63 6
+isolated 0 63 6
+cases 0 63 6
+but 0 63 6
+it 0 63 6
+shouldn’t 0 63 6
+spread 0 63 6
+like 0 63 6
+it 0 63 6
+has 0 63 6
+in 0 63 6
+Madagascar.” 0 63 6
+But 0 63 6
+he 0 63 6
+had 0 63 6
+more 0 63 6
+to 0 63 6
+add. 0 63 6
 
-“As 0
-with 0
-any 0
-disease, 0
-it’s 1
-a 1
-real 1
-worry 1
-that 1
-it 1
-mutates 1
-and 1
-become 1
-untreatable,” 1
-Hunter 0
-said. 0
+“As 0 63 7
+with 0 63 7
+any 0 63 7
+disease, 0 63 7
+it’s 1 63 7
+a 1 63 7
+real 1 63 7
+worry 1 63 7
+that 1 63 7
+it 1 63 7
+mutates 1 63 7
+and 1 63 7
+become 1 63 7
+untreatable,” 1 63 7
+Hunter 0 63 7
+said. 0 63 7
 
-So 0
-far, 0
-the 0
-majority 0
-of 0
-the 0
-recent 0
-cases 0
-of 0
-the 0
-black 0
-death 0
-have 0
-the 0
-been 0
-pneumonic 0
-plague, 0
-a 0
-more 0
-deadly 0
-form 0
-of 0
-the 0
-bubonic 0
-plague 0
-which 0
-devastated 1
-Europe’s 0
-population 0
-in 0
-the 0
-1300s. 0
+So 0 63 8
+far, 0 63 8
+the 0 63 8
+majority 0 63 8
+of 0 63 8
+the 0 63 8
+recent 0 63 8
+cases 0 63 8
+of 0 63 8
+the 0 63 8
+black 0 63 8
+death 0 63 8
+have 0 63 8
+the 0 63 8
+been 0 63 8
+pneumonic 0 63 8
+plague, 0 63 8
+a 0 63 8
+more 0 63 8
+deadly 0 63 8
+form 0 63 8
+of 0 63 8
+the 0 63 8
+bubonic 0 63 8
+plague 0 63 8
+which 0 63 8
+devastated 1 63 8
+Europe’s 0 63 8
+population 0 63 8
+in 0 63 8
+the 0 63 8
+1300s. 0 63 8
 
-While 0
-the 0
-bubonic 0
-plague 0
-is 0
-spread 0
-through 0
-the 0
-bites 0
-of 0
-infected 0
-fleas, 0
-pneumonic 0
-plague 0
-is 0
-spread 0
-through 0
-the 0
-air, 0
-usually 0
-by 0
-coughing. 0
+While 0 63 9
+the 0 63 9
+bubonic 0 63 9
+plague 0 63 9
+is 0 63 9
+spread 0 63 9
+through 0 63 9
+the 0 63 9
+bites 0 63 9
+of 0 63 9
+infected 0 63 9
+fleas, 0 63 9
+pneumonic 0 63 9
+plague 0 63 9
+is 0 63 9
+spread 0 63 9
+through 0 63 9
+the 0 63 9
+air, 0 63 9
+usually 0 63 9
+by 0 63 9
+coughing. 0 63 9
 
-Airborne 0
-infections 0
-are 0
-difficult 1
-at 1
-best 1
-to 0
-control. 0
+Airborne 0 63 10
+infections 0 63 10
+are 0 63 10
+difficult 1 63 10
+at 1 63 10
+best 1 63 10
+to 0 63 10
+control. 0 63 10
 
-Symptoms 0
-of 0
-the 0
-plague 0
-include 0
-a 0
-very 0
-high 0
-fever, 0
-coughing 0
-(potentially 0
-coughing 0
-up 0
-blood), 0
-and 0
-headaches. 0
+Symptoms 0 63 11
+of 0 63 11
+the 0 63 11
+plague 0 63 11
+include 0 63 11
+a 0 63 11
+very 0 63 11
+high 0 63 11
+fever, 0 63 11
+coughing 0 63 11
+(potentially 0 63 11
+coughing 0 63 11
+up 0 63 11
+blood), 0 63 11
+and 0 63 11
+headaches. 0 63 11
 
-Ten 0
-African 0
-nations 0
-have 0
-already 1
-been 1
-put 1
-on 1
-alert 1
-that 0
-the 0
-plague 0
-could 0
-easily 0
-spread 0
-to 0
-their 0
-region 0
-of 0
-the 0
-globe. 0
+Ten 0 63 12
+African 0 63 12
+nations 0 63 12
+have 0 63 12
+already 1 63 12
+been 1 63 12
+put 1 63 12
+on 1 63 12
+alert 1 63 12
+that 0 63 12
+the 0 63 12
+plague 0 63 12
+could 0 63 12
+easily 0 63 12
+spread 0 63 12
+to 0 63 12
+their 0 63 12
+region 0 63 12
+of 0 63 12
+the 0 63 12
+globe. 0 63 12
 
-The 0
-plague 0
-can 0
-be 0
-fatal 0
-24-48 0
-hours 0
-after 0
-infection, 0
-but 0
-antibiotics 0
-will 0
-take 0
-care 0
-of 0
-the 0
-infection. 0
+The 0 63 13
+plague 0 63 13
+can 0 63 13
+be 0 63 13
+fatal 0 63 13
+24-48 0 63 13
+hours 0 63 13
+after 0 63 13
+infection, 0 63 13
+but 0 63 13
+antibiotics 0 63 13
+will 0 63 13
+take 0 63 13
+care 0 63 13
+of 0 63 13
+the 0 63 13
+infection. 0 63 13
 
-Schools 0
-and 0
-universities 0
-have 0
-been 0
-closed 0
-with 0
-a 0
-ban 0
-issued 0
-on 0
-public 0
-gatherings, 0
-such 0
-as 0
-the 0
-tradition 0
-of 0
-“dancing 0
-with 0
-the 0
-dead” 0
-which 0
-has 0
-been 0
-partially 0
-blamed 0
-for 0
-the 0
-disease’s 0
-spread. 0
+Schools 0 63 14
+and 0 63 14
+universities 0 63 14
+have 0 63 14
+been 0 63 14
+closed 0 63 14
+with 0 63 14
+a 0 63 14
+ban 0 63 14
+issued 0 63 14
+on 0 63 14
+public 0 63 14
+gatherings, 0 63 14
+such 0 63 14
+as 0 63 14
+the 0 63 14
+tradition 0 63 14
+of 0 63 14
+“dancing 0 63 14
+with 0 63 14
+the 0 63 14
+dead” 0 63 14
+which 0 63 14
+has 0 63 14
+been 0 63 14
+partially 0 63 14
+blamed 0 63 14
+for 0 63 14
+the 0 63 14
+disease’s 0 63 14
+spread. 0 63 14
 
-The 0
-current 0
-outbreak 0
-is 0
-also 0
-highly 0
-unusual 0
-as 0
-it 0
-has 0
-affected 0
-urban 0
-areas 0
-increasing 0
-the 0
-risk 0
-of 0
-transmission, 0
-according 0
-to 0
-the 0
-World 0
-Health 0
-Organization. 0
+The 0 63 15
+current 0 63 15
+outbreak 0 63 15
+is 0 63 15
+also 0 63 15
+highly 0 63 15
+unusual 0 63 15
+as 0 63 15
+it 0 63 15
+has 0 63 15
+affected 0 63 15
+urban 0 63 15
+areas 0 63 15
+increasing 0 63 15
+the 0 63 15
+risk 0 63 15
+of 0 63 15
+transmission, 0 63 15
+according 0 63 15
+to 0 63 15
+the 0 63 15
+World 0 63 15
+Health 0 63 15
+Organization. 0 63 15
 
-WHO 0
-has 0
-delivered 0
-1.2 0
-million 0
-doses 0
-of 0
-antibiotics 0
-to 0
-fight 0
-the 0
-disease 0
-while 0
-the 0
-Red 0
-Cross 0
-has 0
-been 0
-training 0
-hundreds 0
-of 0
-volunteers 0
-on 0
-the 0
-island 0
-to 0
-publicize 0
-preventative 0
-measures. 0
+WHO 0 63 15
+
+has 0 63 15
+
+delivered 0 63 15
+
+1.2 0 63 15
+
+million 0 63 15
+
+doses 0 63 15
+
+of 0 63 15
+
+antibiotics 0 63 15
+
+to 0 63 15
+
+fight 0 63 15
+
+the 0 63 15
+
+disease 0 63 15
+
+while 0 63 15
+
+the 0 63 15
+
+Red 0 63 15
+
+Cross 0 63 15
+
+has 0 63 15
+
+been 0 63 15
+
+training 0 63 15
+
+hundreds 0 63 15
+
+of 0 63 15
+
+volunteers 0 63 15
+
+on 0 63 15
+
+the 0 63 15
+
+island 0 63 15
+
+to 0 63 15
+
+publicize 0 63 15
+
+preventative 0 63 15
+
+measures. 0 63 15

@@ -1,250 +1,251 @@
-Ebola 0
-outbreak 0
-declared 0
-in 0
-Democratic 0
-Republic 0
-of 0
-Congo 0
+Ebola 0 207 0
+outbreak 0 207 0
+declared 0 207 0
+in 0 207 0
+Democratic 0 207 0
+Republic 0 207 0
+of 0 207 0
+Congo 0 207 0
 
-Story 0
-highlights 0
-Two 0
-cases 0
-were 0
-confirmed, 0
-prompting 0
-the 0
-outbreak 0
-declaration 0
+Story 0 207 1
+highlights 0 207 1
+Two 0 207 1
+cases 0 207 1
+were 0 207 1
+confirmed, 0 207 1
+prompting 0 207 1
+the 0 207 1
+outbreak 0 207 1
+declaration 0 207 1
 
-In 0
-the 0
-past 0
-five 0
-weeks, 0
-there 0
-have 0
-been 0
-21 0
-suspected 0
-cases, 0
-including 0
-17 0
-deaths 0
+In 0 207 2
+the 0 207 2
+past 0 207 2
+five 0 207 2
+weeks, 0 207 2
+there 0 207 2
+have 0 207 2
+been 0 207 2
+21 0 207 2
+suspected 0 207 2
+cases, 0 207 2
+including 0 207 2
+17 0 207 2
+deaths 0 207 2
 
-(CNN) 0
-The 0
-government 0
-of 0
-the 0
-Democratic 0
-Republic 0
-of 0
-Congo 0
-declared 0
-an 0
-outbreak 0
-of 0
-Ebola 0
-hemorrhagic 0
-fever, 0
-a 0
-rare 0
-and 0
-deadly 1
-disease, 0
-on 0
-Tuesday, 0
-the 0
-World 0
-Health 0
-Organization 0
-reported. 0
+(CNN) 0 207 3
+The 0 207 3
+government 0 207 3
+of 0 207 3
+the 0 207 3
+Democratic 0 207 3
+Republic 0 207 3
+of 0 207 3
+Congo 0 207 3
+declared 0 207 3
+an 0 207 3
+outbreak 0 207 3
+of 0 207 3
+Ebola 0 207 3
+hemorrhagic 0 207 3
+fever, 0 207 3
+a 0 207 3
+rare 0 207 3
+and 0 207 3
+deadly 1 207 3
+disease, 0 207 3
+on 0 207 3
+Tuesday, 0 207 3
+the 0 207 3
+World 0 207 3
+Health 0 207 3
+Organization 0 207 3
+reported. 0 207 3
 
-The 0
-declaration 0
-came 0
-after 0
-laboratory 0
-results 0
-confirmed 0
-two 0
-cases 0
-of 0
-the 0
-disease 0
-in 0
-the 0
-province 0
-of 0
-Bikoro 0
-in 0
-the 0
-northwestern 0
-part 0
-of 0
-the 0
-country. 0
+The 0 207 4
+declaration 0 207 4
+came 0 207 4
+after 0 207 4
+laboratory 0 207 4
+results 0 207 4
+confirmed 0 207 4
+two 0 207 4
+cases 0 207 4
+of 0 207 4
+the 0 207 4
+disease 0 207 4
+in 0 207 4
+the 0 207 4
+province 0 207 4
+of 0 207 4
+Bikoro 0 207 4
+in 0 207 4
+the 0 207 4
+northwestern 0 207 4
+part 0 207 4
+of 0 207 4
+the 0 207 4
+country. 0 207 4
 
-Ebola 0
-virus 0
-disease, 0
-which 0
-most 0
-commonly 0
-affects 0
-people 0
-and 0
-nonhuman 0
-primates 0
-(monkeys, 0
-gorillas 0
-and 0
-chimpanzees), 0
-is 0
-caused 0
-by 0
-one 0
-of 0
-five 0
-Ebola 0
-viruses. 0
+Ebola 0 207 5
+virus 0 207 5
+disease, 0 207 5
+which 0 207 5
+most 0 207 5
+commonly 0 207 5
+affects 0 207 5
+people 0 207 5
+and 0 207 5
+nonhuman 0 207 5
+primates 0 207 5
+(monkeys, 0 207 5
+gorillas 0 207 5
+and 0 207 5
+chimpanzees), 0 207 5
+is 0 207 5
+caused 0 207 5
+by 0 207 5
+one 0 207 5
+of 0 207 5
+five 0 207 5
+Ebola 0 207 5
+viruses. 0 207 5
 
-The 0
-virus 0
-is 0
-transmitted 0
-to 0
-people 0
-from 0
-wild 0
-animals 0
-and 0
-spreads 0
-in 0
-the 0
-human 0
-population 0
-through 0
-human-to-human 0
-transmission. 0
+The 0 207 6
+virus 0 207 6
+is 0 207 6
+transmitted 0 207 6
+to 0 207 6
+people 0 207 6
+from 0 207 6
+wild 0 207 6
+animals 0 207 6
+and 0 207 6
+spreads 0 207 6
+in 0 207 6
+the 0 207 6
+human 0 207 6
+population 0 207 6
+through 0 207 6
+human-to-human 0 207 6
+transmission. 0 207 6
 
-The 0
-average 0
-case 0
-fatality 0
-rate 0
-is 0
-around 0
-50%. 0
+The 0 207 7
+average 0 207 7
+case 0 207 7
+fatality 0 207 7
+rate 0 207 7
+is 0 207 7
+around 0 207 7
+50%. 0 207 7
 
-A 0
-government 0
-statement 0
-released 0
-Tuesday 0
-states 0
-that 0
-the 0
-Ministry 0
-of 0
-Health 0
-has 0
-"taken 0
-all 0
-necessary 0
-measures 0
-to 0
-respond 0
-promptly 0
-and 0
-effectively 0
-to 0
-this 0
-new 0
-epidemic 0
-of 0
-Ebola 0
-in 0
-the 0
-DRC's 0
-national 0
-territory". 0
+A 0 207 8
+government 0 207 8
+statement 0 207 8
+released 0 207 8
+Tuesday 0 207 8
+states 0 207 8
+that 0 207 8
+the 0 207 8
+Ministry 0 207 8
+of 0 207 8
+Health 0 207 8
+has 0 207 8
+"taken 0 207 8
+all 0 207 8
+necessary 0 207 8
+measures 0 207 8
+to 0 207 8
+respond 0 207 8
+promptly 0 207 8
+and 0 207 8
+effectively 0 207 8
+to 0 207 8
+this 0 207 8
+new 0 207 8
+epidemic 0 207 8
+of 0 207 8
+Ebola 0 207 8
+in 0 207 8
+the 0 207 8
+DRC's 0 207 8
+national 0 207 8
+territory". 0 207 8
 
-In 0
-the 0
-past 0
-five 0
-weeks, 0
-there 0
-have 0
-been 0
-21 0
-suspected 0
-cases 0
-of 0
-viral 0
-hemorrhagic 0
-fever 0
-, 0
-including 0
-17 0
-deaths. 0
+In 0 207 9
+the 0 207 9
+past 0 207 9
+five 0 207 9
+weeks, 0 207 9
+there 0 207 9
+have 0 207 9
+been 0 207 9
+21 0 207 9
+suspected 0 207 9
+cases 0 207 9
+of 0 207 9
+viral 0 207 9
+hemorrhagic 0 207 9
+fever 0 207 9
+, 0 207 9
+including 0 207 9
+17 0 207 9
+deaths. 0 207 9
 
-"We 0
-will 0
-gather 0
-more 0
-samples, 0
-conduct 0
-contact 0
-tracing, 0
-engage 0
-the 0
-communities 0
-with 0
-messages 0
-on 0
-prevention 0
-and 0
-control, 0
-and 0
-put 0
-in 0
-place 0
-methods 0
-for 0
-improving 0
-data 0
-collection 0
-and 0
-sharing," 0
-said 0
-Dr. 0
-Matshidiso 0
-Moeti, 0
-the 0
-WHO's 0
-regional 0
-director 0
-for 0
-Africa. 0
+"We 0 207 10
+will 0 207 10
+gather 0 207 10
+more 0 207 10
+samples, 0 207 10
+conduct 0 207 10
+contact 0 207 10
+tracing, 0 207 10
+engage 0 207 10
+the 0 207 10
+communities 0 207 10
+with 0 207 10
+messages 0 207 10
+on 0 207 10
+prevention 0 207 10
+and 0 207 10
+control, 0 207 10
+and 0 207 10
+put 0 207 10
+in 0 207 10
+place 0 207 10
+methods 0 207 10
+for 0 207 10
+improving 0 207 10
+data 0 207 10
+collection 0 207 10
+and 0 207 10
+sharing," 0 207 10
+said 0 207 10
+Dr. 0 207 10
+Matshidiso 0 207 10
+Moeti, 0 207 10
+the 0 207 10
+WHO's 0 207 10
+regional 0 207 10
+director 0 207 10
+for 0 207 10
+Africa. 0 207 10
 
-"WHO 0
-will 0
-work 0
-closely 0
-with 0
-health 0
-authorities 0
-and 0
-partners 0
-to 0
-support 0
-the 0
-national 0
-response." 0
+"WHO 0 207 11
+will 0 207 11
+work 0 207 11
+closely 0 207 11
+with 0 207 11
+health 0 207 11
+authorities 0 207 11
+and 0 207 11
+partners 0 207 11
+to 0 207 11
+support 0 207 11
+the 0 207 11
+national 0 207 11
+response." 0 207 11
 
-Read 0
-More 0
+Read 0 207 11
+
+More 0 207 11

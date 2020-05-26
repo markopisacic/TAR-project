@@ -1,918 +1,934 @@
-Israel 0
-Takes 0
-On 0
-the 0
-Shia 0
-Crescent 0
+Israel 0 17 0
+Takes 0 17 0
+On 0 17 0
+the 0 17 0
+Shia 0 17 0
+Crescent 0 17 0
 
-Despite 0
-Israel's 0
-repeated 0
-warnings, 0
-Barack 1
-Obama's 1
-reckless 1
-appeasement 1
-of 1
-the 1
-Iranian 1
-regime 1
-has 1
-enabled 1
-its 1
-rise 1
-as 1
-a 1
-hegemonic 1
-threat 1
-in 0
-the 0
-Middle 0
-East 0
-region 0
-as 0
-well 0
-as 0
-a 0
-threat 0
-to 0
-international 0
-peace 0
-and 0
-security. 0
+Despite 0 17 1
+Israel's 0 17 1
+repeated 0 17 1
+warnings, 0 17 1
+Barack 1 17 1
+Obama's 1 17 1
+reckless 1 17 1
+appeasement 1 17 1
+of 1 17 1
+the 1 17 1
+Iranian 1 17 1
+regime 1 17 1
+has 1 17 1
+enabled 1 17 1
+its 1 17 1
+rise 1 17 1
+as 1 17 1
+a 1 17 1
+hegemonic 1 17 1
+threat 1 17 1
+in 0 17 1
+the 0 17 1
+Middle 0 17 1
+East 0 17 1
+region 0 17 1
+as 0 17 1
+well 0 17 1
+as 0 17 1
+a 0 17 1
+threat 0 17 1
+to 0 17 1
+international 0 17 1
+peace 0 17 1
+and 0 17 1
+security. 0 17 1
 
-In 0
-2009, 0
-Obama 0
-turned 1
-his 1
-back 1
-on 1
-millions 1
-of 1
-dissidents 1
-in 0
-the 0
-streets 0
-of 0
-Tehran 0
-and 0
-other 0
-Iranian 0
-cities, 0
-who 0
-were 0
-peacefully 0
-protesting 0
-the 0
-rigged 0
-election 0
-of 0
-Mahmoud 0
-Ahmadinejad 0
-as 0
-president. 0
+In 0 17 2
+2009, 0 17 2
+Obama 0 17 2
+turned 1 17 2
+his 1 17 2
+back 1 17 2
+on 1 17 2
+millions 1 17 2
+of 1 17 2
+dissidents 1 17 2
+in 0 17 2
+the 0 17 2
+streets 0 17 2
+of 0 17 2
+Tehran 0 17 2
+and 0 17 2
+other 0 17 2
+Iranian 0 17 2
+cities, 0 17 2
+who 0 17 2
+were 0 17 2
+peacefully 0 17 2
+protesting 0 17 2
+the 0 17 2
+rigged 0 17 2
+election 0 17 2
+of 0 17 2
+Mahmoud 0 17 2
+Ahmadinejad 0 17 2
+as 0 17 2
+president. 0 17 2
 
-In 0
-2011, 0
-Obama 0
-precipitously 0
-removed 0
-the 0
-remaining 0
-U.S. 0
-combat 0
-troops 0
-from 0
-Iraq, 0
-giving 1
-rise 1
-to 1
-ISIS’s 1
-re-emergence 1
-in 1
-Iraq 1
-from 0
-its 0
-bases 0
-in 0
-Syria. 0
+In 0 17 3
+2011, 0 17 3
+Obama 0 17 3
+precipitously 0 17 3
+removed 0 17 3
+the 0 17 3
+remaining 0 17 3
+U.S. 0 17 3
+combat 0 17 3
+troops 0 17 3
+from 0 17 3
+Iraq, 0 17 3
+giving 1 17 3
+rise 1 17 3
+to 1 17 3
+ISIS’s 1 17 3
+re-emergence 1 17 3
+in 1 17 3
+Iraq 1 17 3
+from 0 17 3
+its 0 17 3
+bases 0 17 3
+in 0 17 3
+Syria. 0 17 3
 
-The 0
-radical 0
-Shiite 0
-Iranian 0
-regime 0
-purported 0
-to 0
-come 0
-to 0
-the 0
-“rescue” 0
-of 0
-both 0
-countries 0
-from 0
-the 0
-Sunni 0
-terrorists, 0
-turning 1
-Iraq 1
-into 1
-a 1
-virtual 1
-vassal 1
-state 1
-of 1
-the 1
-largest 1
-state 1
-sponsor 1
-of 1
-terrorism 1
-in 0
-the 0
-process. 0
+The 0 17 4
+radical 0 17 4
+Shiite 0 17 4
+Iranian 0 17 4
+regime 0 17 4
+purported 0 17 4
+to 0 17 4
+come 0 17 4
+to 0 17 4
+the 0 17 4
+“rescue” 0 17 4
+of 0 17 4
+both 0 17 4
+countries 0 17 4
+from 0 17 4
+the 0 17 4
+Sunni 0 17 4
+terrorists, 0 17 4
+turning 1 17 4
+Iraq 1 17 4
+into 1 17 4
+a 1 17 4
+virtual 1 17 4
+vassal 1 17 4
+state 1 17 4
+of 1 17 4
+the 1 17 4
+largest 1 17 4
+state 1 17 4
+sponsor 1 17 4
+of 1 17 4
+terrorism 1 17 4
+in 0 17 4
+the 0 17 4
+process. 0 17 4
 
-Obama's 0
-disastrous 1
-nuclear 0
-deal 0
-with 0
-Iran 0
-legitimized 1
-Iran's 1
-path 1
-to 1
-eventually 1
-becoming 1
-a 1
-nuclear-armed 1
-state, 1
-while 0
-immediately 0
-filling 0
-its 0
-coffers 0
-with 0
-billions 0
-of 0
-dollars 0
-to 0
-fund 0
-its 0
-aggression. 0
+Obama's 0 17 5
+disastrous 1 17 5
+nuclear 0 17 5
+deal 0 17 5
+with 0 17 5
+Iran 0 17 5
+legitimized 1 17 5
+Iran's 1 17 5
+path 1 17 5
+to 1 17 5
+eventually 1 17 5
+becoming 1 17 5
+a 1 17 5
+nuclear-armed 1 17 5
+state, 1 17 5
+while 0 17 5
+immediately 0 17 5
+filling 0 17 5
+its 0 17 5
+coffers 0 17 5
+with 0 17 5
+billions 0 17 5
+of 0 17 5
+dollars 0 17 5
+to 0 17 5
+fund 0 17 5
+its 0 17 5
+aggression. 0 17 5
 
-Meanwhile, 0
-Syria 0
-has 0
-become 0
-ground 0
-zero 0
-for 0
-Iran's 0
-execution 0
-of 0
-its 0
-regional 0
-ambitions, 0
-which 0
-is 0
-to 0
-establish 0
-its 0
-Shiite 0
-Crescent 0
-connecting 0
-with 0
-its 0
-allies, 0
-including 0
-Iraq, 0
-Syria 0
-and 0
-Lebanon. 0
+Meanwhile, 0 17 6
+Syria 0 17 6
+has 0 17 6
+become 0 17 6
+ground 0 17 6
+zero 0 17 6
+for 0 17 6
+Iran's 0 17 6
+execution 0 17 6
+of 0 17 6
+its 0 17 6
+regional 0 17 6
+ambitions, 0 17 6
+which 0 17 6
+is 0 17 6
+to 0 17 6
+establish 0 17 6
+its 0 17 6
+Shiite 0 17 6
+Crescent 0 17 6
+connecting 0 17 6
+with 0 17 6
+its 0 17 6
+allies, 0 17 6
+including 0 17 6
+Iraq, 0 17 6
+Syria 0 17 6
+and 0 17 6
+Lebanon. 0 17 6
 
-This 0
-plan 0
-has 0
-included 0
-the 0
-establishment 0
-of 0
-a 0
-land 0
-route 0
-that 0
-Iranian-backed 0
-militias 0
-secured 0
-in 0
-June, 0
-beginning 0
-on 0
-Iran’s 0
-border 0
-with 0
-Iraq 0
-and 0
-running 0
-across 0
-Iraq 0
-and 0
-Syria 0
-all 0
-the 0
-way 0
-to 0
-Syria’s 0
-Mediterranean 0
-coast. 0
+This 0 17 7
+plan 0 17 7
+has 0 17 7
+included 0 17 7
+the 0 17 7
+establishment 0 17 7
+of 0 17 7
+a 0 17 7
+land 0 17 7
+route 0 17 7
+that 0 17 7
+Iranian-backed 0 17 7
+militias 0 17 7
+secured 0 17 7
+in 0 17 7
+June, 0 17 7
+beginning 0 17 7
+on 0 17 7
+Iran’s 0 17 7
+border 0 17 7
+with 0 17 7
+Iraq 0 17 7
+and 0 17 7
+running 0 17 7
+across 0 17 7
+Iraq 0 17 7
+and 0 17 7
+Syria 0 17 7
+all 0 17 7
+the 0 17 7
+way 0 17 7
+to 0 17 7
+Syria’s 0 17 7
+Mediterranean 0 17 7
+coast. 0 17 7
 
-This 0
-road 0
-makes 0
-Iran’s 0
-job 0
-easier 0
-in 0
-supplying 0
-arms 0
-by 0
-land, 0
-as 0
-well 0
-as 0
-by 0
-air 0
-and 0
-sea, 0
-to 0
-prop 0
-up 0
-Syrian 0
-President 0
-Bashar 0
-al-Assad’s 0
-regime 0
-and 0
-to 0
-equip 0
-Iran’s 0
-own 0
-forces 0
-fighting 0
-inside 0
-of 0
-Syria 0
-in 0
-support 0
-of 0
-Assad. 0
+This 0 17 8
+road 0 17 8
+makes 0 17 8
+Iran’s 0 17 8
+job 0 17 8
+easier 0 17 8
+in 0 17 8
+supplying 0 17 8
+arms 0 17 8
+by 0 17 8
+land, 0 17 8
+as 0 17 8
+well 0 17 8
+as 0 17 8
+by 0 17 8
+air 0 17 8
+and 0 17 8
+sea, 0 17 8
+to 0 17 8
+prop 0 17 8
+up 0 17 8
+Syrian 0 17 8
+President 0 17 8
+Bashar 0 17 8
+al-Assad’s 0 17 8
+regime 0 17 8
+and 0 17 8
+to 0 17 8
+equip 0 17 8
+Iran’s 0 17 8
+own 0 17 8
+forces 0 17 8
+fighting 0 17 8
+inside 0 17 8
+of 0 17 8
+Syria 0 17 8
+in 0 17 8
+support 0 17 8
+of 0 17 8
+Assad. 0 17 8
 
-This 0
-helps 0
-explain 0
-why 0
-Iran 0
-has 0
-placed 0
-so 0
-much 0
-importance 0
-on 0
-helping 0
-the 0
-Syrian 0
-regime 0
-establish 0
-control 0
-over 0
-the 0
-Deir 0
-ez-Zor 0
-area 0
-in 0
-eastern 0
-Syria, 0
-near 0
-the 0
-Iraqi 0
-border. 0
+This 0 17 9
+helps 0 17 9
+explain 0 17 9
+why 0 17 9
+Iran 0 17 9
+has 0 17 9
+placed 0 17 9
+so 0 17 9
+much 0 17 9
+importance 0 17 9
+on 0 17 9
+helping 0 17 9
+the 0 17 9
+Syrian 0 17 9
+regime 0 17 9
+establish 0 17 9
+control 0 17 9
+over 0 17 9
+the 0 17 9
+Deir 0 17 9
+ez-Zor 0 17 9
+area 0 17 9
+in 0 17 9
+eastern 0 17 9
+Syria, 0 17 9
+near 0 17 9
+the 0 17 9
+Iraqi 0 17 9
+border. 0 17 9
 
-“Everything 0
-depends 0
-now 0
-on 0
-the 0
-Americans’ 0
-willingness 0
-to 0
-stop 0
-this,” 0
-said 0
-an 0
-Iraqi 0
-Kurdish 0
-official 0
-who 0
-was 0
-quoted 0
-in 0
-a 0
-New 0
-Yorker 0
-article. 0
+“Everything 0 17 10
+depends 0 17 10
+now 0 17 10
+on 0 17 10
+the 0 17 10
+Americans’ 0 17 10
+willingness 0 17 10
+to 0 17 10
+stop 0 17 10
+this,” 0 17 10
+said 0 17 10
+an 0 17 10
+Iraqi 0 17 10
+Kurdish 0 17 10
+official 0 17 10
+who 0 17 10
+was 0 17 10
+quoted 0 17 10
+in 0 17 10
+a 0 17 10
+New 0 17 10
+Yorker 0 17 10
+article. 0 17 10
 
-However, 0
-U.S.-led 0
-coalition 0
-forces 0
-apparently 0
-have 0
-done 0
-next 0
-to 0
-nothing 0
-to 0
-stop 0
-this 0
-major 0
-advance 0
-in 0
-Iran’s 0
-Shiite 0
-Crescent 0
-expansion. 0
+However, 0 17 11
+U.S.-led 0 17 11
+coalition 0 17 11
+forces 0 17 11
+apparently 0 17 11
+have 0 17 11
+done 0 17 11
+next 0 17 11
+to 0 17 11
+nothing 0 17 11
+to 0 17 11
+stop 0 17 11
+this 0 17 11
+major 0 17 11
+advance 0 17 11
+in 0 17 11
+Iran’s 0 17 11
+Shiite 0 17 11
+Crescent 0 17 11
+expansion. 0 17 11
 
-“Obama 0
-ran 0
-down 0
-our 0
-options 0
-in 0
-Syria 0
-so 0
-thoroughly, 0
-by 0
-the 0
-time 0
-this 0
-administration 0
-took 0
-over,” 0
-said 0
-Andrew 0
-Tabler, 0
-senior 0
-fellow 0
-at 0
-the 0
-Washington 0
-Institute 0
-for 0
-Near 0
-East 0
-Policy. 0
+“Obama 0 17 12
+ran 0 17 12
+down 0 17 12
+our 0 17 12
+options 0 17 12
+in 0 17 12
+Syria 0 17 12
+so 0 17 12
+thoroughly, 0 17 12
+by 0 17 12
+the 0 17 12
+time 0 17 12
+this 0 17 12
+administration 0 17 12
+took 0 17 12
+over,” 0 17 12
+said 0 17 12
+Andrew 0 17 12
+Tabler, 0 17 12
+senior 0 17 12
+fellow 0 17 12
+at 0 17 12
+the 0 17 12
+Washington 0 17 12
+Institute 0 17 12
+for 0 17 12
+Near 0 17 12
+East 0 17 12
+Policy. 0 17 12
 
-“The 0
-Iranian 0
-influence 0
-is 0
-spreading 0
-because 0
-they 0
-are 0
-so 0
-heavily 0
-involved 0
-in 0
-regime 0
-activities,” 0
-Tabler 0
-added. 0
+“The 0 17 13
+Iranian 0 17 13
+influence 0 17 13
+is 0 17 13
+spreading 0 17 13
+because 0 17 13
+they 0 17 13
+are 0 17 13
+so 0 17 13
+heavily 0 17 13
+involved 0 17 13
+in 0 17 13
+regime 0 17 13
+activities,” 0 17 13
+Tabler 0 17 13
+added. 0 17 13
 
-“It’s 1
-a 1
-new 1
-monster.” 1
+“It’s 1 17 14
+a 1 17 14
+new 1 17 14
+monster.” 1 17 14
 
-Furthermore, 0
-Iran 0
-has 0
-funded 0
-and 0
-armed 0
-its 0
-terrorist 0
-proxy 0
-Hezbollah, 0
-which 0
-has 0
-sent 0
-its 0
-militia 0
-from 0
-its 0
-home 0
-base 0
-of 0
-Lebanon 0
-to 0
-fight 0
-alongside 0
-Assad's 0
-forces. 0
+Furthermore, 0 17 15
+Iran 0 17 15
+has 0 17 15
+funded 0 17 15
+and 0 17 15
+armed 0 17 15
+its 0 17 15
+terrorist 0 17 15
+proxy 0 17 15
+Hezbollah, 0 17 15
+which 0 17 15
+has 0 17 15
+sent 0 17 15
+its 0 17 15
+militia 0 17 15
+from 0 17 15
+its 0 17 15
+home 0 17 15
+base 0 17 15
+of 0 17 15
+Lebanon 0 17 15
+to 0 17 15
+fight 0 17 15
+alongside 0 17 15
+Assad's 0 17 15
+forces. 0 17 15
 
-And 0
-Iran 0
-has 0
-used 0
-Syria 0
-as 0
-a 0
-transit 0
-point 0
-for 0
-shipment 0
-of 0
-sophisticated 0
-rockets 0
-to 0
-Hezbollah 0
-in 0
-Lebanon 0
-for 0
-future 0
-use 0
-against 0
-Israeli 0
-population 0
-centers. 0
+And 0 17 16
+Iran 0 17 16
+has 0 17 16
+used 0 17 16
+Syria 0 17 16
+as 0 17 16
+a 0 17 16
+transit 0 17 16
+point 0 17 16
+for 0 17 16
+shipment 0 17 16
+of 0 17 16
+sophisticated 0 17 16
+rockets 0 17 16
+to 0 17 16
+Hezbollah 0 17 16
+in 0 17 16
+Lebanon 0 17 16
+for 0 17 16
+future 0 17 16
+use 0 17 16
+against 0 17 16
+Israeli 0 17 16
+population 0 17 16
+centers. 0 17 16
 
-Despite 0
-the 0
-fact 0
-that 0
-Hezbollah 0
-has 0
-American 1
-blood 1
-on 0
-its 0
-hands, 0
-the 0
-U.S.-led 0
-coalition 0
-has 0
-chosen 0
-not 0
-to 0
-do 0
-anything 0
-about 0
-Hezbollah’s 0
-presence 0
-in 0
-Syria, 0
-bought 0
-and 0
-paid 0
-for 0
-by 0
-Iran. 0
+Despite 0 17 17
+the 0 17 17
+fact 0 17 17
+that 0 17 17
+Hezbollah 0 17 17
+has 0 17 17
+American 1 17 17
+blood 1 17 17
+on 0 17 17
+its 0 17 17
+hands, 0 17 17
+the 0 17 17
+U.S.-led 0 17 17
+coalition 0 17 17
+has 0 17 17
+chosen 0 17 17
+not 0 17 17
+to 0 17 17
+do 0 17 17
+anything 0 17 17
+about 0 17 17
+Hezbollah’s 0 17 17
+presence 0 17 17
+in 0 17 17
+Syria, 0 17 17
+bought 0 17 17
+and 0 17 17
+paid 0 17 17
+for 0 17 17
+by 0 17 17
+Iran. 0 17 17
 
-While 0
-Israel 0
-chose 0
-not 0
-to 0
-take 0
-sides 0
-in 0
-Syria's 0
-civil 0
-war 0
-with 0
-military 0
-intervention 0
-of 0
-its 0
-own, 0
-it 0
-has 0
-bombed 0
-weapons 0
-storage 0
-facilities 0
-and 0
-convoys 0
-inside 0
-Syria 0
-for 0
-its 0
-own 0
-protection. 0
+While 0 17 18
+Israel 0 17 18
+chose 0 17 18
+not 0 17 18
+to 0 17 18
+take 0 17 18
+sides 0 17 18
+in 0 17 18
+Syria's 0 17 18
+civil 0 17 18
+war 0 17 18
+with 0 17 18
+military 0 17 18
+intervention 0 17 18
+of 0 17 18
+its 0 17 18
+own, 0 17 18
+it 0 17 18
+has 0 17 18
+bombed 0 17 18
+weapons 0 17 18
+storage 0 17 18
+facilities 0 17 18
+and 0 17 18
+convoys 0 17 18
+inside 0 17 18
+Syria 0 17 18
+for 0 17 18
+its 0 17 18
+own 0 17 18
+protection. 0 17 18
 
-Just 0
-recently, 0
-on 0
-September 0
-7th, 0
-Israeli 0
-jets 0
-struck 0
-a 0
-Syrian 0
-weapons 0
-facility 0
-near 0
-Masyaf, 0
-which 0
-was 0
-reported 0
-to 0
-have 0
-been 0
-used 0
-for 0
-the 0
-production 0
-of 0
-chemical 0
-weapons 0
-and 0
-the 0
-storage 0
-of 0
-missiles. 0
+Just 0 17 19
+recently, 0 17 19
+on 0 17 19
+September 0 17 19
+7th, 0 17 19
+Israeli 0 17 19
+jets 0 17 19
+struck 0 17 19
+a 0 17 19
+Syrian 0 17 19
+weapons 0 17 19
+facility 0 17 19
+near 0 17 19
+Masyaf, 0 17 19
+which 0 17 19
+was 0 17 19
+reported 0 17 19
+to 0 17 19
+have 0 17 19
+been 0 17 19
+used 0 17 19
+for 0 17 19
+the 0 17 19
+production 0 17 19
+of 0 17 19
+chemical 0 17 19
+weapons 0 17 19
+and 0 17 19
+the 0 17 19
+storage 0 17 19
+of 0 17 19
+missiles. 0 17 19
 
-Israel 0
-will 0
-also 0
-do 0
-what 0
-is 0
-necessary 0
-to 0
-repel 0
-Iranian-backed 0
-forces 0
-if 0
-they 0
-edge 0
-too 0
-close 0
-to 0
-areas 0
-near 0
-the 0
-Golan 0
-Heights, 0
-shrinking 0
-the 0
-buffer 0
-between 0
-Israel 0
-and 0
-Iranian 0
-controlled 0
-territories. 0
+Israel 0 17 20
+will 0 17 20
+also 0 17 20
+do 0 17 20
+what 0 17 20
+is 0 17 20
+necessary 0 17 20
+to 0 17 20
+repel 0 17 20
+Iranian-backed 0 17 20
+forces 0 17 20
+if 0 17 20
+they 0 17 20
+edge 0 17 20
+too 0 17 20
+close 0 17 20
+to 0 17 20
+areas 0 17 20
+near 0 17 20
+the 0 17 20
+Golan 0 17 20
+Heights, 0 17 20
+shrinking 0 17 20
+the 0 17 20
+buffer 0 17 20
+between 0 17 20
+Israel 0 17 20
+and 0 17 20
+Iranian 0 17 20
+controlled 0 17 20
+territories. 0 17 20
 
-However, 0
-such 0
-tactical 0
-measures 0
-may 0
-not 0
-be 0
-enough 0
-to 0
-thwart 0
-Iran’s 0
-larger 0
-ambitions. 0
+However, 0 17 21
+such 0 17 21
+tactical 0 17 21
+measures 0 17 21
+may 0 17 21
+not 0 17 21
+be 0 17 21
+enough 0 17 21
+to 0 17 21
+thwart 0 17 21
+Iran’s 0 17 21
+larger 0 17 21
+ambitions. 0 17 21
 
-In 0
-light 0
-of 0
-intelligence 0
-reports 0
-that 0
-Assad 0
-may 0
-be 0
-ready 0
-to 0
-invite 0
-Iran 0
-to 0
-set 0
-up 0
-military 0
-bases 0
-in 0
-Syria, 0
-Israeli 0
-leaders 0
-have 0
-concluded 0
-that 0
-they 0
-cannot 0
-wait 0
-until 0
-the 0
-Trump 0
-administration 0
-decides 0
-to 0
-deal 0
-more 0
-forcefully 0
-with 0
-Iran's 0
-growing 0
-use 0
-of 0
-Syria 0
-as 0
-a 0
-staging 0
-area 0
-for 0
-carrying 0
-out 0
-its 0
-expansionist 0
-Shiite 0
-Crescent 0
-strategy. 0
+In 0 17 22
+light 0 17 22
+of 0 17 22
+intelligence 0 17 22
+reports 0 17 22
+that 0 17 22
+Assad 0 17 22
+may 0 17 22
+be 0 17 22
+ready 0 17 22
+to 0 17 22
+invite 0 17 22
+Iran 0 17 22
+to 0 17 22
+set 0 17 22
+up 0 17 22
+military 0 17 22
+bases 0 17 22
+in 0 17 22
+Syria, 0 17 22
+Israeli 0 17 22
+leaders 0 17 22
+have 0 17 22
+concluded 0 17 22
+that 0 17 22
+they 0 17 22
+cannot 0 17 22
+wait 0 17 22
+until 0 17 22
+the 0 17 22
+Trump 0 17 22
+administration 0 17 22
+decides 0 17 22
+to 0 17 22
+deal 0 17 22
+more 0 17 22
+forcefully 0 17 22
+with 0 17 22
+Iran's 0 17 22
+growing 0 17 22
+use 0 17 22
+of 0 17 22
+Syria 0 17 22
+as 0 17 22
+a 0 17 22
+staging 0 17 22
+area 0 17 22
+for 0 17 22
+carrying 0 17 22
+out 0 17 22
+its 0 17 22
+expansionist 0 17 22
+Shiite 0 17 22
+Crescent 0 17 22
+strategy. 0 17 22
 
-“Their 0
-overriding 0
-concern 0
-in 0
-Syria 0
-is 0
-the 0
-free 0
-reign 0
-that 0
-all 0
-the 0
-major 0
-players 0
-there 0
-seem 0
-willing 0
-to 0
-afford 0
-Iran 0
-and 0
-its 0
-various 0
-proxies 0
-in 0
-the 0
-country,” 0
-wrote 0
-Jonathan 0
-Spyer 0
-in 0
-an 0
-article 0
-for 0
-Foreign 0
-Policy. 0
+“Their 0 17 23
+overriding 0 17 23
+concern 0 17 23
+in 0 17 23
+Syria 0 17 23
+is 0 17 23
+the 0 17 23
+free 0 17 23
+reign 0 17 23
+that 0 17 23
+all 0 17 23
+the 0 17 23
+major 0 17 23
+players 0 17 23
+there 0 17 23
+seem 0 17 23
+willing 0 17 23
+to 0 17 23
+afford 0 17 23
+Iran 0 17 23
+and 0 17 23
+its 0 17 23
+various 0 17 23
+proxies 0 17 23
+in 0 17 23
+the 0 17 23
+country,” 0 17 23
+wrote 0 17 23
+Jonathan 0 17 23
+Spyer 0 17 23
+in 0 17 23
+an 0 17 23
+article 0 17 23
+for 0 17 23
+Foreign 0 17 23
+Policy. 0 17 23
 
-As 0
-long 0
-as 0
-nobody 0
-else 0
-is 0
-addressing 0
-the 0
-concern 0
-Iran’s 0
-growing 0
-control 0
-raises 0
-in 0
-a 0
-satisfactory 0
-manner, 0
-“Israel 0
-is 0
-determined 0
-to 0
-continue 0
-addressing 0
-it 0
-on 0
-its 0
-own.” 0
+As 0 17 24
+long 0 17 24
+as 0 17 24
+nobody 0 17 24
+else 0 17 24
+is 0 17 24
+addressing 0 17 24
+the 0 17 24
+concern 0 17 24
+Iran’s 0 17 24
+growing 0 17 24
+control 0 17 24
+raises 0 17 24
+in 0 17 24
+a 0 17 24
+satisfactory 0 17 24
+manner, 0 17 24
+“Israel 0 17 24
+is 0 17 24
+determined 0 17 24
+to 0 17 24
+continue 0 17 24
+addressing 0 17 24
+it 0 17 24
+on 0 17 24
+its 0 17 24
+own.” 0 17 24
 
-At 0
-least, 0
-Israel 0
-has 0
-a 0
-more 0
-sympathetic 0
-ear 0
-in 0
-the 0
-Trump 0
-administration 0
-than 0
-it 0
-did 0
-in 0
-the 0
-Obama 0
-administration 0
-for 0
-raising 0
-its 0
-concerns 0
-about 0
-Iran’s 0
-growing 0
-threat, 0
-not 0
-only 0
-to 0
-Israel 0
-but 0
-to 0
-U.S. 0
-interests 0
-in 0
-the 0
-region 0
-and 0
-beyond. 0
+At 0 17 25
+least, 0 17 25
+Israel 0 17 25
+has 0 17 25
+a 0 17 25
+more 0 17 25
+sympathetic 0 17 25
+ear 0 17 25
+in 0 17 25
+the 0 17 25
+Trump 0 17 25
+administration 0 17 25
+than 0 17 25
+it 0 17 25
+did 0 17 25
+in 0 17 25
+the 0 17 25
+Obama 0 17 25
+administration 0 17 25
+for 0 17 25
+raising 0 17 25
+its 0 17 25
+concerns 0 17 25
+about 0 17 25
+Iran’s 0 17 25
+growing 0 17 25
+threat, 0 17 25
+not 0 17 25
+only 0 17 25
+to 0 17 25
+Israel 0 17 25
+but 0 17 25
+to 0 17 25
+U.S. 0 17 25
+interests 0 17 25
+in 0 17 25
+the 0 17 25
+region 0 17 25
+and 0 17 25
+beyond. 0 17 25
 
-President 0
-Trump’s 0
-sharp 0
-denunciation 0
-of 0
-the 0
-Iranian 0
-regime 0
-during 0
-his 0
-address 0
-to 0
-the 0
-UN 0
-General 0
-Assembly 0
-represented 0
-a 0
-welcome 0
-departure 0
-from 0
-the 0
-Obama 0
-administration’s 0
-milquetoast 1
-approach 0
-to 0
-Iran. 0
+President 0 17 26
+Trump’s 0 17 26
+sharp 0 17 26
+denunciation 0 17 26
+of 0 17 26
+the 0 17 26
+Iranian 0 17 26
+regime 0 17 26
+during 0 17 26
+his 0 17 26
+address 0 17 26
+to 0 17 26
+the 0 17 26
+UN 0 17 26
+General 0 17 26
+Assembly 0 17 26
+represented 0 17 26
+a 0 17 26
+welcome 0 17 26
+departure 0 17 26
+from 0 17 26
+the 0 17 26
+Obama 0 17 26
+administration’s 0 17 26
+milquetoast 1 17 26
+approach 0 17 26
+to 0 17 26
+Iran. 0 17 26
 
-As 0
-the 0
-U.S.-led 0
-coalition 0
-continues 0
-to 0
-drive 0
-ISIS 0
-from 0
-its 0
-bases 0
-of 0
-operation 0
-in 0
-Syria, 0
-the 0
-Trump 0
-administration 0
-has 0
-proclaimed 0
-its 0
-intention 0
-not 0
-to 0
-allow 0
-Iran 0
-to 0
-turn 0
-Syria 0
-into 0
-its 0
-own 0
-satellite, 0
-as 0
-Iran 0
-has 0
-essentially 0
-done 0
-in 0
-Iraq. 0
+As 0 17 27
+the 0 17 27
+U.S.-led 0 17 27
+coalition 0 17 27
+continues 0 17 27
+to 0 17 27
+drive 0 17 27
+ISIS 0 17 27
+from 0 17 27
+its 0 17 27
+bases 0 17 27
+of 0 17 27
+operation 0 17 27
+in 0 17 27
+Syria, 0 17 27
+the 0 17 27
+Trump 0 17 27
+administration 0 17 27
+has 0 17 27
+proclaimed 0 17 27
+its 0 17 27
+intention 0 17 27
+not 0 17 27
+to 0 17 27
+allow 0 17 27
+Iran 0 17 27
+to 0 17 27
+turn 0 17 27
+Syria 0 17 27
+into 0 17 27
+its 0 17 27
+own 0 17 27
+satellite, 0 17 27
+as 0 17 27
+Iran 0 17 27
+has 0 17 27
+essentially 0 17 27
+done 0 17 27
+in 0 17 27
+Iraq. 0 17 27
 
-National 0
-Security 0
-Adviser 0
-H.R. 0
+National 0 17 28
+Security 0 17 28
+Adviser 0 17 28
+H.R. 0 17 28
 
-McMaster 0
-said 0
-that 0
-the 0
-“so 0
-called 0
-liberation 0
-of 0
-areas 0
-by 0
-Assad’s 0
-forces 0
-and 0
-Iranian 0
-proxies 0
-could 1
-actually 1
-accelerate 1
-the 1
-cycle 1
-of 1
-violence 1
-and 1
-perpetuate 1
-conflict 1
-rather 1
-than 1
-get 1
-us 1
-to 1
-a 1
-sustainable 1
-outcome.” 1
-He 0
-claimed 0
-that 0
-the 0
-Trump 0
-administration’s 0
-“objectives 0
-are 0
-to 0
-weaken 0
-Iranian 0
-influence 0
-across 0
-the 0
-region 0
-broadly,” 0
-without 0
-discussing 0
-the 0
-means 0
-to 0
-accomplish 0
-those 0
-objectives. 0
+McMaster 0 17 29
+said 0 17 29
+that 0 17 29
+the 0 17 29
+“so 0 17 29
+called 0 17 29
+liberation 0 17 29
+of 0 17 29
+areas 0 17 29
+by 0 17 29
+Assad’s 0 17 29
+forces 0 17 29
+and 0 17 29
+Iranian 0 17 29
+proxies 0 17 29
+could 1 17 29
+actually 1 17 29
+accelerate 1 17 29
+the 1 17 29
+cycle 1 17 29
+of 1 17 29
+violence 1 17 29
+and 1 17 29
+perpetuate 1 17 29
+conflict 1 17 29
+rather 1 17 29
+than 1 17 29
+get 1 17 29
+us 1 17 29
+to 1 17 29
+a 1 17 29
+sustainable 1 17 29
+outcome.” 1 17 29
+He 0 17 29
+claimed 0 17 29
+that 0 17 29
+the 0 17 29
+Trump 0 17 29
+administration’s 0 17 29
+“objectives 0 17 29
+are 0 17 29
+to 0 17 29
+weaken 0 17 29
+Iranian 0 17 29
+influence 0 17 29
+across 0 17 29
+the 0 17 29
+region 0 17 29
+broadly,” 0 17 29
+without 0 17 29
+discussing 0 17 29
+the 0 17 29
+means 0 17 29
+to 0 17 29
+accomplish 0 17 29
+those 0 17 29
+objectives. 0 17 29
 
-Whether 1
-the 1
-Trump 1
-administration 1
-follows 1
-through 1
-remains 1
-to 1
-be 1
-seen. 1
+Whether 1 17 30
+the 1 17 30
+Trump 1 17 30
+administration 1 17 30
+follows 1 17 30
+through 1 17 30
+remains 1 17 30
+to 1 17 30
+be 1 17 30
+seen. 1 17 30
 
-In 0
-the 0
-meantime, 0
-Israel 0
-will 0
-have 0
-to 0
-deal 0
-with 0
-the 0
-fallout 0
-of 0
-Iran’s 0
-ambitions 0
-in 0
-Syria 0
-itself. 0
+In 0 17 30
+
+the 0 17 30
+
+meantime, 0 17 30
+
+Israel 0 17 30
+
+will 0 17 30
+
+have 0 17 30
+
+to 0 17 30
+
+deal 0 17 30
+
+with 0 17 30
+
+the 0 17 30
+
+fallout 0 17 30
+
+of 0 17 30
+
+Iran’s 0 17 30
+
+ambitions 0 17 30
+
+in 0 17 30
+
+Syria 0 17 30
+
+itself. 0 17 30

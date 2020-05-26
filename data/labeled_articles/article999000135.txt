@@ -1,523 +1,530 @@
-CNN's 0
-Don 0
-Lemon 0
-Contradicts 0
-Himself 0
-In 0
-Just 0
-One 0
-Sentence: 0
-"We 0
-Have 0
-to 0
-Stop 1
-Demonizing 1
-People 1
-... 0
-White 0
-Men, 0
-Most 0
-Of 0
-Them 0
-Radicalized" 0
+CNN's 0 403 0
+Don 0 403 0
+Lemon 0 403 0
+Contradicts 0 403 0
+Himself 0 403 0
+In 0 403 0
+Just 0 403 0
+One 0 403 0
+Sentence: 0 403 0
+"We 0 403 0
+Have 0 403 0
+to 0 403 0
+Stop 1 403 0
+Demonizing 1 403 0
+People 1 403 0
+... 0 403 0
+White 0 403 0
+Men, 0 403 0
+Most 0 403 0
+Of 0 403 0
+Them 0 403 0
+Radicalized" 0 403 0
 
-Talk 1
-about 1
-an 1
-absolute 1
-hypocrite! 1
+Talk 1 403 1
+about 1 403 1
+an 1 403 1
+absolute 1 403 1
+hypocrite! 1 403 1
 
-However, 0
-it 0
-comes 0
-as 0
-no 0
-surprise 0
-from 0
-a 0
-hypocrite 0
-who 0
-works 0
-for 0
-a 0
-hypocritical, 0
-lying, 0
-fake 0
-news 0
-outlet 0
-like 0
-CNN. 0
+However, 0 403 2
+it 0 403 2
+comes 0 403 2
+as 0 403 2
+no 0 403 2
+surprise 0 403 2
+from 0 403 2
+a 0 403 2
+hypocrite 0 403 2
+who 0 403 2
+works 0 403 2
+for 0 403 2
+a 0 403 2
+hypocritical, 0 403 2
+lying, 0 403 2
+fake 0 403 2
+news 0 403 2
+outlet 0 403 2
+like 0 403 2
+CNN. 0 403 2
 
-Don 0
-Lemon 0
-wanted 0
-to 0
-defend 0
-the 0
-"peaceful" 0
-migrants 0
-who 0
-are 0
-headed 0
-toward 0
-the 0
-US 0
-border 0
-to 0
-illegally 0
-enter 0
-the 0
-country 0
-against 0
-our 0
-immigration 0
-laws, 0
-but 0
-said 0
-that 0
-the 0
-"biggest 0
-terror 0
-threat 0
-in 0
-this 0
-country 0
-is 0
-white 0
-men, 0
-most 0
-of 0
-them 0
-radicalized 0
-to 0
-the 0
-right." 0
+Don 0 403 3
+Lemon 0 403 3
+wanted 0 403 3
+to 0 403 3
+defend 0 403 3
+the 0 403 3
+"peaceful" 0 403 3
+migrants 0 403 3
+who 0 403 3
+are 0 403 3
+headed 0 403 3
+toward 0 403 3
+the 0 403 3
+US 0 403 3
+border 0 403 3
+to 0 403 3
+illegally 0 403 3
+enter 0 403 3
+the 0 403 3
+country 0 403 3
+against 0 403 3
+our 0 403 3
+immigration 0 403 3
+laws, 0 403 3
+but 0 403 3
+said 0 403 3
+that 0 403 3
+the 0 403 3
+"biggest 0 403 3
+terror 0 403 3
+threat 0 403 3
+in 0 403 3
+this 0 403 3
+country 0 403 3
+is 0 403 3
+white 0 403 3
+men, 0 403 3
+most 0 403 3
+of 0 403 3
+them 0 403 3
+radicalized 0 403 3
+to 0 403 3
+the 0 403 3
+right." 0 403 3
 
-How 1
-can 1
-he 1
-contradict 1
-himself 1
-like 1
-that 1
-and 1
-not 1
-even 1
-bat 1
-an 1
-eyelid? 1
+How 1 403 4
+can 1 403 4
+he 1 403 4
+contradict 1 403 4
+himself 1 403 4
+like 1 403 4
+that 1 403 4
+and 1 403 4
+not 1 403 4
+even 1 403 4
+bat 1 403 4
+an 1 403 4
+eyelid? 1 403 4
 
-In 0
-discussing 0
-the 0
-arrival 0
-of 0
-these 0
-migrants 0
-who 0
-obviously 0
-gotten 1
-incredible 1
-help 1
-along 1
-the 1
-way, 1
-busted 0
-through 0
-customs 0
-gates, 0
-and 0
-pushed 0
-at 0
-the 0
-Mexican 0
-border 0
-while 0
-committing 0
-all 0
-sorts 0
-of 0
-crimes 0
-against 0
-many 0
-they 0
-come 0
-in 0
-contact 0
-with 0
-along 0
-the 0
-way, 0
-Lemon 0
-said 0
-what 0
-is 0
-clearly 0
-not 0
-only 0
-racist 0
-but 0
-utterly 1
-insane. 1
+In 0 403 5
+discussing 0 403 5
+the 0 403 5
+arrival 0 403 5
+of 0 403 5
+these 0 403 5
+migrants 0 403 5
+who 0 403 5
+obviously 0 403 5
+gotten 1 403 5
+incredible 1 403 5
+help 1 403 5
+along 1 403 5
+the 1 403 5
+way, 1 403 5
+busted 0 403 5
+through 0 403 5
+customs 0 403 5
+gates, 0 403 5
+and 0 403 5
+pushed 0 403 5
+at 0 403 5
+the 0 403 5
+Mexican 0 403 5
+border 0 403 5
+while 0 403 5
+committing 0 403 5
+all 0 403 5
+sorts 0 403 5
+of 0 403 5
+crimes 0 403 5
+against 0 403 5
+many 0 403 5
+they 0 403 5
+come 0 403 5
+in 0 403 5
+contact 0 403 5
+with 0 403 5
+along 0 403 5
+the 0 403 5
+way, 0 403 5
+Lemon 0 403 5
+said 0 403 5
+what 0 403 5
+is 0 403 5
+clearly 0 403 5
+not 0 403 5
+only 0 403 5
+racist 0 403 5
+but 0 403 5
+utterly 1 403 5
+insane. 1 403 5
 
-"We 1
-have 1
-to 1
-stop 1
-demonizing 1
-people 1
-and 1
-realize 1
-the 1
-biggest 1
-terror 1
-threat 1
-in 1
-this 1
-country 1
-is 1
-white 1
-men, 1
-most 1
-of 1
-them 1
-radicalized 1
-to 1
-the 1
-right, 1
-and 1
-we 1
-have 1
-to 1
-start 1
-doing 1
-something 1
-about 1
-them,” 1
-Lemon 1
-said. 1
+"We 1 403 6
+have 1 403 6
+to 1 403 6
+stop 1 403 6
+demonizing 1 403 6
+people 1 403 6
+and 1 403 6
+realize 1 403 6
+the 1 403 6
+biggest 1 403 6
+terror 1 403 6
+threat 1 403 6
+in 1 403 6
+this 1 403 6
+country 1 403 6
+is 1 403 6
+white 1 403 6
+men, 1 403 6
+most 1 403 6
+of 1 403 6
+them 1 403 6
+radicalized 1 403 6
+to 1 403 6
+the 1 403 6
+right, 1 403 6
+and 1 403 6
+we 1 403 6
+have 1 403 6
+to 1 403 6
+start 1 403 6
+doing 1 403 6
+something 1 403 6
+about 1 403 6
+them,” 1 403 6
+Lemon 1 403 6
+said. 1 403 6
 
-“There 1
-is 1
-no 1
-travel 1
-ban 1
-on 1
-them… 1
-there 1
-is 1
-no 1
-white 1
-guy 1
-ban.” 1
+“There 1 403 7
+is 1 403 7
+no 1 403 7
+travel 1 403 7
+ban 1 403 7
+on 1 403 7
+them… 1 403 7
+there 1 403 7
+is 1 403 7
+no 1 403 7
+white 1 403 7
+guy 1 403 7
+ban.” 1 403 7
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 403 8
+our 0 403 8
+poll 0 403 8
+- 0 403 8
+story 0 403 8
+continues 0 403 8
+below 0 403 8
 
-Should 0
-military 0
-force 0
-be 0
-used 0
-to 0
-stop 0
-the 0
-caravan 0
-of 0
-migrants 0
-marching 0
-toward 0
-the 0
-U.S. 0
-border? 0
+Should 0 403 9
+military 0 403 9
+force 0 403 9
+be 0 403 9
+used 0 403 9
+to 0 403 9
+stop 0 403 9
+the 0 403 9
+caravan 0 403 9
+of 0 403 9
+migrants 0 403 9
+marching 0 403 9
+toward 0 403 9
+the 0 403 9
+U.S. 0 403 9
+border? 0 403 9
 
-Should 0
-military 0
-force 0
-be 0
-used 0
-to 0
-stop 0
-the 0
-caravan 0
-of 0
-migrants 0
-marching 0
-toward 0
-the 0
-U.S. 0
-border? 0
+Should 0 403 10
+military 0 403 10
+force 0 403 10
+be 0 403 10
+used 0 403 10
+to 0 403 10
+stop 0 403 10
+the 0 403 10
+caravan 0 403 10
+of 0 403 10
+migrants 0 403 10
+marching 0 403 10
+toward 0 403 10
+the 0 403 10
+U.S. 0 403 10
+border? 0 403 10
 
-Should 0
-military 0
-force 0
-be 0
-used 0
-to 0
-stop 0
-the 0
-caravan 0
-of 0
-migrants 0
-marching 0
-toward 0
-the 0
-U.S. 0
-border? 0
+Should 0 403 11
+military 0 403 11
+force 0 403 11
+be 0 403 11
+used 0 403 11
+to 0 403 11
+stop 0 403 11
+the 0 403 11
+caravan 0 403 11
+of 0 403 11
+migrants 0 403 11
+marching 0 403 11
+toward 0 403 11
+the 0 403 11
+U.S. 0 403 11
+border? 0 403 11
 
-* 0
-Yes, 0
-military 0
-force 0
-should 0
-be 0
-used. 0
+* 0 403 12
+Yes, 0 403 12
+military 0 403 12
+force 0 403 12
+should 0 403 12
+be 0 403 12
+used. 0 403 12
 
-No, 0
-keep 0
-the 0
-military 0
-out 0
-of 0
-it. 0
+No, 0 403 13
+keep 0 403 13
+the 0 403 13
+military 0 403 13
+out 0 403 13
+of 0 403 13
+it. 0 403 13
 
-Email 0
-* 0
+Email 0 403 14
+* 0 403 14
 
-Phone 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Phone 0 403 15
+This 0 403 15
+field 0 403 15
+is 0 403 15
+for 0 403 15
+validation 0 403 15
+purposes 0 403 15
+and 0 403 15
+should 0 403 15
+be 0 403 15
+left 0 403 15
+unchanged. 0 403 15
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 403 16
+this 0 403 16
+poll 0 403 16
+grants 0 403 16
+you 0 403 16
+access 0 403 16
+to 0 403 16
+Freedom 0 403 16
+Outpost 0 403 16
+updates 0 403 16
+free 0 403 16
+of 0 403 16
+charge. 0 403 16
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 403 17
+may 0 403 17
+opt 0 403 17
+out 0 403 17
+at 0 403 17
+anytime. 0 403 17
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 403 18
+also 0 403 18
+agree 0 403 18
+to 0 403 18
+this 0 403 18
+site's 0 403 18
+Privacy 0 403 18
+Policy 0 403 18
+and 0 403 18
+Terms 0 403 18
+of 0 403 18
+Use. 0 403 18
 
-He 0
-then 0
-said 0
-people 0
-need 0
-to 0
-stop 0
-thinking 0
-these 0
-people 0
-are 0
-a 0
-threat. 0
+He 0 403 19
+then 0 403 19
+said 0 403 19
+people 0 403 19
+need 0 403 19
+to 0 403 19
+stop 0 403 19
+thinking 0 403 19
+these 0 403 19
+people 0 403 19
+are 0 403 19
+a 0 403 19
+threat. 0 403 19
 
-“I 0
-keep 0
-trying 0
-to 0
-point 0
-out 0
-to 0
-people 0
-not 0
-to 1
-demonize 1
-any 0
-one 0
-group 0
-or 0
-any 0
-one 0
-ethnicity, 0
-but 0
-we 0
-keep 0
-thinking 0
-the 1
-biggest 1
-terror 1
-threat 1
-is 0
-something 0
-else,” 0
-Lemon 0
-said. 0
+“I 0 403 20
+keep 0 403 20
+trying 0 403 20
+to 0 403 20
+point 0 403 20
+out 0 403 20
+to 0 403 20
+people 0 403 20
+not 0 403 20
+to 1 403 20
+demonize 1 403 20
+any 0 403 20
+one 0 403 20
+group 0 403 20
+or 0 403 20
+any 0 403 20
+one 0 403 20
+ethnicity, 0 403 20
+but 0 403 20
+we 0 403 20
+keep 0 403 20
+thinking 0 403 20
+the 1 403 20
+biggest 1 403 20
+terror 1 403 20
+threat 1 403 20
+is 0 403 20
+something 0 403 20
+else,” 0 403 20
+Lemon 0 403 20
+said. 0 403 20
 
-No 0
-one 0
-is 0
-demonizing 1
-an 0
-ethnicity 0
-but 0
-Don 0
-Lemon. 0
+No 0 403 21
+one 0 403 21
+is 0 403 21
+demonizing 1 403 21
+an 0 403 21
+ethnicity 0 403 21
+but 0 403 21
+Don 0 403 21
+Lemon. 0 403 21
 
-He 0
-is 0
-the 0
-one 0
-demonizing 1
-white 0
-men. 0
+He 0 403 22
+is 0 403 22
+the 0 403 22
+one 0 403 22
+demonizing 1 403 22
+white 0 403 22
+men. 0 403 22
 
-How's 0
-that 0
-for 0
-hypocrisy? 0
+How's 0 403 23
+that 0 403 23
+for 0 403 23
+hypocrisy? 0 403 23
 
-He's 0
-a 0
-useful 0
-idiot, 0
-propagandist 0
-snowflake. 0
+He's 0 403 24
+a 0 403 24
+useful 0 403 24
+idiot, 0 403 24
+propagandist 0 403 24
+snowflake. 0 403 24
 
-Demonizing 1
-the 0
-ideology 0
-behind 0
-Islamic 0
-jihad 0
-is 0
-not 0
-an 0
-ethnic 0
-issue. 0
+Demonizing 1 403 25
+the 0 403 25
+ideology 0 403 25
+behind 0 403 25
+Islamic 0 403 25
+jihad 0 403 25
+is 0 403 25
+not 0 403 25
+an 0 403 25
+ethnic 0 403 25
+issue. 0 403 25
 
-It's 0
-an 0
-ideological 0
-one 0
-that 0
-spans 0
-cultures, 0
-just 0
-like 0
-Don 0
-Lemon's 0
-and 0
-Chris 0
-Cuomo's 0
-statism. 0
+It's 0 403 26
+an 0 403 26
+ideological 0 403 26
+one 0 403 26
+that 0 403 26
+spans 0 403 26
+cultures, 0 403 26
+just 0 403 26
+like 0 403 26
+Don 0 403 26
+Lemon's 0 403 26
+and 0 403 26
+Chris 0 403 26
+Cuomo's 0 403 26
+statism. 0 403 26
 
-Demonizing 1
-those 0
-intent 0
-on 0
-violating 0
-the 0
-law 0
-and 0
-have 0
-demonstrated 0
-that 0
-they 0
-are 0
-doing 0
-it 0
-along 0
-the 0
-way 0
-and 0
-declaring 0
-that 0
-we 0
-will 0
-not 0
-allow 0
-such 0
-persons 0
-across 0
-our 0
-border 0
-is 0
-simply 0
-common 0
-sense, 0
-but 0
-you 0
-won't 0
-get 0
-common 0
-sense 0
-on 0
-CNN. 0
+Demonizing 1 403 27
+those 0 403 27
+intent 0 403 27
+on 0 403 27
+violating 0 403 27
+the 0 403 27
+law 0 403 27
+and 0 403 27
+have 0 403 27
+demonstrated 0 403 27
+that 0 403 27
+they 0 403 27
+are 0 403 27
+doing 0 403 27
+it 0 403 27
+along 0 403 27
+the 0 403 27
+way 0 403 27
+and 0 403 27
+declaring 0 403 27
+that 0 403 27
+we 0 403 27
+will 0 403 27
+not 0 403 27
+allow 0 403 27
+such 0 403 27
+persons 0 403 27
+across 0 403 27
+our 0 403 27
+border 0 403 27
+is 0 403 27
+simply 0 403 27
+common 0 403 27
+sense, 0 403 27
+but 0 403 27
+you 0 403 27
+won't 0 403 27
+get 0 403 27
+common 0 403 27
+sense 0 403 27
+on 0 403 27
+CNN. 0 403 27
 
-Don 1
-Lemon 1
-thinks 1
-things 1
-like 1
-this, 1
-are 1
-just 1
-fine, 1
-and 1
-wants 1
-these 1
-people 1
-in 1
-the 1
-US. 1
+Don 1 403 28
+Lemon 1 403 28
+thinks 1 403 28
+things 1 403 28
+like 1 403 28
+this, 1 403 28
+are 1 403 28
+just 1 403 28
+fine, 1 403 28
+and 1 403 28
+wants 1 403 28
+these 1 403 28
+people 1 403 28
+in 1 403 28
+the 1 403 28
+US. 1 403 28
 
-He 1
-just 1
-doesn't 1
-want 1
-white 1
-men 1
-here. 1
+He 1 403 29
+just 1 403 29
+doesn't 1 403 29
+want 1 403 29
+white 1 403 29
+men 1 403 29
+here. 1 403 29
 
-There, 1
-I 1
-said 1
-it! 1
+There, 1 403 30
+I 1 403 30
+said 1 403 30
+it! 1 403 30
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-The 0
-Washington 0
-Standard 0
+Article 0 403 30
+
+posted 0 403 30
+
+with 0 403 30
+
+permission 0 403 30
+
+from 0 403 30
+
+The 0 403 30
+
+Washington 0 403 30
+
+Standard 0 403 30

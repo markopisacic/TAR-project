@@ -1,633 +1,639 @@
-Capitol 0
-Police 0
-“Accidentally” 0
-Gave 0
-Treasure 1
-Trove 1
-of 1
-Evidence 1
-To 0
-Muslim 1
-IT 1
-Spy's 1
-Defense 1
-Attorney 1
+Capitol 0 233 0
+Police 0 233 0
+“Accidentally” 0 233 0
+Gave 0 233 0
+Treasure 1 233 0
+Trove 1 233 0
+of 1 233 0
+Evidence 1 233 0
+To 0 233 0
+Muslim 1 233 0
+IT 1 233 0
+Spy's 1 233 0
+Defense 1 233 0
+Attorney 1 233 0
 
-Accidentally? 1
+Accidentally? 1 233 1
 
-Color 1
-me 1
-skeptical. 1
+Color 1 233 2
+me 1 233 2
+skeptical. 1 233 2
 
-The 1
-Democrats 1
-are 1
-criminal, 1
-treasonous 1
-and 1
-sleazy. 1
+The 1 233 3
+Democrats 1 233 3
+are 1 233 3
+criminal, 1 233 3
+treasonous 1 233 3
+and 1 233 3
+sleazy. 1 233 3
 
-They 0
-gave 0
-this 1
-jihadi 1
-unfettered 0
-access 0
-to 0
-national 0
-security 0
-secrets. 0
+They 0 233 4
+gave 0 233 4
+this 1 233 4
+jihadi 1 233 4
+unfettered 0 233 4
+access 0 233 4
+to 0 233 4
+national 0 233 4
+security 0 233 4
+secrets. 0 233 4
 
-He 0
-then 0
-transferred 0
-the 0
-data 0
-to 0
-Pakistan. 0
+He 0 233 5
+then 0 233 5
+transferred 0 233 5
+the 0 233 5
+data 0 233 5
+to 0 233 5
+Pakistan. 0 233 5
 
-And 0
-the 0
-most 1
-powerful 1
-Democrats 1
-continue 0
-to 0
-protect 0
-jihad-treason. 1
+And 0 233 6
+the 0 233 6
+most 1 233 6
+powerful 1 233 6
+Democrats 1 233 6
+continue 0 233 6
+to 0 233 6
+protect 0 233 6
+jihad-treason. 1 233 6
 
-The 0
-Democrat 0
-leadership 0
-collusion 0
-with 0
-Muslim 1
-spies 1
-is 0
-the 1
-biggest 1
-story 1
-of 1
-treason 1
-and 1
-espionage 1
-in 1
-the 1
-recent 1
-memory. 1
+The 0 233 7
+Democrat 0 233 7
+leadership 0 233 7
+collusion 0 233 7
+with 0 233 7
+Muslim 1 233 7
+spies 1 233 7
+is 0 233 7
+the 1 233 7
+biggest 1 233 7
+story 1 233 7
+of 1 233 7
+treason 1 233 7
+and 1 233 7
+espionage 1 233 7
+in 1 233 7
+the 1 233 7
+recent 1 233 7
+memory. 1 233 7
 
-As 0
-the 0
-scandal 0
-widens 0
-and 0
-worsens, 0
-the 0
-media 0
-goes 1
-to 1
-extraordinary 1
-lengths 1
-not 0
-to 0
-cover 0
-it. 0
+As 0 233 8
+the 0 233 8
+scandal 0 233 8
+widens 0 233 8
+and 0 233 8
+worsens, 0 233 8
+the 0 233 8
+media 0 233 8
+goes 1 233 8
+to 1 233 8
+extraordinary 1 233 8
+lengths 1 233 8
+not 0 233 8
+to 0 233 8
+cover 0 233 8
+it. 0 233 8
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
+take 0 233 9
+our 0 233 9
+poll 0 233 9
+- 0 233 9
+story 0 233 9
+continues 0 233 9
+below 0 233 9
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 233 10
+do 0 233 10
+you 0 233 10
+consider 0 233 10
+to 0 233 10
+be 0 233 10
+the 0 233 10
+most 0 233 10
+corrupt 0 233 10
+Democrat 0 233 10
+Politician? 0 233 10
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 233 11
+do 0 233 11
+you 0 233 11
+consider 0 233 11
+to 0 233 11
+be 0 233 11
+the 0 233 11
+most 0 233 11
+corrupt 0 233 11
+Democrat 0 233 11
+Politician? 0 233 11
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 233 12
+do 0 233 12
+you 0 233 12
+consider 0 233 12
+to 0 233 12
+be 0 233 12
+the 0 233 12
+most 0 233 12
+corrupt 0 233 12
+Democrat 0 233 12
+Politician? 0 233 12
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 233 13
+Dianne 0 233 13
+Feinstein 0 233 13
+Maxine 0 233 13
+Waters 0 233 13
+Adam 0 233 13
+Schiff 0 233 13
+Chuck 0 233 13
+Schumer 0 233 13
+Kamala 0 233 13
+Harris 0 233 13
+Kirsten 0 233 13
+Gillibrand 0 233 13
+Keith 0 233 13
+Ellison 0 233 13
+Cory 0 233 13
+Booker 0 233 13
 
-Email 0
-* 0
+Email 0 233 14
+* 0 233 14
 
-Comments 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Comments 0 233 15
+This 0 233 15
+field 0 233 15
+is 0 233 15
+for 0 233 15
+validation 0 233 15
+purposes 0 233 15
+and 0 233 15
+should 0 233 15
+be 0 233 15
+left 0 233 15
+unchanged. 0 233 15
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 233 16
+this 0 233 16
+poll 0 233 16
+grants 0 233 16
+you 0 233 16
+access 0 233 16
+to 0 233 16
+Freedom 0 233 16
+Outpost 0 233 16
+updates 0 233 16
+free 0 233 16
+of 0 233 16
+charge. 0 233 16
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 233 17
+may 0 233 17
+opt 0 233 17
+out 0 233 17
+at 0 233 17
+anytime. 0 233 17
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 233 18
+also 0 233 18
+agree 0 233 18
+to 0 233 18
+this 0 233 18
+site's 0 233 18
+Privacy 0 233 18
+Policy 0 233 18
+and 0 233 18
+Terms 0 233 18
+of 0 233 18
+Use. 0 233 18
 
-Hellbent 1
-to 1
-destroy 1
-President 1
-Trump, 1
-they 0
-toil 1
-in 1
-Soviet 1
-fictions 1
-and 1
-titillating 1
-porn 1
-stories. 1
+Hellbent 1 233 19
+to 1 233 19
+destroy 1 233 19
+President 1 233 19
+Trump, 1 233 19
+they 0 233 19
+toil 1 233 19
+in 1 233 19
+Soviet 1 233 19
+fictions 1 233 19
+and 1 233 19
+titillating 1 233 19
+porn 1 233 19
+stories. 1 233 19
 
-House 0
-investigators 0
-found 0
-the 0
-House 0
-server 0
-was 0
-being 0
-used 0
-for 0
-nefarious 1
-purposes 1
-and 0
-the 0
-alleged 1
-Muslim 1
-spies 1
-were 0
-removing 0
-information 0
-and 0
-sending 0
-it 0
-for 0
-foreign 0
-actors. 0
+House 0 233 20
+investigators 0 233 20
+found 0 233 20
+the 0 233 20
+House 0 233 20
+server 0 233 20
+was 0 233 20
+being 0 233 20
+used 0 233 20
+for 0 233 20
+nefarious 1 233 20
+purposes 1 233 20
+and 0 233 20
+the 0 233 20
+alleged 1 233 20
+Muslim 1 233 20
+spies 1 233 20
+were 0 233 20
+removing 0 233 20
+information 0 233 20
+and 0 233 20
+sending 0 233 20
+it 0 233 20
+for 0 233 20
+foreign 0 233 20
+actors. 0 233 20
 
-The 0
-aides 0
-named 0
-are 0
-Imran 0
-Awan, 0
-his 0
-wife 0
-Hina 0
-Alvi, 0
-his 0
-brothers 0
-Abid 0
-and 0
-Jamal, 0
-and 0
-his 0
-friend 0
-Rao 0
-Abbas, 0
-Pakistani-born 0
-aides. 0
+The 0 233 21
+aides 0 233 21
+named 0 233 21
+are 0 233 21
+Imran 0 233 21
+Awan, 0 233 21
+his 0 233 21
+wife 0 233 21
+Hina 0 233 21
+Alvi, 0 233 21
+his 0 233 21
+brothers 0 233 21
+Abid 0 233 21
+and 0 233 21
+Jamal, 0 233 21
+and 0 233 21
+his 0 233 21
+friend 0 233 21
+Rao 0 233 21
+Abbas, 0 233 21
+Pakistani-born 0 233 21
+aides. 0 233 21
 
-Now 0
-we 0
-hear 0
-the 0
-father 0
-of 0
-Muslim 1
-spy 1
-ring 1
-Imran 0
-Awan 0
-transferred 0
-a 0
-USB 0
-drive 0
-to 0
-a 0
-Pakistani 0
-senator 0
-and 0
-former 0
-head 0
-of 0
-a 0
-Pakistani 0
-intelligence 0
-agency. 0
+Now 0 233 22
+we 0 233 22
+hear 0 233 22
+the 0 233 22
+father 0 233 22
+of 0 233 22
+Muslim 1 233 22
+spy 1 233 22
+ring 1 233 22
+Imran 0 233 22
+Awan 0 233 22
+transferred 0 233 22
+a 0 233 22
+USB 0 233 22
+drive 0 233 22
+to 0 233 22
+a 0 233 22
+Pakistani 0 233 22
+senator 0 233 22
+and 0 233 22
+former 0 233 22
+head 0 233 22
+of 0 233 22
+a 0 233 22
+Pakistani 0 233 22
+intelligence 0 233 22
+agency. 0 233 22
 
-CAPITOL 0
-POLICE 0
-ACCIDENTALLY 0
-GAVE 0
-EVIDENCE 0
-TO 0
-HOUSE 1
-HACKING 1
-SUSPECT’S 1
-DEFENSE 1
-ATTORNEY 1
-By 0
-Luke 0
-Rosiak 0
-on 0
-May 0
-24, 0
-2018: 0
+CAPITOL 0 233 23
+POLICE 0 233 23
+ACCIDENTALLY 0 233 23
+GAVE 0 233 23
+EVIDENCE 0 233 23
+TO 0 233 23
+HOUSE 1 233 23
+HACKING 1 233 23
+SUSPECT’S 1 233 23
+DEFENSE 1 233 23
+ATTORNEY 1 233 23
+By 0 233 23
+Luke 0 233 23
+Rosiak 0 233 23
+on 0 233 23
+May 0 233 23
+24, 0 233 23
+2018: 0 233 23
 
-The 0
-House 0
-IG 0
-said 0
-Democratic 0
-IT 0
-aides 0
-made 0
-unauthorized 0
-access 0
-to 0
-data, 0
-but 0
-prosecutors 0
-haven’t 0
-charged 0
-them 0
+The 0 233 24
+House 0 233 24
+IG 0 233 24
+said 0 233 24
+Democratic 0 233 24
+IT 0 233 24
+aides 0 233 24
+made 0 233 24
+unauthorized 0 233 24
+access 0 233 24
+to 0 233 24
+data, 0 233 24
+but 0 233 24
+prosecutors 0 233 24
+haven’t 0 233 24
+charged 0 233 24
+them 0 233 24
 
-Democrats 0
-appear 0
-to 0
-want 0
-to 0
-keep 0
-the 0
-case 0
-out 0
-of 0
-court; 0
-a 0
-trial 0
-could 0
-expose 0
-their 0
-reckless 1
-IT 1
-practices 1
+Democrats 0 233 25
+appear 0 233 25
+to 0 233 25
+want 0 233 25
+to 0 233 25
+keep 0 233 25
+the 0 233 25
+case 0 233 25
+out 0 233 25
+of 0 233 25
+court; 0 233 25
+a 0 233 25
+trial 0 233 25
+could 0 233 25
+expose 0 233 25
+their 0 233 25
+reckless 1 233 25
+IT 1 233 25
+practices 1 233 25
 
-Capitol 1
-Police 1
-didn’t 1
-make 1
-arrests 1
-despite 1
-numerous 1
-red 1
-flags 1
-and 1
-then 1
-‘inadvertently’ 1
-gave 1
-evidence 1
-to 1
-defense 1
-attorneys 1
-that 1
-was 1
-supposed 1
-to 1
-go 1
-to 1
-prosecutors 1
+Capitol 1 233 26
+Police 1 233 26
+didn’t 1 233 26
+make 1 233 26
+arrests 1 233 26
+despite 1 233 26
+numerous 1 233 26
+red 1 233 26
+flags 1 233 26
+and 1 233 26
+then 1 233 26
+‘inadvertently’ 1 233 26
+gave 1 233 26
+evidence 1 233 26
+to 1 233 26
+defense 1 233 26
+attorneys 1 233 26
+that 1 233 26
+was 1 233 26
+supposed 1 233 26
+to 1 233 26
+go 1 233 26
+to 1 233 26
+prosecutors 1 233 26
 
-Prosecutors 0
-appear 0
-to 0
-be 0
-sharing 0
-info 0
-with 0
-someone 0
-on 0
-Capitol 0
-Hill 0
-who 0
-is 0
-leaking 0
-details 0
-to 0
-the 0
-hacking 0
-suspect’s 0
-lawyer 0
+Prosecutors 0 233 27
+appear 0 233 27
+to 0 233 27
+be 0 233 27
+sharing 0 233 27
+info 0 233 27
+with 0 233 27
+someone 0 233 27
+on 0 233 27
+Capitol 0 233 27
+Hill 0 233 27
+who 0 233 27
+is 0 233 27
+leaking 0 233 27
+details 0 233 27
+to 0 233 27
+the 0 233 27
+hacking 0 233 27
+suspect’s 0 233 27
+lawyer 0 233 27
 
-The 0
-Capitol 0
-Police 0
-turned 0
-over 0
-a 0
-trove 1
-of 1
-evidence 1
-in 0
-the 0
-alleged 0
-Imran 0
-Awan 0
-House 0
-cyberbreach 0
-and 0
-theft 0
-case 0
-to 0
-the 0
-defense 0
-attorneys 0
-when 0
-they 0
-were 0
-supposed 0
-to 0
-deliver 0
-it 0
-to 0
-prosecutors 0
-instead, 0
-according 0
-to 0
-court 0
-documents 0
-and 0
-a 0
-source. 0
+The 0 233 28
+Capitol 0 233 28
+Police 0 233 28
+turned 0 233 28
+over 0 233 28
+a 0 233 28
+trove 1 233 28
+of 1 233 28
+evidence 1 233 28
+in 0 233 28
+the 0 233 28
+alleged 0 233 28
+Imran 0 233 28
+Awan 0 233 28
+House 0 233 28
+cyberbreach 0 233 28
+and 0 233 28
+theft 0 233 28
+case 0 233 28
+to 0 233 28
+the 0 233 28
+defense 0 233 28
+attorneys 0 233 28
+when 0 233 28
+they 0 233 28
+were 0 233 28
+supposed 0 233 28
+to 0 233 28
+deliver 0 233 28
+it 0 233 28
+to 0 233 28
+prosecutors 0 233 28
+instead, 0 233 28
+according 0 233 28
+to 0 233 28
+court 0 233 28
+documents 0 233 28
+and 0 233 28
+a 0 233 28
+source. 0 233 28
 
-And 0
-hours 0
-after 0
-The 0
-Daily 0
-Caller 0
-News 0
-Foundation 0
-asked 0
-prosecutors 0
-about 0
-the 0
-disclosure, 0
-Awan’s 0
-lawyer 0
-said 0
-he 0
-had 0
-learned 0
-of 0
-the 0
-forthcoming 0
-story 0
-from 0
-a 0
-source 0
-on 0
-Capitol 0
-Hill. 0
+And 0 233 29
+hours 0 233 29
+after 0 233 29
+The 0 233 29
+Daily 0 233 29
+Caller 0 233 29
+News 0 233 29
+Foundation 0 233 29
+asked 0 233 29
+prosecutors 0 233 29
+about 0 233 29
+the 0 233 29
+disclosure, 0 233 29
+Awan’s 0 233 29
+lawyer 0 233 29
+said 0 233 29
+he 0 233 29
+had 0 233 29
+learned 0 233 29
+of 0 233 29
+the 0 233 29
+forthcoming 0 233 29
+story 0 233 29
+from 0 233 29
+a 0 233 29
+source 0 233 29
+on 0 233 29
+Capitol 0 233 29
+Hill. 0 233 29
 
-TheDCNF 0
-had 0
-not 0
-told 0
-anyone 0
-other 0
-than 0
-prosecutors 0
-about 0
-it. 0
+TheDCNF 0 233 30
+had 0 233 30
+not 0 233 30
+told 0 233 30
+anyone 0 233 30
+other 0 233 30
+than 0 233 30
+prosecutors 0 233 30
+about 0 233 30
+it. 0 233 30
 
-“The 0
-cop 0
-came 0
-to 0
-[Awan’s 0
-defense 0
-attorney] 0
-Chris 0
-Gowen’s 0
-office 0
-with 0
-a 0
-stack 0
-of 0
-papers 0
-… 0
-Then 0
-he 0
-came 0
-back 0
-and 0
-said, 0
-‘I 0
-thought 0
-you 0
-guys 0
-were 0
-the 0
-other 0
-party.’ 0
-He 1
-was 1
-very, 1
-very 1
-angry. 1
+“The 0 233 31
+cop 0 233 31
+came 0 233 31
+to 0 233 31
+[Awan’s 0 233 31
+defense 0 233 31
+attorney] 0 233 31
+Chris 0 233 31
+Gowen’s 0 233 31
+office 0 233 31
+with 0 233 31
+a 0 233 31
+stack 0 233 31
+of 0 233 31
+papers 0 233 31
+… 0 233 31
+Then 0 233 31
+he 0 233 31
+came 0 233 31
+back 0 233 31
+and 0 233 31
+said, 0 233 31
+‘I 0 233 31
+thought 0 233 31
+you 0 233 31
+guys 0 233 31
+were 0 233 31
+the 0 233 31
+other 0 233 31
+party.’ 0 233 31
+He 1 233 31
+was 1 233 31
+very, 1 233 31
+very 1 233 31
+angry. 1 233 31
 
-But 0
-Gowen 0
-made 0
-copies,” 0
-the 0
-source, 0
-who’s 0
-familiar 0
-with 0
-The 0
-Awans, 0
-told 0
-TheDCNF. 0
+But 0 233 32
+Gowen 0 233 32
+made 0 233 32
+copies,” 0 233 32
+the 0 233 32
+source, 0 233 32
+who’s 0 233 32
+familiar 0 233 32
+with 0 233 32
+The 0 233 32
+Awans, 0 233 32
+told 0 233 32
+TheDCNF. 0 233 32
 
-Awan, 0
-three 0
-relatives 0
-and 0
-a 0
-friend 0
-ran 0
-IT 0
-for 0
-one 0
-in 0
-five 0
-House 0
-Democrats 0
-and 0
-could 0
-read 0
-all 0
-their 0
-emails 0
-and 0
-files 0
-until 0
-they 0
-were 0
-banned 0
-on 0
-Feb. 0
-2, 0
-2017, 0
-for 0
-“numerous 0
-violations 0
-of 0
-House 0
-security 0
-policies.” 0
-The 0
-violations 0
-alleged 0
-by 0
-the 0
-House 0
-Office 0
-of 0
-Inspector 0
-General 0
-include 0
-logging 0
-into 0
-the 0
-House 0
-Democratic 0
-Caucus 0
-server 0
-thousands 0
-of 0
-times 0
-without 0
-authorization. 0
+Awan, 0 233 33
+three 0 233 33
+relatives 0 233 33
+and 0 233 33
+a 0 233 33
+friend 0 233 33
+ran 0 233 33
+IT 0 233 33
+for 0 233 33
+one 0 233 33
+in 0 233 33
+five 0 233 33
+House 0 233 33
+Democrats 0 233 33
+and 0 233 33
+could 0 233 33
+read 0 233 33
+all 0 233 33
+their 0 233 33
+emails 0 233 33
+and 0 233 33
+files 0 233 33
+until 0 233 33
+they 0 233 33
+were 0 233 33
+banned 0 233 33
+on 0 233 33
+Feb. 0 233 33
+2, 0 233 33
+2017, 0 233 33
+for 0 233 33
+“numerous 0 233 33
+violations 0 233 33
+of 0 233 33
+House 0 233 33
+security 0 233 33
+policies.” 0 233 33
+The 0 233 33
+violations 0 233 33
+alleged 0 233 33
+by 0 233 33
+the 0 233 33
+House 0 233 33
+Office 0 233 33
+of 0 233 33
+Inspector 0 233 33
+General 0 233 33
+include 0 233 33
+logging 0 233 33
+into 0 233 33
+the 0 233 33
+House 0 233 33
+Democratic 0 233 33
+Caucus 0 233 33
+server 0 233 33
+thousands 0 233 33
+of 0 233 33
+times 0 233 33
+without 0 233 33
+authorization. 0 233 33
 
-This 0
-allegedly 0
-occurred 0
-during 0
-the 0
-same 0
-period 0
-in 0
-2016 0
-the 0
-DNC 0
-was 0
-hacked. 0
+This 0 233 34
+allegedly 0 233 34
+occurred 0 233 34
+during 0 233 34
+the 0 233 34
+same 0 233 34
+period 0 233 34
+in 0 233 34
+2016 0 233 34
+the 0 233 34
+DNC 0 233 34
+was 0 233 34
+hacked. 0 233 34
 
-Prosecutor 0
-Michael 0
-Marando 0
-alluded 0
-to 0
-the 0
-disclosure 0
-of 0
-evidence 0
-in 0
-court 0
-on 0
-Oct. 0
-6, 0
-2017. 0
+Prosecutor 0 233 35
+Michael 0 233 35
+Marando 0 233 35
+alluded 0 233 35
+to 0 233 35
+the 0 233 35
+disclosure 0 233 35
+of 0 233 35
+evidence 0 233 35
+in 0 233 35
+court 0 233 35
+on 0 233 35
+Oct. 0 233 35
+6, 0 233 35
+2017. 0 233 35
 
-Article 0
-posted 0
-with 0
-permission 0
-from 0
-Pamela 0
-Geller 0
+Article 0 233 35
+
+posted 0 233 35
+
+with 0 233 35
+
+permission 0 233 35
+
+from 0 233 35
+
+Pamela 0 233 35
+
+Geller 0 233 35

@@ -1,859 +1,862 @@
-Geert 0
-Wilders 0
-Puts 0
-the 0
-Political 0
-Elites 0
-On 0
-Notice 0
+Geert 0 259 0
+Wilders 0 259 0
+Puts 0 259 0
+the 0 259 0
+Political 0 259 0
+Elites 0 259 0
+On 0 259 0
+Notice 0 259 0
 
-Geert 0
-Wilders 0
-spoke 0
-at 0
-a 0
-massive 0
-rally 0
-for 0
-Tommy 0
-Robinson 0
-on 0
-Saturday. 0
+Geert 0 259 1
+Wilders 0 259 1
+spoke 0 259 1
+at 0 259 1
+a 0 259 1
+massive 0 259 1
+rally 0 259 1
+for 0 259 1
+Tommy 0 259 1
+Robinson 0 259 1
+on 0 259 1
+Saturday. 0 259 1
 
-20,000 0
-people 0
-came 0
-out 0
-to 0
-call 0
-for 0
-Tommy’s 0
-release, 0
-and 0
-Wilders 0
-took 0
-the 0
-opportunity 0
-to 0
-put 0
-the 0
-political 0
-elites 0
-of 0
-Britain 0
-and 0
-continental 0
-Europe 0
-on 0
-notice. 0
+20,000 0 259 2
+people 0 259 2
+came 0 259 2
+out 0 259 2
+to 0 259 2
+call 0 259 2
+for 0 259 2
+Tommy’s 0 259 2
+release, 0 259 2
+and 0 259 2
+Wilders 0 259 2
+took 0 259 2
+the 0 259 2
+opportunity 0 259 2
+to 0 259 2
+put 0 259 2
+the 0 259 2
+political 0 259 2
+elites 0 259 2
+of 0 259 2
+Britain 0 259 2
+and 0 259 2
+continental 0 259 2
+Europe 0 259 2
+on 0 259 2
+notice. 0 259 2
 
-“Our 1
-governments,” 1
-Wilders 0
-declared, 0
-“sold 0
-us 0
-out 0
-with 0
-mass 0
-immigration. 0
+“Our 1 259 3
+governments,” 1 259 3
+Wilders 0 259 3
+declared, 0 259 3
+“sold 0 259 3
+us 0 259 3
+out 0 259 3
+with 0 259 3
+mass 0 259 3
+immigration. 0 259 3
 
-With 0
-Islamization. 0
+With 0 259 4
+Islamization. 0 259 4
 
-With 0
-open 0
-borders. 0
+With 0 259 5
+open 0 259 5
+borders. 0 259 5
 
-We 0
-are 0
-almost 0
-foreigners 0
-in 0
-our 0
-own 0
-lands. 0
+We 0 259 6
+are 0 259 6
+almost 0 259 6
+foreigners 0 259 6
+in 0 259 6
+our 0 259 6
+own 0 259 6
+lands. 0 259 6
 
-And 0
-if 0
-we 0
-complain 0
-about 0
-it, 0
-they 0
-call 0
-us 0
-racists 1
-and 1
-Islamophobes. 1
+And 0 259 7
+if 0 259 7
+we 0 259 7
+complain 0 259 7
+about 0 259 7
+it, 0 259 7
+they 0 259 7
+call 0 259 7
+us 0 259 7
+racists 1 259 7
+and 1 259 7
+Islamophobes. 1 259 7
 
-But 0
-I 0
-say, 0
-no 1
-more! 1
+But 0 259 8
+I 0 259 8
+say, 0 259 8
+no 1 259 8
+more! 1 259 8
 
-And 0
-what 0
-do 0
-you 0
-say? 0
+And 0 259 9
+what 0 259 9
+do 0 259 9
+you 0 259 9
+say? 0 259 9
 
-No 1
-more! 1
+No 1 259 10
+more! 1 259 10
 
-And 0
-that’s 0
-right: 0
-enough 0
-is 0
-enough. 0
+And 0 259 11
+that’s 0 259 11
+right: 0 259 11
+enough 0 259 11
+is 0 259 11
+enough. 0 259 11
 
-We 0
-will 0
-not 0
-be 0
-gagged 0
-anymore. 0
+We 0 259 12
+will 0 259 12
+not 0 259 12
+be 0 259 12
+gagged 0 259 12
+anymore. 0 259 12
 
-No 1
-more 1
-tyranny.” 1
+No 1 259 13
+more 1 259 13
+tyranny.” 1 259 13
 
-It 0
-was 0
-extraordinary 0
-that 0
-the 0
-British 0
-authorities 0
-allowed 0
-Wilders 0
-into 0
-the 0
-country 0
-at 0
-all. 0
+It 0 259 14
+was 0 259 14
+extraordinary 0 259 14
+that 0 259 14
+the 0 259 14
+British 0 259 14
+authorities 0 259 14
+allowed 0 259 14
+Wilders 0 259 14
+into 0 259 14
+the 0 259 14
+country 0 259 14
+at 0 259 14
+all. 0 259 14
 
-Several 0
-years 0
-ago 0
-he 0
-was 0
-banned 0
-from 0
-entering 0
-the 0
-country, 0
-but 0
-although 0
-the 0
-ban 0
-was 0
-reversed 0
-on 0
-appeal, 0
-the 0
-British 0
-government 0
-recently 0
-banned 0
-Martin 0
-Sellner, 0
-Brittany 0
-Pettibone, 0
-Lauren 0
-Southern 0
-and 0
-Lutz 0
-Bachmann 0
-from 0
-entering, 0
-all 0
-for 0
-the 0
-crime 0
-of 0
-opposing 0
-jihad 0
-terror 0
-and 0
-Sharia 0
-oppression, 0
-and 0
-thereby 0
-made 0
-it 0
-clear 0
-that 0
-it 0
-is 0
-more 0
-authoritarian 0
-and 0
-unwilling 0
-to 0
-uphold 0
-the 0
-freedom 0
-of 0
-speech 0
-than 0
-ever 0
-– 0
-at 0
-least 0
-when 0
-it 0
-comes 0
-to 0
-criticism 0
-of 0
-Islam, 0
-Muslim 1
-rape 1
-gangs, 1
-and 0
-mass 0
-Muslim 0
-migration. 0
+Several 0 259 15
+years 0 259 15
+ago 0 259 15
+he 0 259 15
+was 0 259 15
+banned 0 259 15
+from 0 259 15
+entering 0 259 15
+the 0 259 15
+country, 0 259 15
+but 0 259 15
+although 0 259 15
+the 0 259 15
+ban 0 259 15
+was 0 259 15
+reversed 0 259 15
+on 0 259 15
+appeal, 0 259 15
+the 0 259 15
+British 0 259 15
+government 0 259 15
+recently 0 259 15
+banned 0 259 15
+Martin 0 259 15
+Sellner, 0 259 15
+Brittany 0 259 15
+Pettibone, 0 259 15
+Lauren 0 259 15
+Southern 0 259 15
+and 0 259 15
+Lutz 0 259 15
+Bachmann 0 259 15
+from 0 259 15
+entering, 0 259 15
+all 0 259 15
+for 0 259 15
+the 0 259 15
+crime 0 259 15
+of 0 259 15
+opposing 0 259 15
+jihad 0 259 15
+terror 0 259 15
+and 0 259 15
+Sharia 0 259 15
+oppression, 0 259 15
+and 0 259 15
+thereby 0 259 15
+made 0 259 15
+it 0 259 15
+clear 0 259 15
+that 0 259 15
+it 0 259 15
+is 0 259 15
+more 0 259 15
+authoritarian 0 259 15
+and 0 259 15
+unwilling 0 259 15
+to 0 259 15
+uphold 0 259 15
+the 0 259 15
+freedom 0 259 15
+of 0 259 15
+speech 0 259 15
+than 0 259 15
+ever 0 259 15
+– 0 259 15
+at 0 259 15
+least 0 259 15
+when 0 259 15
+it 0 259 15
+comes 0 259 15
+to 0 259 15
+criticism 0 259 15
+of 0 259 15
+Islam, 0 259 15
+Muslim 1 259 15
+rape 1 259 15
+gangs, 1 259 15
+and 0 259 15
+mass 0 259 15
+Muslim 0 259 15
+migration. 0 259 15
 
-Even 0
-worse, 0
-the 0
-bannings 0
-of 0
-Sellner, 0
-Pettibone, 0
-Southern, 0
-and 0
-Bachmann 0
-were 0
-just 0
-part 0
-of 0
-a 0
-long 0
-pattern. 0
+Even 0 259 16
+worse, 0 259 16
+the 0 259 16
+bannings 0 259 16
+of 0 259 16
+Sellner, 0 259 16
+Pettibone, 0 259 16
+Southern, 0 259 16
+and 0 259 16
+Bachmann 0 259 16
+were 0 259 16
+just 0 259 16
+part 0 259 16
+of 0 259 16
+a 0 259 16
+long 0 259 16
+pattern. 0 259 16
 
-Pamela 0
-Geller 0
-and 0
-I 0
-were 0
-banned 0
-from 0
-entering 0
-Britain 0
-in 0
-2013, 0
-apparently 0
-for 0
-life, 0
-also 0
-for 0
-the 0
-crime 0
-of 0
-telling 0
-the 1
-truth 1
-about 1
-Islam 1
-and 1
-jihad. 1
+Pamela 0 259 17
+Geller 0 259 17
+and 0 259 17
+I 0 259 17
+were 0 259 17
+banned 0 259 17
+from 0 259 17
+entering 0 259 17
+Britain 0 259 17
+in 0 259 17
+2013, 0 259 17
+apparently 0 259 17
+for 0 259 17
+life, 0 259 17
+also 0 259 17
+for 0 259 17
+the 0 259 17
+crime 0 259 17
+of 0 259 17
+telling 0 259 17
+the 1 259 17
+truth 1 259 17
+about 1 259 17
+Islam 1 259 17
+and 1 259 17
+jihad. 1 259 17
 
-Meanwhile, 0
-Britain 0
-has 0
-a 0
-steadily 0
-lengthening 0
-record 0
-of 0
-admitting 0
-jihad 0
-preachers 0
-without 1
-a 1
-moment 1
-of 1
-hesitation. 1
+Meanwhile, 0 259 18
+Britain 0 259 18
+has 0 259 18
+a 0 259 18
+steadily 0 259 18
+lengthening 0 259 18
+record 0 259 18
+of 0 259 18
+admitting 0 259 18
+jihad 0 259 18
+preachers 0 259 18
+without 1 259 18
+a 1 259 18
+moment 1 259 18
+of 1 259 18
+hesitation. 1 259 18
 
-Syed 0
-Muzaffar 0
-Shah 0
-Qadri’s 0
-preaching 1
-of 1
-hatred 1
-and 1
-jihad 1
-violence 1
-was 0
-so 0
-hardline 1
-that 0
-he 0
-was 0
-banned 0
-from 0
-preaching 0
-in 0
-Pakistan, 0
-but 0
-the 0
-UK 0
-Home 0
-Office 0
-welcomed 0
-him 0
-into 0
-Britain. 0
+Syed 0 259 19
+Muzaffar 0 259 19
+Shah 0 259 19
+Qadri’s 0 259 19
+preaching 1 259 19
+of 1 259 19
+hatred 1 259 19
+and 1 259 19
+jihad 1 259 19
+violence 1 259 19
+was 0 259 19
+so 0 259 19
+hardline 1 259 19
+that 0 259 19
+he 0 259 19
+was 0 259 19
+banned 0 259 19
+from 0 259 19
+preaching 0 259 19
+in 0 259 19
+Pakistan, 0 259 19
+but 0 259 19
+the 0 259 19
+UK 0 259 19
+Home 0 259 19
+Office 0 259 19
+welcomed 0 259 19
+him 0 259 19
+into 0 259 19
+Britain. 0 259 19
 
-The 0
-UK 0
-Home 0
-Office 0
-also 0
-admitted 0
-Shaykh 0
-Hamza 0
-Sodagar 0
-into 0
-the 0
-country, 0
-despite 0
-the 0
-fact 0
-that 0
-he 0
-has 0
-said: 0
-“If 0
-there’s 0
-homosexual 0
-men, 0
-the 0
-punishment 0
-is 0
-one 0
-of 0
-five 0
-things. 0
+The 0 259 20
+UK 0 259 20
+Home 0 259 20
+Office 0 259 20
+also 0 259 20
+admitted 0 259 20
+Shaykh 0 259 20
+Hamza 0 259 20
+Sodagar 0 259 20
+into 0 259 20
+the 0 259 20
+country, 0 259 20
+despite 0 259 20
+the 0 259 20
+fact 0 259 20
+that 0 259 20
+he 0 259 20
+has 0 259 20
+said: 0 259 20
+“If 0 259 20
+there’s 0 259 20
+homosexual 0 259 20
+men, 0 259 20
+the 0 259 20
+punishment 0 259 20
+is 0 259 20
+one 0 259 20
+of 0 259 20
+five 0 259 20
+things. 0 259 20
 
-One 0
-– 0
-the 0
-easiest 0
-one 0
-maybe 0
-– 0
-chop 0
-their 0
-head 0
-off, 0
-that’s 0
-the 0
-easiest. 0
+One 0 259 21
+– 0 259 21
+the 0 259 21
+easiest 0 259 21
+one 0 259 21
+maybe 0 259 21
+– 0 259 21
+chop 0 259 21
+their 0 259 21
+head 0 259 21
+off, 0 259 21
+that’s 0 259 21
+the 0 259 21
+easiest. 0 259 21
 
-Second 0
-– 0
-burn 0
-them 0
-to 0
-death. 0
+Second 0 259 22
+– 0 259 22
+burn 0 259 22
+them 0 259 22
+to 0 259 22
+death. 0 259 22
 
-Third 0
-– 0
-throw 0
-’em 0
-off 0
-a 0
-cliff. 0
+Third 0 259 23
+– 0 259 23
+throw 0 259 23
+’em 0 259 23
+off 0 259 23
+a 0 259 23
+cliff. 0 259 23
 
-Fourth 0
-– 0
-tear 0
-down 0
-a 0
-wall 0
-on 0
-them 0
-so 0
-they 0
-die 0
-under 0
-that. 0
+Fourth 0 259 24
+– 0 259 24
+tear 0 259 24
+down 0 259 24
+a 0 259 24
+wall 0 259 24
+on 0 259 24
+them 0 259 24
+so 0 259 24
+they 0 259 24
+die 0 259 24
+under 0 259 24
+that. 0 259 24
 
-Fifth 0
-– 0
-a 0
-combination 0
-of 0
-the 0
-above.” 0
+Fifth 0 259 25
+– 0 259 25
+a 0 259 25
+combination 0 259 25
+of 0 259 25
+the 0 259 25
+above.” 0 259 25
 
-Theresa 0
-May’s 0
-relentlessly 1
-appeasement-minded 1
-government 0
-also 0
-admitted 0
-two 0
-jihad 0
-preachers 0
-who 0
-had 0
-praised 0
-the 0
-murderer 0
-of 0
-a 0
-foe 0
-of 0
-Pakistan’s 0
-blasphemy 0
-laws. 0
+Theresa 0 259 26
+May’s 0 259 26
+relentlessly 1 259 26
+appeasement-minded 1 259 26
+government 0 259 26
+also 0 259 26
+admitted 0 259 26
+two 0 259 26
+jihad 0 259 26
+preachers 0 259 26
+who 0 259 26
+had 0 259 26
+praised 0 259 26
+the 0 259 26
+murderer 0 259 26
+of 0 259 26
+a 0 259 26
+foe 0 259 26
+of 0 259 26
+Pakistan’s 0 259 26
+blasphemy 0 259 26
+laws. 0 259 26
 
-One 0
-of 0
-them 0
-was 0
-welcomed 0
-by 0
-the 0
-Archbishop 0
-of 0
-Canterbury. 0
+One 0 259 27
+of 0 259 27
+them 0 259 27
+was 0 259 27
+welcomed 0 259 27
+by 0 259 27
+the 0 259 27
+Archbishop 0 259 27
+of 0 259 27
+Canterbury. 0 259 27
 
-Meanwhile, 0
-the 0
-UK 0
-banned 0
-three 0
-bishops 0
-from 0
-areas 0
-of 0
-Iraq 0
-and 0
-Syria 0
-where 0
-Christians 0
-are 0
-persecuted 0
-from 0
-entering 0
-the 0
-country. 0
+Meanwhile, 0 259 28
+the 0 259 28
+UK 0 259 28
+banned 0 259 28
+three 0 259 28
+bishops 0 259 28
+from 0 259 28
+areas 0 259 28
+of 0 259 28
+Iraq 0 259 28
+and 0 259 28
+Syria 0 259 28
+where 0 259 28
+Christians 0 259 28
+are 0 259 28
+persecuted 0 259 28
+from 0 259 28
+entering 0 259 28
+the 0 259 28
+country. 0 259 28
 
-But 0
-now 0
-matters 0
-are 0
-coming 0
-to 0
-a 0
-head. 0
+But 0 259 29
+now 0 259 29
+matters 0 259 29
+are 0 259 29
+coming 0 259 29
+to 0 259 29
+a 0 259 29
+head. 0 259 29
 
-Apparently 0
-British 0
-authorities 0
-decided 0
-that 0
-it 0
-would 0
-be 0
-too 0
-politically 0
-costly 0
-for 0
-them 0
-to 0
-bar 0
-Wilders 0
-again. 0
+Apparently 0 259 30
+British 0 259 30
+authorities 0 259 30
+decided 0 259 30
+that 0 259 30
+it 0 259 30
+would 0 259 30
+be 0 259 30
+too 0 259 30
+politically 0 259 30
+costly 0 259 30
+for 0 259 30
+them 0 259 30
+to 0 259 30
+bar 0 259 30
+Wilders 0 259 30
+again. 0 259 30
 
-And 0
-so 0
-he 0
-entered, 0
-and 0
-spoke, 0
-and 0
-gave 0
-them 0
-a 0
-strong 0
-dose 0
-of 0
-the 0
-reality 1
-that 0
-they 0
-are 0
-determined 0
-to 0
-ignore 0
-and 0
-deny. 0
+And 0 259 31
+so 0 259 31
+he 0 259 31
+entered, 0 259 31
+and 0 259 31
+spoke, 0 259 31
+and 0 259 31
+gave 0 259 31
+them 0 259 31
+a 0 259 31
+strong 0 259 31
+dose 0 259 31
+of 0 259 31
+the 0 259 31
+reality 1 259 31
+that 0 259 31
+they 0 259 31
+are 0 259 31
+determined 0 259 31
+to 0 259 31
+ignore 0 259 31
+and 0 259 31
+deny. 0 259 31
 
-Tommy 0
-Robinson 0
-is 0
-in 0
-prison 0
-today 0
-because 0
-he 0
-violated 0
-a 0
-court 0
-order 0
-demanding 0
-that 0
-he 0
-not 0
-film 0
-videos 0
-outside 0
-the 0
-trials 0
-of 0
-Muslim 1
-rape 1
-gangs. 1
+Tommy 0 259 32
+Robinson 0 259 32
+is 0 259 32
+in 0 259 32
+prison 0 259 32
+today 0 259 32
+because 0 259 32
+he 0 259 32
+violated 0 259 32
+a 0 259 32
+court 0 259 32
+order 0 259 32
+demanding 0 259 32
+that 0 259 32
+he 0 259 32
+not 0 259 32
+film 0 259 32
+videos 0 259 32
+outside 0 259 32
+the 0 259 32
+trials 0 259 32
+of 0 259 32
+Muslim 1 259 32
+rape 1 259 32
+gangs. 1 259 32
 
-Clearly 0
-the 1
-government’s 1
-intent 1
-was 1
-to 1
-make 1
-sure 1
-that 1
-as 1
-few 1
-people 1
-as 1
-possible 1
-discovered 1
-the 1
-truth 1
-about 0
-its 0
-massive, 0
-years-long 0
-cover-up 0
-of 0
-those 0
-rape 1
-gangs, 1
-and 0
-refusal 0
-to 0
-prosecute 0
-the 0
-perpetrators. 0
+Clearly 0 259 33
+the 1 259 33
+government’s 1 259 33
+intent 1 259 33
+was 1 259 33
+to 1 259 33
+make 1 259 33
+sure 1 259 33
+that 1 259 33
+as 1 259 33
+few 1 259 33
+people 1 259 33
+as 1 259 33
+possible 1 259 33
+discovered 1 259 33
+the 1 259 33
+truth 1 259 33
+about 0 259 33
+its 0 259 33
+massive, 0 259 33
+years-long 0 259 33
+cover-up 0 259 33
+of 0 259 33
+those 0 259 33
+rape 1 259 33
+gangs, 1 259 33
+and 0 259 33
+refusal 0 259 33
+to 0 259 33
+prosecute 0 259 33
+the 0 259 33
+perpetrators. 0 259 33
 
-Theresa 0
-May 0
-and 0
-company 0
-obvious 0
-hope 0
-that 0
-other 0
-Britons 0
-who 0
-are 0
-furious 0
-about 0
-the 0
-sacrifice 1
-of 1
-thousands 1
-of 0
-British 1
-girls 1
-to 0
-the 0
-idols 0
-of 0
-“diversity” 0
-and 0
-“multiculturalism” 0
-will 0
-see 0
-what 0
-happened 0
-to 0
-Tommy, 0
-and 0
-be 0
-frightened 0
-into 0
-silence. 0
+Theresa 0 259 34
+May 0 259 34
+and 0 259 34
+company 0 259 34
+obvious 0 259 34
+hope 0 259 34
+that 0 259 34
+other 0 259 34
+Britons 0 259 34
+who 0 259 34
+are 0 259 34
+furious 0 259 34
+about 0 259 34
+the 0 259 34
+sacrifice 1 259 34
+of 1 259 34
+thousands 1 259 34
+of 0 259 34
+British 1 259 34
+girls 1 259 34
+to 0 259 34
+the 0 259 34
+idols 0 259 34
+of 0 259 34
+“diversity” 0 259 34
+and 0 259 34
+“multiculturalism” 0 259 34
+will 0 259 34
+see 0 259 34
+what 0 259 34
+happened 0 259 34
+to 0 259 34
+Tommy, 0 259 34
+and 0 259 34
+be 0 259 34
+frightened 0 259 34
+into 0 259 34
+silence. 0 259 34
 
-The 0
-British 0
-government, 0
-in 0
-imprisoning 0
-Tommy 0
-Robinson, 0
-has 0
-shown 0
-itself 0
-willing 0
-to 0
-incarcerate 0
-people 0
-for 0
-having 0
-opinions 0
-that 0
-it 0
-considers 0
-unacceptable. 0
+The 0 259 35
+British 0 259 35
+government, 0 259 35
+in 0 259 35
+imprisoning 0 259 35
+Tommy 0 259 35
+Robinson, 0 259 35
+has 0 259 35
+shown 0 259 35
+itself 0 259 35
+willing 0 259 35
+to 0 259 35
+incarcerate 0 259 35
+people 0 259 35
+for 0 259 35
+having 0 259 35
+opinions 0 259 35
+that 0 259 35
+it 0 259 35
+considers 0 259 35
+unacceptable. 0 259 35
 
-That 0
-heralds 0
-the 1
-death 1
-of 1
-Britain 1
-as 1
-a 1
-free 1
-society 1
-and 0
-the 0
-beginning 1
-of 1
-an 1
-authoritarian 1
-police 1
-state 1
-there, 0
-unless 1
-this 1
-slide 1
-to 1
-totalitarianism 1
-is 1
-stopped 1
-now. 1
+That 0 259 36
+heralds 0 259 36
+the 1 259 36
+death 1 259 36
+of 1 259 36
+Britain 1 259 36
+as 1 259 36
+a 1 259 36
+free 1 259 36
+society 1 259 36
+and 0 259 36
+the 0 259 36
+beginning 1 259 36
+of 1 259 36
+an 1 259 36
+authoritarian 1 259 36
+police 1 259 36
+state 1 259 36
+there, 0 259 36
+unless 1 259 36
+this 1 259 36
+slide 1 259 36
+to 1 259 36
+totalitarianism 1 259 36
+is 1 259 36
+stopped 1 259 36
+now. 1 259 36
 
-British 0
-public 0
-figures, 0
-whatever 0
-criticism 0
-they 0
-have 0
-leveled 0
-against 0
-Tommy 0
-Robinson 0
-in 0
-the 0
-past, 0
-should 0
-be 0
-calling 0
-for 0
-him 0
-to 0
-be 0
-freed 0
-today, 0
-or 1
-else 1
-they 1
-will 1
-be 1
-exposing 1
-themselves 1
-as 1
-supporting 1
-the 1
-degeneration 1
-of 1
-Britain 1
-into 0
-a 0
-police 0
-state. 0
+British 0 259 37
+public 0 259 37
+figures, 0 259 37
+whatever 0 259 37
+criticism 0 259 37
+they 0 259 37
+have 0 259 37
+leveled 0 259 37
+against 0 259 37
+Tommy 0 259 37
+Robinson 0 259 37
+in 0 259 37
+the 0 259 37
+past, 0 259 37
+should 0 259 37
+be 0 259 37
+calling 0 259 37
+for 0 259 37
+him 0 259 37
+to 0 259 37
+be 0 259 37
+freed 0 259 37
+today, 0 259 37
+or 1 259 37
+else 1 259 37
+they 1 259 37
+will 1 259 37
+be 1 259 37
+exposing 1 259 37
+themselves 1 259 37
+as 1 259 37
+supporting 1 259 37
+the 1 259 37
+degeneration 1 259 37
+of 1 259 37
+Britain 1 259 37
+into 0 259 37
+a 0 259 37
+police 0 259 37
+state. 0 259 37
 
-Wilders 0
-addressed 0
-this 0
-endeavor 0
-head-on, 0
-declaring: 0
-“We 1
-will 1
-not 1
-be 1
-silenced. 1
+Wilders 0 259 38
+addressed 0 259 38
+this 0 259 38
+endeavor 0 259 38
+head-on, 0 259 38
+declaring: 0 259 38
+“We 1 259 38
+will 1 259 38
+not 1 259 38
+be 1 259 38
+silenced. 1 259 38
 
-We 1
-will 1
-not 1
-be 1
-intimidated. 1
+We 1 259 39
+will 1 259 39
+not 1 259 39
+be 1 259 39
+intimidated. 1 259 39
 
-And 1
-we 1
-tell 1
-the 1
-governments, 1
-we 1
-are 1
-not 1
-afraid 1
-of 1
-you. 1
+And 1 259 40
+we 1 259 40
+tell 1 259 40
+the 1 259 40
+governments, 1 259 40
+we 1 259 40
+are 1 259 40
+not 1 259 40
+afraid 1 259 40
+of 1 259 40
+you. 1 259 40
 
-We 1
-will 1
-never 1
-surrender. 1
+We 1 259 41
+will 1 259 41
+never 1 259 41
+surrender. 1 259 41
 
-We 1
-will 1
-stand 1
-strong 1
-and 1
-do 1
-our 1
-duty. 1
+We 1 259 42
+will 1 259 42
+stand 1 259 42
+strong 1 259 42
+and 1 259 42
+do 1 259 42
+our 1 259 42
+duty. 1 259 42
 
-We 1
-will 1
-defend 1
-our 1
-civilization. 1
+We 1 259 43
+will 1 259 43
+defend 1 259 43
+our 1 259 43
+civilization. 1 259 43
 
-And 1
-we 1
-will 1
-protect 1
-our 1
-people.” 1
+And 1 259 44
+we 1 259 44
+will 1 259 44
+protect 1 259 44
+our 1 259 44
+people.” 1 259 44
 
-Wilders 0
-added: 0
-“And 0
-I 0
-tell 0
-you, 0
-to 0
-the 0
-governments. 0
+Wilders 0 259 45
+added: 0 259 45
+“And 0 259 45
+I 0 259 45
+tell 0 259 45
+you, 0 259 45
+to 0 259 45
+the 0 259 45
+governments. 0 259 45
 
-You 0
-can 0
-throw 0
-us 0
-in 0
-jail, 0
-but 0
-you 0
-will 0
-never 0
-defeat 0
-us. 0
+You 0 259 46
+can 0 259 46
+throw 0 259 46
+us 0 259 46
+in 0 259 46
+jail, 0 259 46
+but 0 259 46
+you 0 259 46
+will 0 259 46
+never 0 259 46
+defeat 0 259 46
+us. 0 259 46
 
-Because, 0
-my 0
-friends, 0
-for 0
-every 0
-Tommy 0
-whom 0
-you 0
-imprison, 0
-thousands 0
-will 0
-rise 0
-up. 0
+Because, 0 259 47
+my 0 259 47
+friends, 0 259 47
+for 0 259 47
+every 0 259 47
+Tommy 0 259 47
+whom 0 259 47
+you 0 259 47
+imprison, 0 259 47
+thousands 0 259 47
+will 0 259 47
+rise 0 259 47
+up. 0 259 47
 
-So 0
-take 1
-notice, 1
-Theresa 0
-May. 0
+So 0 259 48
+take 1 259 48
+notice, 1 259 48
+Theresa 0 259 48
+May. 0 259 48
 
-Take 1
-notice, 1
-Dutch 0
-Prime 0
-Minister 0
-Rutte. 0
+Take 1 259 49
+notice, 1 259 49
+Dutch 0 259 49
+Prime 0 259 49
+Minister 0 259 49
+Rutte. 0 259 49
 
-Take 1
-notice, 1
-Mrs. 0
-Merkel 0
-or 0
-President 0
-Macron. 0
+Take 1 259 50
+notice, 1 259 50
+Mrs. 0 259 50
+Merkel 0 259 50
+or 0 259 50
+President 0 259 50
+Macron. 0 259 50
 
-Take 1
-notice: 1
-the 1
-future 1
-is 1
-ours 1
-and 1
-not 1
-yours. 1
+Take 1 259 51
+notice: 1 259 51
+the 1 259 51
+future 1 259 51
+is 1 259 51
+ours 1 259 51
+and 1 259 51
+not 1 259 51
+yours. 1 259 51
 
-We 0
-will 0
-defeat 0
-you 0
-politically, 0
-because 0
-we, 0
-my 0
-friends, 0
-we 1
-are 1
-the 1
-people.” 1
+We 0 259 52
+will 0 259 52
+defeat 0 259 52
+you 0 259 52
+politically, 0 259 52
+because 0 259 52
+we, 0 259 52
+my 0 259 52
+friends, 0 259 52
+we 1 259 52
+are 1 259 52
+the 1 259 52
+people.” 1 259 52
 
-If 1
-Wilders’ 1
-words 1
-don’t 1
-prove 1
-true, 1
-it 1
-will 1
-be 1
-because 1
-the 1
-death 1
-of 1
-free 1
-societies 1
-in 1
-Britain 1
-and 1
-Western 1
-Europe 1
-is 1
-truly 1
-at 1
-hand. 1
+If 1 259 53
+Wilders’ 1 259 53
+words 1 259 53
+don’t 1 259 53
+prove 1 259 53
+true, 1 259 53
+it 1 259 53
+will 1 259 53
+be 1 259 53
+because 1 259 53
+the 1 259 53
+death 1 259 53
+of 1 259 53
+free 1 259 53
+societies 1 259 53
+in 1 259 53
+Britain 1 259 53
+and 1 259 53
+Western 1 259 53
+Europe 1 259 53
+is 1 259 53
+truly 1 259 53
+at 1 259 53
+hand. 1 259 53
 
-[Photo 0
-by 0
-Jan 0
-Kranendonk] 0
+[Photo 0 259 53
+
+by 0 259 53
+
+Jan 0 259 53
+
+Kranendonk] 0 259 53

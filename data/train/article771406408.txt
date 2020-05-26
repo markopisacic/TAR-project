@@ -1,652 +1,660 @@
-France 0
-Gives 0
-Muslim 1
-Killer 1
-of 0
-Elderly 0
-Jewish 0
-Woman 0
-a 0
-Pass 0
+France 0 290 0
+Gives 0 290 0
+Muslim 1 290 0
+Killer 1 290 0
+of 0 290 0
+Elderly 0 290 0
+Jewish 0 290 0
+Woman 0 290 0
+a 0 290 0
+Pass 0 290 0
 
-Every 1
-other 1
-Muslim 1
-terrorist 1
-or 0
-killer 0
-in 0
-Europe 0
-has 0
-his 0
-actions 0
-blamed 0
-on 0
-mental 0
-illness 0
-or 0
-drug 0
-use. 0
+Every 1 290 1
+other 1 290 1
+Muslim 1 290 1
+terrorist 1 290 1
+or 0 290 1
+killer 0 290 1
+in 0 290 1
+Europe 0 290 1
+has 0 290 1
+his 0 290 1
+actions 0 290 1
+blamed 0 290 1
+on 0 290 1
+mental 0 290 1
+illness 0 290 1
+or 0 290 1
+drug 0 290 1
+use. 0 290 1
 
-This 0
-just 0
-continues 0
-the 0
-pattern. 0
+This 0 290 2
+just 0 290 2
+continues 0 290 2
+the 0 290 2
+pattern. 0 290 2
 
-I 0
-wrote 0
-about 0
-the 0
-murder 0
-of 0
-Sarah 0
-Halimi 0
-last 0
-year. 0
+I 0 290 3
+wrote 0 290 3
+about 0 290 3
+the 0 290 3
+murder 0 290 3
+of 0 290 3
+Sarah 0 290 3
+Halimi 0 290 3
+last 0 290 3
+year. 0 290 3
 
-Sarah 0
-Lucy 0
-Halimi 0
-was 0
-thrown 0
-out 0
-of 0
-the 0
-window 0
-of 0
-the 0
-third 0
-floor 0
-Paris 0
-apartment 0
-while 0
-she 0
-begged 0
-her 0
-Muslim 1
-killer 1
-to 0
-spare 0
-her 0
-life. 0
+Sarah 0 290 4
+Lucy 0 290 4
+Halimi 0 290 4
+was 0 290 4
+thrown 0 290 4
+out 0 290 4
+of 0 290 4
+the 0 290 4
+window 0 290 4
+of 0 290 4
+the 0 290 4
+third 0 290 4
+floor 0 290 4
+Paris 0 290 4
+apartment 0 290 4
+while 0 290 4
+she 0 290 4
+begged 0 290 4
+her 0 290 4
+Muslim 1 290 4
+killer 1 290 4
+to 0 290 4
+spare 0 290 4
+her 0 290 4
+life. 0 290 4
 
-The 0
-66-year-old 0
-director 0
-of 0
-an 0
-Orthodox 0
-Jewish 0
-nursery 0
-was 0
-woken 0
-from 0
-her 0
-sleep 0
-when 0
-she 0
-was 0
-violently 1
-beaten 1
-by 0
-her 0
-twenty 0
-something 0
-Muslim 0
-neighbor 0
-who 0
-then 0
-dragged 0
-her 0
-to 0
-the 0
-window. 0
+The 0 290 5
+66-year-old 0 290 5
+director 0 290 5
+of 0 290 5
+an 0 290 5
+Orthodox 0 290 5
+Jewish 0 290 5
+nursery 0 290 5
+was 0 290 5
+woken 0 290 5
+from 0 290 5
+her 0 290 5
+sleep 0 290 5
+when 0 290 5
+she 0 290 5
+was 0 290 5
+violently 1 290 5
+beaten 1 290 5
+by 0 290 5
+her 0 290 5
+twenty 0 290 5
+something 0 290 5
+Muslim 0 290 5
+neighbor 0 290 5
+who 0 290 5
+then 0 290 5
+dragged 0 290 5
+her 0 290 5
+to 0 290 5
+the 0 290 5
+window. 0 290 5
 
-She 0
-died 0
-on 0
-the 0
-street 0
-outside 0
-the 0
-building 0
-where 0
-she 0
-had 0
-lived 0
-for 0
-thirty 0
-years. 0
+She 0 290 6
+died 0 290 6
+on 0 290 6
+the 0 290 6
+street 0 290 6
+outside 0 290 6
+the 0 290 6
+building 0 290 6
+where 0 290 6
+she 0 290 6
+had 0 290 6
+lived 0 290 6
+for 0 290 6
+thirty 0 290 6
+years. 0 290 6
 
-The 0
-killer 0
-had 0
-allegedly 0
-shouted, 0
-“Allahu 0
-Akbar”. 0
+The 0 290 7
+killer 0 290 7
+had 0 290 7
+allegedly 0 290 7
+shouted, 0 290 7
+“Allahu 0 290 7
+Akbar”. 0 290 7
 
-In 0
-the 0
-tragic 1
-comedy 1
-of 1
-denial 1
-that 0
-every 1
-Islamic 1
-terrorism 1
-investigation 1
-inevitably 1
-becomes, 1
-the 0
-authorities 0
-are 0
-still 0
-hunting 0
-around 0
-for 0
-his 0
-motiv 0
-Yonathan 0
-Halimi, 0
-Sarah 0
-Lucy’s 0
-son, 0
-describes 0
-the 0
-killer’s 0
-family 0
-as 0
-being 0
-known 0
-for 0
-its 0
-anti-Semitism. 0
+In 0 290 8
+the 0 290 8
+tragic 1 290 8
+comedy 1 290 8
+of 1 290 8
+denial 1 290 8
+that 0 290 8
+every 1 290 8
+Islamic 1 290 8
+terrorism 1 290 8
+investigation 1 290 8
+inevitably 1 290 8
+becomes, 1 290 8
+the 0 290 8
+authorities 0 290 8
+are 0 290 8
+still 0 290 8
+hunting 0 290 8
+around 0 290 8
+for 0 290 8
+his 0 290 8
+motiv 0 290 8
+Yonathan 0 290 8
+Halimi, 0 290 8
+Sarah 0 290 8
+Lucy’s 0 290 8
+son, 0 290 8
+describes 0 290 8
+the 0 290 8
+killer’s 0 290 8
+family 0 290 8
+as 0 290 8
+being 0 290 8
+known 0 290 8
+for 0 290 8
+its 0 290 8
+anti-Semitism. 0 290 8
 
-"One 0
-day, 0
-one 0
-of 0
-the 0
-killer's 0
-sisters 0
-pushed 0
-my 0
-sister 0
-down 0
-the 0
-stairs, 0
-and 0
-the 0
-next 0
-time 0
-she 0
-called 0
-her 0
-a 0
-dirty 1
-Jew," 1
-he 0
-described. 0
+"One 0 290 9
+day, 0 290 9
+one 0 290 9
+of 0 290 9
+the 0 290 9
+killer's 0 290 9
+sisters 0 290 9
+pushed 0 290 9
+my 0 290 9
+sister 0 290 9
+down 0 290 9
+the 0 290 9
+stairs, 0 290 9
+and 0 290 9
+the 0 290 9
+next 0 290 9
+time 0 290 9
+she 0 290 9
+called 0 290 9
+her 0 290 9
+a 0 290 9
+dirty 1 290 9
+Jew," 1 290 9
+he 0 290 9
+described. 0 290 9
 
-Sarah’s 0
-brother 0
-said 0
-that 0
-the 0
-killer 0
-called 0
-Sarah 0
-and 0
-her 0
-daughter, 0
-“dirty 1
-Jews”. 1
+Sarah’s 0 290 10
+brother 0 290 10
+said 0 290 10
+that 0 290 10
+the 0 290 10
+killer 0 290 10
+called 0 290 10
+Sarah 0 290 10
+and 0 290 10
+her 0 290 10
+daughter, 0 290 10
+“dirty 1 290 10
+Jews”. 1 290 10
 
-The 0
-authorities 0
-stonewalled 1
-at 0
-every 0
-turn. 0
+The 0 290 11
+authorities 0 290 11
+stonewalled 1 290 11
+at 0 290 11
+every 0 290 11
+turn. 0 290 11
 
-And, 0
-predictably, 0
-the 0
-killer 0
-gets 0
-a 0
-pass. 0
+And, 0 290 12
+predictably, 0 290 12
+the 0 290 12
+killer 0 290 12
+gets 0 290 12
+a 0 290 12
+pass. 0 290 12
 
-Allahu 0
-Akbar 0
-usually 0
-means 0
-motive 0
-unknown. 0
+Allahu 0 290 13
+Akbar 0 290 13
+usually 0 290 13
+means 0 290 13
+motive 0 290 13
+unknown. 0 290 13
 
-The 0
-28-year-old 0
-Muslim 0
-man 0
-confessed 0
-to 0
-the 0
-killing 0
-and 0
-was 0
-heard 0
-shouting 0
-“Allahu 1
-Akbar” 1
-and 0
-calling 0
-Halimi 0
-“Satan” 1
-shortly 0
-before 0
-throwing 0
-her 0
-out 0
-the 0
-window 0
-of 0
-her 0
-three-story 0
-apartment. 0
+The 0 290 14
+28-year-old 0 290 14
+Muslim 0 290 14
+man 0 290 14
+confessed 0 290 14
+to 0 290 14
+the 0 290 14
+killing 0 290 14
+and 0 290 14
+was 0 290 14
+heard 0 290 14
+shouting 0 290 14
+“Allahu 1 290 14
+Akbar” 1 290 14
+and 0 290 14
+calling 0 290 14
+Halimi 0 290 14
+“Satan” 1 290 14
+shortly 0 290 14
+before 0 290 14
+throwing 0 290 14
+her 0 290 14
+out 0 290 14
+the 0 290 14
+window 0 290 14
+of 0 290 14
+her 0 290 14
+three-story 0 290 14
+apartment. 0 290 14
 
-In 0
-January, 0
-Traore 0
-was 0
-determined 0
-to 0
-be 0
-fit 0
-to 0
-stand 0
-trial. 0
+In 0 290 15
+January, 0 290 15
+Traore 0 290 15
+was 0 290 15
+determined 0 290 15
+to 0 290 15
+be 0 290 15
+fit 0 290 15
+to 0 290 15
+stand 0 290 15
+trial. 0 290 15
 
-He 0
-was 0
-placed 0
-in 0
-a 0
-psychiatric 0
-hospital 0
-for 0
-weeks 0
-after 0
-his 0
-arrest 0
-in 0
-the 0
-April 0
-2017 0
-killing 0
-despite 0
-having 0
-no 0
-history 0
-of 0
-mental 0
-illness. 0
+He 0 290 16
+was 0 290 16
+placed 0 290 16
+in 0 290 16
+a 0 290 16
+psychiatric 0 290 16
+hospital 0 290 16
+for 0 290 16
+weeks 0 290 16
+after 0 290 16
+his 0 290 16
+arrest 0 290 16
+in 0 290 16
+the 0 290 16
+April 0 290 16
+2017 0 290 16
+killing 0 290 16
+despite 0 290 16
+having 0 290 16
+no 0 290 16
+history 0 290 16
+of 0 290 16
+mental 0 290 16
+illness. 0 290 16
 
-But 0
-a 0
-judge 0
-requested 0
-a 0
-second 0
-series 0
-of 0
-tests, 0
-which 0
-determined 0
-that 0
-the 0
-Malian 0
-immigrant 0
-was 0
-not 0
-able 0
-to 0
-stand 0
-trial, 0
-20 0
-Minutes 0
-reported 0
-Wednesday. 0
+But 0 290 17
+a 0 290 17
+judge 0 290 17
+requested 0 290 17
+a 0 290 17
+second 0 290 17
+series 0 290 17
+of 0 290 17
+tests, 0 290 17
+which 0 290 17
+determined 0 290 17
+that 0 290 17
+the 0 290 17
+Malian 0 290 17
+immigrant 0 290 17
+was 0 290 17
+not 0 290 17
+able 0 290 17
+to 0 290 17
+stand 0 290 17
+trial, 0 290 17
+20 0 290 17
+Minutes 0 290 17
+reported 0 290 17
+Wednesday. 0 290 17
 
-This 0
-tired 1
-farce 1
-has 0
-dragged 0
-on. 0
+This 0 290 18
+tired 1 290 18
+farce 1 290 18
+has 0 290 18
+dragged 0 290 18
+on. 0 290 18
 
-Kobili 0
-Traore 0
-was 0
-hit 1
-with 0
-hate 0
-crimes 0
-charges. 0
+Kobili 0 290 19
+Traore 0 290 19
+was 0 290 19
+hit 1 290 19
+with 0 290 19
+hate 0 290 19
+crimes 0 290 19
+charges. 0 290 19
 
-Then 0
-they 0
-were 0
-dropped. 0
+Then 0 290 20
+they 0 290 20
+were 0 290 20
+dropped. 0 290 20
 
-The 1
-authorities 1
-allowed 1
-him 1
-to 1
-commit 1
-the 1
-crime. 1
+The 1 290 21
+authorities 1 290 21
+allowed 1 290 21
+him 1 290 21
+to 1 290 21
+commit 1 290 21
+the 1 290 21
+crime. 1 290 21
 
-Now 0
-they're 0
-letting 0
-him 0
-get 0
-away 0
-with 0
-it. 0
+Now 0 290 22
+they're 0 290 22
+letting 0 290 22
+him 0 290 22
+get 0 290 22
+away 0 290 22
+with 0 290 22
+it. 0 290 22
 
-Three 0
-minutes 0
-later, 0
-a 0
-unit 0
-of 0
-the 0
-Anti-Crime 0
-Brigade 0
-(BAC) 0
-— 0
-who 0
-happened 0
-to 0
-be 0
-patrolling 0
-the 0
-area 0
-— 0
-took 0
-up 0
-position 0
-in 0
-front 0
-of 0
-Diara’s 0
-door. 0
+Three 0 290 23
+minutes 0 290 23
+later, 0 290 23
+a 0 290 23
+unit 0 290 23
+of 0 290 23
+the 0 290 23
+Anti-Crime 0 290 23
+Brigade 0 290 23
+(BAC) 0 290 23
+— 0 290 23
+who 0 290 23
+happened 0 290 23
+to 0 290 23
+be 0 290 23
+patrolling 0 290 23
+the 0 290 23
+area 0 290 23
+— 0 290 23
+took 0 290 23
+up 0 290 23
+position 0 290 23
+in 0 290 23
+front 0 290 23
+of 0 290 23
+Diara’s 0 290 23
+door. 0 290 23
 
-They 0
-heard 0
-Kobili 0
-Traore 0
-chanting 0
-Muslim 0
-prayers 0
-and 0
-Koranic 0
-verses. 0
+They 0 290 24
+heard 0 290 24
+Kobili 0 290 24
+Traore 0 290 24
+chanting 0 290 24
+Muslim 0 290 24
+prayers 0 290 24
+and 0 290 24
+Koranic 0 290 24
+verses. 0 290 24
 
-Unsure 0
-about 0
-the 0
-situation 0
-and 0
-the 0
-potential 0
-threats 0
-to 0
-the 0
-family, 0
-they 0
-asked 0
-for 0
-reinforcements. 0
+Unsure 0 290 25
+about 0 290 25
+the 0 290 25
+situation 0 290 25
+and 0 290 25
+the 0 290 25
+potential 0 290 25
+threats 0 290 25
+to 0 290 25
+the 0 290 25
+family, 0 290 25
+they 0 290 25
+asked 0 290 25
+for 0 290 25
+reinforcements. 0 290 25
 
-Additional 0
-policemen 0
-arrived 0
-quickly. 0
+Additional 0 290 26
+policemen 0 290 26
+arrived 0 290 26
+quickly. 0 290 26
 
-However, 0
-for 0
-some 0
-unclear 0
-reason, 0
-the 0
-BAC 0
-unit 0
-still 0
-refrained 0
-from 0
-breaking 0
-in. 0
+However, 0 290 27
+for 0 290 27
+some 0 290 27
+unclear 0 290 27
+reason, 0 290 27
+the 0 290 27
+BAC 0 290 27
+unit 0 290 27
+still 0 290 27
+refrained 0 290 27
+from 0 290 27
+breaking 0 290 27
+in. 0 290 27
 
-In 0
-the 0
-meantime, 0
-Kobili 0
-Traore 0
-put 0
-on 0
-new 0
-clothes 0
-and 0
-climbed 0
-out 0
-of 0
-the 0
-window 0
-to 0
-reach 0
-Sarah 0
-Halimi’s 0
-apartment, 0
-which 0
-was 0
-at 0
-the 0
-same 0
-level 0
-as 0
-Diara 0
-Traore’s. 0
+In 0 290 28
+the 0 290 28
+meantime, 0 290 28
+Kobili 0 290 28
+Traore 0 290 28
+put 0 290 28
+on 0 290 28
+new 0 290 28
+clothes 0 290 28
+and 0 290 28
+climbed 0 290 28
+out 0 290 28
+of 0 290 28
+the 0 290 28
+window 0 290 28
+to 0 290 28
+reach 0 290 28
+Sarah 0 290 28
+Halimi’s 0 290 28
+apartment, 0 290 28
+which 0 290 28
+was 0 290 28
+at 0 290 28
+the 0 290 28
+same 0 290 28
+level 0 290 28
+as 0 290 28
+Diara 0 290 28
+Traore’s. 0 290 28
 
-He 0
-allegedly 0
-assaulted 0
-the 0
-Jewish 0
-woman 0
-and 0
-hit 1
-her 1
-mercilessly. 1
+He 0 290 29
+allegedly 0 290 29
+assaulted 0 290 29
+the 0 290 29
+Jewish 0 290 29
+woman 0 290 29
+and 0 290 29
+hit 1 290 29
+her 1 290 29
+mercilessly. 1 290 29
 
-From 0
-time 0
-to 0
-time 0
-he 0
-resumed 0
-Koranic 0
-recitation. 0
+From 0 290 30
+time 0 290 30
+to 0 290 30
+time 0 290 30
+he 0 290 30
+resumed 0 290 30
+Koranic 0 290 30
+recitation. 0 290 30
 
-Many 0
-neighbours, 0
-woken 0
-by 0
-the 0
-old 0
-woman’s 0
-screams 0
-or 0
-the 0
-assaulter’s 0
-religious 0
-chanting, 0
-called 0
-the 0
-police 0
-Some 0
-gave 0
-details 0
-about 0
-the 0
-exact 0
-location 0
-of 0
-the 0
-assault, 0
-the 0
-attacker’s 0
-identity, 0
-the 0
-fact 0
-he 0
-vilified 0
-his 0
-victim 0
-as 0
-a 0
-Jewish 0
-person 0
-and 0
-as 0
-“a 1
-Satan” 1
-while 0
-hitting 0
-her, 0
-or 0
-even 0
-— 0
-as 0
-far 0
-as 0
-the 0
-Muslim 0
-neighbours 0
-were 0
-concerned 0
-— 0
-the 0
-Koranic 0
-portions 0
-he 0
-chanted. 0
+Many 0 290 31
+neighbours, 0 290 31
+woken 0 290 31
+by 0 290 31
+the 0 290 31
+old 0 290 31
+woman’s 0 290 31
+screams 0 290 31
+or 0 290 31
+the 0 290 31
+assaulter’s 0 290 31
+religious 0 290 31
+chanting, 0 290 31
+called 0 290 31
+the 0 290 31
+police 0 290 31
+Some 0 290 31
+gave 0 290 31
+details 0 290 31
+about 0 290 31
+the 0 290 31
+exact 0 290 31
+location 0 290 31
+of 0 290 31
+the 0 290 31
+assault, 0 290 31
+the 0 290 31
+attacker’s 0 290 31
+identity, 0 290 31
+the 0 290 31
+fact 0 290 31
+he 0 290 31
+vilified 0 290 31
+his 0 290 31
+victim 0 290 31
+as 0 290 31
+a 0 290 31
+Jewish 0 290 31
+person 0 290 31
+and 0 290 31
+as 0 290 31
+“a 1 290 31
+Satan” 1 290 31
+while 0 290 31
+hitting 0 290 31
+her, 0 290 31
+or 0 290 31
+even 0 290 31
+— 0 290 31
+as 0 290 31
+far 0 290 31
+as 0 290 31
+the 0 290 31
+Muslim 0 290 31
+neighbours 0 290 31
+were 0 290 31
+concerned 0 290 31
+— 0 290 31
+the 0 290 31
+Koranic 0 290 31
+portions 0 290 31
+he 0 290 31
+chanted. 0 290 31
 
-Yet 0
-the 0
-police 0
-still 0
-failed 0
-to 0
-storm 0
-Sarah 0
-Halimi’s 0
-apartment 0
-and 0
-rescue 0
-her. 0
+Yet 0 290 32
+the 0 290 32
+police 0 290 32
+still 0 290 32
+failed 0 290 32
+to 0 290 32
+storm 0 290 32
+Sarah 0 290 32
+Halimi’s 0 290 32
+apartment 0 290 32
+and 0 290 32
+rescue 0 290 32
+her. 0 290 32
 
-Eventually, 0
-Kobili 0
-Traore 0
-is 0
-claimed 0
-to 0
-have 0
-shouted 0
-that 0
-the 0
-woman 0
-was 0
-“mad 0
-and 0
-about 0
-to 0
-commit 0
-suicide”, 0
-and 0
-threw 0
-her 0
-out 0
-of 0
-the 0
-window. 0
+Eventually, 0 290 33
+Kobili 0 290 33
+Traore 0 290 33
+is 0 290 33
+claimed 0 290 33
+to 0 290 33
+have 0 290 33
+shouted 0 290 33
+that 0 290 33
+the 0 290 33
+woman 0 290 33
+was 0 290 33
+“mad 0 290 33
+and 0 290 33
+about 0 290 33
+to 0 290 33
+commit 0 290 33
+suicide”, 0 290 33
+and 0 290 33
+threw 0 290 33
+her 0 290 33
+out 0 290 33
+of 0 290 33
+the 0 290 33
+window. 0 290 33
 
-He 0
-had 0
-time 0
-enough 0
-to 0
-climb 0
-back 0
-to 0
-Diara 0
-Traore’s 0
-apartment 0
-where 0
-he 0
-finally 0
-was 0
-arrested. 0
+He 0 290 34
+had 0 290 34
+time 0 290 34
+enough 0 290 34
+to 0 290 34
+climb 0 290 34
+back 0 290 34
+to 0 290 34
+Diara 0 290 34
+Traore’s 0 290 34
+apartment 0 290 34
+where 0 290 34
+he 0 290 34
+finally 0 290 34
+was 0 290 34
+arrested. 0 290 34
 
-His 0
-hands 0
-were 0
-covered 0
-in 0
-blood. 0
+His 0 290 35
+hands 0 290 35
+were 0 290 35
+covered 0 290 35
+in 0 290 35
+blood. 0 290 35
 
-There 0
-was 0
-blood 0
-everywhere 0
-in 0
-his 0
-victim’s 0
-apartment. 0
+There 0 290 36
+was 0 290 36
+blood 0 290 36
+everywhere 0 290 36
+in 0 290 36
+his 0 290 36
+victim’s 0 290 36
+apartment. 0 290 36
 
-Sure 0
-he 0
-was 0
-crazy. 1
+Sure 0 290 37
+he 0 290 37
+was 0 290 37
+crazy. 1 290 37
 
-So 0
-crazy 0
-he 0
-tried 0
-to 0
-contrive 0
-an 0
-alibi 0
-for 0
-his 0
-crime. 0
+So 0 290 38
+crazy 0 290 38
+he 0 290 38
+tried 0 290 38
+to 0 290 38
+contrive 0 290 38
+an 0 290 38
+alibi 0 290 38
+for 0 290 38
+his 0 290 38
+crime. 0 290 38
 
-Kobili 0
-isn't 0
-crazy. 1
+Kobili 0 290 39
+isn't 0 290 39
+crazy. 1 290 39
 
-But 0
-the 0
-system 0
-that 0
-keeps 0
-on 0
-protecting 0
-him 0
-is. 0
+But 0 290 39
+
+the 0 290 39
+
+system 0 290 39
+
+that 0 290 39
+
+keeps 0 290 39
+
+on 0 290 39
+
+protecting 0 290 39
+
+him 0 290 39
+
+is. 0 290 39

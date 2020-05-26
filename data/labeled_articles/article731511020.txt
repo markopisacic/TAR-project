@@ -1,430 +1,472 @@
-A 0
-colossal 0
-Neptunian 0
-storm 0
-just 0
-vanished 0
-before 0
-our 0
-eyes 0
+A 0 172 0
+colossal 0 172 0
+Neptunian 0 172 0
+storm 0 172 0
+just 0 172 0
+vanished 0 172 0
+before 0 172 0
+our 0 172 0
+eyes 0 172 0
 
-You 0
-don’t 0
-have 0
-to 0
-look 0
-far 0
-for 0
-fresh 0
-news 0
-about 0
-Mars, 0
-Saturn, 0
-or 0
-Jupiter 0
-these 0
-days, 0
-but 0
-Neptune 0
-doesn’t 0
-always 0
-get 0
-the 0
-same 0
-kind 0
-of 0
-attention. 0
+You 0 172 1
+don’t 0 172 1
+have 0 172 1
+to 0 172 1
+look 0 172 1
+far 0 172 1
+for 0 172 1
+fresh 0 172 1
+news 0 172 1
+about 0 172 1
+Mars, 0 172 1
+Saturn, 0 172 1
+or 0 172 1
+Jupiter 0 172 1
+these 0 172 1
+days, 0 172 1
+but 0 172 1
+Neptune 0 172 1
+doesn’t 0 172 1
+always 0 172 1
+get 0 172 1
+the 0 172 1
+same 0 172 1
+kind 0 172 1
+of 0 172 1
+attention. 0 172 1
 
-The 0
-big 0
-frigid 0
-blue 0
-ball 0
-is 0
-the 0
-farthest 0
-planet 0
-from 0
-the 0
-Sun 0
-— 0
-since 0
-we 0
-don’t 0
-count 0
-Pluto 0
-as 0
-a 0
-planet 0
-anymore 0
-— 0
-and 0
-it 0
-hasn’t 0
-been 0
-studied 0
-with 0
-the 0
-same 0
-intensity 0
-of 0
-many 0
-of 0
-the 0
-others. 0
+The 0 172 2
+big 0 172 2
+frigid 0 172 2
+blue 0 172 2
+ball 0 172 2
+is 0 172 2
+the 0 172 2
+farthest 0 172 2
+planet 0 172 2
+from 0 172 2
+the 0 172 2
+Sun 0 172 2
+— 0 172 2
+since 0 172 2
+we 0 172 2
+don’t 0 172 2
+count 0 172 2
+Pluto 0 172 2
+as 0 172 2
+a 0 172 2
+planet 0 172 2
+anymore 0 172 2
+— 0 172 2
+and 0 172 2
+it 0 172 2
+hasn’t 0 172 2
+been 0 172 2
+studied 0 172 2
+with 0 172 2
+the 0 172 2
+same 0 172 2
+intensity 0 172 2
+of 0 172 2
+many 0 172 2
+of 0 172 2
+the 0 172 2
+others. 0 172 2
 
-Thankfully 0
-the 0
-Hubble 0
-Space 0
-Telescope 0
-hasn’t 0
-lost 0
-interest 0
-in 0
-the 0
-distant 0
-planet, 0
-because 0
-it 0
-just 0
-captured 0
-one 0
-of 0
-Neptunes 0
-massive 0
-storms 0
-losing 0
-steam 0
-as 0
-it 0
-roars 0
-across 0
-the 0
-planet. 0
+Thankfully 0 172 3
+the 0 172 3
+Hubble 0 172 3
+Space 0 172 3
+Telescope 0 172 3
+hasn’t 0 172 3
+lost 0 172 3
+interest 0 172 3
+in 0 172 3
+the 0 172 3
+distant 0 172 3
+planet, 0 172 3
+because 0 172 3
+it 0 172 3
+just 0 172 3
+captured 0 172 3
+one 0 172 3
+of 0 172 3
+Neptunes 0 172 3
+massive 0 172 3
+storms 0 172 3
+losing 0 172 3
+steam 0 172 3
+as 0 172 3
+it 0 172 3
+roars 0 172 3
+across 0 172 3
+the 0 172 3
+planet. 0 172 3
 
-Storms 0
-on 0
-Neptune 0
-appear 0
-as 0
-giant 0
-dark 0
-ovals, 0
-a 0
-bit 0
-like 0
-Jupiter’s 0
-Great 0
-Red 0
-Spot. 0
+Storms 0 172 4
+on 0 172 4
+Neptune 0 172 4
+appear 0 172 4
+as 0 172 4
+giant 0 172 4
+dark 0 172 4
+ovals, 0 172 4
+a 0 172 4
+bit 0 172 4
+like 0 172 4
+Jupiter’s 0 172 4
+Great 0 172 4
+Red 0 172 4
+Spot. 0 172 4
 
-However, 0
-unlike 0
-Jupiter’s 0
-centuries-old 0
-storm, 0
-Neptune’s 0
-hurricane-like 0
-weather 0
-events 0
-only 0
-last 0
-a 0
-few 0
-years 0
-at 0
-a 0
-time 0
-before 0
-eventually 0
-dissipating. 0
+However, 0 172 5
+unlike 0 172 5
+Jupiter’s 0 172 5
+centuries-old 0 172 5
+storm, 0 172 5
+Neptune’s 0 172 5
+hurricane-like 0 172 5
+weather 0 172 5
+events 0 172 5
+only 0 172 5
+last 0 172 5
+a 0 172 5
+few 0 172 5
+years 0 172 5
+at 0 172 5
+a 0 172 5
+time 0 172 5
+before 0 172 5
+eventually 0 172 5
+dissipating. 0 172 5
 
-Of 0
-course, 0
-that’s 0
-not 0
-to 0
-say 0
-the 0
-storms 0
-are 0
-insignificant 0
-— 0
-many 0
-are 0
-large 0
-enough 0
-to 0
-swallow 0
-and 0
-entire 0
-continent 0
-here 0
-on 0
-Earth 0
-— 0
-so 0
-watching 0
-one 0
-breathe 1
-its 1
-dying 1
-gasps 1
-is 0
-still 0
-a 0
-special 0
-sight. 0
+Of 0 172 6
+course, 0 172 6
+that’s 0 172 6
+not 0 172 6
+to 0 172 6
+say 0 172 6
+the 0 172 6
+storms 0 172 6
+are 0 172 6
+insignificant 0 172 6
+— 0 172 6
+many 0 172 6
+are 0 172 6
+large 0 172 6
+enough 0 172 6
+to 0 172 6
+swallow 0 172 6
+and 0 172 6
+entire 0 172 6
+continent 0 172 6
+here 0 172 6
+on 0 172 6
+Earth 0 172 6
+— 0 172 6
+so 0 172 6
+watching 0 172 6
+one 0 172 6
+breathe 1 172 6
+its 1 172 6
+dying 1 172 6
+gasps 1 172 6
+is 0 172 6
+still 0 172 6
+a 0 172 6
+special 0 172 6
+sight. 0 172 6
 
-The 0
-planet, 0
-which 0
-NASA 0
-says 0
-is 0
-the 0
-windiest 0
-in 0
-our 0
-Solar 0
-System, 0
-hosts 0
-regular 0
-storms 0
-which 0
-appear 0
-as 0
-large 0
-spots 0
-on 0
-its 0
-surface, 0
-but 0
-scientists 0
-are 0
-still 0
-at 0
-a 0
-loss 0
-as 0
-to 0
-how 0
-they 0
-actually 0
-occur. 0
+The 0 172 7
+planet, 0 172 7
+which 0 172 7
+NASA 0 172 7
+says 0 172 7
+is 0 172 7
+the 0 172 7
+windiest 0 172 7
+in 0 172 7
+our 0 172 7
+Solar 0 172 7
+System, 0 172 7
+hosts 0 172 7
+regular 0 172 7
+storms 0 172 7
+which 0 172 7
+appear 0 172 7
+as 0 172 7
+large 0 172 7
+spots 0 172 7
+on 0 172 7
+its 0 172 7
+surface, 0 172 7
+but 0 172 7
+scientists 0 172 7
+are 0 172 7
+still 0 172 7
+at 0 172 7
+a 0 172 7
+loss 0 172 7
+as 0 172 7
+to 0 172 7
+how 0 172 7
+they 0 172 7
+actually 0 172 7
+occur. 0 172 7
 
-“We 0
-have 0
-no 0
-evidence 0
-of 0
-how 0
-these 0
-vortices 0
-are 0
-formed 0
-or 0
-how 0
-fast 0
-they 0
-rotate,” 0
-Agustín 0
-Sánchez-Lavega 0
-of 0
-the 0
-University 0
-of 0
-the 0
-Basque 0
-Country 0
-in 0
-Spain 0
-explains. 0
+“We 0 172 8
+have 0 172 8
+no 0 172 8
+evidence 0 172 8
+of 0 172 8
+how 0 172 8
+these 0 172 8
+vortices 0 172 8
+are 0 172 8
+formed 0 172 8
+or 0 172 8
+how 0 172 8
+fast 0 172 8
+they 0 172 8
+rotate,” 0 172 8
+Agustín 0 172 8
+Sánchez-Lavega 0 172 8
+of 0 172 8
+the 0 172 8
+University 0 172 8
+of 0 172 8
+the 0 172 8
+Basque 0 172 8
+Country 0 172 8
+in 0 172 8
+Spain 0 172 8
+explains. 0 172 8
 
-“It 0
-is 0
-most 0
-likely 0
-that 0
-they 0
-arise 0
-from 0
-an 0
-instability 0
-in 0
-the 0
-sheared 0
-eastward 0
-and 0
-westward 0
-winds.” 0
+“It 0 172 9
+is 0 172 9
+most 0 172 9
+likely 0 172 9
+that 0 172 9
+they 0 172 9
+arise 0 172 9
+from 0 172 9
+an 0 172 9
+instability 0 172 9
+in 0 172 9
+the 0 172 9
+sheared 0 172 9
+eastward 0 172 9
+and 0 172 9
+westward 0 172 9
+winds.” 0 172 9
 
-The 0
-observation 0
-of 0
-this 0
-particular 0
-storm 0
-dying 0
-out 0
-is 0
-significant 0
-because 0
-it’s 0
-the 0
-very 0
-first 0
-time 0
-one 0
-of 0
-Neptune’s 0
-storms 0
-has 0
-been 0
-observed 0
-in 0
-such 0
-a 0
-way. 0
+The 0 172 10
+observation 0 172 10
+of 0 172 10
+this 0 172 10
+particular 0 172 10
+storm 0 172 10
+dying 0 172 10
+out 0 172 10
+is 0 172 10
+significant 0 172 10
+because 0 172 10
+it’s 0 172 10
+the 0 172 10
+very 0 172 10
+first 0 172 10
+time 0 172 10
+one 0 172 10
+of 0 172 10
+Neptune’s 0 172 10
+storms 0 172 10
+has 0 172 10
+been 0 172 10
+observed 0 172 10
+in 0 172 10
+such 0 172 10
+a 0 172 10
+way. 0 172 10
 
-It 0
-also 0
-goes 0
-against 0
-everything 0
-that 0
-scientists 0
-thought 0
-they 0
-knew 0
-about 0
-how 0
-forms 0
-on 0
-Neptune 0
-live 0
-and 0
-die. 0
+It 0 172 11
+also 0 172 11
+goes 0 172 11
+against 0 172 11
+everything 0 172 11
+that 0 172 11
+scientists 0 172 11
+thought 0 172 11
+they 0 172 11
+knew 0 172 11
+about 0 172 11
+how 0 172 11
+forms 0 172 11
+on 0 172 11
+Neptune 0 172 11
+live 0 172 11
+and 0 172 11
+die. 0 172 11
 
-“It 0
-looks 0
-like 0
-we’re 0
-capturing 0
-the 0
-demise 0
-of 0
-this 0
-dark 0
-vortex, 0
-and 0
-it’s 0
-different 0
-from 0
-what 0
-well-known 0
-studies 0
-led 0
-us 0
-to 0
-expect,” 0
-said 0
-Michael 0
-H. 0
-Wong 0
-of 0
-the 0
-University 0
-of 0
-California 0
-at 0
-Berkeley 0
-says. 0
+“It 0 172 12
+looks 0 172 12
+like 0 172 12
+we’re 0 172 12
+capturing 0 172 12
+the 0 172 12
+demise 0 172 12
+of 0 172 12
+this 0 172 12
+dark 0 172 12
+vortex, 0 172 12
+and 0 172 12
+it’s 0 172 12
+different 0 172 12
+from 0 172 12
+what 0 172 12
+well-known 0 172 12
+studies 0 172 12
+led 0 172 12
+us 0 172 12
+to 0 172 12
+expect,” 0 172 12
+said 0 172 12
+Michael 0 172 12
+H. 0 172 12
+Wong 0 172 12
+of 0 172 12
+the 0 172 12
+University 0 172 12
+of 0 172 12
+California 0 172 12
+at 0 172 12
+Berkeley 0 172 12
+says. 0 172 12
 
-“Their 0
-dynamical 0
-simulations 0
-said 0
-that 0
-anticyclones 0
-under 0
-Neptune’s 0
-wind 0
-shear 0
-would 0
-probably 0
-drift 0
-toward 0
-the 0
-equator. 0
+“Their 0 172 13
+dynamical 0 172 13
+simulations 0 172 13
+said 0 172 13
+that 0 172 13
+anticyclones 0 172 13
+under 0 172 13
+Neptune’s 0 172 13
+wind 0 172 13
+shear 0 172 13
+would 0 172 13
+probably 0 172 13
+drift 0 172 13
+toward 0 172 13
+the 0 172 13
+equator. 0 172 13
 
-We 0
-thought 0
-that 0
-once 0
-the 0
-vortex 0
-got 0
-too 0
-close 0
-to 0
-the 0
-equator, 0
-it 0
-would 0
-break 0
-up 0
-and 0
-perhaps 0
-create 0
-a 0
-spectacular 0
-outburst 0
-of 0
-cloud 0
-activity.” 0
+We 0 172 14
+thought 0 172 14
+that 0 172 14
+once 0 172 14
+the 0 172 14
+vortex 0 172 14
+got 0 172 14
+too 0 172 14
+close 0 172 14
+to 0 172 14
+the 0 172 14
+equator, 0 172 14
+it 0 172 14
+would 0 172 14
+break 0 172 14
+up 0 172 14
+and 0 172 14
+perhaps 0 172 14
+create 0 172 14
+a 0 172 14
+spectacular 0 172 14
+outburst 0 172 14
+of 0 172 14
+cloud 0 172 14
+activity.” 0 172 14
 
-But 0
-this 0
-storm 0
-stayed 0
-its 0
-course, 0
-dying 0
-out 0
-in 0
-a 0
-horizontal 0
-path 0
-that 0
-didn’t 0
-bring 0
-it 0
-towards 0
-the 0
-Neptunian 0
-equator 0
-at 0
-all, 0
-forcing 0
-scientists 0
-to 0
-go 0
-back 0
-to 0
-the 0
-drawing 0
-board 0
-and 0
-come 0
-up 0
-with 0
-a 0
-new 0
-theory 0
-on 0
-the 0
-planet’s 0
-weather 0
-habits. 0
+But 0 172 14
+
+this 0 172 14
+
+storm 0 172 14
+
+stayed 0 172 14
+
+its 0 172 14
+
+course, 0 172 14
+
+dying 0 172 14
+
+out 0 172 14
+
+in 0 172 14
+
+a 0 172 14
+
+horizontal 0 172 14
+
+path 0 172 14
+
+that 0 172 14
+
+didn’t 0 172 14
+
+bring 0 172 14
+
+it 0 172 14
+
+towards 0 172 14
+
+the 0 172 14
+
+Neptunian 0 172 14
+
+equator 0 172 14
+
+at 0 172 14
+
+all, 0 172 14
+
+forcing 0 172 14
+
+scientists 0 172 14
+
+to 0 172 14
+
+go 0 172 14
+
+back 0 172 14
+
+to 0 172 14
+
+the 0 172 14
+
+drawing 0 172 14
+
+board 0 172 14
+
+and 0 172 14
+
+come 0 172 14
+
+up 0 172 14
+
+with 0 172 14
+
+a 0 172 14
+
+new 0 172 14
+
+theory 0 172 14
+
+on 0 172 14
+
+the 0 172 14
+
+planet’s 0 172 14
+
+weather 0 172 14
+
+habits. 0 172 14

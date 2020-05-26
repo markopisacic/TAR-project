@@ -1,547 +1,555 @@
-Kamala 0
-Harris 0
-calls 0
-for 0
-AG 0
-Barr 0
-to 0
-testify 0
-on 0
-Mueller 0
-probe, 0
-as 0
-2020 0
-Dems 0
-seize 0
-on 0
-report 0
-drop 0
+Kamala 0 396 0
+Harris 0 396 0
+calls 0 396 0
+for 0 396 0
+AG 0 396 0
+Barr 0 396 0
+to 0 396 0
+testify 0 396 0
+on 0 396 0
+Mueller 0 396 0
+probe, 0 396 0
+as 0 396 0
+2020 0 396 0
+Dems 0 396 0
+seize 0 396 0
+on 0 396 0
+report 0 396 0
+drop 0 396 0
 
-The 0
-Democratic 0
-presidential 0
-contenders 0
-are 0
-uniformly 0
-calling 0
-for 0
-Special 0
-Counsel 0
-Robert 0
-Mueller’s 0
-report 0
-on 0
-Russian 0
-tampering 0
-in 0
-the 0
-2016 0
-presidential 0
-election 0
-to 0
-be 0
-released 0
-publicly 0
-– 0
-while 0
-at 0
-least 0
-one 0
-high-profile 0
-candidate 0
-wants 0
-Attorney 0
-General 0
-Bill 0
-Barr 0
-to 0
-testify 0
-on 0
-the 0
-findings. 0
+The 0 396 1
+Democratic 0 396 1
+presidential 0 396 1
+contenders 0 396 1
+are 0 396 1
+uniformly 0 396 1
+calling 0 396 1
+for 0 396 1
+Special 0 396 1
+Counsel 0 396 1
+Robert 0 396 1
+Mueller’s 0 396 1
+report 0 396 1
+on 0 396 1
+Russian 0 396 1
+tampering 0 396 1
+in 0 396 1
+the 0 396 1
+2016 0 396 1
+presidential 0 396 1
+election 0 396 1
+to 0 396 1
+be 0 396 1
+released 0 396 1
+publicly 0 396 1
+– 0 396 1
+while 0 396 1
+at 0 396 1
+least 0 396 1
+one 0 396 1
+high-profile 0 396 1
+candidate 0 396 1
+wants 0 396 1
+Attorney 0 396 1
+General 0 396 1
+Bill 0 396 1
+Barr 0 396 1
+to 0 396 1
+testify 0 396 1
+on 0 396 1
+the 0 396 1
+findings. 0 396 1
 
-Minutes 0
-after 0
-the 0
-news 0
-broke 0
-Friday 0
-afternoon 0
-that 0
-the 0
-long-awaited 0
-report 0
-had 0
-been 0
-submitted 0
-to 0
-Barr, 0
-the 0
-White 1
-House 1
-hopefuls 1
-quickly 0
-fired 1
-off 1
-statements 0
-calling 0
-for 0
-the 0
-Trump 0
-administration 0
-to 0
-ensure 0
-the 0
-documents 0
-go 0
-public. 0
+Minutes 0 396 2
+after 0 396 2
+the 0 396 2
+news 0 396 2
+broke 0 396 2
+Friday 0 396 2
+afternoon 0 396 2
+that 0 396 2
+the 0 396 2
+long-awaited 0 396 2
+report 0 396 2
+had 0 396 2
+been 0 396 2
+submitted 0 396 2
+to 0 396 2
+Barr, 0 396 2
+the 0 396 2
+White 1 396 2
+House 1 396 2
+hopefuls 1 396 2
+quickly 0 396 2
+fired 1 396 2
+off 1 396 2
+statements 0 396 2
+calling 0 396 2
+for 0 396 2
+the 0 396 2
+Trump 0 396 2
+administration 0 396 2
+to 0 396 2
+ensure 0 396 2
+the 0 396 2
+documents 0 396 2
+go 0 396 2
+public. 0 396 2
 
-TRUMP 0
-TEAM 0
-CONFIDENT 0
-AFTER 0
-MUELLER 0
-REPORT 0
-DROP 0
+TRUMP 0 396 3
+TEAM 0 396 3
+CONFIDENT 0 396 3
+AFTER 0 396 3
+MUELLER 0 396 3
+REPORT 0 396 3
+DROP 0 396 3
 
-“Attorney 0
-General 0
-Barr—release 0
-the 0
-Mueller 0
-report 0
-to 1
-the 1
-American 1
-public. 1
+“Attorney 0 396 4
+General 0 396 4
+Barr—release 0 396 4
+the 0 396 4
+Mueller 0 396 4
+report 0 396 4
+to 1 396 4
+the 1 396 4
+American 1 396 4
+public. 1 396 4
 
-Now,” 1
-Sen. 0
-Elizabeth 0
-Warren 0
-of 0
-Massachusetts 0
-tweeted. 0
+Now,” 1 396 5
+Sen. 0 396 5
+Elizabeth 0 396 5
+Warren 0 396 5
+of 0 396 5
+Massachusetts 0 396 5
+tweeted. 0 396 5
 
-“As 0
-Donald 0
-Trump 0
-said, 0
-‘Let 1
-it 1
-come 1
-out.’ 1
-I 0
-call 0
-on 0
-the 0
-Trump 0
-administration 0
-to 0
-make 0
-Special 0
-Counsel 0
-Mueller's 0
-full 0
-report 0
-public 0
-as 0
-soon 0
-as 0
-possible. 0
+“As 0 396 6
+Donald 0 396 6
+Trump 0 396 6
+said, 0 396 6
+‘Let 1 396 6
+it 1 396 6
+come 1 396 6
+out.’ 1 396 6
+I 0 396 6
+call 0 396 6
+on 0 396 6
+the 0 396 6
+Trump 0 396 6
+administration 0 396 6
+to 0 396 6
+make 0 396 6
+Special 0 396 6
+Counsel 0 396 6
+Mueller's 0 396 6
+full 0 396 6
+report 0 396 6
+public 0 396 6
+as 0 396 6
+soon 0 396 6
+as 0 396 6
+possible. 0 396 6
 
-No 0
-one, 0
-including 0
-the 0
-president, 0
-is 0
-above 0
-the 0
-law,” 0
-Sen. 0
-Bernie 0
-Sanders 0
-of 0
-Vermont 0
-wrote 0
-on 0
-Twitter. 0
+No 0 396 7
+one, 0 396 7
+including 0 396 7
+the 0 396 7
+president, 0 396 7
+is 0 396 7
+above 0 396 7
+the 0 396 7
+law,” 0 396 7
+Sen. 0 396 7
+Bernie 0 396 7
+Sanders 0 396 7
+of 0 396 7
+Vermont 0 396 7
+wrote 0 396 7
+on 0 396 7
+Twitter. 0 396 7
 
-Sen. 0
-Kamala 0
-Harris 0
-of 0
-California 0
-called 0
-for 0
-“total 0
-transparency” 0
-– 0
-then 0
-upped 0
-the 0
-ante 0
-by 0
-calling 0
-on 0
-Barr 0
-to 0
-testify. 0
+Sen. 0 396 8
+Kamala 0 396 8
+Harris 0 396 8
+of 0 396 8
+California 0 396 8
+called 0 396 8
+for 0 396 8
+“total 0 396 8
+transparency” 0 396 8
+– 0 396 8
+then 0 396 8
+upped 0 396 8
+the 0 396 8
+ante 0 396 8
+by 0 396 8
+calling 0 396 8
+on 0 396 8
+Barr 0 396 8
+to 0 396 8
+testify. 0 396 8
 
-“The 0
-Department 0
-of 0
-Justice 0
-launched 0
-the 0
-Special 0
-Counsel 0
-investigation 0
-to 0
-get 0
-to 0
-the 0
-bottom 0
-of 0
-foreign 0
-interference 0
-in 0
-the 0
-2016 0
-election 0
-and 0
-any 0
-other 0
-illegal 0
-actions. 0
+“The 0 396 9
+Department 0 396 9
+of 0 396 9
+Justice 0 396 9
+launched 0 396 9
+the 0 396 9
+Special 0 396 9
+Counsel 0 396 9
+investigation 0 396 9
+to 0 396 9
+get 0 396 9
+to 0 396 9
+the 0 396 9
+bottom 0 396 9
+of 0 396 9
+foreign 0 396 9
+interference 0 396 9
+in 0 396 9
+the 0 396 9
+2016 0 396 9
+election 0 396 9
+and 0 396 9
+any 0 396 9
+other 0 396 9
+illegal 0 396 9
+actions. 0 396 9
 
-A 0
-declassified 0
-report 0
-must 0
-be 0
-made 0
-public 0
-immediately 0
-and 0
-Attorney 0
-General 0
-Barr 0
-must 0
-publicly 0
-testify 0
-under 0
-oath 0
-about 0
-the 0
-investigation 0
-and 0
-its 0
-findings, 0
-and 0
-provide 0
-all 0
-underlying 0
-materials 0
-to 0
-the 0
-appropriate 0
-Congressional 0
-committees,” 0
-the 0
-former 0
-California 0
-attorney 0
-general 0
-said 0
-in 0
-a 0
-statement. 0
+A 0 396 10
+declassified 0 396 10
+report 0 396 10
+must 0 396 10
+be 0 396 10
+made 0 396 10
+public 0 396 10
+immediately 0 396 10
+and 0 396 10
+Attorney 0 396 10
+General 0 396 10
+Barr 0 396 10
+must 0 396 10
+publicly 0 396 10
+testify 0 396 10
+under 0 396 10
+oath 0 396 10
+about 0 396 10
+the 0 396 10
+investigation 0 396 10
+and 0 396 10
+its 0 396 10
+findings, 0 396 10
+and 0 396 10
+provide 0 396 10
+all 0 396 10
+underlying 0 396 10
+materials 0 396 10
+to 0 396 10
+the 0 396 10
+appropriate 0 396 10
+Congressional 0 396 10
+committees,” 0 396 10
+the 0 396 10
+former 0 396 10
+California 0 396 10
+attorney 0 396 10
+general 0 396 10
+said 0 396 10
+in 0 396 10
+a 0 396 10
+statement. 0 396 10
 
-Harris, 0
-Warren 0
-and 0
-Sen. 0
-Cory 0
-Booker 0
-of 0
-New 0
-Jersey 0
-have 0
-all 0
-started 0
-petitions 0
-to 0
-pressure 0
-the 0
-administration 0
-to 0
-release 0
-the 0
-report 0
-– 0
-though 0
-the 0
-White 0
-House 0
-has 0
-deferred 0
-to 0
-Barr 0
-on 0
-next 0
-steps. 0
+Harris, 0 396 11
+Warren 0 396 11
+and 0 396 11
+Sen. 0 396 11
+Cory 0 396 11
+Booker 0 396 11
+of 0 396 11
+New 0 396 11
+Jersey 0 396 11
+have 0 396 11
+all 0 396 11
+started 0 396 11
+petitions 0 396 11
+to 0 396 11
+pressure 0 396 11
+the 0 396 11
+administration 0 396 11
+to 0 396 11
+release 0 396 11
+the 0 396 11
+report 0 396 11
+– 0 396 11
+though 0 396 11
+the 0 396 11
+White 0 396 11
+House 0 396 11
+has 0 396 11
+deferred 0 396 11
+to 0 396 11
+Barr 0 396 11
+on 0 396 11
+next 0 396 11
+steps. 0 396 11
 
-Booker 0
-also 0
-is 0
-using 0
-the 0
-report 0
-drop 0
-to 0
-raise 0
-money 0
-for 0
-his 0
-campaign. 0
+Booker 0 396 12
+also 0 396 12
+is 0 396 12
+using 0 396 12
+the 0 396 12
+report 0 396 12
+drop 0 396 12
+to 0 396 12
+raise 0 396 12
+money 0 396 12
+for 0 396 12
+his 0 396 12
+campaign. 0 396 12
 
-“This 0
-report 0
-should 0
-be 0
-made 0
-public 0
-immediately,” 1
-he 0
-tweeted. 0
+“This 0 396 13
+report 0 396 13
+should 0 396 13
+be 0 396 13
+made 0 396 13
+public 0 396 13
+immediately,” 1 396 13
+he 0 396 13
+tweeted. 0 396 13
 
-MUELLER 0
-NOT 0
-RECOMMENDING 0
-MORE 0
-INDICTMENTS: 0
-SOURCE 0
+MUELLER 0 396 14
+NOT 0 396 14
+RECOMMENDING 0 396 14
+MORE 0 396 14
+INDICTMENTS: 0 396 14
+SOURCE 0 396 14
 
-It 0
-was 0
-a 0
-similar 0
-sentiment 0
-on 0
-Twitter 0
-from 0
-former 0
-Rep. 0
-Beto 0
-O’Rourke 0
-of 0
-Texas. 0
+It 0 396 15
+was 0 396 15
+a 0 396 15
+similar 0 396 15
+sentiment 0 396 15
+on 0 396 15
+Twitter 0 396 15
+from 0 396 15
+former 0 396 15
+Rep. 0 396 15
+Beto 0 396 15
+O’Rourke 0 396 15
+of 0 396 15
+Texas. 0 396 15
 
-“Release 0
-the 0
-Mueller 0
-report 0
-to 0
-the 1
-American 1
-people,” 1
-he 0
-wrote. 0
+“Release 0 396 16
+the 0 396 16
+Mueller 0 396 16
+report 0 396 16
+to 0 396 16
+the 1 396 16
+American 1 396 16
+people,” 1 396 16
+he 0 396 16
+wrote. 0 396 16
 
-Sen. 0
-Kirsten 0
-Gillibrand 0
-of 0
-New 0
-York 0
-said, 0
-“report 0
-should 0
-be 0
-made 0
-public 0
-without 0
-any 0
-delay. 0
+Sen. 0 396 17
+Kirsten 0 396 17
+Gillibrand 0 396 17
+of 0 396 17
+New 0 396 17
+York 0 396 17
+said, 0 396 17
+“report 0 396 17
+should 0 396 17
+be 0 396 17
+made 0 396 17
+public 0 396 17
+without 0 396 17
+any 0 396 17
+delay. 0 396 17
 
-The 0
-American 1
-people 1
-have 0
-a 0
-right 0
-to 0
-know 0
-its 0
-findings.” 0
+The 0 396 18
+American 1 396 18
+people 1 396 18
+have 0 396 18
+a 0 396 18
+right 0 396 18
+to 0 396 18
+know 0 396 18
+its 0 396 18
+findings.” 0 396 18
 
-And 0
-Sen. 0
-Amy 0
-Klobuchar 0
-tweeted 0
-“BREAKING: 0
-The 0
-Mueller 0
-report 0
-is 0
-complete. 0
+And 0 396 19
+Sen. 0 396 19
+Amy 0 396 19
+Klobuchar 0 396 19
+tweeted 0 396 19
+“BREAKING: 0 396 19
+The 0 396 19
+Mueller 0 396 19
+report 0 396 19
+is 0 396 19
+complete. 0 396 19
 
-Attorney 0
-General 0
-Barr 0
-must 0
-release 0
-the 0
-full 0
-report 0
-to 0
-the 0
-public. 0
+Attorney 0 396 20
+General 0 396 20
+Barr 0 396 20
+must 0 396 20
+release 0 396 20
+the 0 396 20
+full 0 396 20
+report 0 396 20
+to 0 396 20
+the 0 396 20
+public. 0 396 20
 
-The 1
-American 1
-people 1
-deserve 0
-to 0
-know 0
-the 0
-facts.” 0
+The 1 396 21
+American 1 396 21
+people 1 396 21
+deserve 0 396 21
+to 0 396 21
+know 0 396 21
+the 0 396 21
+facts.” 0 396 21
 
-Mueller 0
-was 0
-appointed 0
-nearly 0
-two 0
-years 0
-ago 0
-to 0
-investigate 0
-the 0
-election 0
-tampering 0
-and 0
-any 0
-possible 0
-collusion 0
-between 0
-Moscow 0
-and 0
-Trump’s 0
-2016 0
-campaign 0
-to 0
-swing 0
-the 0
-presidential 0
-election 0
-in 0
-the 0
-then-GOP 0
-nominee’s 0
-favor. 0
+Mueller 0 396 22
+was 0 396 22
+appointed 0 396 22
+nearly 0 396 22
+two 0 396 22
+years 0 396 22
+ago 0 396 22
+to 0 396 22
+investigate 0 396 22
+the 0 396 22
+election 0 396 22
+tampering 0 396 22
+and 0 396 22
+any 0 396 22
+possible 0 396 22
+collusion 0 396 22
+between 0 396 22
+Moscow 0 396 22
+and 0 396 22
+Trump’s 0 396 22
+2016 0 396 22
+campaign 0 396 22
+to 0 396 22
+swing 0 396 22
+the 0 396 22
+presidential 0 396 22
+election 0 396 22
+in 0 396 22
+the 0 396 22
+then-GOP 0 396 22
+nominee’s 0 396 22
+favor. 0 396 22
 
-Barr 0
-and 0
-his 0
-team 0
-are 0
-now 0
-reviewing 0
-the 0
-report 0
-and 0
-creating 0
-a 0
-summary 0
-document 0
-that 0
-will 0
-be 0
-sent 0
-to 0
-Congress, 0
-and 0
-possibly 0
-released. 0
+Barr 0 396 23
+and 0 396 23
+his 0 396 23
+team 0 396 23
+are 0 396 23
+now 0 396 23
+reviewing 0 396 23
+the 0 396 23
+report 0 396 23
+and 0 396 23
+creating 0 396 23
+a 0 396 23
+summary 0 396 23
+document 0 396 23
+that 0 396 23
+will 0 396 23
+be 0 396 23
+sent 0 396 23
+to 0 396 23
+Congress, 0 396 23
+and 0 396 23
+possibly 0 396 23
+released. 0 396 23
 
-Former 0
-San 0
-Antonio, 0
-Texas 0
-mayor 0
-and 0
-former 0
-Housing 0
-and 0
-Urban 0
-Development 0
-Secretary 0
-Julian 0
-Castro 0
-tweeted 0
-that 0
-the 0
-“American 1
-people 1
-deserve 1
-to 1
-know 1
-the 1
-full 1
-truth 1
-about 1
-Russia’s 1
-interference 1
-in 1
-our 1
-democracy. 1
+Former 0 396 24
+San 0 396 24
+Antonio, 0 396 24
+Texas 0 396 24
+mayor 0 396 24
+and 0 396 24
+former 0 396 24
+Housing 0 396 24
+and 0 396 24
+Urban 0 396 24
+Development 0 396 24
+Secretary 0 396 24
+Julian 0 396 24
+Castro 0 396 24
+tweeted 0 396 24
+that 0 396 24
+the 0 396 24
+“American 1 396 24
+people 1 396 24
+deserve 1 396 24
+to 1 396 24
+know 1 396 24
+the 1 396 24
+full 1 396 24
+truth 1 396 24
+about 1 396 24
+Russia’s 1 396 24
+interference 1 396 24
+in 1 396 24
+our 1 396 24
+democracy. 1 396 24
 
-The 0
-Special 0
-Counsel 0
-report 0
-must 0
-be 0
-publicly 0
-released 0
-in 0
-its 0
-entirety.” 0
+The 0 396 25
+Special 0 396 25
+Counsel 0 396 25
+report 0 396 25
+must 0 396 25
+be 0 396 25
+publicly 0 396 25
+released 0 396 25
+in 0 396 25
+its 0 396 25
+entirety.” 0 396 25
 
-Former 0
-three-term 0
-Rep. 0
-John 0
-Delaney 0
-wrote 0
-the 0
-“patriotic 0
-action 0
-for 0
-the 0
-Attorney 0
-General 0
-is 0
-to 0
-release 0
-the 0
-entire 0
-Mueller 0
-Report 0
-to 0
-the 1
-American 1
-people. 1
+Former 0 396 26
+three-term 0 396 26
+Rep. 0 396 26
+John 0 396 26
+Delaney 0 396 26
+wrote 0 396 26
+the 0 396 26
+“patriotic 0 396 26
+action 0 396 26
+for 0 396 26
+the 0 396 26
+Attorney 0 396 26
+General 0 396 26
+is 0 396 26
+to 0 396 26
+release 0 396 26
+the 0 396 26
+entire 0 396 26
+Mueller 0 396 26
+Report 0 396 26
+to 0 396 26
+the 1 396 26
+American 1 396 26
+people. 1 396 26
 
-We 0
-paid 0
-for 0
-it 0
-and 0
-this 0
-moment 0
-requires 0
-transparency.” 0
+We 0 396 26
+
+paid 0 396 26
+
+for 0 396 26
+
+it 0 396 26
+
+and 0 396 26
+
+this 0 396 26
+
+moment 0 396 26
+
+requires 0 396 26
+
+transparency.” 0 396 26

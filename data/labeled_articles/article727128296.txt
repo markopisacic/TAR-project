@@ -1,485 +1,503 @@
-Man 0
-who 0
-sold 0
-ammo 0
-to 0
-Las 0
-Vegas 0
-gunman 0
-speaks 0
-out 0
+Man 0 128 0
+who 0 128 0
+sold 0 128 0
+ammo 0 128 0
+to 0 128 0
+Las 0 128 0
+Vegas 0 128 0
+gunman 0 128 0
+speaks 0 128 0
+out 0 128 0
 
-© 0
-Provided 0
-by 0
-CBS 0
-Interactive 0
-Inc. 0
-Douglas 0
-Haig 0
+© 0 128 1
+Provided 0 128 1
+by 0 128 1
+CBS 0 128 1
+Interactive 0 128 1
+Inc. 0 128 1
+Douglas 0 128 1
+Haig 0 128 1
 
-New 0
-documents 0
-reveal 0
-the 0
-name 0
-of 0
-the 0
-second 0
-person 0
-of 0
-interest 0
-in 0
-the 0
-Las 0
-Vegas 0
-shooting. 0
+New 0 128 2
+documents 0 128 2
+reveal 0 128 2
+the 0 128 2
+name 0 128 2
+of 0 128 2
+the 0 128 2
+second 0 128 2
+person 0 128 2
+of 0 128 2
+interest 0 128 2
+in 0 128 2
+the 0 128 2
+Las 0 128 2
+Vegas 0 128 2
+shooting. 0 128 2
 
-Police 0
-believe 0
-Douglas 0
-Haig 0
-may 0
-have 0
-conspired 0
-with 0
-gunman 0
-Stephen 0
-Paddock, 0
-but 0
-it's 0
-unclear 0
-if 0
-he's 0
-still 0
-under 0
-investigation. 0
+Police 0 128 3
+believe 0 128 3
+Douglas 0 128 3
+Haig 0 128 3
+may 0 128 3
+have 0 128 3
+conspired 0 128 3
+with 0 128 3
+gunman 0 128 3
+Stephen 0 128 3
+Paddock, 0 128 3
+but 0 128 3
+it's 0 128 3
+unclear 0 128 3
+if 0 128 3
+he's 0 128 3
+still 0 128 3
+under 0 128 3
+investigation. 0 128 3
 
-Haig 0
-sold 0
-Paddock 0
-ammunition 0
-the 0
-month 0
-before 0
-the 0
-October 0
-attack 0
-that 0
-killed 0
-58 0
-people 0
-dead 0
-and 0
-wounded 0
-hundreds 0
-of 0
-others. 0
+Haig 0 128 4
+sold 0 128 4
+Paddock 0 128 4
+ammunition 0 128 4
+the 0 128 4
+month 0 128 4
+before 0 128 4
+the 0 128 4
+October 0 128 4
+attack 0 128 4
+that 0 128 4
+killed 0 128 4
+58 0 128 4
+people 0 128 4
+dead 0 128 4
+and 0 128 4
+wounded 0 128 4
+hundreds 0 128 4
+of 0 128 4
+others. 0 128 4
 
-Mandalay 0
-Bay 0
-hotel 0
-staff 0
-had 0
-numerous 0
-run-ins 0
-with 0
-Vegas 0
-gunman: 0
-companyLas 0
-Vegas 0
-shooter 0
-Stephen 0
-Paddock 0
-had 0
-lost 0
-money, 0
-been 0
-depressed, 0
-sheriff 0
-says 0
+Mandalay 0 128 5
+Bay 0 128 5
+hotel 0 128 5
+staff 0 128 5
+had 0 128 5
+numerous 0 128 5
+run-ins 0 128 5
+with 0 128 5
+Vegas 0 128 5
+gunman: 0 128 5
+companyLas 0 128 5
+Vegas 0 128 5
+shooter 0 128 5
+Stephen 0 128 5
+Paddock 0 128 5
+had 0 128 5
+lost 0 128 5
+money, 0 128 5
+been 0 128 5
+depressed, 0 128 5
+sheriff 0 128 5
+says 0 128 5
 
-Haig 0
-was 0
-contacted 0
-one 0
-day 0
-after 0
-the 0
-attack, 0
-after 0
-investigators 0
-found 0
-an 0
-Amazon 0
-box 0
-with 0
-his 0
-address 0
-on 0
-it 0
-inside 0
-Paddock's 0
-hotel 0
-room, 0
-reports 0
-CBS 0
-News 0
-correspondent 0
-Mireya 0
-Villarreal. 0
+Haig 0 128 6
+was 0 128 6
+contacted 0 128 6
+one 0 128 6
+day 0 128 6
+after 0 128 6
+the 0 128 6
+attack, 0 128 6
+after 0 128 6
+investigators 0 128 6
+found 0 128 6
+an 0 128 6
+Amazon 0 128 6
+box 0 128 6
+with 0 128 6
+his 0 128 6
+address 0 128 6
+on 0 128 6
+it 0 128 6
+inside 0 128 6
+Paddock's 0 128 6
+hotel 0 128 6
+room, 0 128 6
+reports 0 128 6
+CBS 0 128 6
+News 0 128 6
+correspondent 0 128 6
+Mireya 0 128 6
+Villarreal. 0 128 6
 
-But 0
-Haig 0
-says 0
-he 0
-had 0
-no 0
-idea 0
-what 0
-Paddock 0
-was 0
-planning 0
-to 0
-do 0
-when 0
-he 0
-met 0
-him 0
-just 0
-a 0
-few 0
-weeks 0
-before 0
-the 0
-massacre. 0
+But 0 128 7
+Haig 0 128 7
+says 0 128 7
+he 0 128 7
+had 0 128 7
+no 0 128 7
+idea 0 128 7
+what 0 128 7
+Paddock 0 128 7
+was 0 128 7
+planning 0 128 7
+to 0 128 7
+do 0 128 7
+when 0 128 7
+he 0 128 7
+met 0 128 7
+him 0 128 7
+just 0 128 7
+a 0 128 7
+few 0 128 7
+weeks 0 128 7
+before 0 128 7
+the 0 128 7
+massacre. 0 128 7
 
-Haig 0
-says 0
-he 0
-sold 0
-Paddock 0
-720 0
-rounds 0
-of 0
-ammunition 0
-from 0
-Haig's 0
-home 0
-gun 0
-business. 0
+Haig 0 128 8
+says 0 128 8
+he 0 128 8
+sold 0 128 8
+Paddock 0 128 8
+720 0 128 8
+rounds 0 128 8
+of 0 128 8
+ammunition 0 128 8
+from 0 128 8
+Haig's 0 128 8
+home 0 128 8
+gun 0 128 8
+business. 0 128 8
 
-"I 0
-couldn't 0
-detect 0
-anything 0
-wrong 0
-with 0
-this 0
-guy," 0
-he 0
-said. 0
+"I 0 128 9
+couldn't 0 128 9
+detect 0 128 9
+anything 0 128 9
+wrong 0 128 9
+with 0 128 9
+this 0 128 9
+guy," 0 128 9
+he 0 128 9
+said. 0 128 9
 
-"He 0
-told 0
-me 0
-exactly 0
-what 0
-he 0
-wanted. 0
+"He 0 128 10
+told 0 128 10
+me 0 128 10
+exactly 0 128 10
+what 0 128 10
+he 0 128 10
+wanted. 0 128 10
 
-I 0
-handed 0
-him 0
-a 0
-box 0
-with 0
-the 0
-ammunition 0
-in 0
-it, 0
-and 0
-he 0
-paid 0
-me 0
-and 0
-he 0
-left." 0
+I 0 128 11
+handed 0 128 11
+him 0 128 11
+a 0 128 11
+box 0 128 11
+with 0 128 11
+the 0 128 11
+ammunition 0 128 11
+in 0 128 11
+it, 0 128 11
+and 0 128 11
+he 0 128 11
+paid 0 128 11
+me 0 128 11
+and 0 128 11
+he 0 128 11
+left." 0 128 11
 
-The 0
-rounds 0
-he 0
-sold 0
-are 0
-called 0
-"tracer 0
-ammunition" 0
-– 0
-bullets 0
-that 0
-leave 0
-a 0
-visible 0
-trail 0
-when 0
-fired. 0
+The 0 128 12
+rounds 0 128 12
+he 0 128 12
+sold 0 128 12
+are 0 128 12
+called 0 128 12
+"tracer 0 128 12
+ammunition" 0 128 12
+– 0 128 12
+bullets 0 128 12
+that 0 128 12
+leave 0 128 12
+a 0 128 12
+visible 0 128 12
+trail 0 128 12
+when 0 128 12
+fired. 0 128 12
 
-"He 0
-said 0
-he 0
-was 0
-going 0
-to 0
-go 0
-put 0
-on 0
-a 0
-light 0
-show. 0
+"He 0 128 13
+said 0 128 13
+he 0 128 13
+was 0 128 13
+going 0 128 13
+to 0 128 13
+go 0 128 13
+put 0 128 13
+on 0 128 13
+a 0 128 13
+light 0 128 13
+show. 0 128 13
 
-And 0
-I 0
-can't 0
-remember 0
-whether 0
-he 0
-said 0
-for 0
-or 0
-with 0
-his 0
-friends, 0
-but 0
-that's 0
-what 0
-he 0
-did 0
-say," 0
-Haig 0
-said. 0
+And 0 128 14
+I 0 128 14
+can't 0 128 14
+remember 0 128 14
+whether 0 128 14
+he 0 128 14
+said 0 128 14
+for 0 128 14
+or 0 128 14
+with 0 128 14
+his 0 128 14
+friends, 0 128 14
+but 0 128 14
+that's 0 128 14
+what 0 128 14
+he 0 128 14
+did 0 128 14
+say," 0 128 14
+Haig 0 128 14
+said. 0 128 14
 
-But 0
-newly 0
-released 0
-search 0
-warrant 0
-records 0
-filed 0
-last 0
-fall 0
-by 0
-the 0
-Las 0
-Vegas 0
-Metropolitan 0
-Police 0
-Department 0
-say 0
-Haig 0
-"may 0
-have 0
-conspired 0
-with 0
-Stephen 0
-Paddock 0
-to 0
-commit 0
-murder 0
-with 0
-a 0
-deadly 0
-weapon." 0
+But 0 128 15
+newly 0 128 15
+released 0 128 15
+search 0 128 15
+warrant 0 128 15
+records 0 128 15
+filed 0 128 15
+last 0 128 15
+fall 0 128 15
+by 0 128 15
+the 0 128 15
+Las 0 128 15
+Vegas 0 128 15
+Metropolitan 0 128 15
+Police 0 128 15
+Department 0 128 15
+say 0 128 15
+Haig 0 128 15
+"may 0 128 15
+have 0 128 15
+conspired 0 128 15
+with 0 128 15
+Stephen 0 128 15
+Paddock 0 128 15
+to 0 128 15
+commit 0 128 15
+murder 0 128 15
+with 0 128 15
+a 0 128 15
+deadly 0 128 15
+weapon." 0 128 15
 
-Haig 0
-strongly 0
-denies 0
-that. 0
+Haig 0 128 16
+strongly 0 128 16
+denies 0 128 16
+that. 0 128 16
 
-"I 0
-felt 0
-that 0
-they 0
-were 0
-hoping 0
-that 0
-they 0
-could 0
-find 0
-a 0
-connection 0
-between 0
-myself 0
-and 0
-Paddock, 0
-that 0
-would 0
-go 0
-back 0
-showing 0
-that 0
-I 0
-supplied 0
-him 0
-with 0
-most 0
-of 0
-his 0
-ammunition, 0
-possibly 0
-even 0
-some 0
-firearms," 0
-Haig 0
-said. 0
+"I 0 128 17
+felt 0 128 17
+that 0 128 17
+they 0 128 17
+were 0 128 17
+hoping 0 128 17
+that 0 128 17
+they 0 128 17
+could 0 128 17
+find 0 128 17
+a 0 128 17
+connection 0 128 17
+between 0 128 17
+myself 0 128 17
+and 0 128 17
+Paddock, 0 128 17
+that 0 128 17
+would 0 128 17
+go 0 128 17
+back 0 128 17
+showing 0 128 17
+that 0 128 17
+I 0 128 17
+supplied 0 128 17
+him 0 128 17
+with 0 128 17
+most 0 128 17
+of 0 128 17
+his 0 128 17
+ammunition, 0 128 17
+possibly 0 128 17
+even 0 128 17
+some 0 128 17
+firearms," 0 128 17
+Haig 0 128 17
+said. 0 128 17
 
-"They're 0
-not 0
-gonna 0
-find 0
-it. 0
+"They're 0 128 18
+not 0 128 18
+gonna 0 128 18
+find 0 128 18
+it. 0 128 18
 
-I 0
-talked 0
-to 0
-the 0
-guy 0
-three 0
-times." 0
+I 0 128 19
+talked 0 128 19
+to 0 128 19
+the 0 128 19
+guy 0 128 19
+three 0 128 19
+times." 0 128 19
 
-It's 0
-unclear 0
-whether 0
-Haig 0
-is 0
-still 0
-a 0
-person 0
-of 0
-interest, 0
-but 0
-he 0
-was 0
-the 0
-only 0
-one 0
-mentioned 0
-by 0
-name 0
-in 0
-the 0
-search 0
-warrant, 0
-other 0
-than 0
-Marilou 0
-Danley 0
-- 0
-Paddock's 0
-girlfriend. 0
+It's 0 128 20
+unclear 0 128 20
+whether 0 128 20
+Haig 0 128 20
+is 0 128 20
+still 0 128 20
+a 0 128 20
+person 0 128 20
+of 0 128 20
+interest, 0 128 20
+but 0 128 20
+he 0 128 20
+was 0 128 20
+the 0 128 20
+only 0 128 20
+one 0 128 20
+mentioned 0 128 20
+by 0 128 20
+name 0 128 20
+in 0 128 20
+the 0 128 20
+search 0 128 20
+warrant, 0 128 20
+other 0 128 20
+than 0 128 20
+Marilou 0 128 20
+Danley 0 128 20
+- 0 128 20
+Paddock's 0 128 20
+girlfriend. 0 128 20
 
-Authorities 0
-have 0
-since 0
-said 0
-they 0
-don't 0
-plan 0
-to 0
-bring 0
-charges 0
-against 0
-Danley. 0
+Authorities 0 128 21
+have 0 128 21
+since 0 128 21
+said 0 128 21
+they 0 128 21
+don't 0 128 21
+plan 0 128 21
+to 0 128 21
+bring 0 128 21
+charges 0 128 21
+against 0 128 21
+Danley. 0 128 21
 
-Las 0
-Vegas 0
-gunman's 0
-motive 0
-still 0
-unknown 0
+Las 0 128 22
+Vegas 0 128 22
+gunman's 0 128 22
+motive 0 128 22
+still 0 128 22
+unknown 0 128 22
 
-Haig 0
-does 0
-not 0
-blame 0
-himself, 0
-but 0
-within 0
-weeks 0
-of 0
-the 0
-massacre, 0
-he 0
-still 0
-decided 0
-to 0
-shut 0
-down 0
-his 0
-business. 0
+Haig 0 128 23
+does 0 128 23
+not 0 128 23
+blame 0 128 23
+himself, 0 128 23
+but 0 128 23
+within 0 128 23
+weeks 0 128 23
+of 0 128 23
+the 0 128 23
+massacre, 0 128 23
+he 0 128 23
+still 0 128 23
+decided 0 128 23
+to 0 128 23
+shut 0 128 23
+down 0 128 23
+his 0 128 23
+business. 0 128 23
 
-"I'm 0
-still 0
-racking 1
-my 1
-brain 1
-for 0
-what 0
-did 0
-I 0
-miss. 0
+"I'm 0 128 24
+still 0 128 24
+racking 1 128 24
+my 1 128 24
+brain 1 128 24
+for 0 128 24
+what 0 128 24
+did 0 128 24
+I 0 128 24
+miss. 0 128 24
 
-Why 0
-didn't 0
-I 0
-pick 0
-this 0
-up?" 0
+Why 0 128 25
+didn't 0 128 25
+I 0 128 25
+pick 0 128 25
+this 0 128 25
+up?" 0 128 25
 
-he 0
-said. 0
+he 0 128 26
+said. 0 128 26
 
-Haig, 0
-represented 0
-by 0
-his 0
-Phoenix 0
-attorneys 0
-Marc 0
-Victor 0
-and 0
-Andrew 0
-Marcantel, 0
-has 0
-not 0
-been 0
-charged. 0
+Haig, 0 128 27
+represented 0 128 27
+by 0 128 27
+his 0 128 27
+Phoenix 0 128 27
+attorneys 0 128 27
+Marc 0 128 27
+Victor 0 128 27
+and 0 128 27
+Andrew 0 128 27
+Marcantel, 0 128 27
+has 0 128 27
+not 0 128 27
+been 0 128 27
+charged. 0 128 27
 
-His 0
-attorneys 0
-say 0
-he 0
-continues 0
-to 0
-cooperate 0
-with 0
-investigators. 0
+His 0 128 28
+attorneys 0 128 28
+say 0 128 28
+he 0 128 28
+continues 0 128 28
+to 0 128 28
+cooperate 0 128 28
+with 0 128 28
+investigators. 0 128 28
 
-CBS 0
-News 0
-reached 0
-out 0
-to 0
-the 0
-FBI 0
-and 0
-other 0
-authorities 0
-involved, 0
-but 0
-none 0
-will 0
-comment 0
-on 0
-an 0
-active 0
-investigation. 0
+CBS 0 128 28
+
+News 0 128 28
+
+reached 0 128 28
+
+out 0 128 28
+
+to 0 128 28
+
+the 0 128 28
+
+FBI 0 128 28
+
+and 0 128 28
+
+other 0 128 28
+
+authorities 0 128 28
+
+involved, 0 128 28
+
+but 0 128 28
+
+none 0 128 28
+
+will 0 128 28
+
+comment 0 128 28
+
+on 0 128 28
+
+an 0 128 28
+
+active 0 128 28
+
+investigation. 0 128 28

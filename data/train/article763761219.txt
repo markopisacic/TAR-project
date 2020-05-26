@@ -1,398 +1,418 @@
-Conference 0
-of 0
-Mayors 0
-passes 0
-resolutions 0
-favoring 0
-gun 0
-control 0
+Conference 0 262 0
+of 0 262 0
+Mayors 0 262 0
+passes 0 262 0
+resolutions 0 262 0
+favoring 0 262 0
+gun 0 262 0
+control 0 262 0
 
-“Policies 0
-like 0
-background 0
-checks 0
-on 0
-all 0
-gun 0
-sales 0
-and 0
-Red 1
-Flag 1
-Laws 1
-save 1
-lives,” 1
-said 0
-Karen 0
-Freeman-Wilson, 0
-mayor 0
-of 0
-Gary, 0
-Ind. 0
+“Policies 0 262 1
+like 0 262 1
+background 0 262 1
+checks 0 262 1
+on 0 262 1
+all 0 262 1
+gun 0 262 1
+sales 0 262 1
+and 0 262 1
+Red 1 262 1
+Flag 1 262 1
+Laws 1 262 1
+save 1 262 1
+lives,” 1 262 1
+said 0 262 1
+Karen 0 262 1
+Freeman-Wilson, 0 262 1
+mayor 0 262 1
+of 0 262 1
+Gary, 0 262 1
+Ind. 0 262 1
 
-| 0
-M. 0
-Spencer 0
-Green/AP 0
-Photo 0
-Conference 0
-of 0
-Mayors 0
-passes 0
-resolutions 0
-favoring 0
-gun 0
-control 0
+| 0 262 2
+M. 0 262 2
+Spencer 0 262 2
+Green/AP 0 262 2
+Photo 0 262 2
+Conference 0 262 2
+of 0 262 2
+Mayors 0 262 2
+passes 0 262 2
+resolutions 0 262 2
+favoring 0 262 2
+gun 0 262 2
+control 0 262 2
 
-The 0
-bipartisan 0
-U.S. 0
-Conference 0
-of 0
-Mayors 0
-passed 0
-a 0
-series 0
-of 0
-resolutions 0
-calling 0
-for 0
-more 0
-gun 0
-control 0
-measures 0
-during 0
-the 0
-group's 0
-annual 0
-meeting 0
-in 0
-Boston 0
-this 0
-week. 0
+The 0 262 3
+bipartisan 0 262 3
+U.S. 0 262 3
+Conference 0 262 3
+of 0 262 3
+Mayors 0 262 3
+passed 0 262 3
+a 0 262 3
+series 0 262 3
+of 0 262 3
+resolutions 0 262 3
+calling 0 262 3
+for 0 262 3
+more 0 262 3
+gun 0 262 3
+control 0 262 3
+measures 0 262 3
+during 0 262 3
+the 0 262 3
+group's 0 262 3
+annual 0 262 3
+meeting 0 262 3
+in 0 262 3
+Boston 0 262 3
+this 0 262 3
+week. 0 262 3
 
-The 0
-conference 0
-is 0
-advocating 0
-measures 0
-to 0
-strengthen 0
-the 0
-regulation 0
-of 0
-gun 0
-sales 0
-and 0
-dealers, 0
-as 0
-well 0
-as 0
-ban 0
-assault 0
-weapons 0
-and 0
-large-capacity 0
-magazines. 0
+The 0 262 4
+conference 0 262 4
+is 0 262 4
+advocating 0 262 4
+measures 0 262 4
+to 0 262 4
+strengthen 0 262 4
+the 0 262 4
+regulation 0 262 4
+of 0 262 4
+gun 0 262 4
+sales 0 262 4
+and 0 262 4
+dealers, 0 262 4
+as 0 262 4
+well 0 262 4
+as 0 262 4
+ban 0 262 4
+assault 0 262 4
+weapons 0 262 4
+and 0 262 4
+large-capacity 0 262 4
+magazines. 0 262 4
 
-Story 0
-Continued 0
-Below 0
+Story 0 262 5
+Continued 0 262 5
+Below 0 262 5
 
-“The 0
-U.S. 0
-Conference 0
-has 0
-a 0
-50-year 0
-history 0
-of 0
-formally 0
-adopting 0
-and 0
-aggressively 0
-promoting 0
-strong 0
-policies 0
-to 0
-reduce 0
-gun 0
-violence, 0
-all 0
-consistent 0
-with 0
-its 0
-support 0
-for 0
-the 0
-Second 0
-Amendment 0
-to 0
-the 0
-Constitution,” 0
-the 0
-group 0
-said. 0
+“The 0 262 6
+U.S. 0 262 6
+Conference 0 262 6
+has 0 262 6
+a 0 262 6
+50-year 0 262 6
+history 0 262 6
+of 0 262 6
+formally 0 262 6
+adopting 0 262 6
+and 0 262 6
+aggressively 0 262 6
+promoting 0 262 6
+strong 0 262 6
+policies 0 262 6
+to 0 262 6
+reduce 0 262 6
+gun 0 262 6
+violence, 0 262 6
+all 0 262 6
+consistent 0 262 6
+with 0 262 6
+its 0 262 6
+support 0 262 6
+for 0 262 6
+the 0 262 6
+Second 0 262 6
+Amendment 0 262 6
+to 0 262 6
+the 0 262 6
+Constitution,” 0 262 6
+the 0 262 6
+group 0 262 6
+said. 0 262 6
 
-Additionally, 0
-the 0
-group 0
-called 0
-for 0
-steps 0
-it 0
-said 0
-would 0
-protect 0
-young 0
-people 0
-— 0
-like 0
-opposing 0
-letting 0
-teachers 0
-and 0
-other 0
-non-law 0
-enforcement 0
-personnel 0
-be 0
-armed 0
-in 0
-K-12 0
-schools 0
-— 0
-and 0
-cited 0
-incidents 0
-like 0
-February’s 0
-mass 0
-shooting 0
-at 0
-Marjory 0
-Stoneman 0
-Douglas 0
-High 0
-School 0
-in 0
-Parkland, 0
-Florida, 0
-as 0
-impetus 0
-for 0
-its 0
-push. 0
+Additionally, 0 262 7
+the 0 262 7
+group 0 262 7
+called 0 262 7
+for 0 262 7
+steps 0 262 7
+it 0 262 7
+said 0 262 7
+would 0 262 7
+protect 0 262 7
+young 0 262 7
+people 0 262 7
+— 0 262 7
+like 0 262 7
+opposing 0 262 7
+letting 0 262 7
+teachers 0 262 7
+and 0 262 7
+other 0 262 7
+non-law 0 262 7
+enforcement 0 262 7
+personnel 0 262 7
+be 0 262 7
+armed 0 262 7
+in 0 262 7
+K-12 0 262 7
+schools 0 262 7
+— 0 262 7
+and 0 262 7
+cited 0 262 7
+incidents 0 262 7
+like 0 262 7
+February’s 0 262 7
+mass 0 262 7
+shooting 0 262 7
+at 0 262 7
+Marjory 0 262 7
+Stoneman 0 262 7
+Douglas 0 262 7
+High 0 262 7
+School 0 262 7
+in 0 262 7
+Parkland, 0 262 7
+Florida, 0 262 7
+as 0 262 7
+impetus 0 262 7
+for 0 262 7
+its 0 262 7
+push. 0 262 7
 
-The 0
-most 0
-reliable 0
-politics 0
-newsletter. 0
+The 0 262 8
+most 0 262 8
+reliable 0 262 8
+politics 0 262 8
+newsletter. 0 262 8
 
-Sign 0
-up 0
-for 0
-POLITICO 0
-Playbook 0
-and 0
-get 0
-the 0
-latest 0
-news, 0
-every 0
-morning 0
-— 0
-in 0
-your 0
-inbox. 0
+Sign 0 262 9
+up 0 262 9
+for 0 262 9
+POLITICO 0 262 9
+Playbook 0 262 9
+and 0 262 9
+get 0 262 9
+the 0 262 9
+latest 0 262 9
+news, 0 262 9
+every 0 262 9
+morning 0 262 9
+— 0 262 9
+in 0 262 9
+your 0 262 9
+inbox. 0 262 9
 
-Email 0
-Sign 0
-Up 0
-By 0
-signing 0
-up 0
-you 0
-agree 0
-to 0
-receive 0
-email 0
-newsletters 0
-or 0
-alerts 0
-from 0
-POLITICO. 0
+Email 0 262 10
+Sign 0 262 10
+Up 0 262 10
+By 0 262 10
+signing 0 262 10
+up 0 262 10
+you 0 262 10
+agree 0 262 10
+to 0 262 10
+receive 0 262 10
+email 0 262 10
+newsletters 0 262 10
+or 0 262 10
+alerts 0 262 10
+from 0 262 10
+POLITICO. 0 262 10
 
-You 0
-can 0
-unsubscribe 0
-at 0
-any 0
-time. 0
+You 0 262 11
+can 0 262 11
+unsubscribe 0 262 11
+at 0 262 11
+any 0 262 11
+time. 0 262 11
 
-The 0
-group 0
-also 0
-passed 0
-a 0
-resolution 0
-backing 0
-red 1
-flag 1
-laws 1
-that 0
-allow 0
-“family 0
-members 0
-and 0
-law 0
-enforcement 0
-to 0
-seek 0
-court 0
-permission 0
-to 0
-temporarily 0
-remove 0
-guns 0
-from 0
-a 0
-person 0
-in 0
-crisis.” 0
+The 0 262 12
+group 0 262 12
+also 0 262 12
+passed 0 262 12
+a 0 262 12
+resolution 0 262 12
+backing 0 262 12
+red 1 262 12
+flag 1 262 12
+laws 1 262 12
+that 0 262 12
+allow 0 262 12
+“family 0 262 12
+members 0 262 12
+and 0 262 12
+law 0 262 12
+enforcement 0 262 12
+to 0 262 12
+seek 0 262 12
+court 0 262 12
+permission 0 262 12
+to 0 262 12
+temporarily 0 262 12
+remove 0 262 12
+guns 0 262 12
+from 0 262 12
+a 0 262 12
+person 0 262 12
+in 0 262 12
+crisis.” 0 262 12
 
-“Policies 0
-like 0
-background 0
-checks 0
-on 0
-all 0
-gun 0
-sales 0
-and 0
-Red 1
-Flag 1
-Laws 1
-save 0
-lives,” 0
-said 0
-Karen 0
-Freeman-Wilson, 0
-mayor 0
-of 0
-Gary, 0
-Indiana, 0
-and 0
-chair 0
-of 0
-the 0
-conference’s 0
-criminal 0
-and 0
-social 0
-justice 0
-committee. 0
+“Policies 0 262 13
+like 0 262 13
+background 0 262 13
+checks 0 262 13
+on 0 262 13
+all 0 262 13
+gun 0 262 13
+sales 0 262 13
+and 0 262 13
+Red 1 262 13
+Flag 1 262 13
+Laws 1 262 13
+save 0 262 13
+lives,” 0 262 13
+said 0 262 13
+Karen 0 262 13
+Freeman-Wilson, 0 262 13
+mayor 0 262 13
+of 0 262 13
+Gary, 0 262 13
+Indiana, 0 262 13
+and 0 262 13
+chair 0 262 13
+of 0 262 13
+the 0 262 13
+conference’s 0 262 13
+criminal 0 262 13
+and 0 262 13
+social 0 262 13
+justice 0 262 13
+committee. 0 262 13
 
-“The 0
-U.S. 0
-Conference 0
-of 0
-Mayors 0
-will 0
-continue 0
-doing 0
-everything 0
-in 0
-our 0
-power 0
-to 0
-keep 0
-our 1
-communities 1
-safe 0
-so 0
-that 0
-children 0
-and 0
-families 0
-are 0
-able 0
-to 0
-live 0
-free 0
-of 0
-the 0
-fear 0
-of 0
-being 0
-gunned 0
-down.” 0
+“The 0 262 14
+U.S. 0 262 14
+Conference 0 262 14
+of 0 262 14
+Mayors 0 262 14
+will 0 262 14
+continue 0 262 14
+doing 0 262 14
+everything 0 262 14
+in 0 262 14
+our 0 262 14
+power 0 262 14
+to 0 262 14
+keep 0 262 14
+our 1 262 14
+communities 1 262 14
+safe 0 262 14
+so 0 262 14
+that 0 262 14
+children 0 262 14
+and 0 262 14
+families 0 262 14
+are 0 262 14
+able 0 262 14
+to 0 262 14
+live 0 262 14
+free 0 262 14
+of 0 262 14
+the 0 262 14
+fear 0 262 14
+of 0 262 14
+being 0 262 14
+gunned 0 262 14
+down.” 0 262 14
 
-Gun 0
-control 0
-advocates 0
-including 0
-the 0
-group 0
-Everytown 0
-for 0
-Gun 0
-Safety 0
-lauded 0
-the 0
-move. 0
+Gun 0 262 15
+control 0 262 15
+advocates 0 262 15
+including 0 262 15
+the 0 262 15
+group 0 262 15
+Everytown 0 262 15
+for 0 262 15
+Gun 0 262 15
+Safety 0 262 15
+lauded 0 262 15
+the 0 262 15
+move. 0 262 15
 
-“Mayors 0
-are 0
-on 0
-the 0
-frontlines 0
-of 0
-America’s 0
-gun 0
-violence 0
-crisis, 0
-so 0
-it’s 0
-no 0
-surprise 0
-they’re 0
-also 0
-leading 0
-the 0
-charge 0
-to 0
-pass 0
-common-sense, 0
-life-saving 0
-laws,” 0
-Everytown 0
-President 0
-John 0
-Fienblatt 0
-said 0
-in 0
-a 0
-statement. 0
+“Mayors 0 262 16
+are 0 262 16
+on 0 262 16
+the 0 262 16
+frontlines 0 262 16
+of 0 262 16
+America’s 0 262 16
+gun 0 262 16
+violence 0 262 16
+crisis, 0 262 16
+so 0 262 16
+it’s 0 262 16
+no 0 262 16
+surprise 0 262 16
+they’re 0 262 16
+also 0 262 16
+leading 0 262 16
+the 0 262 16
+charge 0 262 16
+to 0 262 16
+pass 0 262 16
+common-sense, 0 262 16
+life-saving 0 262 16
+laws,” 0 262 16
+Everytown 0 262 16
+President 0 262 16
+John 0 262 16
+Fienblatt 0 262 16
+said 0 262 16
+in 0 262 16
+a 0 262 16
+statement. 0 262 16
 
-“It’s 0
-time 0
-for 0
-our 1
-leaders 1
-in 0
-Washington 0
-to 0
-follow 0
-the 0
-lead 0
-of 0
-America’s 0
-mayors 0
-and 0
-put 0
-public 0
-safety 0
-over 0
-NRA 0
-priorities.” 0
+“It’s 0 262 16
+
+time 0 262 16
+
+for 0 262 16
+
+our 1 262 16
+
+leaders 1 262 16
+
+in 0 262 16
+
+Washington 0 262 16
+
+to 0 262 16
+
+follow 0 262 16
+
+the 0 262 16
+
+lead 0 262 16
+
+of 0 262 16
+
+America’s 0 262 16
+
+mayors 0 262 16
+
+and 0 262 16
+
+put 0 262 16
+
+public 0 262 16
+
+safety 0 262 16
+
+over 0 262 16
+
+NRA 0 262 16
+
+priorities.” 0 262 16

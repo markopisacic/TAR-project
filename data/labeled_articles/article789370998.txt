@@ -1,760 +1,768 @@
-The 0
-Left’s 1
-Show 1
-Trial 1
-for 0
-Kavanaugh 0
+The 0 366 0
+Left’s 1 366 0
+Show 1 366 0
+Trial 1 366 0
+for 0 366 0
+Kavanaugh 0 366 0
 
-Two 0
-more 0
-women 0
-accusing 0
-Judge 0
-Brett 0
-Kavanaugh 0
-of 0
-dubious 0
-improprieties 0
-materialized 1
-out 1
-of 1
-thin 1
-air 1
-late 0
-Sunday, 0
-throwing 0
-Senate 0
-Republicans’ 0
-hope 0
-of 0
-finally 0
-confirming 0
-the 0
-Supreme 0
-Court 0
-nominee 0
-this 0
-week 0
-even 0
-more 0
-into 0
-doubt. 0
+Two 0 366 1
+more 0 366 1
+women 0 366 1
+accusing 0 366 1
+Judge 0 366 1
+Brett 0 366 1
+Kavanaugh 0 366 1
+of 0 366 1
+dubious 0 366 1
+improprieties 0 366 1
+materialized 1 366 1
+out 1 366 1
+of 1 366 1
+thin 1 366 1
+air 1 366 1
+late 0 366 1
+Sunday, 0 366 1
+throwing 0 366 1
+Senate 0 366 1
+Republicans’ 0 366 1
+hope 0 366 1
+of 0 366 1
+finally 0 366 1
+confirming 0 366 1
+the 0 366 1
+Supreme 0 366 1
+Court 0 366 1
+nominee 0 366 1
+this 0 366 1
+week 0 366 1
+even 0 366 1
+more 0 366 1
+into 0 366 1
+doubt. 0 366 1
 
-The 0
-new 0
-allegations 0
-came 0
-yesterday 0
-amid 0
-reports 0
-that 0
-Senate 0
-Judiciary 0
-Committee 0
-chairman 0
-Chuck 0
-Grassley 0
-(R-Iowa) 0
-tentatively 0
-scheduled 0
-a 0
-hearing 0
-for 0
-this 0
-Thursday 0
-to 0
-take 0
-testimony 0
-from 0
-Christine 0
-Blasey 0
-Ford, 0
-51, 0
-who 0
-claims 0
-Kavanaugh, 0
-53, 0
-sexually 0
-assaulted 0
-her 0
-decades 0
-ago 0
-when 0
-he 0
-was 0
-a 0
-high 0
-school 0
-student. 0
+The 0 366 2
+new 0 366 2
+allegations 0 366 2
+came 0 366 2
+yesterday 0 366 2
+amid 0 366 2
+reports 0 366 2
+that 0 366 2
+Senate 0 366 2
+Judiciary 0 366 2
+Committee 0 366 2
+chairman 0 366 2
+Chuck 0 366 2
+Grassley 0 366 2
+(R-Iowa) 0 366 2
+tentatively 0 366 2
+scheduled 0 366 2
+a 0 366 2
+hearing 0 366 2
+for 0 366 2
+this 0 366 2
+Thursday 0 366 2
+to 0 366 2
+take 0 366 2
+testimony 0 366 2
+from 0 366 2
+Christine 0 366 2
+Blasey 0 366 2
+Ford, 0 366 2
+51, 0 366 2
+who 0 366 2
+claims 0 366 2
+Kavanaugh, 0 366 2
+53, 0 366 2
+sexually 0 366 2
+assaulted 0 366 2
+her 0 366 2
+decades 0 366 2
+ago 0 366 2
+when 0 366 2
+he 0 366 2
+was 0 366 2
+a 0 366 2
+high 0 366 2
+school 0 366 2
+student. 0 366 2
 
-Suspiciously, 1
-Ford 1
-can’t 1
-–or 1
-won’t— 1
-say 1
-when 1
-or 1
-where 1
-the 1
-alleged 1
-incident 1
-happened 1
-and 1
-can 1
-provide 1
-few 1
-details. 1
+Suspiciously, 1 366 3
+Ford 1 366 3
+can’t 1 366 3
+–or 1 366 3
+won’t— 1 366 3
+say 1 366 3
+when 1 366 3
+or 1 366 3
+where 1 366 3
+the 1 366 3
+alleged 1 366 3
+incident 1 366 3
+happened 1 366 3
+and 1 366 3
+can 1 366 3
+provide 1 366 3
+few 1 366 3
+details. 1 366 3
 
-As 0
-Paul 0
-Sperry 0
-writes 0
-at 0
-the 0
-New 0
-York 0
-Post, 0
-working 0
-with 0
-Sen. 0
-Dianne 0
-Feinstein 0
-(D-Calif.) 0
-and 0
-backed 0
-financially 0
-by 0
-George 0
-Soros’s 0
-money, 0
-Ford’s 0
-lawyers 0
-spent 0
-the 0
-last 0
-few 0
-days 0
-gaming 1
-the 1
-system. 1
+As 0 366 4
+Paul 0 366 4
+Sperry 0 366 4
+writes 0 366 4
+at 0 366 4
+the 0 366 4
+New 0 366 4
+York 0 366 4
+Post, 0 366 4
+working 0 366 4
+with 0 366 4
+Sen. 0 366 4
+Dianne 0 366 4
+Feinstein 0 366 4
+(D-Calif.) 0 366 4
+and 0 366 4
+backed 0 366 4
+financially 0 366 4
+by 0 366 4
+George 0 366 4
+Soros’s 0 366 4
+money, 0 366 4
+Ford’s 0 366 4
+lawyers 0 366 4
+spent 0 366 4
+the 0 366 4
+last 0 366 4
+few 0 366 4
+days 0 366 4
+gaming 1 366 4
+the 1 366 4
+system. 1 366 4
 
-After 0
-stalling 0
-Grassley 0
-and 0
-getting 0
-repeated 0
-extensions, 0
-the 0
-attorneys 0
-got 0
-the 0
-chairman 0
-to 0
-cave 0
-on 0
-various 0
-demands, 0
-such 0
-as 0
-that 0
-Kavanaugh 0
-not 0
-be 0
-in 0
-the 0
-room 0
-when 0
-Ford 0
-gives 0
-evidence. 0
+After 0 366 5
+stalling 0 366 5
+Grassley 0 366 5
+and 0 366 5
+getting 0 366 5
+repeated 0 366 5
+extensions, 0 366 5
+the 0 366 5
+attorneys 0 366 5
+got 0 366 5
+the 0 366 5
+chairman 0 366 5
+to 0 366 5
+cave 0 366 5
+on 0 366 5
+various 0 366 5
+demands, 0 366 5
+such 0 366 5
+as 0 366 5
+that 0 366 5
+Kavanaugh 0 366 5
+not 0 366 5
+be 0 366 5
+in 0 366 5
+the 0 366 5
+room 0 366 5
+when 0 366 5
+Ford 0 366 5
+gives 0 366 5
+evidence. 0 366 5
 
-Republicans 0
-never 0
-seem 0
-to 0
-learn 0
-from 0
-their 0
-mistakes. 0
+Republicans 0 366 6
+never 0 366 6
+seem 0 366 6
+to 0 366 6
+learn 0 366 6
+from 0 366 6
+their 0 366 6
+mistakes. 0 366 6
 
-As 0
-usual, 0
-Republicans’ 0
-seeming 0
-reasonableness 0
-is 0
-rewarded 0
-with 0
-more 0
-abuse 0
-by 0
-the 0
-Left. 0
+As 0 366 7
+usual, 0 366 7
+Republicans’ 0 366 7
+seeming 0 366 7
+reasonableness 0 366 7
+is 0 366 7
+rewarded 0 366 7
+with 0 366 7
+more 0 366 7
+abuse 0 366 7
+by 0 366 7
+the 0 366 7
+Left. 0 366 7
 
-Give 1
-left-wingers 1
-an 1
-inch 1
-and 1
-they’ll 1
-take 1
-a 1
-mile. 1
+Give 1 366 8
+left-wingers 1 366 8
+an 1 366 8
+inch 1 366 8
+and 1 366 8
+they’ll 1 366 8
+take 1 366 8
+a 1 366 8
+mile. 1 366 8
 
-Democrats, 0
-it 0
-turns 0
-out, 0
-used 0
-the 0
-extra 0
-time 0
-created 0
-through 0
-their 0
-delaying 0
-tactics 0
-to 0
-produce 0
-two 0
-new 0
-women 0
-with 0
-questionable 0
-claims 0
-against 0
-Kavanaugh. 0
+Democrats, 0 366 9
+it 0 366 9
+turns 0 366 9
+out, 0 366 9
+used 0 366 9
+the 0 366 9
+extra 0 366 9
+time 0 366 9
+created 0 366 9
+through 0 366 9
+their 0 366 9
+delaying 0 366 9
+tactics 0 366 9
+to 0 366 9
+produce 0 366 9
+two 0 366 9
+new 0 366 9
+women 0 366 9
+with 0 366 9
+questionable 0 366 9
+claims 0 366 9
+against 0 366 9
+Kavanaugh. 0 366 9
 
-More 0
-accusers 0
-could 0
-be 0
-on 0
-their 0
-way. 0
+More 0 366 10
+accusers 0 366 10
+could 0 366 10
+be 0 366 10
+on 0 366 10
+their 0 366 10
+way. 0 366 10
 
-President 0
-Trump 0
-continues 0
-to 0
-support 0
-Kavanaugh, 0
-who 0
-maintains 0
-his 0
-innocence. 0
+President 0 366 11
+Trump 0 366 11
+continues 0 366 11
+to 0 366 11
+support 0 366 11
+Kavanaugh, 0 366 11
+who 0 366 11
+maintains 0 366 11
+his 0 366 11
+innocence. 0 366 11
 
-“This 0
-alleged 0
-event 0
-from 0
-35 0
-years 0
-ago 0
-did 0
-not 0
-happen,” 0
-the 0
-nominee 0
-said 0
-Sunday 0
-of 0
-Ford’s 0
-accusations. 0
+“This 0 366 12
+alleged 0 366 12
+event 0 366 12
+from 0 366 12
+35 0 366 12
+years 0 366 12
+ago 0 366 12
+did 0 366 12
+not 0 366 12
+happen,” 0 366 12
+the 0 366 12
+nominee 0 366 12
+said 0 366 12
+Sunday 0 366 12
+of 0 366 12
+Ford’s 0 366 12
+accusations. 0 366 12
 
-“The 0
-people 0
-who 0
-knew 0
-me 0
-then 0
-know 0
-that 0
-this 0
-did 0
-not 0
-happen, 0
-and 0
-have 0
-said 0
-so. 0
+“The 0 366 13
+people 0 366 13
+who 0 366 13
+knew 0 366 13
+me 0 366 13
+then 0 366 13
+know 0 366 13
+that 0 366 13
+this 0 366 13
+did 0 366 13
+not 0 366 13
+happen, 0 366 13
+and 0 366 13
+have 0 366 13
+said 0 366 13
+so. 0 366 13
 
-This 0
-is 0
-a 0
-smear, 1
-plain 0
-and 0
-simple. 0
+This 0 366 14
+is 0 366 14
+a 0 366 14
+smear, 1 366 14
+plain 0 366 14
+and 0 366 14
+simple. 0 366 14
 
-I 0
-look 0
-forward 0
-to 0
-testifying 0
-on 0
-Thursday 0
-about 0
-the 0
-truth, 0
-and 0
-defending 0
-my 0
-good 0
-name 0
-— 0
-and 0
-the 0
-reputation 0
-for 0
-character 0
-and 0
-integrity 0
-I 0
-have 0
-spent 0
-a 0
-lifetime 0
-building 0
-— 0
-against 0
-these 0
-last-minute 0
-allegations.” 0
+I 0 366 15
+look 0 366 15
+forward 0 366 15
+to 0 366 15
+testifying 0 366 15
+on 0 366 15
+Thursday 0 366 15
+about 0 366 15
+the 0 366 15
+truth, 0 366 15
+and 0 366 15
+defending 0 366 15
+my 0 366 15
+good 0 366 15
+name 0 366 15
+— 0 366 15
+and 0 366 15
+the 0 366 15
+reputation 0 366 15
+for 0 366 15
+character 0 366 15
+and 0 366 15
+integrity 0 366 15
+I 0 366 15
+have 0 366 15
+spent 0 366 15
+a 0 366 15
+lifetime 0 366 15
+building 0 366 15
+— 0 366 15
+against 0 366 15
+these 0 366 15
+last-minute 0 366 15
+allegations.” 0 366 15
 
-If 0
-Kavanaugh 0
-isn’t 0
-on 0
-the 0
-bench 0
-on 0
-October 0
-1, 0
-the 0
-Supreme 0
-Court 0
-will 0
-be 0
-shorthanded 0
-as 0
-it 0
-begins 0
-hearing 0
-cases 0
-in 0
-its 0
-new 0
-term. 0
+If 0 366 16
+Kavanaugh 0 366 16
+isn’t 0 366 16
+on 0 366 16
+the 0 366 16
+bench 0 366 16
+on 0 366 16
+October 0 366 16
+1, 0 366 16
+the 0 366 16
+Supreme 0 366 16
+Court 0 366 16
+will 0 366 16
+be 0 366 16
+shorthanded 0 366 16
+as 0 366 16
+it 0 366 16
+begins 0 366 16
+hearing 0 366 16
+cases 0 366 16
+in 0 366 16
+its 0 366 16
+new 0 366 16
+term. 0 366 16
 
-The 0
-high 0
-court 0
-normally 0
-has 0
-a 0
-complement 0
-of 0
-nine 0
-justices 0
-but 0
-with 0
-Associate 0
-Justice 0
-Anthony 0
-Kennedy’s 0
-retirement 0
-July 0
-31, 0
-which 0
-cleared 0
-the 0
-way 0
-for 0
-Kavanaugh’s 0
-nomination, 0
-there 0
-have 0
-only 0
-been 0
-only 0
-eight 0
-justices 0
-in 0
-place. 0
+The 0 366 17
+high 0 366 17
+court 0 366 17
+normally 0 366 17
+has 0 366 17
+a 0 366 17
+complement 0 366 17
+of 0 366 17
+nine 0 366 17
+justices 0 366 17
+but 0 366 17
+with 0 366 17
+Associate 0 366 17
+Justice 0 366 17
+Anthony 0 366 17
+Kennedy’s 0 366 17
+retirement 0 366 17
+July 0 366 17
+31, 0 366 17
+which 0 366 17
+cleared 0 366 17
+the 0 366 17
+way 0 366 17
+for 0 366 17
+Kavanaugh’s 0 366 17
+nomination, 0 366 17
+there 0 366 17
+have 0 366 17
+only 0 366 17
+been 0 366 17
+only 0 366 17
+eight 0 366 17
+justices 0 366 17
+in 0 366 17
+place. 0 366 17
 
-Roughly 0
-speaking 0
-there 0
-is 0
-a 0
-4-to-4 0
-liberal 0
-to 0
-conservative 0
-ideological 0
-split 0
-on 0
-the 0
-court. 0
+Roughly 0 366 18
+speaking 0 366 18
+there 0 366 18
+is 0 366 18
+a 0 366 18
+4-to-4 0 366 18
+liberal 0 366 18
+to 0 366 18
+conservative 0 366 18
+ideological 0 366 18
+split 0 366 18
+on 0 366 18
+the 0 366 18
+court. 0 366 18
 
-Democrats 0
-would 0
-prefer 0
-to 0
-drag 0
-the 0
-confirmation 0
-process 0
-into 0
-the 0
-next 0
-Congress 0
-where 0
-they 0
-stand 0
-a 0
-good 0
-chance 0
-of 0
-taking 0
-control 0
-from 0
-Republicans. 0
+Democrats 0 366 19
+would 0 366 19
+prefer 0 366 19
+to 0 366 19
+drag 0 366 19
+the 0 366 19
+confirmation 0 366 19
+process 0 366 19
+into 0 366 19
+the 0 366 19
+next 0 366 19
+Congress 0 366 19
+where 0 366 19
+they 0 366 19
+stand 0 366 19
+a 0 366 19
+good 0 366 19
+chance 0 366 19
+of 0 366 19
+taking 0 366 19
+control 0 366 19
+from 0 366 19
+Republicans. 0 366 19
 
-Election 0
-Day 0
-is 0
-November 0
-6. 0
+Election 0 366 20
+Day 0 366 20
+is 0 366 20
+November 0 366 20
+6. 0 366 20
 
-The 0
-GOP 0
-currently 0
-controls 0
-the 0
-Senate, 0
-which 0
-has 0
-the 0
-final 0
-say 0
-on 0
-judicial 0
-nominations, 0
-by 0
-an 0
-uncomfortably 0
-close 0
-margin 0
-of 0
-51 0
-to 0
-49. 0
+The 0 366 21
+GOP 0 366 21
+currently 0 366 21
+controls 0 366 21
+the 0 366 21
+Senate, 0 366 21
+which 0 366 21
+has 0 366 21
+the 0 366 21
+final 0 366 21
+say 0 366 21
+on 0 366 21
+judicial 0 366 21
+nominations, 0 366 21
+by 0 366 21
+an 0 366 21
+uncomfortably 0 366 21
+close 0 366 21
+margin 0 366 21
+of 0 366 21
+51 0 366 21
+to 0 366 21
+49. 0 366 21
 
-Meanwhile, 0
-the 0
-New 0
-Yorker 0
-magazine 0
-reported 0
-Sunday 0
-that 0
-Deborah 0
-Ramirez, 0
-53, 0
-suddenly 0
-claims 0
-to 0
-have 0
-been 0
-assaulted 0
-by 0
-Kavanaugh 0
-at 0
-a 0
-drunken 0
-party 0
-decades 0
-ago 0
-at 0
-Yale 0
-College. 0
+Meanwhile, 0 366 22
+the 0 366 22
+New 0 366 22
+Yorker 0 366 22
+magazine 0 366 22
+reported 0 366 22
+Sunday 0 366 22
+that 0 366 22
+Deborah 0 366 22
+Ramirez, 0 366 22
+53, 0 366 22
+suddenly 0 366 22
+claims 0 366 22
+to 0 366 22
+have 0 366 22
+been 0 366 22
+assaulted 0 366 22
+by 0 366 22
+Kavanaugh 0 366 22
+at 0 366 22
+a 0 366 22
+drunken 0 366 22
+party 0 366 22
+decades 0 366 22
+ago 0 366 22
+at 0 366 22
+Yale 0 366 22
+College. 0 366 22
 
-Ramirez 0
-claims 0
-Kavanaugh 0
-exposed 0
-himself 0
-to 0
-her 0
-and 0
-brushed 0
-his 0
-genitals 0
-against 0
-her. 0
+Ramirez 0 366 23
+claims 0 366 23
+Kavanaugh 0 366 23
+exposed 0 366 23
+himself 0 366 23
+to 0 366 23
+her 0 366 23
+and 0 366 23
+brushed 0 366 23
+his 0 366 23
+genitals 0 366 23
+against 0 366 23
+her. 0 366 23
 
-Also 0
-on 0
-Sunday, 0
-media-savvy 1
-sleazeball 1
-lawyer 1
-Michael 0
-Avenatti, 0
-who 0
-represents 0
-porn 0
-star 0
-Stormy 0
-Daniels, 0
-tweeted 0
-that 0
-he 0
-represents 0
-another 0
-woman 0
-who 0
-plans 0
-to 0
-accuse 0
-Kavanaugh 0
-of 0
-something. 0
+Also 0 366 24
+on 0 366 24
+Sunday, 0 366 24
+media-savvy 1 366 24
+sleazeball 1 366 24
+lawyer 1 366 24
+Michael 0 366 24
+Avenatti, 0 366 24
+who 0 366 24
+represents 0 366 24
+porn 0 366 24
+star 0 366 24
+Stormy 0 366 24
+Daniels, 0 366 24
+tweeted 0 366 24
+that 0 366 24
+he 0 366 24
+represents 0 366 24
+another 0 366 24
+woman 0 366 24
+who 0 366 24
+plans 0 366 24
+to 0 366 24
+accuse 0 366 24
+Kavanaugh 0 366 24
+of 0 366 24
+something. 0 366 24
 
-“I 0
-represent 0
-a 0
-woman 0
-with 0
-credible 0
-information 0
-regarding 0
-Judge 0
-Kavanaugh 0
-and 0
-Mark 0
-Judge. 0
+“I 0 366 25
+represent 0 366 25
+a 0 366 25
+woman 0 366 25
+with 0 366 25
+credible 0 366 25
+information 0 366 25
+regarding 0 366 25
+Judge 0 366 25
+Kavanaugh 0 366 25
+and 0 366 25
+Mark 0 366 25
+Judge. 0 366 25
 
-We 0
-will 0
-be 0
-demanding 0
-the 0
-opportunity 0
-to 0
-present 0
-testimony 0
-to 0
-the 0
-committee 0
-and 0
-will 0
-likewise 0
-be 0
-demanding 0
-that 0
-Judge 0
-and 0
-others 0
-be 0
-subpoenaed 0
-to 0
-testify,” 0
-Avenatti 0
-wrote 0
-on 0
-Twitter. 0
+We 0 366 26
+will 0 366 26
+be 0 366 26
+demanding 0 366 26
+the 0 366 26
+opportunity 0 366 26
+to 0 366 26
+present 0 366 26
+testimony 0 366 26
+to 0 366 26
+the 0 366 26
+committee 0 366 26
+and 0 366 26
+will 0 366 26
+likewise 0 366 26
+be 0 366 26
+demanding 0 366 26
+that 0 366 26
+Judge 0 366 26
+and 0 366 26
+others 0 366 26
+be 0 366 26
+subpoenaed 0 366 26
+to 0 366 26
+testify,” 0 366 26
+Avenatti 0 366 26
+wrote 0 366 26
+on 0 366 26
+Twitter. 0 366 26
 
-“My 0
-client 0
-is 0
-not 0
-Deborah 0
-Ramirez.” 0
+“My 0 366 27
+client 0 366 27
+is 0 366 27
+not 0 366 27
+Deborah 0 366 27
+Ramirez.” 0 366 27
 
-Washington 0
-insiders 0
-still 0
-believe 0
-Kavanaugh 0
-will 0
-be 0
-confirmed, 0
-or 0
-at 0
-least 0
-they 0
-did 0
-before 0
-the 0
-two 0
-new 0
-accusers 0
-popped 0
-up. 0
+Washington 0 366 28
+insiders 0 366 28
+still 0 366 28
+believe 0 366 28
+Kavanaugh 0 366 28
+will 0 366 28
+be 0 366 28
+confirmed, 0 366 28
+or 0 366 28
+at 0 366 28
+least 0 366 28
+they 0 366 28
+did 0 366 28
+before 0 366 28
+the 0 366 28
+two 0 366 28
+new 0 366 28
+accusers 0 366 28
+popped 0 366 28
+up. 0 366 28
 
-For 0
-example, 0
-at 0
-a 0
-Friday 0
-afternoon 0
-preview 0
-of 0
-upcoming 0
-cases 0
-in 0
-the 0
-Supreme 0
-Court’s 0
-approaching 0
-October 0
-term 0
-that 0
-was 0
-hosted 0
-by 0
-the 0
-Federalist 0
-Society, 0
-panelist 0
-Thomas 0
-C. 0
-Goldstein 0
-of 0
-the 0
-law 0
-firm 0
-of 0
-Goldstein 0
-& 0
-Russell 0
-predicted 0
-that 0
-the 0
-high 0
-court 0
-would 0
-have 0
-nine 0
-members 0
-again 0
-soon. 0
+For 0 366 29
+example, 0 366 29
+at 0 366 29
+a 0 366 29
+Friday 0 366 29
+afternoon 0 366 29
+preview 0 366 29
+of 0 366 29
+upcoming 0 366 29
+cases 0 366 29
+in 0 366 29
+the 0 366 29
+Supreme 0 366 29
+Court’s 0 366 29
+approaching 0 366 29
+October 0 366 29
+term 0 366 29
+that 0 366 29
+was 0 366 29
+hosted 0 366 29
+by 0 366 29
+the 0 366 29
+Federalist 0 366 29
+Society, 0 366 29
+panelist 0 366 29
+Thomas 0 366 29
+C. 0 366 29
+Goldstein 0 366 29
+of 0 366 29
+the 0 366 29
+law 0 366 29
+firm 0 366 29
+of 0 366 29
+Goldstein 0 366 29
+& 0 366 29
+Russell 0 366 29
+predicted 0 366 29
+that 0 366 29
+the 0 366 29
+high 0 366 29
+court 0 366 29
+would 0 366 29
+have 0 366 29
+nine 0 366 29
+members 0 366 29
+again 0 366 29
+soon. 0 366 29
 
-“There 0
-is 0
-exactly 1
-a 1
-zero 1
-percent 1
-chance 1
-that 0
-[Senate 0
-Majority 0
-Leader] 0
-Mitch 0
-McConnell 0
-and 0
-Chuck 0
-Grassley 0
-will 0
-allow 0
-this 0
-thing 0
-to 0
-get 0
-past 0
-the 1
-lame-duck” 1
-congressional 0
-session 0
-after 0
-Election 0
-Day, 0
-said 0
-the 0
-co-founder 0
-of 0
-SCOTUSblog 0
-who 0
-has 0
-appeared 0
-before 0
-the 0
-Supreme 0
-Court 0
-many 0
-times. 0
+“There 0 366 30
+is 0 366 30
+exactly 1 366 30
+a 1 366 30
+zero 1 366 30
+percent 1 366 30
+chance 1 366 30
+that 0 366 30
+[Senate 0 366 30
+Majority 0 366 30
+Leader] 0 366 30
+Mitch 0 366 30
+McConnell 0 366 30
+and 0 366 30
+Chuck 0 366 30
+Grassley 0 366 30
+will 0 366 30
+allow 0 366 30
+this 0 366 30
+thing 0 366 30
+to 0 366 30
+get 0 366 30
+past 0 366 30
+the 1 366 30
+lame-duck” 1 366 30
+congressional 0 366 30
+session 0 366 30
+after 0 366 30
+Election 0 366 30
+Day, 0 366 30
+said 0 366 30
+the 0 366 30
+co-founder 0 366 30
+of 0 366 30
+SCOTUSblog 0 366 30
+who 0 366 30
+has 0 366 30
+appeared 0 366 30
+before 0 366 30
+the 0 366 30
+Supreme 0 366 30
+Court 0 366 30
+many 0 366 30
+times. 0 366 30
 
-“I 0
-think 0
-we 0
-ought 0
-to 0
-recognize 0
-that. 0
+“I 0 366 31
+think 0 366 31
+we 0 366 31
+ought 0 366 31
+to 0 366 31
+recognize 0 366 31
+that. 0 366 31
 
-The 0
-prospect 0
-that 0
-the 0
-Democrats 0
-will 0
-take 0
-the 0
-Senate, 0
-albeit 0
-thin, 0
-is 0
-realistic, 0
-and 0
-so 0
-they 0
-will 0
-do 0
-whatever 0
-is 0
-necessary 0
-in 0
-order 0
-to 0
-make 0
-sure 0
-that 0
-there 0
-is 0
-a 0
-ninth 0
-member 0
-of 0
-the 0
-court 0
-there 0
-by 0
-the 0
-time 0
-a 0
-Democratic 0
-majority 0
-could 0
-take 0
-over 0
-in 0
-the 0
-Senate 0
-in 0
-January.” 0
+The 0 366 32
+prospect 0 366 32
+that 0 366 32
+the 0 366 32
+Democrats 0 366 32
+will 0 366 32
+take 0 366 32
+the 0 366 32
+Senate, 0 366 32
+albeit 0 366 32
+thin, 0 366 32
+is 0 366 32
+realistic, 0 366 32
+and 0 366 32
+so 0 366 32
+they 0 366 32
+will 0 366 32
+do 0 366 32
+whatever 0 366 32
+is 0 366 32
+necessary 0 366 32
+in 0 366 32
+order 0 366 32
+to 0 366 32
+make 0 366 32
+sure 0 366 32
+that 0 366 32
+there 0 366 32
+is 0 366 32
+a 0 366 32
+ninth 0 366 32
+member 0 366 32
+of 0 366 32
+the 0 366 32
+court 0 366 32
+there 0 366 32
+by 0 366 32
+the 0 366 32
+time 0 366 32
+a 0 366 32
+Democratic 0 366 32
+majority 0 366 32
+could 0 366 32
+take 0 366 32
+over 0 366 32
+in 0 366 32
+the 0 366 32
+Senate 0 366 32
+in 0 366 32
+January.” 0 366 32
 
-We’ll 0
-see 0
-soon 0
-enough 0
-if 0
-Goldstein’s 0
-prediction 0
-comes 0
-true. 0
+We’ll 0 366 32
+
+see 0 366 32
+
+soon 0 366 32
+
+enough 0 366 32
+
+if 0 366 32
+
+Goldstein’s 0 366 32
+
+prediction 0 366 32
+
+comes 0 366 32
+
+true. 0 366 32

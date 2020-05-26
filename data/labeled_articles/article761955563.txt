@@ -1,804 +1,807 @@
-More 0
-UK 0
-Sharia: 0
-Firefighter 0
-Suspended 0
-For 0
-Supporting 0
-Tommy 0
-Robinson 0
+More 0 246 0
+UK 0 246 0
+Sharia: 0 246 0
+Firefighter 0 246 0
+Suspended 0 246 0
+For 0 246 0
+Supporting 0 246 0
+Tommy 0 246 0
+Robinson 0 246 0
 
-No 1
-one 1
-can 1
-say 1
-this 1
-is 1
-not 1
-what 1
-this 1
-is. 1
+No 1 246 1
+one 1 246 1
+can 1 246 1
+say 1 246 1
+this 1 246 1
+is 1 246 1
+not 1 246 1
+what 1 246 1
+this 1 246 1
+is. 1 246 1
 
-The 0
-Sharia 0
-is 0
-being 0
-implemented 0
-in 0
-the 0
-United 0
-Kingdom 0
-and 0
-the 0
-Muslims 1
-are 1
-ready 1
-to 1
-seek 1
-total 1
-control. 1
+The 0 246 2
+Sharia 0 246 2
+is 0 246 2
+being 0 246 2
+implemented 0 246 2
+in 0 246 2
+the 0 246 2
+United 0 246 2
+Kingdom 0 246 2
+and 0 246 2
+the 0 246 2
+Muslims 1 246 2
+are 1 246 2
+ready 1 246 2
+to 1 246 2
+seek 1 246 2
+total 1 246 2
+control. 1 246 2
 
-The 0
-latest 0
-evidence 0
-of 0
-that 0
-fact 1
-is 0
-the 0
-suspension 0
-of 0
-a 0
-firefighter 0
-who 0
-simply 1
-voiced 0
-his 0
-support 0
-for 0
-the 0
-English 0
-Defence 0
-League's 0
-founder, 0
-Tommy 0
-Robinson. 0
+The 0 246 3
+latest 0 246 3
+evidence 0 246 3
+of 0 246 3
+that 0 246 3
+fact 1 246 3
+is 0 246 3
+the 0 246 3
+suspension 0 246 3
+of 0 246 3
+a 0 246 3
+firefighter 0 246 3
+who 0 246 3
+simply 1 246 3
+voiced 0 246 3
+his 0 246 3
+support 0 246 3
+for 0 246 3
+the 0 246 3
+English 0 246 3
+Defence 0 246 3
+League's 0 246 3
+founder, 0 246 3
+Tommy 0 246 3
+Robinson. 0 246 3
 
-A 0
-firefighter 0
-with 0
-Nottinghamshire 0
-Fire 0
-and 0
-Rescue 0
-Service 0
-took 0
-to 0
-Facebook 0
-to 0
-state 0
-that 0
-he 0
-had 0
-been 0
-suspended 0
-from 0
-his 0
-job 0
-over 0
-giving 0
-support 0
-to 0
-Stephen 0
-Yaxley-Lennon, 0
-aka 0
-Tommy 0
-Robinson. 0
+A 0 246 4
+firefighter 0 246 4
+with 0 246 4
+Nottinghamshire 0 246 4
+Fire 0 246 4
+and 0 246 4
+Rescue 0 246 4
+Service 0 246 4
+took 0 246 4
+to 0 246 4
+Facebook 0 246 4
+to 0 246 4
+state 0 246 4
+that 0 246 4
+he 0 246 4
+had 0 246 4
+been 0 246 4
+suspended 0 246 4
+from 0 246 4
+his 0 246 4
+job 0 246 4
+over 0 246 4
+giving 0 246 4
+support 0 246 4
+to 0 246 4
+Stephen 0 246 4
+Yaxley-Lennon, 0 246 4
+aka 0 246 4
+Tommy 0 246 4
+Robinson. 0 246 4
 
-The 0
-Daily 0
-Star 0
-reports: 0
+The 0 246 5
+Daily 0 246 5
+Star 0 246 5
+reports: 0 246 5
 
-take 0
-our 0
-poll 0
-- 0
-story 0
-continues 0
-below 0
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+take 0 246 6
+our 0 246 6
+poll 0 246 6
+- 0 246 6
+story 0 246 6
+continues 0 246 6
+below 0 246 6
+Whom 0 246 6
+do 0 246 6
+you 0 246 6
+consider 0 246 6
+to 0 246 6
+be 0 246 6
+the 0 246 6
+most 0 246 6
+corrupt 0 246 6
+Democrat 0 246 6
+Politician? 0 246 6
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 246 7
+do 0 246 7
+you 0 246 7
+consider 0 246 7
+to 0 246 7
+be 0 246 7
+the 0 246 7
+most 0 246 7
+corrupt 0 246 7
+Democrat 0 246 7
+Politician? 0 246 7
 
-Whom 0
-do 0
-you 0
-consider 0
-to 0
-be 0
-the 0
-most 0
-corrupt 0
-Democrat 0
-Politician? 0
+Whom 0 246 8
+do 0 246 8
+you 0 246 8
+consider 0 246 8
+to 0 246 8
+be 0 246 8
+the 0 246 8
+most 0 246 8
+corrupt 0 246 8
+Democrat 0 246 8
+Politician? 0 246 8
 
-* 0
-Dianne 0
-Feinstein 0
-Maxine 0
-Waters 0
-Adam 0
-Schiff 0
-Chuck 0
-Schumer 0
-Kamala 0
-Harris 0
-Kirsten 0
-Gillibrand 0
-Keith 0
-Ellison 0
-Cory 0
-Booker 0
+* 0 246 9
+Dianne 0 246 9
+Feinstein 0 246 9
+Maxine 0 246 9
+Waters 0 246 9
+Adam 0 246 9
+Schiff 0 246 9
+Chuck 0 246 9
+Schumer 0 246 9
+Kamala 0 246 9
+Harris 0 246 9
+Kirsten 0 246 9
+Gillibrand 0 246 9
+Keith 0 246 9
+Ellison 0 246 9
+Cory 0 246 9
+Booker 0 246 9
 
-Email 0
-* 0
+Email 0 246 10
+* 0 246 10
 
-Phone 0
-This 0
-field 0
-is 0
-for 0
-validation 0
-purposes 0
-and 0
-should 0
-be 0
-left 0
-unchanged. 0
+Phone 0 246 11
+This 0 246 11
+field 0 246 11
+is 0 246 11
+for 0 246 11
+validation 0 246 11
+purposes 0 246 11
+and 0 246 11
+should 0 246 11
+be 0 246 11
+left 0 246 11
+unchanged. 0 246 11
 
-Completing 0
-this 0
-poll 0
-grants 0
-you 0
-access 0
-to 0
-Freedom 0
-Outpost 0
-updates 0
-free 0
-of 0
-charge. 0
+Completing 0 246 12
+this 0 246 12
+poll 0 246 12
+grants 0 246 12
+you 0 246 12
+access 0 246 12
+to 0 246 12
+Freedom 0 246 12
+Outpost 0 246 12
+updates 0 246 12
+free 0 246 12
+of 0 246 12
+charge. 0 246 12
 
-You 0
-may 0
-opt 0
-out 0
-at 0
-anytime. 0
+You 0 246 13
+may 0 246 13
+opt 0 246 13
+out 0 246 13
+at 0 246 13
+anytime. 0 246 13
 
-You 0
-also 0
-agree 0
-to 0
-this 0
-site's 0
-Privacy 0
-Policy 0
-and 0
-Terms 0
-of 0
-Use. 0
+You 0 246 14
+also 0 246 14
+agree 0 246 14
+to 0 246 14
+this 0 246 14
+site's 0 246 14
+Privacy 0 246 14
+Policy 0 246 14
+and 0 246 14
+Terms 0 246 14
+of 0 246 14
+Use. 0 246 14
 
-Now, 0
-a 0
-firefighter 0
-has 0
-taken 0
-to 0
-his 0
-social 0
-media 0
-account 0
-“Jono 0
-Booth” 0
-and 0
-claims 0
-to 0
-have 0
-been 0
-suspended 0
-after 0
-supporting 0
-Robinson 0
-on 0
-Facebook. 0
+Now, 0 246 15
+a 0 246 15
+firefighter 0 246 15
+has 0 246 15
+taken 0 246 15
+to 0 246 15
+his 0 246 15
+social 0 246 15
+media 0 246 15
+account 0 246 15
+“Jono 0 246 15
+Booth” 0 246 15
+and 0 246 15
+claims 0 246 15
+to 0 246 15
+have 0 246 15
+been 0 246 15
+suspended 0 246 15
+after 0 246 15
+supporting 0 246 15
+Robinson 0 246 15
+on 0 246 15
+Facebook. 0 246 15
 
-The 0
-open 0
-account 0
-account 0
-messaged 0
-publicly 0
-in 0
-support 0
-of 0
-jailed 0
-Robinson. 0
+The 0 246 16
+open 0 246 16
+account 0 246 16
+account 0 246 16
+messaged 0 246 16
+publicly 0 246 16
+in 0 246 16
+support 0 246 16
+of 0 246 16
+jailed 0 246 16
+Robinson. 0 246 16
 
-After 0
-a 0
-number 0
-of 0
-messages, 0
-the 0
-account 0
-claimed 0
-the 0
-firefighter 0
-was 0
-leaving 0
-Nottinghamshire 0
-Fire 0
-and 0
-Rescue 0
-Service 0
-after 0
-being 0
-suspended 0
-over 0
-his 0
-conduct 0
-on 0
-Facebook. 0
+After 0 246 17
+a 0 246 17
+number 0 246 17
+of 0 246 17
+messages, 0 246 17
+the 0 246 17
+account 0 246 17
+claimed 0 246 17
+the 0 246 17
+firefighter 0 246 17
+was 0 246 17
+leaving 0 246 17
+Nottinghamshire 0 246 17
+Fire 0 246 17
+and 0 246 17
+Rescue 0 246 17
+Service 0 246 17
+after 0 246 17
+being 0 246 17
+suspended 0 246 17
+over 0 246 17
+his 0 246 17
+conduct 0 246 17
+on 0 246 17
+Facebook. 0 246 17
 
-The 0
-post 0
-read: 0
-“Well 0
-after 0
-22 0
-years 0
-in 0
-the 0
-fire 0
-service 0
-as 0
-a 0
-firefighter 0
-for 0
-Nottinghamshire, 0
-yesterday 0
-I 0
-had 0
-a 0
-phone 0
-call 0
-from 0
-the 0
-fire 0
-service 0
-saying 0
-that 0
-I’ve 0
-been 0
-suspended 0
-from 0
-duty 0
-with 0
-immediate 0
-effect 0
-and 0
-I 0
-had 0
-to 0
-hand 0
-in 0
-my 0
-on 0
-call 0
-alerter 0
-and 0
-photo 0
-I.D 0
-card. 0
+The 0 246 18
+post 0 246 18
+read: 0 246 18
+“Well 0 246 18
+after 0 246 18
+22 0 246 18
+years 0 246 18
+in 0 246 18
+the 0 246 18
+fire 0 246 18
+service 0 246 18
+as 0 246 18
+a 0 246 18
+firefighter 0 246 18
+for 0 246 18
+Nottinghamshire, 0 246 18
+yesterday 0 246 18
+I 0 246 18
+had 0 246 18
+a 0 246 18
+phone 0 246 18
+call 0 246 18
+from 0 246 18
+the 0 246 18
+fire 0 246 18
+service 0 246 18
+saying 0 246 18
+that 0 246 18
+I’ve 0 246 18
+been 0 246 18
+suspended 0 246 18
+from 0 246 18
+duty 0 246 18
+with 0 246 18
+immediate 0 246 18
+effect 0 246 18
+and 0 246 18
+I 0 246 18
+had 0 246 18
+to 0 246 18
+hand 0 246 18
+in 0 246 18
+my 0 246 18
+on 0 246 18
+call 0 246 18
+alerter 0 246 18
+and 0 246 18
+photo 0 246 18
+I.D 0 246 18
+card. 0 246 18
 
-“On 0
-asking 0
-for 0
-what 0
-reason 0
-this 0
-was 0
-happening 0
-I 0
-was 0
-told 0
-I 0
-was 0
-going 0
-to 0
-be 0
-investigated 0
-on 0
-some 0
-of 0
-the 0
-content 0
-I 0
-had 0
-recently 0
-put 0
-on 0
-Facebook.” 0
-He 0
-added: 0
-“Since 0
-yesterday 0
-morning’s 0
-phone 0
-call 0
-from 0
-them 0
-I 0
-have 0
-since 0
-handed 0
-my 0
-notice 0
-in 0
-at 0
-the 0
-fire 0
-service. 0
+“On 0 246 19
+asking 0 246 19
+for 0 246 19
+what 0 246 19
+reason 0 246 19
+this 0 246 19
+was 0 246 19
+happening 0 246 19
+I 0 246 19
+was 0 246 19
+told 0 246 19
+I 0 246 19
+was 0 246 19
+going 0 246 19
+to 0 246 19
+be 0 246 19
+investigated 0 246 19
+on 0 246 19
+some 0 246 19
+of 0 246 19
+the 0 246 19
+content 0 246 19
+I 0 246 19
+had 0 246 19
+recently 0 246 19
+put 0 246 19
+on 0 246 19
+Facebook.” 0 246 19
+He 0 246 19
+added: 0 246 19
+“Since 0 246 19
+yesterday 0 246 19
+morning’s 0 246 19
+phone 0 246 19
+call 0 246 19
+from 0 246 19
+them 0 246 19
+I 0 246 19
+have 0 246 19
+since 0 246 19
+handed 0 246 19
+my 0 246 19
+notice 0 246 19
+in 0 246 19
+at 0 246 19
+the 0 246 19
+fire 0 246 19
+service. 0 246 19
 
-“Firefighter 0
-Booth 0
-signing 0
-off.”… 0
+“Firefighter 0 246 20
+Booth 0 246 20
+signing 0 246 20
+off.”… 0 246 20
 
-Robinson 0
-was 0
-arrested, 0
-tried, 0
-and 0
-sentenced 0
-to 0
-13 0
-months 0
-within 1
-an 1
-hour 1
-for 0
-simply 1
-reporting 0
-outside 0
-a 0
-criminal 0
-trial 0
-involving 0
-a 0
-Muslim 0
-rape 0
-gang 0
-at 0
-Leeds 0
-Crown 0
-Court. 0
+Robinson 0 246 21
+was 0 246 21
+arrested, 0 246 21
+tried, 0 246 21
+and 0 246 21
+sentenced 0 246 21
+to 0 246 21
+13 0 246 21
+months 0 246 21
+within 1 246 21
+an 1 246 21
+hour 1 246 21
+for 0 246 21
+simply 1 246 21
+reporting 0 246 21
+outside 0 246 21
+a 0 246 21
+criminal 0 246 21
+trial 0 246 21
+involving 0 246 21
+a 0 246 21
+Muslim 0 246 21
+rape 0 246 21
+gang 0 246 21
+at 0 246 21
+Leeds 0 246 21
+Crown 0 246 21
+Court. 0 246 21
 
-The 0
-judge 0
-also 0
-put 0
-a 0
-gag 0
-on 0
-the 0
-press 0
-so 0
-they 0
-were 0
-not 0
-allowed 0
-to 0
-report 0
-on 0
-the 0
-arrest, 0
-and 0
-many 0
-reputable 0
-outlets 0
-complied 0
-by 0
-removing 0
-their 0
-stories. 0
+The 0 246 22
+judge 0 246 22
+also 0 246 22
+put 0 246 22
+a 0 246 22
+gag 0 246 22
+on 0 246 22
+the 0 246 22
+press 0 246 22
+so 0 246 22
+they 0 246 22
+were 0 246 22
+not 0 246 22
+allowed 0 246 22
+to 0 246 22
+report 0 246 22
+on 0 246 22
+the 0 246 22
+arrest, 0 246 22
+and 0 246 22
+many 0 246 22
+reputable 0 246 22
+outlets 0 246 22
+complied 0 246 22
+by 0 246 22
+removing 0 246 22
+their 0 246 22
+stories. 0 246 22
 
-Robinson 0
-was 0
-denied 0
-due 0
-process, 0
-according 0
-to 0
-the 0
-judge. 0
+Robinson 0 246 23
+was 0 246 23
+denied 0 246 23
+due 0 246 23
+process, 0 246 23
+according 0 246 23
+to 0 246 23
+the 0 246 23
+judge. 0 246 23
 
-Robinson 0
-has 0
-been 0
-at 0
-the 0
-forefront 0
-of 0
-exposing 0
-the 0
-criminal 0
-elements 0
-in 0
-Islam. 0
+Robinson 0 246 24
+has 0 246 24
+been 0 246 24
+at 0 246 24
+the 0 246 24
+forefront 0 246 24
+of 0 246 24
+exposing 0 246 24
+the 0 246 24
+criminal 0 246 24
+elements 0 246 24
+in 0 246 24
+Islam. 0 246 24
 
-Just 0
-last 0
-week 0
-I 0
-reported 0
-on 0
-his 0
-previous 0
-comments 0
-about 0
-being 0
-incarcerated 0
-earlier 0
-and 0
-that 0
-it 0
-might 0
-be 0
-a 0
-plot 0
-to 0
-get 0
-rid 0
-of 0
-him 0
-in 0
-prison. 0
+Just 0 246 25
+last 0 246 25
+week 0 246 25
+I 0 246 25
+reported 0 246 25
+on 0 246 25
+his 0 246 25
+previous 0 246 25
+comments 0 246 25
+about 0 246 25
+being 0 246 25
+incarcerated 0 246 25
+earlier 0 246 25
+and 0 246 25
+that 0 246 25
+it 0 246 25
+might 0 246 25
+be 0 246 25
+a 0 246 25
+plot 0 246 25
+to 0 246 25
+get 0 246 25
+rid 0 246 25
+of 0 246 25
+him 0 246 25
+in 0 246 25
+prison. 0 246 25
 
-This 0
-isn't 0
-far-fetched. 0
+This 0 246 26
+isn't 0 246 26
+far-fetched. 0 246 26
 
-In 0
-March, 0
-we 0
-reported 0
-on 0
-Britain 0
-First's 0
-Paul 0
-Golding 0
-was 0
-attacked 0
-by 0
-two 0
-inmates 0
-at 0
-HMP 0
-Elmley, 0
-on 0
-the 0
-Isle 0
-of 0
-Sheppey, 0
-Kent. 0
+In 0 246 27
+March, 0 246 27
+we 0 246 27
+reported 0 246 27
+on 0 246 27
+Britain 0 246 27
+First's 0 246 27
+Paul 0 246 27
+Golding 0 246 27
+was 0 246 27
+attacked 0 246 27
+by 0 246 27
+two 0 246 27
+inmates 0 246 27
+at 0 246 27
+HMP 0 246 27
+Elmley, 0 246 27
+on 0 246 27
+the 0 246 27
+Isle 0 246 27
+of 0 246 27
+Sheppey, 0 246 27
+Kent. 0 246 27
 
-Golding 0
-was 0
-found 0
-guilty 0
-on 0
-7 0
-March 0
-at 0
-Folkestone 0
-Magistrates’ 0
-Court 0
-of 0
-religiously-aggravated 0
-harassment 0
-alongside 0
-deputy 0
-leader 0
-Jayda 0
-Fransen 0
-which 0
-they 0
-carried 0
-out 0
-in 0
-Kent 0
-in 0
-May 0
-last 0
-year. 0
+Golding 0 246 28
+was 0 246 28
+found 0 246 28
+guilty 0 246 28
+on 0 246 28
+7 0 246 28
+March 0 246 28
+at 0 246 28
+Folkestone 0 246 28
+Magistrates’ 0 246 28
+Court 0 246 28
+of 0 246 28
+religiously-aggravated 0 246 28
+harassment 0 246 28
+alongside 0 246 28
+deputy 0 246 28
+leader 0 246 28
+Jayda 0 246 28
+Fransen 0 246 28
+which 0 246 28
+they 0 246 28
+carried 0 246 28
+out 0 246 28
+in 0 246 28
+Kent 0 246 28
+in 0 246 28
+May 0 246 28
+last 0 246 28
+year. 0 246 28
 
-The 0
-court 0
-heard 0
-the 0
-pair 0
-launched 0
-a 0
-political 0
-campaign 0
-in 0
-which 0
-they 0
-claimed 0
-to 0
-be 0
-trying 0
-to 0
-expose 0
-Muslim 0
-men 0
-who 0
-were 0
-the 0
-subject 0
-of 0
-a 0
-rape 0
-trial. 0
+The 0 246 29
+court 0 246 29
+heard 0 246 29
+the 0 246 29
+pair 0 246 29
+launched 0 246 29
+a 0 246 29
+political 0 246 29
+campaign 0 246 29
+in 0 246 29
+which 0 246 29
+they 0 246 29
+claimed 0 246 29
+to 0 246 29
+be 0 246 29
+trying 0 246 29
+to 0 246 29
+expose 0 246 29
+Muslim 0 246 29
+men 0 246 29
+who 0 246 29
+were 0 246 29
+the 0 246 29
+subject 0 246 29
+of 0 246 29
+a 0 246 29
+rape 0 246 29
+trial. 0 246 29
 
-So, 0
-expose 1
-the 1
-Islamists 1
-fro 1
-who 1
-and 1
-what 1
-they 1
-are 1
-and 1
-what 1
-Islam's 1
-founder 1
-not 1
-only 1
-taught 1
-them, 1
-but 1
-modeled 1
-for 1
-them, 1
-and 0
-you 0
-may 0
-just 0
-find 0
-yourself 0
-in 0
-jail 0
-in 0
-the 0
-UK. 0
+So, 0 246 30
+expose 1 246 30
+the 1 246 30
+Islamists 1 246 30
+fro 1 246 30
+who 1 246 30
+and 1 246 30
+what 1 246 30
+they 1 246 30
+are 1 246 30
+and 1 246 30
+what 1 246 30
+Islam's 1 246 30
+founder 1 246 30
+not 1 246 30
+only 1 246 30
+taught 1 246 30
+them, 1 246 30
+but 1 246 30
+modeled 1 246 30
+for 1 246 30
+them, 1 246 30
+and 0 246 30
+you 0 246 30
+may 0 246 30
+just 0 246 30
+find 0 246 30
+yourself 0 246 30
+in 0 246 30
+jail 0 246 30
+in 0 246 30
+the 0 246 30
+UK. 0 246 30
 
-Sadly, 0
-the 0
-same 0
-scenario 0
-is 0
-making 0
-some 0
-strides 0
-in 0
-the 0
-US, 0
-as 0
-well. 0
+Sadly, 0 246 31
+the 0 246 31
+same 0 246 31
+scenario 0 246 31
+is 0 246 31
+making 0 246 31
+some 0 246 31
+strides 0 246 31
+in 0 246 31
+the 0 246 31
+US, 0 246 31
+as 0 246 31
+well. 0 246 31
 
-Free 0
-Tommy 0
-Robinson 0
-protests 0
-are 0
-set 0
-for 0
-this 0
-weekend, 0
-and 0
-Dutch 0
-MP 0
-Geert 0
-Wilders 0
-has 0
-said 0
-he 0
-will 0
-join 0
-those 0
-protests. 0
+Free 0 246 32
+Tommy 0 246 32
+Robinson 0 246 32
+protests 0 246 32
+are 0 246 32
+set 0 246 32
+for 0 246 32
+this 0 246 32
+weekend, 0 246 32
+and 0 246 32
+Dutch 0 246 32
+MP 0 246 32
+Geert 0 246 32
+Wilders 0 246 32
+has 0 246 32
+said 0 246 32
+he 0 246 32
+will 0 246 32
+join 0 246 32
+those 0 246 32
+protests. 0 246 32
 
-Wilders 0
-has 0
-called 0
-Robinson's 0
-imprisonment 0
-a 0
-"disgrace." 1
+Wilders 0 246 33
+has 0 246 33
+called 0 246 33
+Robinson's 0 246 33
+imprisonment 0 246 33
+a 0 246 33
+"disgrace." 1 246 33
 
-He 0
-told 0
-Breitbart: 0
+He 0 246 34
+told 0 246 34
+Breitbart: 0 246 34
 
-Tommy 0
-Robinson 0
-was 0
-arrested 0
-on 0
-May 0
-25 0
-outside 0
-Leeds 0
-Crown 0
-Court 0
-after 0
-using 0
-social 0
-media 0
-to 0
-broadcast 0
-details 0
-of 0
-an 0
-ongoing 0
-trial 0
-which 0
-was 0
-subject 0
-to 0
-reporting 0
-restrictions. 0
+Tommy 0 246 35
+Robinson 0 246 35
+was 0 246 35
+arrested 0 246 35
+on 0 246 35
+May 0 246 35
+25 0 246 35
+outside 0 246 35
+Leeds 0 246 35
+Crown 0 246 35
+Court 0 246 35
+after 0 246 35
+using 0 246 35
+social 0 246 35
+media 0 246 35
+to 0 246 35
+broadcast 0 246 35
+details 0 246 35
+of 0 246 35
+an 0 246 35
+ongoing 0 246 35
+trial 0 246 35
+which 0 246 35
+was 0 246 35
+subject 0 246 35
+to 0 246 35
+reporting 0 246 35
+restrictions. 0 246 35
 
-He 0
-was 0
-arrested, 0
-brought 0
-before 0
-a 0
-judge, 0
-and 0
-sentenced 0
-within 0
-five 0
-hours. 0
+He 0 246 36
+was 0 246 36
+arrested, 0 246 36
+brought 0 246 36
+before 0 246 36
+a 0 246 36
+judge, 0 246 36
+and 0 246 36
+sentenced 0 246 36
+within 0 246 36
+five 0 246 36
+hours. 0 246 36
 
-The 0
-judge 0
-ordered 0
-a 0
-media 0
-ban 0
-on 0
-his 0
-arrest 0
-and 0
-imprisonment, 0
-even 0
-forcing 0
-British 0
-publications 0
-to 0
-delete 0
-their 0
-articles 0
-about 0
-the 0
-case. 0
+The 0 246 37
+judge 0 246 37
+ordered 0 246 37
+a 0 246 37
+media 0 246 37
+ban 0 246 37
+on 0 246 37
+his 0 246 37
+arrest 0 246 37
+and 0 246 37
+imprisonment, 0 246 37
+even 0 246 37
+forcing 0 246 37
+British 0 246 37
+publications 0 246 37
+to 0 246 37
+delete 0 246 37
+their 0 246 37
+articles 0 246 37
+about 0 246 37
+the 0 246 37
+case. 0 246 37
 
-Such 1
-measures 1
-are 1
-common 1
-practice 1
-in 1
-North 1
-Korea 1
-and 1
-Saudi 1
-Arabia. 1
+Such 1 246 38
+measures 1 246 38
+are 1 246 38
+common 1 246 38
+practice 1 246 38
+in 1 246 38
+North 1 246 38
+Korea 1 246 38
+and 1 246 38
+Saudi 1 246 38
+Arabia. 1 246 38
 
-It 0
-is 0
-sad 0
-to 0
-see 0
-how 0
-Britain, 0
-the 0
-cradle 0
-of 0
-Western 0
-democracy 0
-and 0
-the 0
-rule 0
-of 0
-law, 0
-is 0
-fast 0
-descending 1
-into 1
-tyranny. 1
+It 0 246 39
+is 0 246 39
+sad 0 246 39
+to 0 246 39
+see 0 246 39
+how 0 246 39
+Britain, 0 246 39
+the 0 246 39
+cradle 0 246 39
+of 0 246 39
+Western 0 246 39
+democracy 0 246 39
+and 0 246 39
+the 0 246 39
+rule 0 246 39
+of 0 246 39
+law, 0 246 39
+is 0 246 39
+fast 0 246 39
+descending 1 246 39
+into 1 246 39
+tyranny. 1 246 39
 
-Tommy 1
-is 1
-a 1
-hero. 1
+Tommy 1 246 40
+is 1 246 40
+a 1 246 40
+hero. 1 246 40
 
-It 0
-is 0
-a 0
-disgrace 1
-that 0
-he 0
-is 0
-still 0
-in 0
-jail. 0
+It 0 246 41
+is 0 246 41
+a 0 246 41
+disgrace 1 246 41
+that 0 246 41
+he 0 246 41
+is 0 246 41
+still 0 246 41
+in 0 246 41
+jail. 0 246 41
 
-I 0
-have 0
-been 0
-invited 0
-to 0
-a 0
-major 0
-protest 0
-demonstration 0
-in 0
-London 0
-next 0
-week, 0
-and 0
-I 0
-will 0
-be 0
-coming. 0
+I 0 246 42
+have 0 246 42
+been 0 246 42
+invited 0 246 42
+to 0 246 42
+a 0 246 42
+major 0 246 42
+protest 0 246 42
+demonstration 0 246 42
+in 0 246 42
+London 0 246 42
+next 0 246 42
+week, 0 246 42
+and 0 246 42
+I 0 246 42
+will 0 246 42
+be 0 246 42
+coming. 0 246 42
 
-Free 1
-Tommy 1
-now. 1
+Free 1 246 43
+Tommy 1 246 43
+now. 1 246 43
 
-Indeed! 0
+Indeed! 0 246 44
 
-Free 1
-Tommy 1
-Robinson 1
-now! 1
+Free 1 246 44
+
+Tommy 1 246 44
+
+Robinson 1 246 44
+
+now! 1 246 44
