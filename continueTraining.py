@@ -6,10 +6,13 @@ from typing import List
 import sys
 from flair.datasets import ColumnCorpus
 from flair.trainers import ModelTrainer
+import torch
 
 if __name__ == '__main__':
     if(len(sys.argv) not in [2, 3]):
         raise ValueError('Usage: python resumeTraining.py <model_name> [checkpoint/best-model/..]')
+
+    torch.cuda.empty_cache()
 
     which_model = 'checkpoint'
     if len(sys.argv) == 3:

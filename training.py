@@ -1,5 +1,6 @@
 import sys
 from typing import List
+import torch
 
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
@@ -11,6 +12,8 @@ if __name__ == '__main__':
     if(len(sys.argv) != 2):
         raise TypeError('Usage: python training.py <model_name>')
     model_name = sys.argv[1]
+    
+    torch.cuda.empty_cache()
 
     columns = {0: 'text', 1: 'propaganda', 2: 'doc_id', 3: 'sentence_id'}
 
@@ -32,12 +35,12 @@ if __name__ == '__main__':
 
     embedding_types: List[TokenEmbeddings] = [
 
-        WordEmbeddings('glove'),
+        #WordEmbeddings('glove'),
 
         # other embeddings
 
         # CharacterEmbeddings(),
-        #TransformerWordEmbeddings('bert-base-cased'),
+        TransformerWordEmbeddings('bert-base-uncased'),
         #FlairEmbeddings('news-forward'),
         #FlairEmbeddings('news-backward'),
     ]
