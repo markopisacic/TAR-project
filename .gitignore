@@ -1,3 +1,4 @@
 # output from flair
 resources/*
 .idea/*
+.ipy*
