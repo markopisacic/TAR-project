@@ -609,60 +609,58 @@ the 0 392 32
 Mueller 0 392 32
 probe. 0 392 32
 
-‏ 0 392 33
+“The 0 392 33
+Mueller 0 392 33
+report 0 392 33
+delivery 0 392 33
+suggests 0 392 33
+no 0 392 33
+more 0 392 33
+indictments 0 392 33
+are 0 392 33
+coming 0 392 33
+from 0 392 33
+the 0 392 33
+Special 0 392 33
+Counsel. 0 392 33
 
-“The 0 392 34
-Mueller 0 392 34
-report 0 392 34
-delivery 0 392 34
-suggests 0 392 34
-no 0 392 34
-more 0 392 34
-indictments 0 392 34
-are 0 392 34
-coming 0 392 34
-from 0 392 34
-the 0 392 34
-Special 0 392 34
-Counsel. 0 392 34
+If 0 392 34
+that’s 0 392 34
+true, 0 392 34
+it 0 392 34
+would 0 392 34
+mean 0 392 34
+we 0 392 34
+just 0 392 34
+completed 0 392 34
+2 0 392 34
+years 0 392 34
+of 0 392 34
+investigating 0 392 34
+‘Russian 0 392 34
+collusion’ 0 392 34
+without 0 392 34
+ONE 0 392 34
+collusion 0 392 34
+related 0 392 34
+indictment. 0 392 34
 
-If 0 392 35
-that’s 0 392 35
-true, 0 392 35
-it 0 392 35
-would 0 392 35
-mean 0 392 35
-we 0 392 35
-just 0 392 35
-completed 0 392 35
-2 0 392 35
-years 0 392 35
-of 0 392 35
-investigating 0 392 35
-‘Russian 0 392 35
-collusion’ 0 392 35
-without 0 392 35
-ONE 1 392 35
-collusion 0 392 35
-related 0 392 35
-indictment. 0 392 35
+Not 0 392 35
+even 1 392 35
+one,” 1 392 35
+he 1 392 35
+wrote 0 392 35
+on 0 392 35
+Twitter. 0 392 35
 
-Not 1 392 36
-even 1 392 36
-one,” 1 392 36
-he 0 392 36
-wrote 0 392 36
-on 0 392 36
-Twitter. 0 392 36
+“Why? 0 392 36
 
-“Why? 0 392 37
+Because 0 392 36
 
-Because 0 392 37
+there 0 392 36
 
-there 0 392 37
+was 0 392 36
 
-was 0 392 37
+no 0 392 36
 
-no 0 392 37
-
-collusion.” 0 392 37
+collusion.” 0 392 36
