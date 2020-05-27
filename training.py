@@ -1,3 +1,4 @@
+import sys
 from typing import List
 
 from flair.data import Corpus
@@ -7,6 +8,10 @@ from flair.datasets import ColumnCorpus
 from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, FlairEmbeddings, TransformerWordEmbeddings
 
 if __name__ == '__main__':
+    if(len(sys.argv) != 2):
+        raise TypeError('Usage: python training.py <model_name>')
+    model_name = sys.argv[1]
+
     columns = {0: 'text', 1: 'propaganda', 2: 'doc_id', 3: 'sentence_id'}
 
     # this is the folder in which train, test and dev files reside
@@ -32,22 +37,23 @@ if __name__ == '__main__':
         # other embeddings
 
         # CharacterEmbeddings(),
-        # TransformerWordEmbeddings('bert-base-cased'),
-        # FlairEmbeddings('news-forward'),
-        # FlairEmbeddings('news-backward'),
+        #TransformerWordEmbeddings('bert-base-cased'),
+        #FlairEmbeddings('news-forward'),
+        #FlairEmbeddings('news-backward'),
     ]
     embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
 
     # 5. initialize sequence tagger
     from flair.models import SequenceTagger
 
-    tagger: SequenceTagger = SequenceTagger(hidden_size=256,
+    tagger: SequenceTagger = SequenceTagger(hidden_size=50,
                                             embeddings=embeddings,
                                             tag_dictionary=tag_dictionary,
                                             tag_type=tag_type,
                                             train_initial_hidden_state = True,
-                                            loss_weights = {'0': 1, '1': 100},
-                                            use_crf=True)
+                                            loss_weights = {'0': 1, '1': 40},
+                                            use_crf=False,
+                                            dropout = 0.14)
 
     # 6. initialize trainer
     from flair.trainers import ModelTrainer
@@ -55,15 +61,18 @@ if __name__ == '__main__':
     trainer: ModelTrainer = ModelTrainer(tagger, corpus)
 
     # 7. start training
-    trainer.train('resources/taggers/propaganda',
-                  learning_rate=0.1,
+    trainer.train('resources/taggers/' + model_name,
+                  learning_rate=0.05,
+                  train_with_dev = True,
                   mini_batch_size=10,
-                  max_epochs=20,
-                  checkpoint=True)
+                  max_epochs=1000,
+                  checkpoint=True,
+                  embeddings_storage_mode = 'gpu',
+                  patience=2)
 
     # 8. plot weight traces (optional)
     from flair.visual.training_curves import Plotter
 
-    plotter = Plotter()
-    plotter.plot_weights('resources/taggers/propaganda/weights.txt')
-    plotter.plot_training_curves('resources/taggers/propaganda/loss.tsv')
+    #plotter = Plotter()
+    #plotter.plot_weights('resources/taggers/propaganda/weights.txt')
+    #plotter.plot_training_curves('resources/taggers/propaganda/loss.tsv')
