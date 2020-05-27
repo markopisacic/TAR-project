@@ -27,7 +27,12 @@ if __name__ == '__main__':
                                   dev_file='validate.txt')
     
     #corpus.filter_empty_sentences()
-    print(corpus)
+    #print(corpus)
+    #for i in range(len(corpus.train)):
+    #    if len(corpus.train[i]) == 1: #and len(corpus.train[i].get_token(1).text) == 0:
+    #        print(corpus.train[i])
+    #        print(len(corpus.train[i].get_token(1).text))
+    #        sys.exit(0)
 
     tag_type = 'propaganda'
     tag_dictionary = corpus.make_tag_dictionary(tag_type=tag_type)
@@ -54,9 +59,9 @@ if __name__ == '__main__':
                                             tag_dictionary=tag_dictionary,
                                             tag_type=tag_type,
                                             train_initial_hidden_state = True,
-                                            loss_weights = {'0': 1, '1': 40},
+                                            loss_weights = {'0': 1, '1': 20},
                                             use_crf=False,
-                                            dropout = 0.14)
+                                            dropout = 0.2)
 
     # 6. initialize trainer
     from flair.trainers import ModelTrainer
@@ -66,7 +71,7 @@ if __name__ == '__main__':
     # 7. start training
     trainer.train('resources/taggers/' + model_name,
                   learning_rate=0.05,
-                  train_with_dev = True,
+                  train_with_dev = False,
                   mini_batch_size=10,
                   max_epochs=1000,
                   checkpoint=True,
