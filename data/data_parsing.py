@@ -35,13 +35,14 @@ def filter_doubles(l):
 
 
 for doc_idx, filename in enumerate(os.listdir(LABELS_DIR)):
+    print('Parsing doc ', str(doc_idx), filename)
     spans = []
-    with open(LABELS_DIR + '/' + filename) as file:
+    with open(LABELS_DIR + '/' + filename, encoding='utf-8') as file:
         for line in file:
             spans.append((int(line.split()[1]), int(line.split()[2])))
     spans = sorted(spans, key=lambda x: x[0])
 
-    with open(ARTICLES_DIR + '/' + filename) as file:
+    with open(ARTICLES_DIR + '/' + filename, encoding='utf-8') as file:
         text = file.read()
     labels = []
     for w, o1, o2 in split_with_offsets(text):
@@ -52,7 +53,7 @@ for doc_idx, filename in enumerate(os.listdir(LABELS_DIR)):
     if newlines[-1] != len(text):
         newlines.append(len(text))
 
-    out_file = open(OUT_DIR + '/' + filename, "w")
+    out_file = open(OUT_DIR + '/' + filename, "w+", encoding='utf-8')
     current_newline_idx = 0
     for w, o, l in labels:
         if o > newlines[current_newline_idx]:

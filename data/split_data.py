@@ -29,9 +29,9 @@ for file in test: copyfile('./labeled_articles/' + file, './test/' + file)
 
 # merge all in one file for use in Flair datasets
 for split_type in ['train', 'validate', 'test']:
-    out_file = open('./' + split_type + '.txt', 'w+')
+    out_file = open('./' + split_type + '.txt', 'w+', encoding='utf-8')
     for filename in os.listdir('./' + split_type):
-        with open('./' + split_type + '/' + filename) as file:
+        with open('./' + split_type + '/' + filename, encoding='utf-8') as file:
             text = file.read()
             out_file.write(text)
         out_file.write("\n")
