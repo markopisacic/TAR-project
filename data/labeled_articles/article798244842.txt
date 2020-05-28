@@ -2092,14 +2092,9 @@ it 0 390 96
 out 0 390 96
 themselves. 0 390 96
 
-Reprinted 0 390 96
-
-with 0 390 96
-
-permission 0 390 96
-
-from 0 390 96
-
-Collective 0 390 96
-
-Evolution. 0 390 96
+Reprinted 0 390 97
+with 0 390 97
+permission 0 390 97
+from 0 390 97
+Collective 0 390 97
+Evolution. 0 390 97

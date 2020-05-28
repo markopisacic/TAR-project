@@ -1,134 +1,112 @@
-Illegal 0 138 0
-alien 0 138 0
-wanted 0 138 0
-for 0 138 0
-attempted 0 138 0
-murder 0 138 0
-in 0 138 0
-NC 0 138 0
-arrested 0 138 0
-at 0 138 0
-US-Mexico 0 138 0
-border 0 138 0
+Illegal 0 283 0
+alien 0 283 0
+wanted 0 283 0
+for 0 283 0
+attempted 0 283 0
+murder 0 283 0
+in 0 283 0
+NC 0 283 0
+arrested 0 283 0
+at 0 283 0
+US-Mexico 0 283 0
+border 0 283 0
 
-TUCSON, 0 138 1
-Ariz. 0 138 1
-– 0 138 1
-While 0 138 1
-patrolling 0 138 1
-east 0 138 1
-of 0 138 1
-Nogales, 0 138 1
-Border 0 138 1
-Patrol 0 138 1
-agents 0 138 1
-assigned 0 138 1
-to 0 138 1
-the 0 138 1
-Nogales 0 138 1
-Station 0 138 1
-arrested 0 138 1
-Francisco 0 138 1
-Lopez-Loyola, 0 138 1
-a 0 138 1
-38-year-old 0 138 1
-Mexican 0 138 1
-national 0 138 1
-for 0 138 1
-being 0 138 1
-illegally 0 138 1
-present 0 138 1
-in 0 138 1
-the 0 138 1
-United 0 138 1
-States 0 138 1
-Thursday. 0 138 1
+TUCSON, 0 283 1
+Ariz. 0 283 1
+– 0 283 1
+While 0 283 1
+patrolling 0 283 1
+east 0 283 1
+of 0 283 1
+Nogales, 0 283 1
+Border 0 283 1
+Patrol 0 283 1
+agents 0 283 1
+assigned 0 283 1
+to 0 283 1
+the 0 283 1
+Nogales 0 283 1
+Station 0 283 1
+arrested 0 283 1
+Francisco 0 283 1
+Lopez-Loyola, 0 283 1
+a 0 283 1
+38-year-old 0 283 1
+Mexican 0 283 1
+national 0 283 1
+for 0 283 1
+being 0 283 1
+illegally 0 283 1
+present 0 283 1
+in 0 283 1
+the 0 283 1
+United 0 283 1
+States 0 283 1
+Thursday. 0 283 1
 
-During 0 138 2
-processing, 0 138 2
-a 0 138 2
-records 0 138 2
-check 0 138 2
-indicated 0 138 2
-Lopez 0 138 2
-had 0 138 2
-an 0 138 2
-extraditable 0 138 2
-warrant 0 138 2
-from 0 138 2
-Catawba 0 138 2
-County, 0 138 2
-North 0 138 2
-Carolina 0 138 2
-for 0 138 2
-attempted 0 138 2
-first 0 138 2
-degree 0 138 2
-murder. 0 138 2
+During 0 283 2
+processing, 0 283 2
+a 0 283 2
+records 0 283 2
+check 0 283 2
+indicated 0 283 2
+Lopez 0 283 2
+had 0 283 2
+an 0 283 2
+extraditable 0 283 2
+warrant 0 283 2
+from 0 283 2
+Catawba 0 283 2
+County, 0 283 2
+North 0 283 2
+Carolina 0 283 2
+for 0 283 2
+attempted 0 283 2
+first 0 283 2
+degree 0 283 2
+murder. 0 283 2
 
-He 0 138 3
-was 0 138 3
-processed 0 138 3
-for 0 138 3
-immigration 0 138 3
-violations 0 138 3
-and 0 138 3
-turned 0 138 3
-over 0 138 3
-to 0 138 3
-Santa 0 138 3
-Cruz 0 138 3
-County 0 138 3
-Sheriff’s 0 138 3
-Office 0 138 3
-for 0 138 3
-extradition 0 138 3
-to 0 138 3
-North 0 138 3
-Carolina. 0 138 3
+He 0 283 3
+was 0 283 3
+processed 0 283 3
+for 0 283 3
+immigration 0 283 3
+violations 0 283 3
+and 0 283 3
+turned 0 283 3
+over 0 283 3
+to 0 283 3
+Santa 0 283 3
+Cruz 0 283 3
+County 0 283 3
+Sheriff’s 0 283 3
+Office 0 283 3
+for 0 283 3
+extradition 0 283 3
+to 0 283 3
+North 0 283 3
+Carolina. 0 283 3
 
-All 0 138 3
-
-persons 0 138 3
-
-apprehended 0 138 3
-
-by 0 138 3
-
-the 0 138 3
-
-Border 0 138 3
-
-Patrol 0 138 3
-
-undergo 0 138 3
-
-criminal 0 138 3
-
-history 0 138 3
-
-checks 0 138 3
-
-using 0 138 3
-
-biometrics 0 138 3
-
-to 0 138 3
-
-ensure 0 138 3
-
-illegal 0 138 3
-
-immigrants 0 138 3
-
-with 0 138 3
-
-criminal 0 138 3
-
-histories 0 138 3
-
-are 0 138 3
-
-positively 0 138 3
-
-identified. 0 138 3
+All 0 283 4
+persons 0 283 4
+apprehended 0 283 4
+by 0 283 4
+the 0 283 4
+Border 0 283 4
+Patrol 0 283 4
+undergo 0 283 4
+criminal 0 283 4
+history 0 283 4
+checks 0 283 4
+using 0 283 4
+biometrics 0 283 4
+to 0 283 4
+ensure 0 283 4
+illegal 0 283 4
+immigrants 0 283 4
+with 0 283 4
+criminal 0 283 4
+histories 0 283 4
+are 0 283 4
+positively 0 283 4
+identified. 0 283 4
