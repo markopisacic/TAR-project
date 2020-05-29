@@ -2,3 +2,8 @@
 resources/*
 .idea/*
 .ipy*
+data/train/*
+data/validate/*
+data/test/*
+*__pycache__*
+*.swp
