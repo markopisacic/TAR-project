@@ -41,13 +41,13 @@ if __name__ == '__main__':
 
     embedding_types: List[TokenEmbeddings] = [
 
-        NoContextBertEmbeddings(),
+        #NoContextBertEmbeddings(),
         #WordEmbeddings('glove'),
 
         # other embeddings
 
         # CharacterEmbeddings(),
-        #TransformerWordEmbeddings('bert-base-uncased'),
+        TransformerWordEmbeddings('bert-base-uncased', use_scalar_mix = True),
         #FlairEmbeddings('news-forward'),
         #FlairEmbeddings('news-backward'),
     ]
@@ -73,6 +73,7 @@ if __name__ == '__main__':
     # 7. start training
     trainer.train('resources/taggers/' + model_name,
                   learning_rate=0.05,
+                  anneal_factor = 0.2,
                   train_with_dev = True,
                   mini_batch_size=10,
                   max_epochs=10,
