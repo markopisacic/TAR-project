@@ -1,6 +1,7 @@
 import os
 import random
 from shutil import copyfile
+import sys
 
 # split ratios
 TRAIN = 0.65
@@ -8,6 +9,12 @@ VALIDATE = 0.15
 TEST = 0.20
 
 data = os.listdir('./labeled_articles')
+
+seed = 1
+if len(sys.argv) > 2:
+    seed = int(sys.argv[2])
+
+random.seed(seed)
 random.shuffle(data)
 
 train_n = int(len(data) * TRAIN)
