@@ -7,6 +7,7 @@ from flair.datasets import ColumnCorpus
 
 # define columns
 from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, FlairEmbeddings, TransformerWordEmbeddings
+from custom_embeddings import NoContextBertEmbeddings
 
 if __name__ == '__main__':
     if(len(sys.argv) != 2):
@@ -40,12 +41,13 @@ if __name__ == '__main__':
 
     embedding_types: List[TokenEmbeddings] = [
 
+        NoContextBertEmbeddings(),
         #WordEmbeddings('glove'),
 
         # other embeddings
 
         # CharacterEmbeddings(),
-        TransformerWordEmbeddings('bert-base-uncased'),
+        #TransformerWordEmbeddings('bert-base-uncased'),
         #FlairEmbeddings('news-forward'),
         #FlairEmbeddings('news-backward'),
     ]
@@ -54,7 +56,7 @@ if __name__ == '__main__':
     # 5. initialize sequence tagger
     from flair.models import SequenceTagger
 
-    tagger: SequenceTagger = SequenceTagger(hidden_size=50,
+    tagger: SequenceTagger = SequenceTagger(hidden_size=200,
                                             embeddings=embeddings,
                                             tag_dictionary=tag_dictionary,
                                             tag_type=tag_type,
@@ -71,12 +73,12 @@ if __name__ == '__main__':
     # 7. start training
     trainer.train('resources/taggers/' + model_name,
                   learning_rate=0.05,
-                  train_with_dev = False,
+                  train_with_dev = True,
                   mini_batch_size=10,
-                  max_epochs=1000,
+                  max_epochs=10,
                   checkpoint=True,
                   embeddings_storage_mode = 'gpu',
-                  patience=2)
+                  patience=1)
 
     # 8. plot weight traces (optional)
     from flair.visual.training_curves import Plotter
