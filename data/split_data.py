@@ -11,8 +11,8 @@ TEST = 0.20
 data = os.listdir('./labeled_articles')
 
 seed = 1
-if len(sys.argv) > 2:
-    seed = int(sys.argv[2])
+if len(sys.argv) > 1:
+    seed = int(sys.argv[1])
 
 random.seed(seed)
 random.shuffle(data)
