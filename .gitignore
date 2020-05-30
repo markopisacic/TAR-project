@@ -10,4 +10,4 @@ data/test/*
 data/train.txt
 data/validate.txt
 data/test.txt
-
+embeddings_2.pickle
