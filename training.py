@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     embedding_types: List[TokenEmbeddings] = [
 
-        # NoContextBertEmbeddings(),
+        NoContextBertEmbeddings(),
         #WordEmbeddings('glove'),
 
         # other embeddings
@@ -79,7 +79,8 @@ if __name__ == '__main__':
                   max_epochs=5,
                   checkpoint=True,
                   embeddings_storage_mode = 'gpu',
-                  patience=1,
+                  patience=0,
+                  anneal_with_restarts = True,
                   monitor_test=True)
 
     # 8. plot weight traces (optional)
