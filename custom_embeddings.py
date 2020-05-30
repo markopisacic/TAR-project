@@ -13,7 +13,7 @@ class NoContextBertEmbeddings(TokenEmbeddings):
         # TODO load with pickle
         self.embeddings = pickle.load(open('embeddings_2.pickle', 'rb'))
         self.tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
-        self.__embedding_length: int = 768*4
+        self.__embedding_length: int = 768
         super().__init__()
 
     @property
@@ -30,7 +30,7 @@ class NoContextBertEmbeddings(TokenEmbeddings):
                 set_embedding = False
                 for subtoken in subtokens:
                     if subtoken in self.embeddings:
-                        token.set_embedding(self.name, self.embeddings[subtoken][-768*4:])
+                        token.set_embedding(self.name, torch.mean(embeddings[subtoken][-768*4:].reshape(4, 768), dim = 0))
                         set_embedding = True
                         break
                 if not set_embedding:
