@@ -60,7 +60,7 @@ for doc_idx, filename in enumerate(os.listdir(LABELS_DIR)):
             current_newline_idx = current_newline_idx + 1 if current_newline_idx < len(newlines) - 1 else len(
                 newlines) - 1
             out_file.write('\n')
-        out_file.write(w + " " + str(l) + " " + str(doc_idx) + " " + str(current_newline_idx) + "\n")
+        out_file.write(w + " " + str(l) + " " + str(filename) + " " + str(current_newline_idx) + "\n")
     out_file.close()
 
 print('Done.')
