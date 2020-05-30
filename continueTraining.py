@@ -14,10 +14,11 @@ if __name__ == '__main__':
 
     torch.cuda.empty_cache()
 
+    model_name = sys.argv[1]
     which_model = 'checkpoint'
     if len(sys.argv) == 3:
         which_model = sys.argv[2]
-    checkpoint = 'resources/taggers/' + sys.argv[1] + '/' + which_model + '.pt'
+    checkpoint = 'resources/taggers/' + model_name + '/' + which_model + '.pt'
 
     columns = {0: 'text', 1: 'propaganda', 2: 'doc_id', 3: 'sentence_id'}
 
@@ -31,11 +32,13 @@ if __name__ == '__main__':
                                   dev_file='validate.txt')
 
     trainer = ModelTrainer.load_checkpoint(checkpoint, corpus)
-    trainer.train('resources/taggers/' + sys.argv[1],
+    trainer.train('resources/taggers/' + model_name,
                   learning_rate=0.05,
+                  anneal_factor = 0.2,
                   train_with_dev = True,
-                  mini_batch_size=5,
-                  max_epochs=200,
+                  mini_batch_size=10,
+                  max_epochs=3,
                   checkpoint=True,
-                  embeddings_storage_mode = 'gpu')
+                  embeddings_storage_mode = 'gpu',
+                  patience=1)
 
