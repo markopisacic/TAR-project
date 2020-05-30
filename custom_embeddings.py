@@ -30,7 +30,7 @@ class NoContextBertEmbeddings(TokenEmbeddings):
                 set_embedding = False
                 for subtoken in subtokens:
                     if subtoken in self.embeddings:
-                        token.set_embedding(self.name, torch.mean(embeddings[subtoken][-768*4:].reshape(4, 768), dim = 0))
+                        token.set_embedding(self.name, torch.mean(self.embeddings[subtoken][-768*4:].reshape(4, 768), dim = 0))
                         set_embedding = True
                         break
                 if not set_embedding:
