@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     embedding_types: List[TokenEmbeddings] = [
 
-        #NoContextBertEmbeddings(),
+        # NoContextBertEmbeddings(),
         #WordEmbeddings('glove'),
 
         # other embeddings
@@ -61,7 +61,7 @@ if __name__ == '__main__':
                                             tag_dictionary=tag_dictionary,
                                             tag_type=tag_type,
                                             train_initial_hidden_state = True,
-                                            loss_weights = {'0': 1, '1': 20},
+                                            loss_weights = {'0': 1, '1': 8},
                                             use_crf=False,
                                             dropout = 0.2)
 
@@ -74,12 +74,13 @@ if __name__ == '__main__':
     trainer.train('resources/taggers/' + model_name,
                   learning_rate=0.05,
                   anneal_factor = 0.2,
-                  train_with_dev = True,
+                  train_with_dev = False,
                   mini_batch_size=10,
                   max_epochs=10,
                   checkpoint=True,
                   embeddings_storage_mode = 'gpu',
-                  patience=1)
+                  patience=1,
+                  monitor_test=True)
 
     # 8. plot weight traces (optional)
     from flair.visual.training_curves import Plotter
