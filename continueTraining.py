@@ -35,10 +35,11 @@ if __name__ == '__main__':
     trainer.train('resources/taggers/' + model_name,
                   learning_rate=0.05,
                   anneal_factor = 0.2,
-                  train_with_dev = True,
+                  train_with_dev = False,
                   mini_batch_size=10,
-                  max_epochs=3,
+                  max_epochs=5,
                   checkpoint=True,
                   embeddings_storage_mode = 'gpu',
-                  patience=1)
+                  patience=1,
+                  monitor_test=True)
 

@@ -76,7 +76,7 @@ if __name__ == '__main__':
                   anneal_factor = 0.2,
                   train_with_dev = False,
                   mini_batch_size=10,
-                  max_epochs=10,
+                  max_epochs=5,
                   checkpoint=True,
                   embeddings_storage_mode = 'gpu',
                   patience=1,
