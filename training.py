@@ -7,7 +7,7 @@ from flair.datasets import ColumnCorpus
 
 # define columns
 from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, FlairEmbeddings, TransformerWordEmbeddings
-from custom_embeddings import NoContextBertEmbeddings
+from custom_embeddings import NoContextBertEmbeddings, LIWC2015Embeddings, LIWC2007Embeddings
 
 if __name__ == '__main__':
     if(len(sys.argv) != 2):
@@ -43,11 +43,12 @@ if __name__ == '__main__':
 
         NoContextBertEmbeddings(),
         #WordEmbeddings('glove'),
-
+        # LIWC2015Embeddings(),
+        # LIWC2007Embeddings(),
         # other embeddings
 
         # CharacterEmbeddings(),
-        TransformerWordEmbeddings('bert-base-uncased', use_scalar_mix = True),
+        # TransformerWordEmbeddings('bert-base-uncased', use_scalar_mix = True),
         #FlairEmbeddings('news-forward'),
         #FlairEmbeddings('news-backward'),
     ]
@@ -80,7 +81,6 @@ if __name__ == '__main__':
                   checkpoint=True,
                   embeddings_storage_mode = 'gpu',
                   patience=0,
-                  anneal_with_restarts = True,
                   monitor_test=True)
 
     # 8. plot weight traces (optional)
